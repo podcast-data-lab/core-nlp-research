@@ -1,0 +1,2383 @@
+{
+    "image": {
+        "link": "https://audioboom.com/channels/5022513",
+        "title": "Wording is Hard",
+        "url": "https://images.theabcdn.com/i/36348048.jpg"
+    },
+    "feedUrl": "https://audioboom.com/channels/5022513.rss",
+    "itunes": {
+        "categoriesWithSubs": [
+            { "subs": [{ "name": "Improv" }], "name": "Comedy" }
+        ],
+        "explicit": "no",
+        "owner": { "name": "", "email": "brennon@transitpictures.com" },
+        "summary": "Tahir has challenged his friends to a game of pronunciation, and it's about to go down. They've each got five cards with five very difficult words on them. They try to pronounce each words and then try to guess what they mean. Maye is here to keep score and judge us harshly.",
+        "image": "https://images.theabcdn.com/i/36348048.jpg",
+        "author": "Tahir Moore",
+        "categories": ["Comedy"]
+    },
+    "paginationLinks": { "self": "https://audioboom.com/channels/5022513.rss" },
+    "entities": ["Tahir", "his", "five", "five", "Maye"],
+    "link": "https://audioboom.com/channels/5022513",
+    "description": "Tahir has challenged his friends to a game of pronunciation, and it's about to go down. They've each got five cards with five very difficult words on them. They try to pronounce each words and then try to guess what they mean. Maye is here to keep score and judge us harshly.",
+    "language": "en",
+    "palette": ["BFA37F", "211928", "785A38", "3F1BB3", "302276", "869D79"],
+    "title": "Wording is Hard",
+    "items": [
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2980",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "107"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/8059335.mp3?modified=1648872105&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/8059335",
+            "guid": "tag:audioboom.com,2022-04-02:/posts/8059335",
+            "isoDate": "2022-04-06T15:00:00.000Z",
+            "title": "107: Maye",
+            "pubDate": "Wed, 06 Apr 2022 15:00:00 +0000",
+            "content": "<div>In this episode Tahir goes up against his good friend Maye to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this episode Tahir goes up against his good friend Maye to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2633",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "106"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/8056802.mp3?modified=1648621537&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/8056802",
+            "guid": "tag:audioboom.com,2022-03-30:/posts/8056802",
+            "isoDate": "2022-03-30T15:00:00.000Z",
+            "title": "106: Greg Goolsby",
+            "pubDate": "Wed, 30 Mar 2022 15:00:00 +0000",
+            "content": "<div>In this episode Tahir goes up against his good friend Greg Goolsby to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this episode Tahir goes up against his good friend Greg Goolsby to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2286",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "105"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/8052164.mp3?modified=1647929369&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/8052164",
+            "guid": "tag:audioboom.com,2022-03-22:/posts/8052164",
+            "isoDate": "2022-03-23T15:00:00.000Z",
+            "title": "105: Bentley Kyle Evans",
+            "pubDate": "Wed, 23 Mar 2022 15:00:00 +0000",
+            "content": "<div>In this episode Tahir goes up against his good friend Bentley Kyle Evans to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this episode Tahir goes up against his good friend Bentley Kyle Evans to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2583",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "104"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/8046016.mp3?modified=1647026346&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/8046016",
+            "guid": "tag:audioboom.com,2022-03-11:/posts/8046016",
+            "isoDate": "2022-03-16T15:00:00.000Z",
+            "title": "104: Farren Moore",
+            "pubDate": "Wed, 16 Mar 2022 15:00:00 +0000",
+            "content": "<div>In this special St. Patty's Day episode Tahir goes up for a rematch against Farren Moore to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this special St. Patty's Day episode Tahir goes up for a rematch against Farren Moore to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2837",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "103"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/8043960.mp3?modified=1646765777&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/8043960",
+            "guid": "tag:audioboom.com,2022-03-08:/posts/8043960",
+            "isoDate": "2022-03-09T16:00:00.000Z",
+            "title": "103: Craig Wayans",
+            "pubDate": "Wed, 09 Mar 2022 16:00:00 +0000",
+            "content": "<div>In this episode Tahir goes up against his good friend Craig Wayans to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this episode Tahir goes up against his good friend Craig Wayans to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2441",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "102"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/8038978.mp3?modified=1646033959&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/8038978",
+            "guid": "tag:audioboom.com,2022-02-28:/posts/8038978",
+            "isoDate": "2022-03-02T16:00:00.000Z",
+            "title": "102: Roxxy Haze",
+            "pubDate": "Wed, 02 Mar 2022 16:00:00 +0000",
+            "content": "<div>In this episode Tahir goes up against his good friend Roxxy Haze to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this episode Tahir goes up against his good friend Roxxy Haze to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2816",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "101"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/8036475.mp3?modified=1645590951&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/8036475",
+            "guid": "tag:audioboom.com,2022-02-23:/posts/8036475",
+            "isoDate": "2022-02-23T16:00:00.000Z",
+            "title": "101: Chaz Rodgers",
+            "pubDate": "Wed, 23 Feb 2022 16:00:00 +0000",
+            "content": "<div>In this episode Tahir goes up against his good friend Chaz Rodgers to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this episode Tahir goes up against his good friend Chaz Rodgers to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "3026",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "100"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/8031365.mp3?modified=1644871852&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/8031365",
+            "guid": "tag:audioboom.com,2022-02-14:/posts/8031365",
+            "isoDate": "2022-02-16T16:00:00.000Z",
+            "title": "100: James Davis",
+            "pubDate": "Wed, 16 Feb 2022 16:00:00 +0000",
+            "content": "<div>In this special Valentine's episode Tahir goes up against his good friend James Davis to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this special Valentine's episode Tahir goes up against his good friend James Davis to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2340",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "99"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/8028149.mp3?modified=1644388456&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/8028149",
+            "guid": "tag:audioboom.com,2022-02-09:/posts/8028149",
+            "isoDate": "2022-02-09T16:00:00.000Z",
+            "title": "99: Brandon Broady",
+            "pubDate": "Wed, 09 Feb 2022 16:00:00 +0000",
+            "content": "<div>In this episode Tahir goes up against his good friend Brandon Broady to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this episode Tahir goes up against his good friend Brandon Broady to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2791",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "98"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/8019361.mp3?modified=1643185358&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/8019361",
+            "guid": "tag:audioboom.com,2022-01-26:/posts/8019361",
+            "isoDate": "2022-02-02T16:00:00.000Z",
+            "title": "98: Durand Bernarr",
+            "pubDate": "Wed, 02 Feb 2022 16:00:00 +0000",
+            "content": "<div>In this episode Tahir goes up against his good friend Durand Bernarr to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this episode Tahir goes up against his good friend Durand Bernarr to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2996",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "97"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/8019355.mp3?modified=1643184804&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/8019355",
+            "guid": "tag:audioboom.com,2022-01-26:/posts/8019355",
+            "isoDate": "2022-01-26T16:00:00.000Z",
+            "title": "97: John Grimes",
+            "pubDate": "Wed, 26 Jan 2022 16:00:00 +0000",
+            "content": "<div>We're back! In this episode Tahir goes up against his good friend John Grimes to test their wording knowledge.</div>\n",
+            "contentSnippet": "We're back! In this episode Tahir goes up against his good friend John Grimes to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "3035",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "96"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/8007537.mp3?modified=1643185631&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/8007537",
+            "guid": "tag:audioboom.com,2022-01-05:/posts/8007537",
+            "isoDate": "2022-01-05T16:00:00.000Z",
+            "title": "96: Dinaora Walcott",
+            "pubDate": "Wed, 05 Jan 2022 16:00:00 +0000",
+            "content": "<div>In this episode Tahir goes up against his good friend Dinaora Walcott to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this episode Tahir goes up against his good friend Dinaora Walcott to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2206",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "94"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/8001756.mp3?modified=1640131722&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/8001756",
+            "guid": "tag:audioboom.com,2021-12-22:/posts/8001756",
+            "isoDate": "2021-12-29T16:00:00.000Z",
+            "title": "94: Dariany Santana",
+            "pubDate": "Wed, 29 Dec 2021 16:00:00 +0000",
+            "content": "<div>In this special New Years episode Tahir goes up against his good friend Dariany Santana to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this special New Years episode Tahir goes up against his good friend Dariany Santana to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "3356",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "95"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/8001806.mp3?modified=1640137286&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/8001806",
+            "guid": "tag:audioboom.com,2021-12-22:/posts/8001806",
+            "isoDate": "2021-12-22T16:00:00.000Z",
+            "title": "95: Donald George",
+            "pubDate": "Wed, 22 Dec 2021 16:00:00 +0000",
+            "content": "<div>In this special Christmas episode Tahir goes up against his good friend Donald George to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this special Christmas episode Tahir goes up against his good friend Donald George to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2622",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "93"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7996904.mp3?modified=1639508344&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7996904",
+            "guid": "tag:audioboom.com,2021-12-14:/posts/7996904",
+            "isoDate": "2021-12-15T16:00:00.000Z",
+            "title": "93: Shondalia White",
+            "pubDate": "Wed, 15 Dec 2021 16:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Shondalia White to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Shondalia White to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "3003",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "92"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7992883.mp3?modified=1638914450&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7992883",
+            "guid": "tag:audioboom.com,2021-12-07:/posts/7992883",
+            "isoDate": "2021-12-08T16:00:00.000Z",
+            "title": "92: Mike Damn",
+            "pubDate": "Wed, 08 Dec 2021 16:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Mike Damn to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Mike Damn to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2601",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "91"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7988810.mp3?modified=1638397020&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7988810",
+            "guid": "tag:audioboom.com,2021-11-30:/posts/7988810",
+            "isoDate": "2021-12-01T16:00:00.000Z",
+            "title": "91: Jay Washington",
+            "pubDate": "Wed, 01 Dec 2021 16:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Jay Washington to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Jay Washington to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2452",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "90"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7985436.mp3?modified=1637739575&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7985436",
+            "guid": "tag:audioboom.com,2021-11-24:/posts/7985436",
+            "isoDate": "2021-11-24T16:00:00.000Z",
+            "title": "90: Ayo Cherry",
+            "pubDate": "Wed, 24 Nov 2021 16:00:00 +0000",
+            "content": "<div>In this special Thanksgiving episode Tahir goes up against his good friend Ayo Cherry to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this special Thanksgiving episode Tahir goes up against his good friend Ayo Cherry to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "3438",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "89"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7981554.mp3?modified=1637130036&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7981554",
+            "guid": "tag:audioboom.com,2021-11-17:/posts/7981554",
+            "isoDate": "2021-11-17T16:00:00.000Z",
+            "title": "89: Jeff Horste",
+            "pubDate": "Wed, 17 Nov 2021 16:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Jeff Horste to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Jeff Horste to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2917",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "88"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7973221.mp3?modified=1635991737&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7973221",
+            "guid": "tag:audioboom.com,2021-11-04:/posts/7973221",
+            "isoDate": "2021-11-10T16:00:00.000Z",
+            "title": "88: Fatimah Taliah",
+            "pubDate": "Wed, 10 Nov 2021 16:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Fatimah Taliah to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Fatimah Taliah to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "3166",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "87"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7972276.mp3?modified=1635991166&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7972276",
+            "guid": "tag:audioboom.com,2021-11-02:/posts/7972276",
+            "isoDate": "2021-11-03T15:00:00.000Z",
+            "title": "87: Dion Lack",
+            "pubDate": "Wed, 03 Nov 2021 15:00:00 +0000",
+            "content": "<div>In this episode Tahir goes up against his good friend Dion Lack to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this episode Tahir goes up against his good friend Dion Lack to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2609",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "86"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7967342.mp3?modified=1635233531&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7967342",
+            "guid": "tag:audioboom.com,2021-10-26:/posts/7967342",
+            "isoDate": "2021-10-27T15:00:00.000Z",
+            "title": "86: Taquita Love",
+            "pubDate": "Wed, 27 Oct 2021 15:00:00 +0000",
+            "content": "<div>In this special Halloween episode Tahir goes up against his good friend Taquita Love to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this special Halloween episode Tahir goes up against his good friend Taquita Love to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "3084",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "85"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7963982.mp3?modified=1634720337&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7963982",
+            "guid": "tag:audioboom.com,2021-10-20:/posts/7963982",
+            "isoDate": "2021-10-20T15:00:00.000Z",
+            "title": "85: Quin Walters",
+            "pubDate": "Wed, 20 Oct 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Quin Walters to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Quin Walters to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2682",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "84"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7959267.mp3?modified=1634080939&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7959267",
+            "guid": "tag:audioboom.com,2021-10-12:/posts/7959267",
+            "isoDate": "2021-10-13T15:00:00.000Z",
+            "title": "84: Jonnae Thompson",
+            "pubDate": "Wed, 13 Oct 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Jonnae Thompson to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Jonnae Thompson to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2618",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "83"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7954400.mp3?modified=1633385895&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7954400",
+            "guid": "tag:audioboom.com,2021-10-04:/posts/7954400",
+            "isoDate": "2021-10-06T15:00:00.000Z",
+            "title": "83: D'Sean Ross",
+            "pubDate": "Wed, 06 Oct 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend D'Sean Ross to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend D'Sean Ross to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2520",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "82"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7951074.mp3?modified=1632901758&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7951074",
+            "guid": "tag:audioboom.com,2021-09-29:/posts/7951074",
+            "isoDate": "2021-09-29T15:00:00.000Z",
+            "title": "82: Cristal Bubblin",
+            "pubDate": "Wed, 29 Sep 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Cristal Bubblin to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Cristal Bubblin to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2664",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "81"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7945533.mp3?modified=1632167072&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7945533",
+            "guid": "tag:audioboom.com,2021-09-20:/posts/7945533",
+            "isoDate": "2021-09-22T15:00:00.000Z",
+            "title": "81: Richie Loco",
+            "pubDate": "Wed, 22 Sep 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Richie Loco to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Richie Loco to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "3055",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "80"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7941457.mp3?modified=1631566589&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7941457",
+            "guid": "tag:audioboom.com,2021-09-13:/posts/7941457",
+            "isoDate": "2021-09-15T15:00:00.000Z",
+            "title": "80: Tanjareen",
+            "pubDate": "Wed, 15 Sep 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Tanjareen to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Tanjareen to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2583",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "79"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7936803.mp3?modified=1630958186&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7936803",
+            "guid": "tag:audioboom.com,2021-09-06:/posts/7936803",
+            "isoDate": "2021-09-08T15:00:00.000Z",
+            "title": "79: Dominique Lovings",
+            "pubDate": "Wed, 08 Sep 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Dominique Lovings to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Dominique Lovings to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2770",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "78"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7932974.mp3?modified=1630362433&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7932974",
+            "guid": "tag:audioboom.com,2021-08-30:/posts/7932974",
+            "isoDate": "2021-09-01T15:00:00.000Z",
+            "title": "78: Shay Damingo",
+            "pubDate": "Wed, 01 Sep 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Shay Damingo to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Shay Damingo to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2344",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "77"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7928901.mp3?modified=1629751263&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7928901",
+            "guid": "tag:audioboom.com,2021-08-23:/posts/7928901",
+            "isoDate": "2021-08-25T15:00:00.000Z",
+            "title": "77: Lauren Harding",
+            "pubDate": "Wed, 25 Aug 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Lauren Harding to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Lauren Harding to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2615",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "76"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7925766.mp3?modified=1629237962&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7925766",
+            "guid": "tag:audioboom.com,2021-08-17:/posts/7925766",
+            "isoDate": "2021-08-18T15:00:00.000Z",
+            "title": "76: Patrick Cloud",
+            "pubDate": "Wed, 18 Aug 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Patrick Cloud to test their spelling knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Patrick Cloud to test their spelling knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2923",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "75"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7920952.mp3?modified=1628527937&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7920952",
+            "guid": "tag:audioboom.com,2021-08-09:/posts/7920952",
+            "isoDate": "2021-08-11T15:00:00.000Z",
+            "title": "75: Ron Taylor",
+            "pubDate": "Wed, 11 Aug 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Ron Taylor to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Ron Taylor to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2422",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "74"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7916779.mp3?modified=1627938818&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7916779",
+            "guid": "tag:audioboom.com,2021-08-02:/posts/7916779",
+            "isoDate": "2021-08-04T15:00:00.000Z",
+            "title": "74: Dustin Nickerson",
+            "pubDate": "Wed, 04 Aug 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Dustin Nickerson to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Dustin Nickerson to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2596",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "73"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7913510.mp3?modified=1627506665&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7913510",
+            "guid": "tag:audioboom.com,2021-07-28:/posts/7913510",
+            "isoDate": "2021-07-28T15:00:00.000Z",
+            "title": "73: Michael Yo",
+            "pubDate": "Wed, 28 Jul 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Michael Yo to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Michael Yo to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2229",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "72"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7908712.mp3?modified=1626808370&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7908712",
+            "guid": "tag:audioboom.com,2021-07-20:/posts/7908712",
+            "isoDate": "2021-07-21T15:00:00.000Z",
+            "title": "72: JoshyGonz Rematch",
+            "pubDate": "Wed, 21 Jul 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend JoshyGonz to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend JoshyGonz to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2663",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "71"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7902717.mp3?modified=1626046944&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7902717",
+            "guid": "tag:audioboom.com,2021-07-11:/posts/7902717",
+            "isoDate": "2021-07-14T15:00:00.000Z",
+            "title": "71: BT Kingsley",
+            "pubDate": "Wed, 14 Jul 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend BT Kingsley to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend BT Kingsley to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2483",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "70"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7899653.mp3?modified=1625600511&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7899653",
+            "guid": "tag:audioboom.com,2021-07-06:/posts/7899653",
+            "isoDate": "2021-07-07T15:00:00.000Z",
+            "title": "70: Jay Phillips",
+            "pubDate": "Wed, 07 Jul 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Jay Phillips to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Jay Phillips to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2400",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "69"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7893074.mp3?modified=1624562791&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7893074",
+            "guid": "tag:audioboom.com,2021-06-24:/posts/7893074",
+            "isoDate": "2021-06-30T15:00:00.000Z",
+            "title": "69: Malik S.",
+            "pubDate": "Wed, 30 Jun 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Malik S. to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Malik S. to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2173",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "68"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7890831.mp3?modified=1624304154&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7890831",
+            "guid": "tag:audioboom.com,2021-06-21:/posts/7890831",
+            "isoDate": "2021-06-23T15:00:00.000Z",
+            "title": "68: Dave Helem",
+            "pubDate": "Wed, 23 Jun 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Dave Helem to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Dave Helem to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2274",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "67"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7885514.mp3?modified=1623459088&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7885514",
+            "guid": "tag:audioboom.com,2021-06-12:/posts/7885514",
+            "isoDate": "2021-06-16T15:00:00.000Z",
+            "title": "67: Candice Renee",
+            "pubDate": "Wed, 16 Jun 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Candice Renee to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Candice Renee to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2735",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "66"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7882433.mp3?modified=1623108040&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7882433",
+            "guid": "tag:audioboom.com,2021-06-07:/posts/7882433",
+            "isoDate": "2021-06-09T15:00:00.000Z",
+            "title": "66: Ketra Long",
+            "pubDate": "Wed, 09 Jun 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Ketra Long to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Ketra Long to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2025",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "65"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7878676.mp3?modified=1622583740&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7878676",
+            "guid": "tag:audioboom.com,2021-06-01:/posts/7878676",
+            "isoDate": "2021-06-02T15:00:00.000Z",
+            "title": "65: Caridad Polee",
+            "pubDate": "Wed, 02 Jun 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Caridad Polee to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Caridad Polee to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2506",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "64"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7871669.mp3?modified=1621627393&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7871669",
+            "guid": "tag:audioboom.com,2021-05-21:/posts/7871669",
+            "isoDate": "2021-05-26T15:00:00.000Z",
+            "title": "64: MAJOR",
+            "pubDate": "Wed, 26 May 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend MAJOR to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend MAJOR to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2038",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "63"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7865975.mp3?modified=1621038275&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7865975",
+            "guid": "tag:audioboom.com,2021-05-15:/posts/7865975",
+            "isoDate": "2021-05-19T15:00:00.000Z",
+            "title": "63: Vanessa Graddick",
+            "pubDate": "Wed, 19 May 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Vanessa Graddick to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Vanessa Graddick to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2683",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "62"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7863184.mp3?modified=1620757924&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7863184",
+            "guid": "tag:audioboom.com,2021-05-11:/posts/7863184",
+            "isoDate": "2021-05-12T15:00:00.000Z",
+            "title": "62: Rob Haze",
+            "pubDate": "Wed, 12 May 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Rob Haze to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Rob Haze to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2589",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "61"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7857873.mp3?modified=1620070352&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7857873",
+            "guid": "tag:audioboom.com,2021-05-03:/posts/7857873",
+            "isoDate": "2021-05-05T15:00:00.000Z",
+            "title": "61: Kennelia Stradwick",
+            "pubDate": "Wed, 05 May 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Kennelia Stradwick to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Kennelia Stradwick to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2564",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "60"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7854280.mp3?modified=1619578379&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7854280",
+            "guid": "tag:audioboom.com,2021-04-28:/posts/7854280",
+            "isoDate": "2021-04-28T15:00:00.000Z",
+            "title": "60: LouLou Gonzalez",
+            "pubDate": "Wed, 28 Apr 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend LouLou Gonzalez in a rematch to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend LouLou Gonzalez in a rematch to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2927",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "59"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7847325.mp3?modified=1618813031&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7847325",
+            "guid": "tag:audioboom.com,2021-04-19:/posts/7847325",
+            "isoDate": "2021-04-21T15:00:00.000Z",
+            "title": "59: Jazmyn W.",
+            "pubDate": "Wed, 21 Apr 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Jazmyn W. in a rematch to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Jazmyn W. in a rematch to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "3145",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "58"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7842321.mp3?modified=1618212453&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7842321",
+            "guid": "tag:audioboom.com,2021-04-12:/posts/7842321",
+            "isoDate": "2021-04-14T15:00:00.000Z",
+            "title": "58: Tone Bell",
+            "pubDate": "Wed, 14 Apr 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Tone Bell in a rematch to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Tone Bell in a rematch to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2932",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "57"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7837751.mp3?modified=1617650753&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7837751",
+            "guid": "tag:audioboom.com,2021-04-05:/posts/7837751",
+            "isoDate": "2021-04-07T15:00:00.000Z",
+            "title": "57: Patrick Cloud",
+            "pubDate": "Wed, 07 Apr 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Patrick Cloud in a rematch to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Patrick Cloud in a rematch to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2354",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "56"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7833371.mp3?modified=1617072803&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7833371",
+            "guid": "tag:audioboom.com,2021-03-30:/posts/7833371",
+            "isoDate": "2021-03-31T15:00:00.000Z",
+            "title": "56: Just Nesh",
+            "pubDate": "Wed, 31 Mar 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Just Nesh to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Just Nesh to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "3167",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "55"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7827549.mp3?modified=1616396131&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7827549",
+            "guid": "tag:audioboom.com,2021-03-22:/posts/7827549",
+            "isoDate": "2021-03-24T15:00:00.000Z",
+            "title": "55: Barry Brewer",
+            "pubDate": "Wed, 24 Mar 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Barry Brewer to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Barry Brewer to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2914",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "54"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7823077.mp3?modified=1615835514&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7823077",
+            "guid": "tag:audioboom.com,2021-03-15:/posts/7823077",
+            "isoDate": "2021-03-17T15:00:00.000Z",
+            "title": "54: Khleo Thomas",
+            "pubDate": "Wed, 17 Mar 2021 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Khleo Thomas to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Khleo Thomas to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2709",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "53"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7818969.mp3?modified=1615344063&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7818969",
+            "guid": "tag:audioboom.com,2021-03-10:/posts/7818969",
+            "isoDate": "2021-03-10T16:00:00.000Z",
+            "title": "53: Darren Brand ",
+            "pubDate": "Wed, 10 Mar 2021 16:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Darren Brand to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Darren Brand to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2779",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "52"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7812855.mp3?modified=1614626378&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7812855",
+            "guid": "tag:audioboom.com,2021-03-01:/posts/7812855",
+            "isoDate": "2021-03-03T16:00:00.000Z",
+            "title": "52: JoshyGonz",
+            "pubDate": "Wed, 03 Mar 2021 16:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend JoshyGonz to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend JoshyGonz to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2189",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "51"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7806503.mp3?modified=1614023641&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7806503",
+            "guid": "tag:audioboom.com,2021-02-22:/posts/7806503",
+            "isoDate": "2021-02-24T16:00:00.000Z",
+            "title": "51: Rell Battle",
+            "pubDate": "Wed, 24 Feb 2021 16:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Rell Battle to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Rell Battle to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2236",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "50"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7800919.mp3?modified=1613455161&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7800919",
+            "guid": "tag:audioboom.com,2021-02-16:/posts/7800919",
+            "isoDate": "2021-02-17T16:00:00.000Z",
+            "title": "50: Ronnie Jordan",
+            "pubDate": "Wed, 17 Feb 2021 16:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Ronnie Jordan to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Ronnie Jordan to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2303",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "49"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7792930.mp3?modified=1612572641&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7792930",
+            "guid": "tag:audioboom.com,2021-02-06:/posts/7792930",
+            "isoDate": "2021-02-10T16:00:00.000Z",
+            "title": "49: Tyler Chronicles",
+            "pubDate": "Wed, 10 Feb 2021 16:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Tyler Chronicles to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Tyler Chronicles to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2734",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "48"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7784132.mp3?modified=1611808715&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7784132",
+            "guid": "tag:audioboom.com,2021-01-28:/posts/7784132",
+            "isoDate": "2021-02-03T16:00:00.000Z",
+            "title": "48: Ty Davis",
+            "pubDate": "Wed, 03 Feb 2021 16:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Ty Davis to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Ty Davis to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2500",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "47"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7779062.mp3?modified=1611286714&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7779062",
+            "guid": "tag:audioboom.com,2021-01-22:/posts/7779062",
+            "isoDate": "2021-01-27T16:00:00.000Z",
+            "title": "47: Lance Woods",
+            "pubDate": "Wed, 27 Jan 2021 16:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Lance Woods to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Lance Woods to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2485",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "46"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7775593.mp3?modified=1611009192&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7775593",
+            "guid": "tag:audioboom.com,2021-01-18:/posts/7775593",
+            "isoDate": "2021-01-20T16:00:00.000Z",
+            "title": "46: Spice Adams ",
+            "pubDate": "Wed, 20 Jan 2021 16:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Spice Adams to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Spice Adams to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2923",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "45"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7769594.mp3?modified=1610399489&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7769594",
+            "guid": "tag:audioboom.com,2021-01-11:/posts/7769594",
+            "isoDate": "2021-01-13T16:00:00.000Z",
+            "title": "45: CURREN$Y",
+            "pubDate": "Wed, 13 Jan 2021 16:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend CURREN$Y to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend CURREN$Y to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2178",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "44"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7764309.mp3?modified=1609790164&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7764309",
+            "guid": "tag:audioboom.com,2021-01-04:/posts/7764309",
+            "isoDate": "2021-01-06T16:00:00.000Z",
+            "title": "44: Mrs. Kev On Stage",
+            "pubDate": "Wed, 06 Jan 2021 16:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Mrs. KevOnStage for a rematch to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Mrs. KevOnStage for a rematch to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2452",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "43"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7761115.mp3?modified=1609278130&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7761115",
+            "guid": "tag:audioboom.com,2020-12-29:/posts/7761115",
+            "isoDate": "2020-12-30T16:00:00.000Z",
+            "title": "43: KevOnStage",
+            "pubDate": "Wed, 30 Dec 2020 16:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend KevOnStage for a rematch to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend KevOnStage for a rematch to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "1942",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "42"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7753911.mp3?modified=1608261498&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7753911",
+            "guid": "tag:audioboom.com,2020-12-18:/posts/7753911",
+            "isoDate": "2020-12-23T16:00:00.000Z",
+            "title": "42: The Kid",
+            "pubDate": "Wed, 23 Dec 2020 16:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against The Kid to test her wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against The Kid to test her wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2472",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "41"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7751092.mp3?modified=1607974878&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7751092",
+            "guid": "tag:audioboom.com,2020-12-14:/posts/7751092",
+            "isoDate": "2020-12-16T16:00:00.000Z",
+            "title": "41: Farren Moore",
+            "pubDate": "Wed, 16 Dec 2020 16:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his wife Farren Moore to test her wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his wife Farren Moore to test her wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2706",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "40"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7744229.mp3?modified=1607122623&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7744229",
+            "guid": "tag:audioboom.com,2020-12-04:/posts/7744229",
+            "isoDate": "2020-12-09T16:00:00.000Z",
+            "title": "40: Meg Scoop",
+            "pubDate": "Wed, 09 Dec 2020 16:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Meg Scoop to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Meg Scoop to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2888",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "39"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7741625.mp3?modified=1606857202&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7741625",
+            "guid": "tag:audioboom.com,2020-12-01:/posts/7741625",
+            "isoDate": "2020-12-02T16:00:00.000Z",
+            "title": "39: Sydney Castillo",
+            "pubDate": "Wed, 02 Dec 2020 16:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Sydney Castillo to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Sydney Castillo to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2760",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "38"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7735340.mp3?modified=1606004831&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7735340",
+            "guid": "tag:audioboom.com,2020-11-22:/posts/7735340",
+            "isoDate": "2020-11-25T16:00:00.000Z",
+            "title": "38: Rome Green",
+            "pubDate": "Wed, 25 Nov 2020 16:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Rome Green to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Rome Green to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2361",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "37"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7729776.mp3?modified=1605300070&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7729776",
+            "guid": "tag:audioboom.com,2020-11-13:/posts/7729776",
+            "isoDate": "2020-11-18T16:00:00.000Z",
+            "title": "37: DC Ervin",
+            "pubDate": "Wed, 18 Nov 2020 16:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend DC Ervin to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend DC Ervin to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2899",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "36"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7726259.mp3?modified=1604972272&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7726259",
+            "guid": "tag:audioboom.com,2020-11-10:/posts/7726259",
+            "isoDate": "2020-11-11T16:00:00.000Z",
+            "title": "36: Tony Baker",
+            "pubDate": "Wed, 11 Nov 2020 16:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Tony Baker for a rematch to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Tony Baker for a rematch to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2753",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "35"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7720850.mp3?modified=1604371287&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7720850",
+            "guid": "tag:audioboom.com,2020-11-03:/posts/7720850",
+            "isoDate": "2020-11-04T16:00:00.000Z",
+            "title": "35: Jackie Fabulous",
+            "pubDate": "Wed, 04 Nov 2020 16:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Jackie Fabulous to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Jackie Fabulous to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2813",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "34"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7716073.mp3?modified=1603836766&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7716073",
+            "guid": "tag:audioboom.com,2020-10-27:/posts/7716073",
+            "isoDate": "2020-10-28T15:00:00.000Z",
+            "title": "34: Tim Chantarangsu",
+            "pubDate": "Wed, 28 Oct 2020 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Tim Chantarangsu to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Tim Chantarangsu to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "3367",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "33"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7710444.mp3?modified=1603241373&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7710444",
+            "guid": "tag:audioboom.com,2020-10-21:/posts/7710444",
+            "isoDate": "2020-10-21T15:00:00.000Z",
+            "title": "33: Chinedu Unaka",
+            "pubDate": "Wed, 21 Oct 2020 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Chinedu Unaka to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Chinedu Unaka to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "3468",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "32"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7702420.mp3?modified=1602274317&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7702420",
+            "guid": "tag:audioboom.com,2020-10-09:/posts/7702420",
+            "isoDate": "2020-10-14T15:00:00.000Z",
+            "title": "32: Leslie Jones",
+            "pubDate": "Wed, 14 Oct 2020 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Leslie Jones to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Leslie Jones to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2812",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "31"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7695034.mp3?modified=1601492807&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7695034",
+            "guid": "tag:audioboom.com,2020-09-30:/posts/7695034",
+            "isoDate": "2020-10-07T15:00:00.000Z",
+            "title": "31: Angel Moore",
+            "pubDate": "Wed, 07 Oct 2020 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Angel Moore to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Angel Moore to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "3347",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "30"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7690716.mp3?modified=1600974634&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7690716",
+            "guid": "tag:audioboom.com,2020-09-24:/posts/7690716",
+            "isoDate": "2020-09-30T15:00:00.000Z",
+            "title": "30: Ron G",
+            "pubDate": "Wed, 30 Sep 2020 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Ron G to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Ron G to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "3001",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "29"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7687791.mp3?modified=1600709982&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7687791",
+            "guid": "tag:audioboom.com,2020-09-21:/posts/7687791",
+            "isoDate": "2020-09-23T15:00:00.000Z",
+            "title": "29: Heidi Heaslet",
+            "pubDate": "Wed, 23 Sep 2020 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Heidi Heaslet to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Heidi Heaslet to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "3285",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "28"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7682369.mp3?modified=1600106797&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7682369",
+            "guid": "tag:audioboom.com,2020-09-14:/posts/7682369",
+            "isoDate": "2020-09-16T15:00:00.000Z",
+            "title": "28: Tristen Winger",
+            "pubDate": "Wed, 16 Sep 2020 15:00:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Tristen Winger to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Tristen Winger to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "3223",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "27"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7682332.mp3?modified=1600104707&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7682332",
+            "guid": "tag:audioboom.com,2020-09-14:/posts/7682332",
+            "isoDate": "2020-09-14T17:10:00.000Z",
+            "title": "27: Chris Sneed",
+            "pubDate": "Mon, 14 Sep 2020 17:10:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Chris Sneed to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Chris Sneed to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2977",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "26"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7673531.mp3?modified=1599086202&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7673531",
+            "guid": "tag:audioboom.com,2020-09-02:/posts/7673531",
+            "isoDate": "2020-09-02T22:34:55.000Z",
+            "title": "26: Trevor Wallace",
+            "pubDate": "Wed, 02 Sep 2020 22:34:55 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Trevor Wallace to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Trevor Wallace to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "5561",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "25"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7668091.mp3?modified=1598465135&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7668091",
+            "guid": "tag:audioboom.com,2020-08-26:/posts/7668091",
+            "isoDate": "2020-08-26T18:02:32.000Z",
+            "title": "25: Fuquan Johnson",
+            "pubDate": "Wed, 26 Aug 2020 18:02:32 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Fuquan Johnson to test their wording knowledge.</div>\n<div><br>\n</div>\n<div><br>\n</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Fuquan Johnson to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "3204",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "24"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7661925.mp3?modified=1597887637&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7661925",
+            "guid": "tag:audioboom.com,2020-08-20:/posts/7661925",
+            "isoDate": "2020-08-20T01:38:33.000Z",
+            "title": "24: Nick Carthan",
+            "pubDate": "Thu, 20 Aug 2020 01:38:33 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Nick Carthan to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Nick Carthan to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2872",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "23"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7655916.mp3?modified=1597197916&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7655916",
+            "guid": "tag:audioboom.com,2020-08-12:/posts/7655916",
+            "isoDate": "2020-08-12T14:30:00.000Z",
+            "title": "23: Keon Polee",
+            "pubDate": "Wed, 12 Aug 2020 14:30:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Keon Polee to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Keon Polee to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "4920",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "22"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7649724.mp3?modified=1596594830&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7649724",
+            "guid": "tag:audioboom.com,2020-08-05:/posts/7649724",
+            "isoDate": "2020-08-05T14:30:00.000Z",
+            "title": "22: Bigg Jah",
+            "pubDate": "Wed, 05 Aug 2020 14:30:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Bigg Jah to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Bigg Jah to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "3370",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "21"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7643554.mp3?modified=1596594624&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7643554",
+            "guid": "tag:audioboom.com,2020-07-29:/posts/7643554",
+            "isoDate": "2020-07-29T14:30:00.000Z",
+            "title": "21: Sabrina Sith",
+            "pubDate": "Wed, 29 Jul 2020 14:30:00 +0000",
+            "content": "In this Episode Tahir goes up against his good friend Sabrina Sith to test their wording knowledge.",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Sabrina Sith to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "3000",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "20"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7637765.mp3?modified=1595349522&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7637765",
+            "guid": "tag:audioboom.com,2020-07-21:/posts/7637765",
+            "isoDate": "2020-07-22T14:30:00.000Z",
+            "title": "20: D'Lai",
+            "pubDate": "Wed, 22 Jul 2020 14:30:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend D'Lai to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend D'Lai to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "3675",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "19"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7632482.mp3?modified=1594775176&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7632482",
+            "guid": "tag:audioboom.com,2020-07-15:/posts/7632482",
+            "isoDate": "2020-07-15T14:30:00.000Z",
+            "title": "19: Teddy Ray",
+            "pubDate": "Wed, 15 Jul 2020 14:30:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Teddy Ray to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Teddy Ray to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2588",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "18"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7631145.mp3?modified=1594767591&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7631145",
+            "guid": "tag:audioboom.com,2020-07-13:/posts/7631145",
+            "isoDate": "2020-07-08T14:30:00.000Z",
+            "title": "18: Jesse Wellens",
+            "pubDate": "Wed, 08 Jul 2020 14:30:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Jesse Wellens to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Jesse Wellens to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "3164",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "17"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7622752.mp3?modified=1593804846&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7622752",
+            "guid": "tag:audioboom.com,2020-07-03:/posts/7622752",
+            "isoDate": "2020-07-01T14:30:00.000Z",
+            "title": "17: RJ Walker",
+            "pubDate": "Wed, 01 Jul 2020 14:30:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend RJ Walker to test their wording knowledge.</div>\n<div><br>\n</div>\n<div><br>\n</div>\n<div><br>\n</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend RJ Walker to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2465",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "16"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7617493.mp3?modified=1593192974&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7617493",
+            "guid": "tag:audioboom.com,2020-06-26:/posts/7617493",
+            "isoDate": "2020-06-24T14:30:00.000Z",
+            "title": "16: Brandon Lewis",
+            "pubDate": "Wed, 24 Jun 2020 14:30:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Keysha E to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Keysha E to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2953",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "15"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7609522.mp3?modified=1592378167&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7609522",
+            "guid": "tag:audioboom.com,2020-06-17:/posts/7609522",
+            "isoDate": "2020-06-18T14:30:00.000Z",
+            "title": "15: Keysha E",
+            "pubDate": "Thu, 18 Jun 2020 14:30:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Keysha E to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Keysha E to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2663",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "14"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7605572.mp3?modified=1591912969&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7605572",
+            "guid": "tag:audioboom.com,2020-06-11:/posts/7605572",
+            "isoDate": "2020-06-11T14:30:00.000Z",
+            "title": "14: Precious",
+            "pubDate": "Thu, 11 Jun 2020 14:30:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Precious to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Precious to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2975",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "13"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7598410.mp3?modified=1591912951&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7598410",
+            "guid": "tag:audioboom.com,2020-06-04:/posts/7598410",
+            "isoDate": "2020-06-03T14:30:00.000Z",
+            "title": "13: Keenan Baker",
+            "pubDate": "Wed, 03 Jun 2020 14:30:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Keenan Baker to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Keenan Baker to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "1735",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "12"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7592850.mp3?modified=1590607713&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7592850",
+            "guid": "tag:audioboom.com,2020-05-27:/posts/7592850",
+            "isoDate": "2020-05-27T14:30:00.000Z",
+            "title": "12: Ryan Davis",
+            "pubDate": "Wed, 27 May 2020 14:30:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Ryan Davis to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Ryan Davis to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2118",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "11"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7586889.mp3?modified=1589962342&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7586889",
+            "guid": "tag:audioboom.com,2020-05-20:/posts/7586889",
+            "isoDate": "2020-05-20T14:30:00.000Z",
+            "title": "11: CP",
+            "pubDate": "Wed, 20 May 2020 14:30:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend CP to test their wording knowledge.</div>\n<div>\n<a href=\"https://audioboom.com/posts/7581398-patrick-cloud/edit\">Update Description<br>\n</a><br>\n\n</div>\n<div><br>\n</div>\n<div><br>\n</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend CP to test their wording knowledge.\nUpdate Description"
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "1932",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "10"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7581398.mp3?modified=1589399777&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7581398",
+            "guid": "tag:audioboom.com,2020-05-13:/posts/7581398",
+            "isoDate": "2020-05-13T14:30:00.000Z",
+            "title": "10: Patrick Cloud",
+            "pubDate": "Wed, 13 May 2020 14:30:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Paytick Could to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Paytick Could to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2231",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "9"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7575185.mp3?modified=1588734231&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7575185",
+            "guid": "tag:audioboom.com,2020-05-06:/posts/7575185",
+            "isoDate": "2020-05-06T14:30:00.000Z",
+            "title": "9: Steve Greene ",
+            "pubDate": "Wed, 06 May 2020 14:30:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Steve Greene to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Steve Greene to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "1975",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "8"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7568931.mp3?modified=1588113778&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7568931",
+            "guid": "tag:audioboom.com,2020-04-28:/posts/7568931",
+            "isoDate": "2020-04-29T14:30:00.000Z",
+            "title": "8: Tacarra Williams ",
+            "pubDate": "Wed, 29 Apr 2020 14:30:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Tacarra Williams to test their wording knowledge.</div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Tacarra Williams to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2718",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "7"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7562632.mp3?modified=1587500565&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7562632",
+            "guid": "tag:audioboom.com,2020-04-21:/posts/7562632",
+            "isoDate": "2020-04-22T13:30:00.000Z",
+            "title": "7: BT Kingsley",
+            "pubDate": "Wed, 22 Apr 2020 13:30:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend BT Kingsley to test their wording knowledge. </div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend BT Kingsley to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2325",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "6"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7562630.mp3?modified=1587500435&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7562630",
+            "guid": "tag:audioboom.com,2020-04-21:/posts/7562630",
+            "isoDate": "2020-04-15T20:18:00.000Z",
+            "title": "6: T.I. (TIP)",
+            "pubDate": "Wed, 15 Apr 2020 20:18:00 +0000",
+            "content": "<div>This episode was recorded via skype with Rapper TI! Please excuse the sound quality!</div>\n",
+            "contentSnippet": "This episode was recorded via skype with Rapper TI! Please excuse the sound quality!"
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "1723",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "5"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7555530.mp3?modified=1586815277&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7555530",
+            "guid": "tag:audioboom.com,2020-04-13:/posts/7555530",
+            "isoDate": "2020-04-08T21:59:00.000Z",
+            "title": "5: DoBoy",
+            "pubDate": "Wed, 08 Apr 2020 21:59:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Doboy to test their wording knowledge. </div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Doboy to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2059",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "4"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7555528.mp3?modified=1586815183&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7555528",
+            "guid": "tag:audioboom.com,2020-04-13:/posts/7555528",
+            "isoDate": "2020-04-01T21:58:00.000Z",
+            "title": "4: Ms. KevOnStage (Melissa)",
+            "pubDate": "Wed, 01 Apr 2020 21:58:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Ms. KevOnStage (Melissa) to test their wording knowledge. </div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Ms. KevOnStage (Melissa) to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "1480",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "3"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7555527.mp3?modified=1586815067&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7555527",
+            "guid": "tag:audioboom.com,2020-04-13:/posts/7555527",
+            "isoDate": "2020-03-25T21:56:00.000Z",
+            "title": "3: Clayton Thomas",
+            "pubDate": "Wed, 25 Mar 2020 21:56:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Clayton Thomas to test their wording knowledge. </div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Clayton Thomas to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "2019",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "2"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7555525.mp3?modified=1586815000&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7555525",
+            "guid": "tag:audioboom.com,2020-04-13:/posts/7555525",
+            "isoDate": "2020-03-18T21:55:00.000Z",
+            "title": "2: Kev On Stage",
+            "pubDate": "Wed, 18 Mar 2020 21:55:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Kev on Stage to test their wording knowledge. </div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Kev on Stage to test their wording knowledge."
+        },
+        {
+            "creator": "Tahir Moore",
+            "itunes": {
+                "duration": "1843",
+                "explicit": "no",
+                "author": "Tahir Moore",
+                "episode": "1"
+            },
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7553715.mp3?modified=1586543817&source=rss&stitched=1"
+            },
+            "dc:creator": "Tahir Moore",
+            "link": "https://audioboom.com/posts/7553715",
+            "guid": "tag:audioboom.com,2020-04-10:/posts/7553715",
+            "isoDate": "2020-03-11T18:35:00.000Z",
+            "title": "1: Tony Baker",
+            "pubDate": "Wed, 11 Mar 2020 18:35:00 +0000",
+            "content": "<div>In this Episode Tahir goes up against his good friend Tony Baker to test their wording knowledge. </div>\n",
+            "contentSnippet": "In this Episode Tahir goes up against his good friend Tony Baker to test their wording knowledge."
+        }
+    ],
+    "pubDate": "Wed, 06 Apr 2022 15:00:00 +0000"
+}

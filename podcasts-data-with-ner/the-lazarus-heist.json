@@ -1,0 +1,280 @@
+{
+    "image": {
+        "link": "http://www.bbc.co.uk/programmes/w13xtvg9",
+        "title": "The Lazarus Heist",
+        "url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p09d3vdy.jpg"
+    },
+    "copyright": "(C) BBC 2021",
+    "feedUrl": "http://www.bbc.co.uk/programmes/w13xtvg9/episodes/downloads.rss",
+    "paginationLinks": {
+        "self": "http://www.bbc.co.uk/programmes/w13xtvg9/episodes/downloads.rss"
+    },
+    "link": "http://www.bbc.co.uk/programmes/w13xtvg9",
+    "description": "\u201cAlmost a perfect crime.\u201d The hacking ring and an attempt to steal a billion dollars. Investigators blame North Korea. Pyongyang denies involvement. The story begins in Hollywood.",
+    "language": "en",
+    "title": "The Lazarus Heist",
+    "pubDate": "Wed, 22 Dec 2021 00:05:00 +0000",
+    "itunes": {
+        "explicit": "no",
+        "owner": { "name": "BBC", "email": "RadioMusic.Support@bbc.co.uk" },
+        "summary": "\u201cAlmost a perfect crime.\u201d The hacking ring and an attempt to steal a billion dollars. Investigators blame North Korea. Pyongyang denies involvement. The story begins in Hollywood.",
+        "image": "http://ichef.bbci.co.uk/images/ic/3000x3000/p09d3vdy.jpg",
+        "author": "BBC World Service"
+    },
+    "entities": ["a billion dollars", "North Korea", "Pyongyang", "Hollywood"],
+    "palette": ["BB160C", "E7E2DF", "0C212C", "397695", "7E8188", "4391A8"],
+    "items": [
+        {
+            "itunes": {
+                "duration": "159",
+                "explicit": "clean",
+                "summary": "The Lazarus Heist will return in 2022. We have news for you about what\u2019s coming next and a live show. #LazarusHeist",
+                "author": "BBC World Service",
+                "subtitle": "The Lazarus Heist will return in 2022. #LazarusHeist"
+            },
+            "enclosure": {
+                "length": "2544000",
+                "type": "audio/mpeg",
+                "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bccgn8.mp3"
+            },
+            "link": "http://www.bbc.co.uk/programmes/p0bccj5c",
+            "guid": "urn:bbc:podcast:p0bccj5c",
+            "isoDate": "2021-12-22T00:05:00.000Z",
+            "title": "Update from Jean and Geoff",
+            "pubDate": "Wed, 22 Dec 2021 00:05:00 +0000",
+            "content": "The Lazarus Heist will return in 2022. We have news for you about what\u2019s coming next and a live show. #LazarusHeist",
+            "contentSnippet": "The Lazarus Heist will return in 2022. We have news for you about what\u2019s coming next and a live show. #LazarusHeist"
+        },
+        {
+            "itunes": {
+                "duration": "2707",
+                "explicit": "clean",
+                "summary": "A frightening global attack, hospitals in chaos and an accidental hero with a secret. A virus spreads from computer to computer in 150 countries, causing billions of dollars in damage. It\u2019s the story of WannaCry and Marcus Hutchins.\nPlease help spread the word about #Lazarusheist",
+                "author": "BBC World Service",
+                "subtitle": "A frightening global attack, hospitals in chaos and an accidental hero with a secret"
+            },
+            "enclosure": {
+                "length": "43312000",
+                "type": "audio/mpeg",
+                "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09m14fg.mp3"
+            },
+            "link": "http://www.bbc.co.uk/programmes/p09m14pt",
+            "guid": "urn:bbc:podcast:p09m14pt",
+            "isoDate": "2021-06-20T23:30:00.000Z",
+            "title": "10. Kill switch",
+            "pubDate": "Sun, 20 Jun 2021 23:30:00 +0000",
+            "content": "A frightening global attack, hospitals in chaos and an accidental hero with a secret. A virus spreads from computer to computer in 150 countries, causing billions of dollars in damage. It\u2019s the story of WannaCry and Marcus Hutchins.\nPlease help spread the word about #Lazarusheist",
+            "contentSnippet": "A frightening global attack, hospitals in chaos and an accidental hero with a secret. A virus spreads from computer to computer in 150 countries, causing billions of dollars in damage. It\u2019s the story of WannaCry and Marcus Hutchins.\nPlease help spread the word about #Lazarusheist"
+        },
+        {
+            "itunes": {
+                "duration": "2452",
+                "explicit": "clean",
+                "summary": "\u201cDark arts\u201d, murders and a place with a murky past. Breaking news: an unexpected interview with one of the middlemen. \nPlease help us spread the word about #LazarusHeist on social media and leave ratings and reviews.\n\nCorrection: This episode says that Kim Jong-nam was killed in 2015. The correct date was 2017.",
+                "author": "BBC World Service",
+                "subtitle": "\u201cDark arts\u201d, murders, a place with a murky past. Breaking news: an unexpected interview"
+            },
+            "enclosure": {
+                "length": "39232000",
+                "type": "audio/mpeg",
+                "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09lbl0l.mp3"
+            },
+            "link": "http://www.bbc.co.uk/programmes/p09lbl4f",
+            "guid": "urn:bbc:podcast:p09lbl4f",
+            "isoDate": "2021-06-13T23:30:00.000Z",
+            "title": "9. The Macau connection",
+            "pubDate": "Sun, 13 Jun 2021 23:30:00 +0000",
+            "content": "\u201cDark arts\u201d, murders and a place with a murky past. Breaking news: an unexpected interview with one of the middlemen. \nPlease help us spread the word about #LazarusHeist on social media and leave ratings and reviews.\n\nCorrection: This episode says that Kim Jong-nam was killed in 2015. The correct date was 2017.",
+            "contentSnippet": "\u201cDark arts\u201d, murders and a place with a murky past. Breaking news: an unexpected interview with one of the middlemen. \nPlease help us spread the word about #LazarusHeist on social media and leave ratings and reviews.\n\nCorrection: This episode says that Kim Jong-nam was killed in 2015. The correct date was 2017."
+        },
+        {
+            "itunes": {
+                "duration": "2167",
+                "explicit": "clean",
+                "summary": "A costly spelling error and \u201ca fight in the bank\u201d over $20 million. The hunt for a mysterious middleman takes us to Japan.\n#LazarusHeist",
+                "author": "BBC World Service",
+                "subtitle": "A costly spelling error, a mysterious middleman and \u201ca fight in the bank\u201d"
+            },
+            "enclosure": {
+                "length": "34672000",
+                "type": "audio/mpeg",
+                "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09km5s5.mp3"
+            },
+            "link": "http://www.bbc.co.uk/programmes/p09km60g",
+            "guid": "urn:bbc:podcast:p09km60g",
+            "isoDate": "2021-06-06T23:15:00.000Z",
+            "title": "8. The multimillion mistake",
+            "pubDate": "Sun, 06 Jun 2021 23:15:00 +0000",
+            "content": "A costly spelling error and \u201ca fight in the bank\u201d over $20 million. The hunt for a mysterious middleman takes us to Japan.\n#LazarusHeist",
+            "contentSnippet": "A costly spelling error and \u201ca fight in the bank\u201d over $20 million. The hunt for a mysterious middleman takes us to Japan.\n#LazarusHeist"
+        },
+        {
+            "itunes": {
+                "duration": "2335",
+                "explicit": "clean",
+                "summary": "A car loaded with cash, fake millionaires and death threats \u2013 we\u2019re following the money. After they hacked into the billion dollar account, it was time to gamble. The story moves to the Philippines. \n#LazarusHeist  \nPlease help us spread the word and leave ratings and reviews.",
+                "author": "BBC World Service",
+                "subtitle": "A car loaded with cash, fake millionaires and death threats \u2013 we\u2019re following the money"
+            },
+            "enclosure": {
+                "length": "37360000",
+                "type": "audio/mpeg",
+                "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09jymzr.mp3"
+            },
+            "link": "http://www.bbc.co.uk/programmes/p09jynr0",
+            "guid": "urn:bbc:podcast:p09jynr0",
+            "isoDate": "2021-05-30T23:15:00.000Z",
+            "title": "7. Korean roulette",
+            "pubDate": "Sun, 30 May 2021 23:15:00 +0000",
+            "content": "A car loaded with cash, fake millionaires and death threats \u2013 we\u2019re following the money. After they hacked into the billion dollar account, it was time to gamble. The story moves to the Philippines. \n#LazarusHeist  \nPlease help us spread the word and leave ratings and reviews.",
+            "contentSnippet": "A car loaded with cash, fake millionaires and death threats \u2013 we\u2019re following the money. After they hacked into the billion dollar account, it was time to gamble. The story moves to the Philippines. \n#LazarusHeist  \nPlease help us spread the word and leave ratings and reviews."
+        },
+        {
+            "itunes": {
+                "duration": "2403",
+                "explicit": "clean",
+                "summary": "A double life overseas and welcome to hacker hotel. There\u2019s an ominous message from a friend - \u201cI don\u2019t think I\u2019ll be coming back\u201d.\n#LazarusHeist",
+                "author": "BBC World Service",
+                "subtitle": "A double life overseas and welcome to hacker hotel. #LazarusHeist"
+            },
+            "enclosure": {
+                "length": "38448000",
+                "type": "audio/mpeg",
+                "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09j8flg.mp3"
+            },
+            "link": "http://www.bbc.co.uk/programmes/p09j8h3k",
+            "guid": "urn:bbc:podcast:p09j8h3k",
+            "isoDate": "2021-05-23T23:15:00.000Z",
+            "title": "6. Cyber slaves",
+            "pubDate": "Sun, 23 May 2021 23:15:00 +0000",
+            "content": "A double life overseas and welcome to hacker hotel. There\u2019s an ominous message from a friend - \u201cI don\u2019t think I\u2019ll be coming back\u201d.\n#LazarusHeist",
+            "contentSnippet": "A double life overseas and welcome to hacker hotel. There\u2019s an ominous message from a friend - \u201cI don\u2019t think I\u2019ll be coming back\u201d.\n#LazarusHeist"
+        },
+        {
+            "itunes": {
+                "duration": "2527",
+                "explicit": "clean",
+                "summary": "Surveillance, state control, executions and how to become a hacker.\nThe FBI has accused Park Jin Hyok of being a hacker but how much choice do members of the Lazarus group actually have?\n#LazarusHeist",
+                "author": "BBC World Service",
+                "subtitle": "Surveillance, state control, executions and how to become a hacker. #LazarusHeist"
+            },
+            "enclosure": {
+                "length": "40432000",
+                "type": "audio/mpeg",
+                "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09hlvqc.mp3"
+            },
+            "link": "http://www.bbc.co.uk/programmes/p09hlxf1",
+            "guid": "urn:bbc:podcast:p09hlxf1",
+            "isoDate": "2021-05-16T23:15:00.000Z",
+            "title": "5. Cyber warriors",
+            "pubDate": "Sun, 16 May 2021 23:15:00 +0000",
+            "content": "Surveillance, state control, executions and how to become a hacker.\nThe FBI has accused Park Jin Hyok of being a hacker but how much choice do members of the Lazarus group actually have?\n#LazarusHeist",
+            "contentSnippet": "Surveillance, state control, executions and how to become a hacker.\nThe FBI has accused Park Jin Hyok of being a hacker but how much choice do members of the Lazarus group actually have?\n#LazarusHeist"
+        },
+        {
+            "itunes": {
+                "duration": "2327",
+                "explicit": "clean",
+                "summary": "A faulty printer, an empty room and the most daring cyber theft ever attempted. The Bangladesh Bank heist begins.\n#LazarusHeist",
+                "author": "BBC World Service",
+                "subtitle": "A faulty printer, an empty room and the most daring cyber theft ever attempted"
+            },
+            "enclosure": {
+                "length": "37232000",
+                "type": "audio/mpeg",
+                "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09sg2t7.mp3"
+            },
+            "link": "http://www.bbc.co.uk/programmes/p09gy7jm",
+            "guid": "urn:bbc:podcast:p09gy7jm",
+            "isoDate": "2021-05-09T23:15:00.000Z",
+            "title": "4. Billion dollar hack",
+            "pubDate": "Sun, 09 May 2021 23:15:00 +0000",
+            "content": "A faulty printer, an empty room and the most daring cyber theft ever attempted. The Bangladesh Bank heist begins.\n#LazarusHeist",
+            "contentSnippet": "A faulty printer, an empty room and the most daring cyber theft ever attempted. The Bangladesh Bank heist begins.\n#LazarusHeist"
+        },
+        {
+            "itunes": {
+                "duration": "1995",
+                "explicit": "clean",
+                "summary": "The Smoking Dragon, a fake wedding and a divorce party. And lots of counterfeit money.\n#LazarusHeist",
+                "author": "BBC World Service",
+                "subtitle": "The Smoking Dragon, a fake wedding and a divorce party. And lots of counterfeit money"
+            },
+            "enclosure": {
+                "length": "31920000",
+                "type": "audio/mpeg",
+                "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09g8nlt.mp3"
+            },
+            "link": "http://www.bbc.co.uk/programmes/p09g8p4n",
+            "guid": "urn:bbc:podcast:p09g8p4n",
+            "isoDate": "2021-05-02T23:15:00.000Z",
+            "title": "3. Superdollars",
+            "pubDate": "Sun, 02 May 2021 23:15:00 +0000",
+            "content": "The Smoking Dragon, a fake wedding and a divorce party. And lots of counterfeit money.\n#LazarusHeist",
+            "contentSnippet": "The Smoking Dragon, a fake wedding and a divorce party. And lots of counterfeit money.\n#LazarusHeist"
+        },
+        {
+            "itunes": {
+                "duration": "2206",
+                "explicit": "clean",
+                "summary": "\u201cI was terrified.\u201d Panic in Hollywood, careers ruined and helium filled balloons sent to North Korea. President Obama makes clear who he blames for the Sony hack.\n#LazarusHeist",
+                "author": "BBC World Service",
+                "subtitle": "\u201cI was terrified.\u201d Panic in Hollywood, careers ruined and balloons sent to North Korea"
+            },
+            "enclosure": {
+                "length": "35296000",
+                "type": "audio/mpeg",
+                "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fktd1.mp3"
+            },
+            "link": "http://www.bbc.co.uk/programmes/p09fktyl",
+            "guid": "urn:bbc:podcast:p09fktyl",
+            "isoDate": "2021-04-25T23:15:00.000Z",
+            "title": "2. Disaster movie",
+            "pubDate": "Sun, 25 Apr 2021 23:15:00 +0000",
+            "content": "\u201cI was terrified.\u201d Panic in Hollywood, careers ruined and helium filled balloons sent to North Korea. President Obama makes clear who he blames for the Sony hack.\n#LazarusHeist",
+            "contentSnippet": "\u201cI was terrified.\u201d Panic in Hollywood, careers ruined and helium filled balloons sent to North Korea. President Obama makes clear who he blames for the Sony hack.\n#LazarusHeist"
+        },
+        {
+            "itunes": {
+                "duration": "2031",
+                "explicit": "clean",
+                "summary": "A movie, Kim Jong-un and a devastating cyber attack. The story of the Sony hack. How the Lazarus Group hackers caused mayhem in Hollywood and for Sony Pictures Entertainment. \nAnd this is just the beginning\u2026\n#LazarusHeist",
+                "author": "BBC World Service",
+                "subtitle": "A movie, Kim Jong-un and a devastating cyber attack. The story of the Sony hack"
+            },
+            "enclosure": {
+                "length": "32496000",
+                "type": "audio/mpeg",
+                "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09dx323.mp3"
+            },
+            "link": "http://www.bbc.co.uk/programmes/p09dx4p1",
+            "guid": "urn:bbc:podcast:p09dx4p1",
+            "isoDate": "2021-04-18T23:15:00.000Z",
+            "title": "1. Hacking Hollywood",
+            "pubDate": "Sun, 18 Apr 2021 23:15:00 +0000",
+            "content": "A movie, Kim Jong-un and a devastating cyber attack. The story of the Sony hack. How the Lazarus Group hackers caused mayhem in Hollywood and for Sony Pictures Entertainment. \nAnd this is just the beginning\u2026\n#LazarusHeist",
+            "contentSnippet": "A movie, Kim Jong-un and a devastating cyber attack. The story of the Sony hack. How the Lazarus Group hackers caused mayhem in Hollywood and for Sony Pictures Entertainment. \nAnd this is just the beginning\u2026\n#LazarusHeist"
+        },
+        {
+            "itunes": {
+                "duration": "181",
+                "explicit": "clean",
+                "summary": "The most daring bank theft ever attempted? From hacking Hollywood to a billion-dollar plot. North Korea stands accused but says it had nothing to do with it and it\u2019s part of the United States\u2019 attempts to tarnish its image. Premieres 19 April 2021. A true crime investigation with Geoff White and Jean Lee.",
+                "author": "BBC World Service",
+                "subtitle": "The most daring bank raid ever attempted? From hacking Hollywood to a billion-dollar plot"
+            },
+            "enclosure": {
+                "length": "2896000",
+                "type": "audio/mpeg",
+                "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09d3tlx.mp3"
+            },
+            "link": "http://www.bbc.co.uk/programmes/p09d3v9s",
+            "guid": "urn:bbc:podcast:p09d3v9s",
+            "isoDate": "2021-04-08T17:00:00.000Z",
+            "title": "Introducing The Lazarus Heist",
+            "pubDate": "Thu, 08 Apr 2021 17:00:00 +0000",
+            "content": "The most daring bank theft ever attempted? From hacking Hollywood to a billion-dollar plot. North Korea stands accused but says it had nothing to do with it and it\u2019s part of the United States\u2019 attempts to tarnish its image. Premieres 19 April 2021. A true crime investigation with Geoff White and Jean Lee.",
+            "contentSnippet": "The most daring bank theft ever attempted? From hacking Hollywood to a billion-dollar plot. North Korea stands accused but says it had nothing to do with it and it\u2019s part of the United States\u2019 attempts to tarnish its image. Premieres 19 April 2021. A true crime investigation with Geoff White and Jean Lee."
+        }
+    ]
+}

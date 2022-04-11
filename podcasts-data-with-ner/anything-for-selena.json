@@ -1,0 +1,661 @@
+{
+    "image": {
+        "link": "http://www.wbur.org/podcasts/anythingforselena",
+        "title": "Anything For Selena",
+        "url": "https://d279m997dpfwgl.cloudfront.net/wp/2020/10/selena-new.jpeg"
+    },
+    "copyright": "Copyright Trustees of Boston University",
+    "feedUrl": "https://rss.wbur.org/anythingforselena/podcast",
+    "paginationLinks": {
+        "self": "https://rss.wbur.org/anythingforselena/podcast"
+    },
+    "lastBuildDate": "Sat, 09 Apr 2022 16:24:22 -0400",
+    "link": "http://www.wbur.org/podcasts/anythingforselena",
+    "description": "On the podcast Anything for Selena, Apple Podcasts\u2019 Show of the Year of 2021, Maria García combines rigorous reporting with impassioned storytelling to honor Selena's legacy. She also explores the indelible mark she left on Latino identity and belonging, whether it\u2019s fatherhood, big-butt politics, and the fraught relationship with whiteness and language. ",
+    "language": "en-us",
+    "title": "Anything For Selena",
+    "itunes": {
+        "categoriesWithSubs": [{ "subs": null, "name": "Society & Culture" }],
+        "explicit": "no",
+        "owner": { "name": "WBUR", "email": "webmaster@wbur.org" },
+        "summary": "On the podcast Anything for Selena, Apple Podcasts\u2019 Show of the Year of 2021, Maria García combines rigorous reporting with impassioned storytelling to honor Selena's legacy. She also explores the indelible mark she left on Latino identity and belonging, whether it\u2019s fatherhood, big-butt politics, and the fraught relationship with whiteness and language. ",
+        "image": "https://d279m997dpfwgl.cloudfront.net/wp/2020/10/selena-new.jpeg",
+        "keywords": [
+            "selena",
+            " Quintanilla",
+            " Maria Garcia",
+            " wbur",
+            " futuro"
+        ],
+        "author": "WBUR & Futuro Studios",
+        "subtitle": "On the podcast Anything for Selena, Apple Podcasts\u2019 Show of the Year of 2021, Maria García combines rigorous reporting with impassioned storytelling to honor Selena's legacy. She also explores the indelible mark she left on Latino identity and belonging, whether it\u2019s fatherhood, big-butt politics, and the fraught relationship with whiteness and language. ",
+        "categories": ["Society & Culture"]
+    },
+    "entities": [
+        "Selena",
+        "Apple",
+        "the Year of 2021",
+        "Maria García",
+        "Selena",
+        "Latino",
+        "She",
+        "she"
+    ],
+    "palette": ["D37B54", "261D22", "F9F5E3", "872B25", "CB7EBB", "5B645C"],
+    "items": [
+        {
+            "creator": "WBUR &amp; Futuro Studios",
+            "dc:creator": "WBUR &amp; Futuro Studios",
+            "link": "http://www.wbur.org/anythingforselena/2022/02/08/idolo-chalino-sanchez",
+            "title": "Presenting 'Ídolo: The Ballad of Chalino Sánchez'",
+            "pubDate": "Tue, 08 Feb 2022 11:35:28 -0500",
+            "content": "<p>Imagine if Frank Sinatra went on stage every night with a gun in his waistband, or if Tupac got into a shootout onstage at a rodeo. Well, Chalino Sanchez did just that.</p>\r\n\r\n<p>Today, we're sharing an episode of a brand new podcast from our friends at Futuro Studios, \"Ídolo: The Ballad of Chalino Sánchez.\" The 8-episode series examines the extraordinary life of the \u201cKing of Corridos\u201d and an attempt to unravel the mystery of his death. </p>\r\n\r\n<p>This is the first episode, \"Death Note.\"</p>",
+            "contentSnippet": "Imagine if Frank Sinatra went on stage every night with a gun in his waistband, or if Tupac got into a shootout onstage at a rodeo. Well, Chalino Sanchez did just that.\n\r\n\r\nToday, we're sharing an episode of a brand new podcast from our friends at Futuro Studios, \"Ídolo: The Ballad of Chalino Sánchez.\" The 8-episode series examines the extraordinary life of the \u201cKing of Corridos\u201d and an attempt to unravel the mystery of his death. \n\r\n\r\nThis is the first episode, \"Death Note.\"",
+            "itunes": {
+                "duration": "00:26:57",
+                "explicit": "yes",
+                "summary": "Imagine if Frank Sinatra went on stage every night with a gun in his waistband, or if Tupac got into a shootout onstage at a rodeo. Well, Chalino Sanchez did just that.\r\n\r\nToday, we're sharing an episode of a brand new podcast from our friends at Futuro Studios, \"Ídolo: The Ballad of Chalino Sánchez.\" The 8-episode series examines the extraordinary life of the \u201cKing of Corridos\u201d and an attempt to unravel the mystery of his death. \r\n\r\nThis is the first episode, \"Death Note.\"",
+                "image": "https://d279m997dpfwgl.cloudfront.net/wp/2022/02/Sonoro_Futuro_ÍDOLO.jpeg",
+                "author": " WBUR & Futuro Studios ",
+                "subtitle": "We're sharing an episode of a brand new podcast from our friends at Futuro Studios, Ídolo: The Ballad of Chalino Sánchez. The 8-episode series examines the extraordinary life of the \u201cKing of Corridos\u201d and an attempt to unravel the mystery of his death. "
+            },
+            "enclosure": {
+                "length": "25864390",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR6711643833.mp3"
+            },
+            "content:encodedSnippet": "Imagine if Frank Sinatra went on stage every night with a gun in his waistband, or if Tupac got into a shootout onstage at a rodeo. Well, Chalino Sanchez did just that.\n\r\n\r\nToday, we're sharing an episode of a brand new podcast from our friends at Futuro Studios, \"Ídolo: The Ballad of Chalino Sánchez.\" The 8-episode series examines the extraordinary life of the \u201cKing of Corridos\u201d and an attempt to unravel the mystery of his death. \n\r\n\r\nThis is the first episode, \"Death Note.\"",
+            "guid": "f1f08ee5-0ba2-4a60-8182-f968f2261ec4",
+            "categories": ["Arts", "Crime & Justice", "Life", "Investigations"],
+            "isoDate": "2022-02-08T16:35:28.000Z",
+            "content:encoded": "<p>Imagine if Frank Sinatra went on stage every night with a gun in his waistband, or if Tupac got into a shootout onstage at a rodeo. Well, Chalino Sanchez did just that.</p>\r\n\r\n<p>Today, we're sharing an episode of a brand new podcast from our friends at Futuro Studios, \"Ídolo: The Ballad of Chalino Sánchez.\" The 8-episode series examines the extraordinary life of the \u201cKing of Corridos\u201d and an attempt to unravel the mystery of his death. </p>\r\n\r\n<p>This is the first episode, \"Death Note.\"</p>"
+        },
+        {
+            "creator": "WBUR &amp; Futuro Studios",
+            "dc:creator": "WBUR &amp; Futuro Studios",
+            "link": "http://www.wbur.org/anythingforselena/2021/04/16/afs-selena-and-chris",
+            "title": "BONUS: Selena and Chris",
+            "pubDate": "Thu, 04 Mar 2021 22:06:18 -0500",
+            "content": "<p>Maria heads to Joshua Tree, California for an intimate interview with Selena's widower, Chris Perez. Chris shares a side of Selena we rarely get to see, and Maria learns about how romantic love was one of the ways Selena charted her own path.</p>",
+            "contentSnippet": "Maria heads to Joshua Tree, California for an intimate interview with Selena's widower, Chris Perez. Chris shares a side of Selena we rarely get to see, and Maria learns about how romantic love was one of the ways Selena charted her own path.",
+            "itunes": {
+                "duration": "00:44:49",
+                "explicit": "yes",
+                "summary": "Maria heads to Joshua Tree, California for an intimate interview with Selena's widower, Chris Perez. Chris shares a side of Selena we rarely get to see, and Maria learns about how romantic love was one of the ways Selena charted her own path.",
+                "image": "https://d279m997dpfwgl.cloudfront.net/wp/2021/04/AFS_Album-Art_Final.jpg",
+                "author": " WBUR & Futuro Studios ",
+                "subtitle": "On the 26th anniversary of Selena's tragic death, Maria heads to Joshua Tree, California for an intimate interview with Selena's widower, Chris Perez.",
+                "episode": "11"
+            },
+            "enclosure": {
+                "length": "43022788",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4597153445.mp3"
+            },
+            "content:encodedSnippet": "Maria heads to Joshua Tree, California for an intimate interview with Selena's widower, Chris Perez. Chris shares a side of Selena we rarely get to see, and Maria learns about how romantic love was one of the ways Selena charted her own path.",
+            "guid": "5e0fa4be-e969-477d-a7b1-7c169578c5b1",
+            "categories": ["Arts", "Music"],
+            "isoDate": "2021-03-05T03:06:18.000Z",
+            "content:encoded": "<p>Maria heads to Joshua Tree, California for an intimate interview with Selena's widower, Chris Perez. Chris shares a side of Selena we rarely get to see, and Maria learns about how romantic love was one of the ways Selena charted her own path.</p>"
+        },
+        {
+            "creator": "WBUR &amp; Futuro Studios",
+            "dc:creator": "WBUR &amp; Futuro Studios",
+            "link": "http://www.wbur.org/anythingforselena/2021/03/24/bonus-anything-for-selena-live",
+            "title": "BONUS: Anything for Selena Live!",
+            "pubDate": "Wed, 03 Mar 2021 22:06:18 -0500",
+            "content": "<p>In this intimate Q&A, host Maria Garcia and producers Antonia Cereijido and Kristin Torres take listeners behind the scenes for a look at the making of Anything for Selena. This episode was recorded live during a virtual event with WBUR Cityspace.</p>",
+            "contentSnippet": "In this intimate Q&A, host Maria Garcia and producers Antonia Cereijido and Kristin Torres take listeners behind the scenes for a look at the making of Anything for Selena. This episode was recorded live during a virtual event with WBUR Cityspace.",
+            "itunes": {
+                "duration": "00:45:00",
+                "explicit": "no",
+                "summary": "In this intimate Q&A, host Maria Garcia and producers Antonia Cereijido and Kristin Torres take listeners behind the scenes for a look at the making of Anything for Selena. This episode was recorded live during a virtual event with WBUR Cityspace.",
+                "image": "https://d279m997dpfwgl.cloudfront.net/wp/2021/03/afs-live-ep-1.jpg",
+                "author": " WBUR & Futuro Studios ",
+                "subtitle": "The creators of Anything for Selena take listeners behind the scenes for a look at the making of the podcast.",
+                "episode": "10"
+            },
+            "enclosure": {
+                "length": "43197913",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR2718189831.mp3"
+            },
+            "content:encodedSnippet": "In this intimate Q&A, host Maria Garcia and producers Antonia Cereijido and Kristin Torres take listeners behind the scenes for a look at the making of Anything for Selena. This episode was recorded live during a virtual event with WBUR Cityspace.",
+            "guid": "5c662d9c-43fa-498d-9b66-995589984a34",
+            "categories": ["Arts", "Music"],
+            "isoDate": "2021-03-04T03:06:18.000Z",
+            "content:encoded": "<p>In this intimate Q&A, host Maria Garcia and producers Antonia Cereijido and Kristin Torres take listeners behind the scenes for a look at the making of Anything for Selena. This episode was recorded live during a virtual event with WBUR Cityspace.</p>"
+        },
+        {
+            "creator": "WBUR &amp; Futuro Studios",
+            "dc:creator": "WBUR &amp; Futuro Studios",
+            "link": "http://www.wbur.org/anythingforselena/2021/03/03/selena-y-nosotros-espanol",
+            "title": "Selena y nosotros",
+            "pubDate": "Sat, 13 Mar 2021 17:17:34 -0500",
+            "content": "<p>En el final de la serie Anything for Selena, Maria reflexiona sobre lo que su año de análisis del legado de Selena revela sobre la humanidad de La Reina. \r\n</p>",
+            "contentSnippet": "En el final de la serie Anything for Selena, Maria reflexiona sobre lo que su año de análisis del legado de Selena revela sobre la humanidad de La Reina.",
+            "itunes": {
+                "duration": "00:37:37",
+                "explicit": "no",
+                "summary": "En el final de la serie Anything for Selena, Maria reflexiona sobre lo que su año de análisis del legado de Selena revela sobre la humanidad de La Reina.",
+                "image": "https://d279m997dpfwgl.cloudfront.net/wp/2021/03/afsepisode9-a-1.jpg",
+                "author": " WBUR & Futuro Studios ",
+                "subtitle": "Maria reflexiona sobre lo que su año de análisis del legado de Selena revela sobre la humanidad de La Reina.",
+                "episode": "20"
+            },
+            "enclosure": {
+                "length": "36116014",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR1334659067.mp3"
+            },
+            "content:encodedSnippet": "En el final de la serie Anything for Selena, Maria reflexiona sobre lo que su año de análisis del legado de Selena revela sobre la humanidad de La Reina.",
+            "guid": "b0c52a52-8650-4b8b-8cea-caa87b5cbcfe",
+            "categories": ["Arts", "Music"],
+            "isoDate": "2021-03-13T22:17:34.000Z",
+            "content:encoded": "<p>En el final de la serie Anything for Selena, Maria reflexiona sobre lo que su año de análisis del legado de Selena revela sobre la humanidad de La Reina. \r\n</p>"
+        },
+        {
+            "creator": "WBUR &amp; Futuro Studios",
+            "dc:creator": "WBUR &amp; Futuro Studios",
+            "link": "http://www.wbur.org/anythingforselena/2021/03/03/selena-and-us-english",
+            "title": "Selena and Us",
+            "pubDate": "Tue, 02 Mar 2021 17:06:18 -0500",
+            "content": "<p>In the series finale of Anything for Selena, Maria reflects on what her year-long examination into Selena\u2019s legacy reveals about La Reina\u2019s humanity.</p>",
+            "contentSnippet": "In the series finale of Anything for Selena, Maria reflects on what her year-long examination into Selena\u2019s legacy reveals about La Reina\u2019s humanity.",
+            "itunes": {
+                "duration": "00:35:18",
+                "explicit": "no",
+                "summary": "In the series finale of Anything for Selena, Maria reflects on what her year-long examination into Selena\u2019s legacy reveals about La Reina\u2019s humanity.",
+                "image": "https://d279m997dpfwgl.cloudfront.net/wp/2021/03/afsepisode9-a.jpg",
+                "author": " WBUR & Futuro Studios ",
+                "subtitle": "Maria reflects on what her year-long examination into Selena\u2019s legacy reveals about the singer's humanity.",
+                "episode": "9"
+            },
+            "enclosure": {
+                "length": "33885782",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR7057436387.mp3"
+            },
+            "content:encodedSnippet": "In the series finale of Anything for Selena, Maria reflects on what her year-long examination into Selena\u2019s legacy reveals about La Reina\u2019s humanity.",
+            "guid": "d5e232bc-50e0-426c-88b7-58f062ba61d3",
+            "categories": ["Arts", "Music"],
+            "isoDate": "2021-03-02T22:06:18.000Z",
+            "content:encoded": "<p>In the series finale of Anything for Selena, Maria reflects on what her year-long examination into Selena\u2019s legacy reveals about La Reina\u2019s humanity.</p>"
+        },
+        {
+            "creator": "WBUR &amp; Futuro Studios",
+            "dc:creator": "WBUR &amp; Futuro Studios",
+            "link": "http://www.wbur.org/anythingforselena/2021/02/24/selena-raza-spanish",
+            "title": "Selena y raza",
+            "pubDate": "Fri, 12 Mar 2021 18:44:52 -0500",
+            "content": "<p>Tras el debut de la serie Selena en Netflix, algunos fans señalaron que la cantante había sido \"blanqueada\" en ese show. En este episodio, Maria analiza por qué la tez morena de Selena es parte crucial del legado de la reina del tex-mex y reflexiona sobre cómo su exploración de la raza de Selena la condujo a revelaciones acerca de su propia identidad.</p>",
+            "contentSnippet": "Tras el debut de la serie Selena en Netflix, algunos fans señalaron que la cantante había sido \"blanqueada\" en ese show. En este episodio, Maria analiza por qué la tez morena de Selena es parte crucial del legado de la reina del tex-mex y reflexiona sobre cómo su exploración de la raza de Selena la condujo a revelaciones acerca de su propia identidad.",
+            "itunes": {
+                "duration": "00:35:00",
+                "explicit": "no",
+                "summary": "Tras el debut de la serie Selena en Netflix, algunos fans señalaron que la cantante había sido \"blanqueada\" en ese show. En este episodio, Maria analiza por qué la tez morena de Selena es parte crucial del legado de la reina del tex-mex y reflexiona sobre cómo su exploración de la raza de Selena la condujo a revelaciones acerca de su propia identidad.",
+                "image": "https://d279m997dpfwgl.cloudfront.net/wp/2021/02/afs-artwork-ep8-edited-landscape-2.jpg",
+                "author": " WBUR & Futuro Studios ",
+                "subtitle": " Maria analiza por qué la tez morena de Selena es parte crucial del legado de la reina del tex-mex.",
+                "episode": "19"
+            },
+            "enclosure": {
+                "length": "33598645",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4483217904.mp3"
+            },
+            "content:encodedSnippet": "Tras el debut de la serie Selena en Netflix, algunos fans señalaron que la cantante había sido \"blanqueada\" en ese show. En este episodio, Maria analiza por qué la tez morena de Selena es parte crucial del legado de la reina del tex-mex y reflexiona sobre cómo su exploración de la raza de Selena la condujo a revelaciones acerca de su propia identidad.",
+            "guid": "d14c7b3a-84d6-4e63-aec2-47b88b102661",
+            "categories": ["Arts", "Music"],
+            "isoDate": "2021-03-12T23:44:52.000Z",
+            "content:encoded": "<p>Tras el debut de la serie Selena en Netflix, algunos fans señalaron que la cantante había sido \"blanqueada\" en ese show. En este episodio, Maria analiza por qué la tez morena de Selena es parte crucial del legado de la reina del tex-mex y reflexiona sobre cómo su exploración de la raza de Selena la condujo a revelaciones acerca de su propia identidad.</p>"
+        },
+        {
+            "creator": "WBUR &amp; Futuro Studios",
+            "dc:creator": "WBUR &amp; Futuro Studios",
+            "link": "http://www.wbur.org/anythingforselena/2021/02/24/selena-race-english",
+            "title": "Selena and Race",
+            "pubDate": "Tue, 23 Feb 2021 16:42:06 -0500",
+            "content": "<p>After the premiere of Selena: The Series on Netflix, some fans claimed Selena had been \"whitewashed\" in the show.  In this episode, Maria analyzes why Selena's brownness is an essential part of her legacy and reflects on how the exploration of Selena's race led Maria to revelations about her own identity.</p>",
+            "contentSnippet": "After the premiere of Selena: The Series on Netflix, some fans claimed Selena had been \"whitewashed\" in the show.  In this episode, Maria analyzes why Selena's brownness is an essential part of her legacy and reflects on how the exploration of Selena's race led Maria to revelations about her own identity.",
+            "itunes": {
+                "duration": "00:45:09",
+                "explicit": "no",
+                "summary": "After the premiere of Selena: The Series on Netflix, some fans claimed Selena had been \"whitewashed\" in the show.  In this episode, Maria analyzes why Selena's brownness is an essential part of her legacy and reflects on how the exploration of Selena's race led Maria to revelations about her own identity.",
+                "image": "https://d279m997dpfwgl.cloudfront.net/wp/2021/02/afs-artwork-ep8-edited-landscape-1.jpg",
+                "author": " WBUR & Futuro Studios ",
+                "subtitle": "Maria analyzes why Selena's brownness is an essential part of her legacy.",
+                "episode": "8"
+            },
+            "enclosure": {
+                "length": "43341691",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR7165850426.mp3"
+            },
+            "content:encodedSnippet": "After the premiere of Selena: The Series on Netflix, some fans claimed Selena had been \"whitewashed\" in the show.  In this episode, Maria analyzes why Selena's brownness is an essential part of her legacy and reflects on how the exploration of Selena's race led Maria to revelations about her own identity.",
+            "guid": "fa8de7f7-693d-4454-94a8-d0aa069976fd",
+            "categories": ["Arts", "Music"],
+            "isoDate": "2021-02-23T21:42:06.000Z",
+            "content:encoded": "<p>After the premiere of Selena: The Series on Netflix, some fans claimed Selena had been \"whitewashed\" in the show.  In this episode, Maria analyzes why Selena's brownness is an essential part of her legacy and reflects on how the exploration of Selena's race led Maria to revelations about her own identity.</p>"
+        },
+        {
+            "creator": "WBUR &amp; Futuro Studios",
+            "dc:creator": "WBUR &amp; Futuro Studios",
+            "link": "http://www.wbur.org/anythingforselena/2021/02/17/selena-y-la-internet-espanol",
+            "title": "Selena y la Internet",
+            "pubDate": "Thu, 11 Mar 2021 17:05:58 -0500",
+            "content": "<p>Un cuarto de siglo después de su muerte, Selena está arrasando en internet. En línea, la imagen y la música de Selena han adquirido nueva vida en redes sociales y plataformas que eran inimaginables cuando ella aún vivía. Sus seguidores de todas las edades han recurrido a Instagram, TikTok y YouTube para restaurar y presentar de nuevas formas la memoria de Selena. En este episodio, Maria explora cómo la internet se ha convertido en un lugar en el que los fans honran y recuerdan a Selena, y sobrellevan juntos el vacío que dejó.</p>",
+            "contentSnippet": "Un cuarto de siglo después de su muerte, Selena está arrasando en internet. En línea, la imagen y la música de Selena han adquirido nueva vida en redes sociales y plataformas que eran inimaginables cuando ella aún vivía. Sus seguidores de todas las edades han recurrido a Instagram, TikTok y YouTube para restaurar y presentar de nuevas formas la memoria de Selena. En este episodio, Maria explora cómo la internet se ha convertido en un lugar en el que los fans honran y recuerdan a Selena, y sobrellevan juntos el vacío que dejó.",
+            "itunes": {
+                "duration": "00:29:48",
+                "explicit": "no",
+                "summary": "Un cuarto de siglo después de su muerte, Selena está arrasando en internet. En línea, la imagen y la música de Selena han adquirido nueva vida en redes sociales y plataformas que eran inimaginables cuando ella aún vivía. Sus seguidores de todas las edades han recurrido a Instagram, TikTok y YouTube para restaurar y presentar de nuevas formas la memoria de Selena. En este episodio, Maria explora cómo la internet se ha convertido en un lugar en el que los fans honran y recuerdan a Selena, y sobrellevan juntos el vacío que dejó.",
+                "image": "https://d279m997dpfwgl.cloudfront.net/wp/2021/02/Jeanjacket-2-1.jpg",
+                "author": " WBUR & Futuro Studios ",
+                "subtitle": "Maria explora cómo la internet se ha convertido en un lugar en el que los fans honran y recuerdan a Selena, y sobrellevan juntos el vacío que dejó.",
+                "episode": "18"
+            },
+            "enclosure": {
+                "length": "28614481",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9725789900.mp3"
+            },
+            "content:encodedSnippet": "Un cuarto de siglo después de su muerte, Selena está arrasando en internet. En línea, la imagen y la música de Selena han adquirido nueva vida en redes sociales y plataformas que eran inimaginables cuando ella aún vivía. Sus seguidores de todas las edades han recurrido a Instagram, TikTok y YouTube para restaurar y presentar de nuevas formas la memoria de Selena. En este episodio, Maria explora cómo la internet se ha convertido en un lugar en el que los fans honran y recuerdan a Selena, y sobrellevan juntos el vacío que dejó.",
+            "guid": "ed8049e5-b33c-4bba-bf05-917fdd3ddb98",
+            "categories": ["Arts", "Music"],
+            "isoDate": "2021-03-11T22:05:58.000Z",
+            "content:encoded": "<p>Un cuarto de siglo después de su muerte, Selena está arrasando en internet. En línea, la imagen y la música de Selena han adquirido nueva vida en redes sociales y plataformas que eran inimaginables cuando ella aún vivía. Sus seguidores de todas las edades han recurrido a Instagram, TikTok y YouTube para restaurar y presentar de nuevas formas la memoria de Selena. En este episodio, Maria explora cómo la internet se ha convertido en un lugar en el que los fans honran y recuerdan a Selena, y sobrellevan juntos el vacío que dejó.</p>"
+        },
+        {
+            "creator": "WBUR &amp; Futuro Studios",
+            "dc:creator": "WBUR &amp; Futuro Studios",
+            "link": "http://www.wbur.org/anythingforselena/2021/02/17/selena-and-the-internet",
+            "title": "Selena and the Internet",
+            "pubDate": "Tue, 16 Feb 2021 16:55:52 -0500",
+            "content": "<p>A quarter century after her death, Selena is breaking the internet. Online, Selena\u2019s image and music have taken on new life on social media and platforms that weren\u2019t even imaginable when she was still alive. Selena devotees of all ages have turned to Instagram, TikTok and Youtube to restore and remix Selena\u2019s memory. In this episode, Maria explores how the internet has become a place where fans celebrate and remember Selena, as well as grapple with the void she left behind.</p>",
+            "contentSnippet": "A quarter century after her death, Selena is breaking the internet. Online, Selena\u2019s image and music have taken on new life on social media and platforms that weren\u2019t even imaginable when she was still alive. Selena devotees of all ages have turned to Instagram, TikTok and Youtube to restore and remix Selena\u2019s memory. In this episode, Maria explores how the internet has become a place where fans celebrate and remember Selena, as well as grapple with the void she left behind.",
+            "itunes": {
+                "duration": "00:42:18",
+                "explicit": "no",
+                "summary": "A quarter century after her death, Selena is breaking the internet. Online, Selena\u2019s image and music have taken on new life on social media and platforms that weren\u2019t even imaginable when she was still alive. Selena devotees of all ages have turned to Instagram, TikTok and Youtube to restore and remix Selena\u2019s memory. In this episode, Maria explores how the internet has become a place where fans celebrate and remember Selena, as well as grapple with the void she left behind.",
+                "image": "https://d279m997dpfwgl.cloudfront.net/wp/2021/02/Jeanjacket-2-1000x499-1.jpg",
+                "author": " WBUR & Futuro Studios ",
+                "subtitle": "Maria explores how the internet has become a place where fans celebrate and remember Selena, as well as grapple with the void she left behind.",
+                "episode": "7"
+            },
+            "enclosure": {
+                "length": "40606984",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9545083114.mp3"
+            },
+            "content:encodedSnippet": "A quarter century after her death, Selena is breaking the internet. Online, Selena\u2019s image and music have taken on new life on social media and platforms that weren\u2019t even imaginable when she was still alive. Selena devotees of all ages have turned to Instagram, TikTok and Youtube to restore and remix Selena\u2019s memory. In this episode, Maria explores how the internet has become a place where fans celebrate and remember Selena, as well as grapple with the void she left behind.",
+            "guid": "6ba5d653-f29c-4620-9c58-e9d8a9680f7f",
+            "categories": ["Arts", "Music"],
+            "isoDate": "2021-02-16T21:55:52.000Z",
+            "content:encoded": "<p>A quarter century after her death, Selena is breaking the internet. Online, Selena\u2019s image and music have taken on new life on social media and platforms that weren\u2019t even imaginable when she was still alive. Selena devotees of all ages have turned to Instagram, TikTok and Youtube to restore and remix Selena\u2019s memory. In this episode, Maria explores how the internet has become a place where fans celebrate and remember Selena, as well as grapple with the void she left behind.</p>"
+        },
+        {
+            "creator": "WBUR &amp; Futuro Studios",
+            "dc:creator": "WBUR &amp; Futuro Studios",
+            "link": "http://www.wbur.org/anythingforselena/2021/02/10/spanglish-espanol",
+            "title": "Spanglish",
+            "pubDate": "Wed, 10 Mar 2021 15:17:55 -0500",
+            "content": "<p>Puede ser que Selena haya hecho una carrera cantando temas en español, pero no se crió hablando español en casa. Aprendió castellano a la vista del público, y los errores que cometió se convirtieron en algunos de sus momentos más famosos y entrañables. En este episodio, Maria explora por qué el spanglish de Selena parecía tan revolucionario para su época y, a la misma vez, tan familiar para sus fans, quienes también padecían con el idioma de sus padres o antepasados. Esta exploración nos lleva a un lugar inesperado.  </p>",
+            "contentSnippet": "Puede ser que Selena haya hecho una carrera cantando temas en español, pero no se crió hablando español en casa. Aprendió castellano a la vista del público, y los errores que cometió se convirtieron en algunos de sus momentos más famosos y entrañables. En este episodio, Maria explora por qué el spanglish de Selena parecía tan revolucionario para su época y, a la misma vez, tan familiar para sus fans, quienes también padecían con el idioma de sus padres o antepasados. Esta exploración nos lleva a un lugar inesperado.",
+            "itunes": {
+                "duration": "00:30:02",
+                "explicit": "no",
+                "summary": "Puede ser que Selena haya hecho una carrera cantando temas en español, pero no se crió hablando español en casa. Aprendió castellano a la vista del público, y los errores que cometió se convirtieron en algunos de sus momentos más famosos y entrañables. En este episodio, Maria explora por qué el spanglish de Selena parecía tan revolucionario para su época y, a la misma vez, tan familiar para sus fans, quienes también padecían con el idioma de sus padres o antepasados. Esta exploración nos lleva a un lugar inesperado.",
+                "image": "https://d279m997dpfwgl.cloudfront.net/wp/2021/02/afs_artwork_ep6_edited_landscape-1.jpg",
+                "author": " WBUR & Futuro Studios ",
+                "subtitle": "En este episodio, Maria explora por qué el spanglish de Selena parecía tan revolucionario para su época.",
+                "episode": "17"
+            },
+            "enclosure": {
+                "length": "28833492",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR1886653903.mp3"
+            },
+            "content:encodedSnippet": "Puede ser que Selena haya hecho una carrera cantando temas en español, pero no se crió hablando español en casa. Aprendió castellano a la vista del público, y los errores que cometió se convirtieron en algunos de sus momentos más famosos y entrañables. En este episodio, Maria explora por qué el spanglish de Selena parecía tan revolucionario para su época y, a la misma vez, tan familiar para sus fans, quienes también padecían con el idioma de sus padres o antepasados. Esta exploración nos lleva a un lugar inesperado.",
+            "guid": "1e309ded-8adf-4133-92ac-8890c460224e",
+            "categories": ["Arts", "Music"],
+            "isoDate": "2021-03-10T20:17:55.000Z",
+            "content:encoded": "<p>Puede ser que Selena haya hecho una carrera cantando temas en español, pero no se crió hablando español en casa. Aprendió castellano a la vista del público, y los errores que cometió se convirtieron en algunos de sus momentos más famosos y entrañables. En este episodio, Maria explora por qué el spanglish de Selena parecía tan revolucionario para su época y, a la misma vez, tan familiar para sus fans, quienes también padecían con el idioma de sus padres o antepasados. Esta exploración nos lleva a un lugar inesperado.  </p>"
+        },
+        {
+            "creator": "WBUR &amp; Futuro Studios",
+            "dc:creator": "WBUR &amp; Futuro Studios",
+            "link": "http://www.wbur.org/anythingforselena/2021/02/10/spanglish-english",
+            "title": "Spanglish",
+            "pubDate": "Tue, 09 Feb 2021 15:04:40 -0500",
+            "content": "<p>Selena Quintanilla may have built her career singing Spanish songs, but she didn\u2019t grow up speaking Spanish at home. She learned Spanish in the public eye, and her mistakes became some of her most famous and endearing moments. In this episode, Maria explores why Selena\u2019s Spanglish seemed so revolutionary for its time, and yet so familiar to many fans who also struggled with the language of their heritage. The exploration takes us to an unexpected place.</p>",
+            "contentSnippet": "Selena Quintanilla may have built her career singing Spanish songs, but she didn\u2019t grow up speaking Spanish at home. She learned Spanish in the public eye, and her mistakes became some of her most famous and endearing moments. In this episode, Maria explores why Selena\u2019s Spanglish seemed so revolutionary for its time, and yet so familiar to many fans who also struggled with the language of their heritage. The exploration takes us to an unexpected place.",
+            "itunes": {
+                "duration": "00:43:04",
+                "explicit": "no",
+                "summary": "Selena Quintanilla may have built her career singing Spanish songs, but she didn\u2019t grow up speaking Spanish at home. She learned Spanish in the public eye, and her mistakes became some of her most famous and endearing moments. In this episode, Maria explores why Selena\u2019s Spanglish seemed so revolutionary for its time, and yet so familiar to many fans who also struggled with the language of their heritage. The exploration takes us to an unexpected place.",
+                "image": "https://d279m997dpfwgl.cloudfront.net/wp/2021/02/afs_artwork_ep6_edited_landscape.jpg",
+                "author": " WBUR & Futuro Studios ",
+                "subtitle": "Maria explores why Selena\u2019s Spanglish seemed so revolutionary for its time, and yet so familiar to many fans.",
+                "episode": "6"
+            },
+            "enclosure": {
+                "length": "41347608",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR2569071854.mp3"
+            },
+            "content:encodedSnippet": "Selena Quintanilla may have built her career singing Spanish songs, but she didn\u2019t grow up speaking Spanish at home. She learned Spanish in the public eye, and her mistakes became some of her most famous and endearing moments. In this episode, Maria explores why Selena\u2019s Spanglish seemed so revolutionary for its time, and yet so familiar to many fans who also struggled with the language of their heritage. The exploration takes us to an unexpected place.",
+            "guid": "d69823d0-0e1b-4ef4-857d-7da58b246b21",
+            "categories": ["Arts", "Music"],
+            "isoDate": "2021-02-09T20:04:40.000Z",
+            "content:encoded": "<p>Selena Quintanilla may have built her career singing Spanish songs, but she didn\u2019t grow up speaking Spanish at home. She learned Spanish in the public eye, and her mistakes became some of her most famous and endearing moments. In this episode, Maria explores why Selena\u2019s Spanglish seemed so revolutionary for its time, and yet so familiar to many fans who also struggled with the language of their heritage. The exploration takes us to an unexpected place.</p>"
+        },
+        {
+            "creator": "WBUR &amp; Futuro Studios",
+            "dc:creator": "WBUR &amp; Futuro Studios",
+            "link": "http://www.wbur.org/anythingforselena/2021/02/03/tension-tejana",
+            "title": "Tensión tejana ",
+            "pubDate": "Tue, 09 Mar 2021 14:32:06 -0500",
+            "content": "<p>Selena es usualmente descrita como la \"reina de la música tejana\". En la década de 1990, fue ella quien elevó este género del pueblo a niveles internacionales. Las ceremonias de premiación de la música tejana eran eventos glamorosos y los DJ de estaciones de radio dedicadas al género eran vistos como estrellas de rock en Texas y el resto del sudoeste de Estados Unidos. Incluso el New York Times lo catalogó \"el género latino de más rápido crecimiento del país\". Pero cuando Selena falleció, la música tejana pasó de la gloria a la decadencia. Sin embargo, la historia de su declive no es tan sencilla. Maria descubre que es una historia de inmigración, de dinero y de cómo dos grupos usualmente ignorados fueron enfrentados entre sí. </p>",
+            "contentSnippet": "Selena es usualmente descrita como la \"reina de la música tejana\". En la década de 1990, fue ella quien elevó este género del pueblo a niveles internacionales. Las ceremonias de premiación de la música tejana eran eventos glamorosos y los DJ de estaciones de radio dedicadas al género eran vistos como estrellas de rock en Texas y el resto del sudoeste de Estados Unidos. Incluso el New York Times lo catalogó \"el género latino de más rápido crecimiento del país\". Pero cuando Selena falleció, la música tejana pasó de la gloria a la decadencia. Sin embargo, la historia de su declive no es tan sencilla. Maria descubre que es una historia de inmigración, de dinero y de cómo dos grupos usualmente ignorados fueron enfrentados entre sí.",
+            "itunes": {
+                "duration": "00:33:43",
+                "explicit": "no",
+                "summary": "Selena es usualmente descrita como la \"reina de la música tejana\". En la década de 1990, fue ella quien elevó este género del pueblo a niveles internacionales. Las ceremonias de premiación de la música tejana eran eventos glamorosos y los DJ de estaciones de radio dedicadas al género eran vistos como estrellas de rock en Texas y el resto del sudoeste de Estados Unidos. Incluso el New York Times lo catalogó \"el género latino de más rápido crecimiento del país\". Pero cuando Selena falleció, la música tejana pasó de la gloria a la decadencia. Sin embargo, la historia de su declive no es tan sencilla. Maria descubre que es una historia de inmigración, de dinero y de cómo dos grupos usualmente ignorados fueron enfrentados entre sí.",
+                "image": "https://d279m997dpfwgl.cloudfront.net/wp/2021/02/afs_artwork_ep5_edited_landcape-1.jpg",
+                "author": " WBUR & Futuro Studios ",
+                "subtitle": "Selena es usualmente descrita como la \"reina de la música tejana.\" Pero cuando Selena falleció, la música tejana pasó de la gloria a la decadencia.",
+                "episode": "16"
+            },
+            "enclosure": {
+                "length": "32371934",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR3565324049.mp3"
+            },
+            "content:encodedSnippet": "Selena es usualmente descrita como la \"reina de la música tejana\". En la década de 1990, fue ella quien elevó este género del pueblo a niveles internacionales. Las ceremonias de premiación de la música tejana eran eventos glamorosos y los DJ de estaciones de radio dedicadas al género eran vistos como estrellas de rock en Texas y el resto del sudoeste de Estados Unidos. Incluso el New York Times lo catalogó \"el género latino de más rápido crecimiento del país\". Pero cuando Selena falleció, la música tejana pasó de la gloria a la decadencia. Sin embargo, la historia de su declive no es tan sencilla. Maria descubre que es una historia de inmigración, de dinero y de cómo dos grupos usualmente ignorados fueron enfrentados entre sí.",
+            "guid": "6aca3472-a05d-4092-8eb8-36317768ee92",
+            "categories": ["Arts", "Music"],
+            "isoDate": "2021-03-09T19:32:06.000Z",
+            "content:encoded": "<p>Selena es usualmente descrita como la \"reina de la música tejana\". En la década de 1990, fue ella quien elevó este género del pueblo a niveles internacionales. Las ceremonias de premiación de la música tejana eran eventos glamorosos y los DJ de estaciones de radio dedicadas al género eran vistos como estrellas de rock en Texas y el resto del sudoeste de Estados Unidos. Incluso el New York Times lo catalogó \"el género latino de más rápido crecimiento del país\". Pero cuando Selena falleció, la música tejana pasó de la gloria a la decadencia. Sin embargo, la historia de su declive no es tan sencilla. Maria descubre que es una historia de inmigración, de dinero y de cómo dos grupos usualmente ignorados fueron enfrentados entre sí. </p>"
+        },
+        {
+            "creator": "WBUR &amp; Futuro Studios",
+            "dc:creator": "WBUR &amp; Futuro Studios",
+            "link": "http://www.wbur.org/anythingforselena/2021/02/03/tejano-tension",
+            "title": "Tejano Tension",
+            "pubDate": "Tue, 02 Feb 2021 14:25:05 -0500",
+            "content": "<p>Episode 5. Selena is often called the \"Queen of Tejano music.\" In the 1990s, she brought this underdog genre to international heights. Tejano award shows were glitzy affairs and Tejano radio DJs were like rock stars in Texas and the Southwest. Even the New York Times called it the fastest-growing Latino genre in the country. But when Selena died, Tejano went from boom to bust. The story of Tejano's decline isn't so simple, though. Maria discovers that it's a story of immigration, money and how two often-ignored groups were pitted against each other.</p>",
+            "contentSnippet": "Episode 5. Selena is often called the \"Queen of Tejano music.\" In the 1990s, she brought this underdog genre to international heights. Tejano award shows were glitzy affairs and Tejano radio DJs were like rock stars in Texas and the Southwest. Even the New York Times called it the fastest-growing Latino genre in the country. But when Selena died, Tejano went from boom to bust. The story of Tejano's decline isn't so simple, though. Maria discovers that it's a story of immigration, money and how two often-ignored groups were pitted against each other.",
+            "itunes": {
+                "duration": "00:38:34",
+                "explicit": "no",
+                "summary": "Episode 5. Selena is often called the \"Queen of Tejano music.\" In the 1990s, she brought this underdog genre to international heights. Tejano award shows were glitzy affairs and Tejano radio DJs were like rock stars in Texas and the Southwest. Even the New York Times called it the fastest-growing Latino genre in the country. But when Selena died, Tejano went from boom to bust. The story of Tejano's decline isn't so simple, though. Maria discovers that it's a story of immigration, money and how two often-ignored groups were pitted against each other.",
+                "image": "https://d279m997dpfwgl.cloudfront.net/wp/2021/02/afs_artwork_ep5_edited_landcape.jpg",
+                "author": " WBUR & Futuro Studios ",
+                "subtitle": "Selena was the \"Queen of Tejano music.\" After her death, Tejano went from boom to bust. Maria discovers that the story of Tejano's decline isn't so simple. ",
+                "episode": "5"
+            },
+            "enclosure": {
+                "length": "37025910",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR6985582793.mp3"
+            },
+            "content:encodedSnippet": "Episode 5. Selena is often called the \"Queen of Tejano music.\" In the 1990s, she brought this underdog genre to international heights. Tejano award shows were glitzy affairs and Tejano radio DJs were like rock stars in Texas and the Southwest. Even the New York Times called it the fastest-growing Latino genre in the country. But when Selena died, Tejano went from boom to bust. The story of Tejano's decline isn't so simple, though. Maria discovers that it's a story of immigration, money and how two often-ignored groups were pitted against each other.",
+            "guid": "ca82b6c6-da16-4327-88c2-4fb2979a1a6d",
+            "categories": ["Arts", "Music"],
+            "isoDate": "2021-02-02T19:25:05.000Z",
+            "content:encoded": "<p>Episode 5. Selena is often called the \"Queen of Tejano music.\" In the 1990s, she brought this underdog genre to international heights. Tejano award shows were glitzy affairs and Tejano radio DJs were like rock stars in Texas and the Southwest. Even the New York Times called it the fastest-growing Latino genre in the country. But when Selena died, Tejano went from boom to bust. The story of Tejano's decline isn't so simple, though. Maria discovers that it's a story of immigration, money and how two often-ignored groups were pitted against each other.</p>"
+        },
+        {
+            "creator": "WBUR &amp; Futuro Studios",
+            "dc:creator": "WBUR &amp; Futuro Studios",
+            "link": "http://www.wbur.org/anythingforselena/2021/01/27/big-butt-politics-espanol",
+            "title": "La política de las pompis ",
+            "pubDate": "Mon, 08 Mar 2021 12:38:07 -0500",
+            "content": "<p>En los noventa, \"Baby Got Back (I Like Big Butts)\" de Sir Mix-A-Lot debutó en la radio. Hoy, la obsesión con los traseros grandes se mantiene sólida gracias a ídolos como Cardi B y Beyoncé. También ha impregnado la cultura blanca con Kim Kardashian y \"belfie queen\" Jen Selter. María comparte su teoría sobre cómo los traseros pasaron de tabú a obsesión, y cómo involucra a Selena y JLO. Ella descubre que la política de los traseros es a fin de cuentas sobre raza, y nos conduce a una conversación postergada sobre la anti-negritud en la cultura latina.  </p>",
+            "contentSnippet": "En los noventa, \"Baby Got Back (I Like Big Butts)\" de Sir Mix-A-Lot debutó en la radio. Hoy, la obsesión con los traseros grandes se mantiene sólida gracias a ídolos como Cardi B y Beyoncé. También ha impregnado la cultura blanca con Kim Kardashian y \"belfie queen\" Jen Selter. María comparte su teoría sobre cómo los traseros pasaron de tabú a obsesión, y cómo involucra a Selena y JLO. Ella descubre que la política de los traseros es a fin de cuentas sobre raza, y nos conduce a una conversación postergada sobre la anti-negritud en la cultura latina.",
+            "itunes": {
+                "duration": "00:34:13",
+                "explicit": "yes",
+                "summary": "En los noventa, \"Baby Got Back (I Like Big Butts)\" de Sir Mix-A-Lot debutó en la radio. Hoy, la obsesión con los traseros grandes se mantiene sólida gracias a ídolos como Cardi B y Beyoncé. También ha impregnado la cultura blanca con Kim Kardashian y \"belfie queen\" Jen Selter. María comparte su teoría sobre cómo los traseros pasaron de tabú a obsesión, y cómo involucra a Selena y JLO. Ella descubre que la política de los traseros es a fin de cuentas sobre raza, y nos conduce a una conversación postergada sobre la anti-negritud en la cultura latina.",
+                "image": "https://d279m997dpfwgl.cloudfront.net/wp/2021/01/afs_ep4_artwork_edited_landscape-1.jpg",
+                "author": " WBUR & Futuro Studios ",
+                "subtitle": "María comparte su teoría sobre cómo los traseros pasaron de tabú a obsesión, y cómo involucra a Selena y JLO. ",
+                "episode": "15"
+            },
+            "enclosure": {
+                "length": "32847572",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR1259253685.mp3"
+            },
+            "content:encodedSnippet": "En los noventa, \"Baby Got Back (I Like Big Butts)\" de Sir Mix-A-Lot debutó en la radio. Hoy, la obsesión con los traseros grandes se mantiene sólida gracias a ídolos como Cardi B y Beyoncé. También ha impregnado la cultura blanca con Kim Kardashian y \"belfie queen\" Jen Selter. María comparte su teoría sobre cómo los traseros pasaron de tabú a obsesión, y cómo involucra a Selena y JLO. Ella descubre que la política de los traseros es a fin de cuentas sobre raza, y nos conduce a una conversación postergada sobre la anti-negritud en la cultura latina.",
+            "guid": "a7b6c763-4adf-4981-84d5-8c6af52490c8",
+            "categories": ["Arts", "Music"],
+            "isoDate": "2021-03-08T17:38:07.000Z",
+            "content:encoded": "<p>En los noventa, \"Baby Got Back (I Like Big Butts)\" de Sir Mix-A-Lot debutó en la radio. Hoy, la obsesión con los traseros grandes se mantiene sólida gracias a ídolos como Cardi B y Beyoncé. También ha impregnado la cultura blanca con Kim Kardashian y \"belfie queen\" Jen Selter. María comparte su teoría sobre cómo los traseros pasaron de tabú a obsesión, y cómo involucra a Selena y JLO. Ella descubre que la política de los traseros es a fin de cuentas sobre raza, y nos conduce a una conversación postergada sobre la anti-negritud en la cultura latina.  </p>"
+        },
+        {
+            "creator": "WBUR &amp; Futuro Studios",
+            "dc:creator": "WBUR &amp; Futuro Studios",
+            "link": "http://www.wbur.org/anythingforselena/2021/01/27/big-butt-politics",
+            "title": "Big Butt Politics",
+            "pubDate": "Tue, 26 Jan 2021 12:27:58 -0500",
+            "content": "<p>Nearly 30 years ago, Sir-Mix-A-Lot\u2019s \u201cBaby Got Back (I Like Big Butts)\u201d hit the airwaves to the delight and shock of listeners. Today, the obsession with big butts is still strong with idols like Cardi B and Beyonce. It has also permeated white culture, with Kim Kardashian \u201cbreaking the internet\u201d and butt selfie queen Jen Selter. Maria has a theory about how big butts went from taboo to obsession--and it involves Selena and Jennifer Lopez. She uncovers that booty politics is ultimately about race and brings us to a long overdue conversation about anti-blackness within the Latinx community.</p>",
+            "contentSnippet": "Nearly 30 years ago, Sir-Mix-A-Lot\u2019s \u201cBaby Got Back (I Like Big Butts)\u201d hit the airwaves to the delight and shock of listeners. Today, the obsession with big butts is still strong with idols like Cardi B and Beyonce. It has also permeated white culture, with Kim Kardashian \u201cbreaking the internet\u201d and butt selfie queen Jen Selter. Maria has a theory about how big butts went from taboo to obsession--and it involves Selena and Jennifer Lopez. She uncovers that booty politics is ultimately about race and brings us to a long overdue conversation about anti-blackness within the Latinx community.",
+            "itunes": {
+                "duration": "00:44:35",
+                "explicit": "yes",
+                "summary": "Nearly 30 years ago, Sir-Mix-A-Lot\u2019s \u201cBaby Got Back (I Like Big Butts)\u201d hit the airwaves to the delight and shock of listeners. Today, the obsession with big butts is still strong with idols like Cardi B and Beyonce. It has also permeated white culture, with Kim Kardashian \u201cbreaking the internet\u201d and butt selfie queen Jen Selter. Maria has a theory about how big butts went from taboo to obsession--and it involves Selena and Jennifer Lopez. She uncovers that booty politics is ultimately about race and brings us to a long overdue conversation about anti-blackness within the Latinx community.",
+                "image": "https://d279m997dpfwgl.cloudfront.net/wp/2021/01/afs_ep4_artwork_edited_landscape.jpg",
+                "author": " WBUR & Futuro Studios ",
+                "subtitle": "Ever since Sir Mix-a-Lot\u2019s \u201cBaby Got Back (I Like Big Butts)\u201d hit nearly 30 years ago, the obsession in popular culture with big butts remains strong. Maria has a theory about how big butts went from taboo to obsession -- and it involves Selena and Jennifer Lopez. She uncovers that booty politics is ultimately about race.",
+                "episode": "4"
+            },
+            "enclosure": {
+                "length": "42795836",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4911266661.mp3"
+            },
+            "content:encodedSnippet": "Nearly 30 years ago, Sir-Mix-A-Lot\u2019s \u201cBaby Got Back (I Like Big Butts)\u201d hit the airwaves to the delight and shock of listeners. Today, the obsession with big butts is still strong with idols like Cardi B and Beyonce. It has also permeated white culture, with Kim Kardashian \u201cbreaking the internet\u201d and butt selfie queen Jen Selter. Maria has a theory about how big butts went from taboo to obsession--and it involves Selena and Jennifer Lopez. She uncovers that booty politics is ultimately about race and brings us to a long overdue conversation about anti-blackness within the Latinx community.",
+            "guid": "865275c0-c76e-4005-ad65-42bd9b39d14c",
+            "categories": ["Arts", "Music"],
+            "isoDate": "2021-01-26T17:27:58.000Z",
+            "content:encoded": "<p>Nearly 30 years ago, Sir-Mix-A-Lot\u2019s \u201cBaby Got Back (I Like Big Butts)\u201d hit the airwaves to the delight and shock of listeners. Today, the obsession with big butts is still strong with idols like Cardi B and Beyonce. It has also permeated white culture, with Kim Kardashian \u201cbreaking the internet\u201d and butt selfie queen Jen Selter. Maria has a theory about how big butts went from taboo to obsession--and it involves Selena and Jennifer Lopez. She uncovers that booty politics is ultimately about race and brings us to a long overdue conversation about anti-blackness within the Latinx community.</p>"
+        },
+        {
+            "creator": "WBUR &amp; Futuro Studios",
+            "dc:creator": "WBUR &amp; Futuro Studios",
+            "link": "http://www.wbur.org/anythingforselena/2021/01/20/nace-un-simbolo-espanol",
+            "title": "Nace un símbolo ",
+            "pubDate": "Sun, 07 Mar 2021 17:33:14 -0500",
+            "content": "<p>En el transcurso de su vida, Selena se convirtió en un símbolo de esperanza. Se transformó en el modelo a seguir de cómo alcanzar la aceptación dentro del sueño americano para todos los Latinos. Pero la manifestación de una guerra cultural oculta luego de su muerte nos revela otra historia. En este episodio Maria le sigue la pista a las razones por las cuales Selena se convirtió en símbolo de solidaridad y resistencia mientras conversa con Curly Velasquez de Pero Like.</p>",
+            "contentSnippet": "En el transcurso de su vida, Selena se convirtió en un símbolo de esperanza. Se transformó en el modelo a seguir de cómo alcanzar la aceptación dentro del sueño americano para todos los Latinos. Pero la manifestación de una guerra cultural oculta luego de su muerte nos revela otra historia. En este episodio Maria le sigue la pista a las razones por las cuales Selena se convirtió en símbolo de solidaridad y resistencia mientras conversa con Curly Velasquez de Pero Like.",
+            "itunes": {
+                "duration": "00:34:02",
+                "explicit": "no",
+                "summary": "En el transcurso de su vida, Selena se convirtió en un símbolo de esperanza. Se transformó en el modelo a seguir de cómo alcanzar la aceptación dentro del sueño americano para todos los Latinos. Pero la manifestación de una guerra cultural oculta luego de su muerte nos revela otra historia. En este episodio Maria le sigue la pista a las razones por las cuales Selena se convirtió en símbolo de solidaridad y resistencia mientras conversa con Curly Velasquez de Pero Like.",
+                "image": "https://d279m997dpfwgl.cloudfront.net/wp/2021/01/ep3-artwork-edited-landscape-1.jpg",
+                "author": " WBUR & Futuro Studios ",
+                "subtitle": " En este episodio Maria le sigue la pista a las razones por las cuales Selena se convirtió en símbolo de solidaridad y resistencia.",
+                "episode": "14"
+            },
+            "enclosure": {
+                "length": "32679134",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9407001545.mp3"
+            },
+            "content:encodedSnippet": "En el transcurso de su vida, Selena se convirtió en un símbolo de esperanza. Se transformó en el modelo a seguir de cómo alcanzar la aceptación dentro del sueño americano para todos los Latinos. Pero la manifestación de una guerra cultural oculta luego de su muerte nos revela otra historia. En este episodio Maria le sigue la pista a las razones por las cuales Selena se convirtió en símbolo de solidaridad y resistencia mientras conversa con Curly Velasquez de Pero Like.",
+            "guid": "0a7fb37f-783b-4829-9e16-c0b17f6ce590",
+            "categories": ["Arts", "Music"],
+            "isoDate": "2021-03-07T22:33:14.000Z",
+            "content:encoded": "<p>En el transcurso de su vida, Selena se convirtió en un símbolo de esperanza. Se transformó en el modelo a seguir de cómo alcanzar la aceptación dentro del sueño americano para todos los Latinos. Pero la manifestación de una guerra cultural oculta luego de su muerte nos revela otra historia. En este episodio Maria le sigue la pista a las razones por las cuales Selena se convirtió en símbolo de solidaridad y resistencia mientras conversa con Curly Velasquez de Pero Like.</p>"
+        },
+        {
+            "creator": "WBUR &amp; Futuro Studios",
+            "dc:creator": "WBUR &amp; Futuro Studios",
+            "link": "http://www.wbur.org/anythingforselena/2021/01/20/birth-of-a-symbol",
+            "title": "Birth of a Symbol",
+            "pubDate": "Tue, 19 Jan 2021 15:25:21 -0500",
+            "content": "<p>In her life, Selena was a symbol of hope.  She became a role model for how Latinos could achieve the American dream and find acceptance. But a forgotten culture war following her death painted a different picture. In the 25 years since her murder, Selena\u2019s image has taken on new meaning. In this episode, Maria traces how Selena became a symbol for solidarity and resistance.</p>",
+            "contentSnippet": "In her life, Selena was a symbol of hope.  She became a role model for how Latinos could achieve the American dream and find acceptance. But a forgotten culture war following her death painted a different picture. In the 25 years since her murder, Selena\u2019s image has taken on new meaning. In this episode, Maria traces how Selena became a symbol for solidarity and resistance.",
+            "itunes": {
+                "duration": "00:41:54",
+                "explicit": "no",
+                "summary": "In her life, Selena was a symbol of hope.  She became a role model for how Latinos could achieve the American dream and find acceptance. But a forgotten culture war following her death painted a different picture. In the 25 years since her murder, Selena\u2019s image has taken on new meaning. In this episode, Maria traces how Selena became a symbol for solidarity and resistance.",
+                "image": "https://d279m997dpfwgl.cloudfront.net/wp/2021/01/ep3-artwork-edited-landscape.jpg",
+                "author": " WBUR & Futuro Studios ",
+                "subtitle": " In this episode, Maria traces how Selena became a symbol for solidarity and resistance.",
+                "episode": "3"
+            },
+            "enclosure": {
+                "length": "40224969",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9778542368.mp3"
+            },
+            "content:encodedSnippet": "In her life, Selena was a symbol of hope.  She became a role model for how Latinos could achieve the American dream and find acceptance. But a forgotten culture war following her death painted a different picture. In the 25 years since her murder, Selena\u2019s image has taken on new meaning. In this episode, Maria traces how Selena became a symbol for solidarity and resistance.",
+            "guid": "ecd4ff28-0ce2-4127-ab2a-2c755b4b3ee5",
+            "categories": ["Arts", "Music"],
+            "isoDate": "2021-01-19T20:25:21.000Z",
+            "content:encoded": "<p>In her life, Selena was a symbol of hope.  She became a role model for how Latinos could achieve the American dream and find acceptance. But a forgotten culture war following her death painted a different picture. In the 25 years since her murder, Selena\u2019s image has taken on new meaning. In this episode, Maria traces how Selena became a symbol for solidarity and resistance.</p>"
+        },
+        {
+            "creator": "WBUR &amp; Futuro Studios",
+            "dc:creator": "WBUR &amp; Futuro Studios",
+            "link": "http://www.wbur.org/anythingforselena/2021/01/13/selena-y-abraham-espanol",
+            "title": "Selena y Abraham",
+            "pubDate": "Sat, 06 Mar 2021 16:35:25 -0500",
+            "content": "<p>María sabe que para entender verdaderamente a Selena no solo como un ícono, sino también como persona, necesita ir a Corpus Christi. Su búsqueda la lleva hasta Abraham Quintanilla, el padre de Selena. En este episodio, María repasa el legado complicado de Abraham y conversa con la autora Yesika Salgado, con quien reflexiona sobre la relación padre e hija en las familias latinas. </p>",
+            "contentSnippet": "María sabe que para entender verdaderamente a Selena no solo como un ícono, sino también como persona, necesita ir a Corpus Christi. Su búsqueda la lleva hasta Abraham Quintanilla, el padre de Selena. En este episodio, María repasa el legado complicado de Abraham y conversa con la autora Yesika Salgado, con quien reflexiona sobre la relación padre e hija en las familias latinas.",
+            "itunes": {
+                "duration": "00:37:28",
+                "explicit": "no",
+                "summary": "María sabe que para entender verdaderamente a Selena no solo como un ícono, sino también como persona, necesita ir a Corpus Christi. Su búsqueda la lleva hasta Abraham Quintanilla, el padre de Selena. En este episodio, María repasa el legado complicado de Abraham y conversa con la autora Yesika Salgado, con quien reflexiona sobre la relación padre e hija en las familias latinas.",
+                "image": "https://d279m997dpfwgl.cloudfront.net/wp/2021/01/afs-ep-2-artwork-edited-landscape-1.jpg",
+                "author": " WBUR & Futuro Studios ",
+                "subtitle": "María sabe que para entender verdaderamente a Selena no solo como un ícono, sino también como persona, necesita ir a Corpus Christi. Su búsqueda la lleva hasta Abraham Quintanilla, el padre de Selena. En este episodio, María repasa el legado complicado de Abraham y conversa con la autora Yesika Salgado.",
+                "episode": "13"
+            },
+            "enclosure": {
+                "length": "35960950",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR5236689470.mp3"
+            },
+            "content:encodedSnippet": "María sabe que para entender verdaderamente a Selena no solo como un ícono, sino también como persona, necesita ir a Corpus Christi. Su búsqueda la lleva hasta Abraham Quintanilla, el padre de Selena. En este episodio, María repasa el legado complicado de Abraham y conversa con la autora Yesika Salgado, con quien reflexiona sobre la relación padre e hija en las familias latinas.",
+            "guid": "665190f1-cdc0-4c28-91c8-ecf656117c58",
+            "categories": ["Arts", "Music"],
+            "isoDate": "2021-03-06T21:35:25.000Z",
+            "content:encoded": "<p>María sabe que para entender verdaderamente a Selena no solo como un ícono, sino también como persona, necesita ir a Corpus Christi. Su búsqueda la lleva hasta Abraham Quintanilla, el padre de Selena. En este episodio, María repasa el legado complicado de Abraham y conversa con la autora Yesika Salgado, con quien reflexiona sobre la relación padre e hija en las familias latinas. </p>"
+        },
+        {
+            "creator": "WBUR &amp; Futuro Studios",
+            "dc:creator": "WBUR &amp; Futuro Studios",
+            "link": "http://www.wbur.org/anythingforselena/2021/01/13/selena-and-abraham",
+            "title": "Selena and Abraham",
+            "pubDate": "Tue, 12 Jan 2021 16:24:24 -0500",
+            "content": "<p>Maria knows that to truly understand Selena as a person and not just an icon, she needs to go to Corpus Christi. Maria\u2019s quest takes her to Abraham Quintanilla, Selena Quintanilla\u2019s notoriously guarded father. Maria confronts his complicated legacy and reflects on fatherhood in Latinx cultures.</p>",
+            "contentSnippet": "Maria knows that to truly understand Selena as a person and not just an icon, she needs to go to Corpus Christi. Maria\u2019s quest takes her to Abraham Quintanilla, Selena Quintanilla\u2019s notoriously guarded father. Maria confronts his complicated legacy and reflects on fatherhood in Latinx cultures.",
+            "itunes": {
+                "duration": "00:43:37",
+                "explicit": "no",
+                "summary": "Maria knows that to truly understand Selena as a person and not just an icon, she needs to go to Corpus Christi. Maria\u2019s quest takes her to Abraham Quintanilla, Selena Quintanilla\u2019s notoriously guarded father. Maria confronts his complicated legacy and reflects on fatherhood in Latinx cultures.",
+                "image": "https://d279m997dpfwgl.cloudfront.net/wp/2021/01/afs-ep-2-artwork-edited-landscape.jpg",
+                "author": " WBUR & Futuro Studios ",
+                "subtitle": "Maria knows that to truly understand Selena as a person and not just an icon, she needs to go to Corpus Christi. Maria\u2019s quest takes her to Abraham Quintanilla, Selena Quintanilla\u2019s notoriously guarded father. Maria confronts his complicated legacy and reflects on fatherhood in Latinx cultures.",
+                "episode": "2"
+            },
+            "enclosure": {
+                "length": "41867967",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR8722982531.mp3"
+            },
+            "content:encodedSnippet": "Maria knows that to truly understand Selena as a person and not just an icon, she needs to go to Corpus Christi. Maria\u2019s quest takes her to Abraham Quintanilla, Selena Quintanilla\u2019s notoriously guarded father. Maria confronts his complicated legacy and reflects on fatherhood in Latinx cultures.",
+            "guid": "f97a8e3b-b1bf-44cd-a19d-406cad140329",
+            "categories": ["Arts", "Music"],
+            "isoDate": "2021-01-12T21:24:24.000Z",
+            "content:encoded": "<p>Maria knows that to truly understand Selena as a person and not just an icon, she needs to go to Corpus Christi. Maria\u2019s quest takes her to Abraham Quintanilla, Selena Quintanilla\u2019s notoriously guarded father. Maria confronts his complicated legacy and reflects on fatherhood in Latinx cultures.</p>"
+        },
+        {
+            "creator": "WBUR &amp; Futuro Studios",
+            "dc:creator": "WBUR &amp; Futuro Studios",
+            "link": "http://www.wbur.org/anythingforselena/2021/01/13/selena-y-yo-espanol",
+            "title": "Selena y yo",
+            "pubDate": "Fri, 05 Mar 2021 16:06:17 -0500",
+            "content": "<p>Durante su niñez, mientras crecía en una ciudad en la frontera entre Estados Unidos y México, María García se sintió dividida entre dos identidades: la mexicana y la estadounidense. Pero algo cambió su vida. Descubrió a Selena, quien le enseñó que no tenía que elegir entre ser una u otra persona. En el episodio de estreno de \u201cAnything for Selena\u201d, la conductora María García recibe a una invitada muy especial: María Hinojosa, y explora cómo Selena la ayudó a encontrar su propio lugar en el mundo. </p>",
+            "contentSnippet": "Durante su niñez, mientras crecía en una ciudad en la frontera entre Estados Unidos y México, María García se sintió dividida entre dos identidades: la mexicana y la estadounidense. Pero algo cambió su vida. Descubrió a Selena, quien le enseñó que no tenía que elegir entre ser una u otra persona. En el episodio de estreno de \u201cAnything for Selena\u201d, la conductora María García recibe a una invitada muy especial: María Hinojosa, y explora cómo Selena la ayudó a encontrar su propio lugar en el mundo.",
+            "itunes": {
+                "duration": "00:38:12",
+                "explicit": "no",
+                "summary": "Durante su niñez, mientras crecía en una ciudad en la frontera entre Estados Unidos y México, María García se sintió dividida entre dos identidades: la mexicana y la estadounidense. Pero algo cambió su vida. Descubrió a Selena, quien le enseñó que no tenía que elegir entre ser una u otra persona. En el episodio de estreno de \u201cAnything for Selena\u201d, la conductora María García recibe a una invitada muy especial: María Hinojosa, y explora cómo Selena la ayudó a encontrar su propio lugar en el mundo.",
+                "image": "https://d279m997dpfwgl.cloudfront.net/wp/2021/01/afs-ep-1-artwork-edited-landscape-1.jpg",
+                "author": " WBUR & Futuro Studios ",
+                "subtitle": "Durante su niñez, mientras crecía en una ciudad en la frontera entre Estados Unidos y México, María García se sintió dividida entre dos identidades: la mexicana y la estadounidense. Pero algo cambió su vida. Descubrió a Selena, quien le enseñó que no tenía que elegir entre ser una u otra persona. ",
+                "episode": "12"
+            },
+            "enclosure": {
+                "length": "36665211",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR8711233522.mp3"
+            },
+            "content:encodedSnippet": "Durante su niñez, mientras crecía en una ciudad en la frontera entre Estados Unidos y México, María García se sintió dividida entre dos identidades: la mexicana y la estadounidense. Pero algo cambió su vida. Descubrió a Selena, quien le enseñó que no tenía que elegir entre ser una u otra persona. En el episodio de estreno de \u201cAnything for Selena\u201d, la conductora María García recibe a una invitada muy especial: María Hinojosa, y explora cómo Selena la ayudó a encontrar su propio lugar en el mundo.",
+            "guid": "a316d190-5f54-4636-b175-01f6e9a4b6e9",
+            "categories": ["Arts", "Music"],
+            "isoDate": "2021-03-05T21:06:17.000Z",
+            "content:encoded": "<p>Durante su niñez, mientras crecía en una ciudad en la frontera entre Estados Unidos y México, María García se sintió dividida entre dos identidades: la mexicana y la estadounidense. Pero algo cambió su vida. Descubrió a Selena, quien le enseñó que no tenía que elegir entre ser una u otra persona. En el episodio de estreno de \u201cAnything for Selena\u201d, la conductora María García recibe a una invitada muy especial: María Hinojosa, y explora cómo Selena la ayudó a encontrar su propio lugar en el mundo. </p>"
+        },
+        {
+            "creator": "WBUR &amp; Futuro Studios",
+            "dc:creator": "WBUR &amp; Futuro Studios",
+            "link": "http://www.wbur.org/anythingforselena/2021/01/13/selena-and-me",
+            "title": "Selena and Me ",
+            "pubDate": "Tue, 12 Jan 2021 15:06:04 -0500",
+            "content": "<p>Growing up along the US-Mexico border, Maria Garcia felt torn between her two identities as Mexican and American. But then, something changed her life. She discovered Selena Quintanilla\u2014 the Mexican-American pop icon who proved she didn\u2019t have to choose. In the premiere episode of \u201cAnything for Selena,\u201d host Maria Garcia explores how Selena helped Maria find her own place in the world.</p>",
+            "contentSnippet": "Growing up along the US-Mexico border, Maria Garcia felt torn between her two identities as Mexican and American. But then, something changed her life. She discovered Selena Quintanilla\u2014 the Mexican-American pop icon who proved she didn\u2019t have to choose. In the premiere episode of \u201cAnything for Selena,\u201d host Maria Garcia explores how Selena helped Maria find her own place in the world.",
+            "itunes": {
+                "duration": "00:29:58",
+                "explicit": "no",
+                "summary": "Growing up along the US-Mexico border, Maria Garcia felt torn between her two identities as Mexican and American. But then, something changed her life. She discovered Selena Quintanilla\u2014 the Mexican-American pop icon who proved she didn\u2019t have to choose. In the premiere episode of \u201cAnything for Selena,\u201d host Maria Garcia explores how Selena helped Maria find her own place in the world.",
+                "image": "https://d279m997dpfwgl.cloudfront.net/wp/2021/01/afs-ep-1-artwork-edited-landscape.jpg",
+                "author": " WBUR & Futuro Studios ",
+                "subtitle": "Growing up along the U.S.-Mexico border, Maria Garcia felt torn between her two identities as Mexican and American. But then, something changed her life. She discovered Selena \u2014 the Mexican-American pop icon who proved she didn\u2019t have to choose. In the premiere episode of \u201cAnything for Selena,\u201d Maria explores how Selena helped Maria find her own place in the world.",
+                "episode": "1"
+            },
+            "enclosure": {
+                "length": "28766618",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR5015104368.mp3"
+            },
+            "content:encodedSnippet": "Growing up along the US-Mexico border, Maria Garcia felt torn between her two identities as Mexican and American. But then, something changed her life. She discovered Selena Quintanilla\u2014 the Mexican-American pop icon who proved she didn\u2019t have to choose. In the premiere episode of \u201cAnything for Selena,\u201d host Maria Garcia explores how Selena helped Maria find her own place in the world.",
+            "guid": "db0d9a0c-6e83-4126-b5c4-f8f3f9e3ce68",
+            "categories": ["Arts", "Music"],
+            "isoDate": "2021-01-12T20:06:04.000Z",
+            "content:encoded": "<p>Growing up along the US-Mexico border, Maria Garcia felt torn between her two identities as Mexican and American. But then, something changed her life. She discovered Selena Quintanilla\u2014 the Mexican-American pop icon who proved she didn\u2019t have to choose. In the premiere episode of \u201cAnything for Selena,\u201d host Maria Garcia explores how Selena helped Maria find her own place in the world.</p>"
+        },
+        {
+            "creator": "WBUR &amp; Futuro Studios",
+            "dc:creator": "WBUR &amp; Futuro Studios",
+            "link": "http://www.wbur.org/anythingforselena/2020/10/09/selena-podcast-announcement",
+            "title": "A Podcast About Belonging",
+            "pubDate": "Fri, 09 Oct 2020 16:12:46 -0400",
+            "content": "<p>Maria Garcia was 9 years old and living on the U.S.-Mexico border when Selena was murdered. Twenty five years later, Maria is on a quest to understand what it means to love, mourn and celebrate Selena. In this intimate, sometimes wrenching, cathartic journey, Maria explores what Selena\u2019s legacy shows us about belonging in America -- and Maria\u2019s own place in the world. </p>\r\n\r\n<p>First episode coming in January 2021. Subscribe now so you don't miss it!</p>",
+            "contentSnippet": "Maria Garcia was 9 years old and living on the U.S.-Mexico border when Selena was murdered. Twenty five years later, Maria is on a quest to understand what it means to love, mourn and celebrate Selena. In this intimate, sometimes wrenching, cathartic journey, Maria explores what Selena\u2019s legacy shows us about belonging in America -- and Maria\u2019s own place in the world. \n\r\n\r\nFirst episode coming in January 2021. Subscribe now so you don't miss it!",
+            "itunes": {
+                "duration": "00:04:22",
+                "explicit": "no",
+                "summary": "Maria Garcia was 9 years old and living on the U.S.-Mexico border when Selena was murdered. Twenty five years later, Maria is on a quest to understand what it means to love, mourn and celebrate Selena. In this intimate, sometimes wrenching, cathartic journey, Maria explores what Selena\u2019s legacy shows us about belonging in America -- and Maria\u2019s own place in the world. \r\n\r\nFirst episode coming in January 2021. Subscribe now so you don't miss it!",
+                "image": "https://d279m997dpfwgl.cloudfront.net/wp/2020/10/selena2.jpg",
+                "author": " WBUR & Futuro Studios ",
+                "subtitle": "I can still see her if I close my eyes: red lips, brown skin, big hoops. I can also still see myself -- 7 years old, new to this country, figuring out how to belong. Then she was gone -- suddenly, violently. Her death changed us. It changed me. A quarter century later, I\u2019m on the biggest quest of my career, investigating Selena's legacy. The journey has led me to some of the biggest revelations about my identity, my community and my country. "
+            },
+            "enclosure": {
+                "length": "4195634",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4689796143.mp3"
+            },
+            "content:encodedSnippet": "Maria Garcia was 9 years old and living on the U.S.-Mexico border when Selena was murdered. Twenty five years later, Maria is on a quest to understand what it means to love, mourn and celebrate Selena. In this intimate, sometimes wrenching, cathartic journey, Maria explores what Selena\u2019s legacy shows us about belonging in America -- and Maria\u2019s own place in the world. \n\r\n\r\nFirst episode coming in January 2021. Subscribe now so you don't miss it!",
+            "guid": "a409f92c-5bf7-4824-b043-b6a723cd9f22",
+            "categories": ["Arts", "Music"],
+            "isoDate": "2020-10-09T20:12:46.000Z",
+            "content:encoded": "<p>Maria Garcia was 9 years old and living on the U.S.-Mexico border when Selena was murdered. Twenty five years later, Maria is on a quest to understand what it means to love, mourn and celebrate Selena. In this intimate, sometimes wrenching, cathartic journey, Maria explores what Selena\u2019s legacy shows us about belonging in America -- and Maria\u2019s own place in the world. </p>\r\n\r\n<p>First episode coming in January 2021. Subscribe now so you don't miss it!</p>"
+        }
+    ]
+}

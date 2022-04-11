@@ -1,0 +1,269 @@
+{
+    "image": {
+        "link": "http://www.bbc.co.uk/programmes/m0012fjk",
+        "title": "The Hackers",
+        "url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0b7r6d4.jpg"
+    },
+    "copyright": "(C) BBC 2021",
+    "feedUrl": "http://www.bbc.co.uk/programmes/m0012fjk/episodes/downloads.rss",
+    "paginationLinks": {
+        "self": "http://www.bbc.co.uk/programmes/m0012fjk/episodes/downloads.rss"
+    },
+    "link": "http://www.bbc.co.uk/programmes/m0012fjk",
+    "description": "Digital anthropologist Gabriella Coleman interviews the most influential actors in each era of the evolution of hacking culture from the 1970s to the present day.",
+    "language": "en",
+    "title": "The Hackers",
+    "pubDate": "Mon, 20 Dec 2021 05:00:00 +0000",
+    "itunes": {
+        "categoriesWithSubs": [
+            { "subs": null, "name": "Society & Culture" },
+            { "subs": null, "name": "Technology" }
+        ],
+        "explicit": "no",
+        "owner": { "name": "BBC", "email": "RadioMusic.Support@bbc.co.uk" },
+        "summary": "Digital anthropologist Gabriella Coleman interviews the most influential actors in each era of the evolution of hacking culture from the 1970s to the present day.",
+        "image": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0b7r6d4.jpg",
+        "author": "BBC Radio 4",
+        "categories": ["Society & Culture", "Technology"]
+    },
+    "entities": [
+        "anthropologist",
+        "Gabriella Coleman",
+        "the 1970s",
+        "the present day"
+    ],
+    "palette": ["0566BA", "E4E4E4", "21BBFB", "89AAD3", "74749A", "74848C"],
+    "items": [
+        {
+            "itunes": {
+                "duration": "842",
+                "explicit": "clean",
+                "summary": "In the past, it was natural to open your phone and pop in a new battery. Today, to do that you may have to be a hacker. Biella speaks to representatives from the EU Right to Repair Movement, and farmers Nebraska to talk about this new, and unexpected frontier in hacker culture we may all soon belong to - the Right to Repair Movement.",
+                "author": "BBC Radio 4",
+                "subtitle": "Biella discovers why simply repairing your own device may make you a hacker."
+            },
+            "enclosure": {
+                "length": "13472000",
+                "type": "audio/mpeg",
+                "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bbqc3q.mp3"
+            },
+            "link": "http://www.bbc.co.uk/programmes/m0012r78",
+            "guid": "urn:bbc:podcast:m0012r78",
+            "isoDate": "2021-12-20T05:00:00.000Z",
+            "title": "Broken",
+            "pubDate": "Mon, 20 Dec 2021 05:00:00 +0000",
+            "content": "In the past, it was natural to open your phone and pop in a new battery. Today, to do that you may have to be a hacker. Biella speaks to representatives from the EU Right to Repair Movement, and farmers Nebraska to talk about this new, and unexpected frontier in hacker culture we may all soon belong to - the Right to Repair Movement.",
+            "contentSnippet": "In the past, it was natural to open your phone and pop in a new battery. Today, to do that you may have to be a hacker. Biella speaks to representatives from the EU Right to Repair Movement, and farmers Nebraska to talk about this new, and unexpected frontier in hacker culture we may all soon belong to - the Right to Repair Movement."
+        },
+        {
+            "itunes": {
+                "duration": "882",
+                "explicit": "clean",
+                "summary": "Biella explores biohacking - the hacking of the human body - and the different reasons why people are becoming cyborgs. \n\nShe speaks with artist Moon Ribas about how tech can be used to push the boundaries of creative expression while putting humans in touch with the earth, and even the cosmos, and Winter Mraz an engineer who in the aftermath of a horrific car crash, used various implants to improve her body, and hack her way to an easier way to live with mental and physical disabilities.",
+                "author": "BBC Radio 4",
+                "subtitle": "Biella discovers the different reasons people hack their own bodies."
+            },
+            "enclosure": {
+                "length": "14112000",
+                "type": "audio/mpeg",
+                "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bbqb1h.mp3"
+            },
+            "link": "http://www.bbc.co.uk/programmes/m0012q69",
+            "guid": "urn:bbc:podcast:m0012q69",
+            "isoDate": "2021-12-20T05:00:00.000Z",
+            "title": "Wetware",
+            "pubDate": "Mon, 20 Dec 2021 05:00:00 +0000",
+            "content": "Biella explores biohacking - the hacking of the human body - and the different reasons why people are becoming cyborgs. \n\nShe speaks with artist Moon Ribas about how tech can be used to push the boundaries of creative expression while putting humans in touch with the earth, and even the cosmos, and Winter Mraz an engineer who in the aftermath of a horrific car crash, used various implants to improve her body, and hack her way to an easier way to live with mental and physical disabilities.",
+            "contentSnippet": "Biella explores biohacking - the hacking of the human body - and the different reasons why people are becoming cyborgs. \n\nShe speaks with artist Moon Ribas about how tech can be used to push the boundaries of creative expression while putting humans in touch with the earth, and even the cosmos, and Winter Mraz an engineer who in the aftermath of a horrific car crash, used various implants to improve her body, and hack her way to an easier way to live with mental and physical disabilities."
+        },
+        {
+            "itunes": {
+                "duration": "842",
+                "explicit": "clean",
+                "summary": "In the past, state sponsored hacking focused on espionage, stealing sensitive information and disrupting technological system. Nowadays, the focus has shifted. Rather than hacking technology, state sponsored hackers are targeting people. Biella speaks with Darren Linvill about a new kind of malevolent hacking, and how by playing to the algorithms on various social networks, these professional agents can sow chaos, and rope lay users into spreading rage and misinformation across societies.",
+                "author": "BBC Radio 4",
+                "subtitle": "Biella Coleman discovers how people, not tech, are targets of malicious actors."
+            },
+            "enclosure": {
+                "length": "13472000",
+                "type": "audio/mpeg",
+                "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bbqdqb.mp3"
+            },
+            "link": "http://www.bbc.co.uk/programmes/m0012q2m",
+            "guid": "urn:bbc:podcast:m0012q2m",
+            "isoDate": "2021-12-20T05:00:00.000Z",
+            "title": "End User",
+            "pubDate": "Mon, 20 Dec 2021 05:00:00 +0000",
+            "content": "In the past, state sponsored hacking focused on espionage, stealing sensitive information and disrupting technological system. Nowadays, the focus has shifted. Rather than hacking technology, state sponsored hackers are targeting people. Biella speaks with Darren Linvill about a new kind of malevolent hacking, and how by playing to the algorithms on various social networks, these professional agents can sow chaos, and rope lay users into spreading rage and misinformation across societies.",
+            "contentSnippet": "In the past, state sponsored hacking focused on espionage, stealing sensitive information and disrupting technological system. Nowadays, the focus has shifted. Rather than hacking technology, state sponsored hackers are targeting people. Biella speaks with Darren Linvill about a new kind of malevolent hacking, and how by playing to the algorithms on various social networks, these professional agents can sow chaos, and rope lay users into spreading rage and misinformation across societies."
+        },
+        {
+            "itunes": {
+                "duration": "887",
+                "explicit": "clean",
+                "summary": "One of the core beliefs in the many subsets of hacker culture is that information should be freely accessible and shared. But there are two distinct ways of achieving this freedom of information - Piracy, and The Open Source.\n\nBiella talks to Peter Sunde, co-founder of the Pirate bay, and Karen Sandler of the Software Freedom Conservancy, to discover how both movements have become entwined with the hacker community over the years, and which has the most potential to disrupt the increasingly monopolised world of tech development.",
+                "author": "BBC Radio 4",
+                "subtitle": "Biella Coleman discovers how Piracy and Open Source have impacted hacking."
+            },
+            "enclosure": {
+                "length": "14192000",
+                "type": "audio/mpeg",
+                "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bbqdbx.mp3"
+            },
+            "link": "http://www.bbc.co.uk/programmes/m0012qy3",
+            "guid": "urn:bbc:podcast:m0012qy3",
+            "isoDate": "2021-12-20T05:00:00.000Z",
+            "title": "Sharing",
+            "pubDate": "Mon, 20 Dec 2021 05:00:00 +0000",
+            "content": "One of the core beliefs in the many subsets of hacker culture is that information should be freely accessible and shared. But there are two distinct ways of achieving this freedom of information - Piracy, and The Open Source.\n\nBiella talks to Peter Sunde, co-founder of the Pirate bay, and Karen Sandler of the Software Freedom Conservancy, to discover how both movements have become entwined with the hacker community over the years, and which has the most potential to disrupt the increasingly monopolised world of tech development.",
+            "contentSnippet": "One of the core beliefs in the many subsets of hacker culture is that information should be freely accessible and shared. But there are two distinct ways of achieving this freedom of information - Piracy, and The Open Source.\n\nBiella talks to Peter Sunde, co-founder of the Pirate bay, and Karen Sandler of the Software Freedom Conservancy, to discover how both movements have become entwined with the hacker community over the years, and which has the most potential to disrupt the increasingly monopolised world of tech development."
+        },
+        {
+            "itunes": {
+                "duration": "842",
+                "explicit": "clean",
+                "summary": "Biella and technology journalist Frank Bajak discuss how two teenage hackers, calling themselves Lulzsec Peru, managed to expose corruption and shook the Peruvian government to the core with a massive leak of documents - and in doing so become some of the most impactful hacktivists of the early 2000s.",
+                "author": "BBC Radio 4",
+                "subtitle": "Biella tells the story of how two teen hackers rattled South American governments."
+            },
+            "enclosure": {
+                "length": "13472000",
+                "type": "audio/mpeg",
+                "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bbqcws.mp3"
+            },
+            "link": "http://www.bbc.co.uk/programmes/m0012plm",
+            "guid": "urn:bbc:podcast:m0012plm",
+            "isoDate": "2021-12-20T05:00:00.000Z",
+            "title": "For the Lulz",
+            "pubDate": "Mon, 20 Dec 2021 05:00:00 +0000",
+            "content": "Biella and technology journalist Frank Bajak discuss how two teenage hackers, calling themselves Lulzsec Peru, managed to expose corruption and shook the Peruvian government to the core with a massive leak of documents - and in doing so become some of the most impactful hacktivists of the early 2000s.",
+            "contentSnippet": "Biella and technology journalist Frank Bajak discuss how two teenage hackers, calling themselves Lulzsec Peru, managed to expose corruption and shook the Peruvian government to the core with a massive leak of documents - and in doing so become some of the most impactful hacktivists of the early 2000s."
+        },
+        {
+            "itunes": {
+                "duration": "873",
+                "explicit": "clean",
+                "summary": "Biella explores the legacy of Aaron Swartz. From the age of 14, Aaron was a prolific hacker, inventor and activist. He was integral in the creation of Creative Commons and the Internet Archive, co-founder social media site Reddit, and was passionate in his activism work that culminated in the dismissal of the Stop Online Piracy Act in the USA. But Aaron took his own life at the age of 26 when he was charged with violating the Computer Fraud and Abuse Act, facing decades in prison and millions of dollars in fines - a court case that many at the time felt was completely unjustified.\n\nBiella speaks with Harvard Professor Lawrence Lessig who worked with Aaron on the Creative Commons project, and a Lisa Rein, co-founder of \u2018Aaron Swartz Day\u2019 that works to carry on projects started or inspired by Aaron\u2019s work, and discusses why it\u2019s important to remember Aaron\u2019s story, the legacy of his work, and to find out if a recent Supreme Court ruling on the CFAA means that people like Aaron may be safer in the future.",
+                "author": "BBC Radio 4",
+                "subtitle": "Biella explores the legacy of Aaron Swartz on the hacker community."
+            },
+            "enclosure": {
+                "length": "13968000",
+                "type": "audio/mpeg",
+                "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0b9xtpf.mp3"
+            },
+            "link": "http://www.bbc.co.uk/programmes/m0012fwt",
+            "guid": "urn:bbc:podcast:m0012fwt",
+            "isoDate": "2021-12-14T13:47:00.000Z",
+            "title": "Aaron",
+            "pubDate": "Tue, 14 Dec 2021 13:47:00 +0000",
+            "content": "Biella explores the legacy of Aaron Swartz. From the age of 14, Aaron was a prolific hacker, inventor and activist. He was integral in the creation of Creative Commons and the Internet Archive, co-founder social media site Reddit, and was passionate in his activism work that culminated in the dismissal of the Stop Online Piracy Act in the USA. But Aaron took his own life at the age of 26 when he was charged with violating the Computer Fraud and Abuse Act, facing decades in prison and millions of dollars in fines - a court case that many at the time felt was completely unjustified.\n\nBiella speaks with Harvard Professor Lawrence Lessig who worked with Aaron on the Creative Commons project, and a Lisa Rein, co-founder of \u2018Aaron Swartz Day\u2019 that works to carry on projects started or inspired by Aaron\u2019s work, and discusses why it\u2019s important to remember Aaron\u2019s story, the legacy of his work, and to find out if a recent Supreme Court ruling on the CFAA means that people like Aaron may be safer in the future.",
+            "contentSnippet": "Biella explores the legacy of Aaron Swartz. From the age of 14, Aaron was a prolific hacker, inventor and activist. He was integral in the creation of Creative Commons and the Internet Archive, co-founder social media site Reddit, and was passionate in his activism work that culminated in the dismissal of the Stop Online Piracy Act in the USA. But Aaron took his own life at the age of 26 when he was charged with violating the Computer Fraud and Abuse Act, facing decades in prison and millions of dollars in fines - a court case that many at the time felt was completely unjustified.\n\nBiella speaks with Harvard Professor Lawrence Lessig who worked with Aaron on the Creative Commons project, and a Lisa Rein, co-founder of \u2018Aaron Swartz Day\u2019 that works to carry on projects started or inspired by Aaron\u2019s work, and discusses why it\u2019s important to remember Aaron\u2019s story, the legacy of his work, and to find out if a recent Supreme Court ruling on the CFAA means that people like Aaron may be safer in the future."
+        },
+        {
+            "itunes": {
+                "duration": "842",
+                "explicit": "clean",
+                "summary": "Biella uncovers the story of how in the 1980s and 90s the French government forced hackers to work for them, drawing young men who had skirted the law into the depths of international cyber warfare.",
+                "author": "BBC Radio 4",
+                "subtitle": "Biella Coleman discovers how France once forced hackers to work for the government."
+            },
+            "enclosure": {
+                "length": "13472000",
+                "type": "audio/mpeg",
+                "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0b9xtv8.mp3"
+            },
+            "link": "http://www.bbc.co.uk/programmes/m0012flt",
+            "guid": "urn:bbc:podcast:m0012flt",
+            "isoDate": "2021-12-14T13:46:00.000Z",
+            "title": "Press Ganged",
+            "pubDate": "Tue, 14 Dec 2021 13:46:00 +0000",
+            "content": "Biella uncovers the story of how in the 1980s and 90s the French government forced hackers to work for them, drawing young men who had skirted the law into the depths of international cyber warfare.",
+            "contentSnippet": "Biella uncovers the story of how in the 1980s and 90s the French government forced hackers to work for them, drawing young men who had skirted the law into the depths of international cyber warfare."
+        },
+        {
+            "itunes": {
+                "duration": "892",
+                "explicit": "clean",
+                "summary": "Hackers have long been portrayed as the bad guys, but Biella uncovers how the ethical Grey and White Hat hackers created the modern security industry, despite the risk to their careers, and fierce opposition from major tech and software companies who wanted to keep any vulnerabilities in their products hidden from the public eye. She talks with Chris Wysopal, member the high-profile hacker think tank the L0pht, about the struggle for security, and how that fight may have inadvertently damaged a key part of hacker culture in the long term.",
+                "author": "BBC Radio 4",
+                "subtitle": "Biella Coleman discovers how hackers created the security industry."
+            },
+            "enclosure": {
+                "length": "14272000",
+                "type": "audio/mpeg",
+                "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0b9xtxn.mp3"
+            },
+            "link": "http://www.bbc.co.uk/programmes/m0012fnt",
+            "guid": "urn:bbc:podcast:m0012fnt",
+            "isoDate": "2021-12-14T13:45:00.000Z",
+            "title": "Hail Satan",
+            "pubDate": "Tue, 14 Dec 2021 13:45:00 +0000",
+            "content": "Hackers have long been portrayed as the bad guys, but Biella uncovers how the ethical Grey and White Hat hackers created the modern security industry, despite the risk to their careers, and fierce opposition from major tech and software companies who wanted to keep any vulnerabilities in their products hidden from the public eye. She talks with Chris Wysopal, member the high-profile hacker think tank the L0pht, about the struggle for security, and how that fight may have inadvertently damaged a key part of hacker culture in the long term.",
+            "contentSnippet": "Hackers have long been portrayed as the bad guys, but Biella uncovers how the ethical Grey and White Hat hackers created the modern security industry, despite the risk to their careers, and fierce opposition from major tech and software companies who wanted to keep any vulnerabilities in their products hidden from the public eye. She talks with Chris Wysopal, member the high-profile hacker think tank the L0pht, about the struggle for security, and how that fight may have inadvertently damaged a key part of hacker culture in the long term."
+        },
+        {
+            "itunes": {
+                "duration": "842",
+                "explicit": "clean",
+                "summary": "In 1988, the first major computer worm shook the early internet to his core, disabling computers across the network and even causing panic in the Pentagon. Biella uncovers the story with Eugene Spafford, the first person to analyse the worm that caused so much chaos, and finds out why worms can still be so devastating decades later.",
+                "author": "BBC Radio 4",
+                "subtitle": "Biella Coleman tells the story of the first global internet worm."
+            },
+            "enclosure": {
+                "length": "13472000",
+                "type": "audio/mpeg",
+                "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0b9p2c7.mp3"
+            },
+            "link": "http://www.bbc.co.uk/programmes/m0012fsx",
+            "guid": "urn:bbc:podcast:m0012fsx",
+            "isoDate": "2021-12-13T13:46:00.000Z",
+            "title": "The Worm",
+            "pubDate": "Mon, 13 Dec 2021 13:46:00 +0000",
+            "content": "In 1988, the first major computer worm shook the early internet to his core, disabling computers across the network and even causing panic in the Pentagon. Biella uncovers the story with Eugene Spafford, the first person to analyse the worm that caused so much chaos, and finds out why worms can still be so devastating decades later.",
+            "contentSnippet": "In 1988, the first major computer worm shook the early internet to his core, disabling computers across the network and even causing panic in the Pentagon. Biella uncovers the story with Eugene Spafford, the first person to analyse the worm that caused so much chaos, and finds out why worms can still be so devastating decades later."
+        },
+        {
+            "itunes": {
+                "duration": "895",
+                "explicit": "clean",
+                "summary": "Biella explores the earliest hacking subculture - The Phone Phreaks - an entire subculture that learned to manipulate the phone system with plastic whistles and tone generating blue boxes, and played a part in birthing the modern digital world. She talks with Phil Lapsley, author of \u2018Exploding the Phone\u2019 and a UK hacker who was one of the last generation of traditional phone phreaks  about the joy and the risks of the earliest type of hacking.",
+                "author": "BBC Radio 4",
+                "subtitle": "Biella Coleman explores the earliest hacking subculture - Phone Phreaks."
+            },
+            "enclosure": {
+                "length": "14320000",
+                "type": "audio/mpeg",
+                "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0b9p2bv.mp3"
+            },
+            "link": "http://www.bbc.co.uk/programmes/m0012fjh",
+            "guid": "urn:bbc:podcast:m0012fjh",
+            "isoDate": "2021-12-13T13:45:00.000Z",
+            "title": "Phreaks",
+            "pubDate": "Mon, 13 Dec 2021 13:45:00 +0000",
+            "content": "Biella explores the earliest hacking subculture - The Phone Phreaks - an entire subculture that learned to manipulate the phone system with plastic whistles and tone generating blue boxes, and played a part in birthing the modern digital world. She talks with Phil Lapsley, author of \u2018Exploding the Phone\u2019 and a UK hacker who was one of the last generation of traditional phone phreaks  about the joy and the risks of the earliest type of hacking.",
+            "contentSnippet": "Biella explores the earliest hacking subculture - The Phone Phreaks - an entire subculture that learned to manipulate the phone system with plastic whistles and tone generating blue boxes, and played a part in birthing the modern digital world. She talks with Phil Lapsley, author of \u2018Exploding the Phone\u2019 and a UK hacker who was one of the last generation of traditional phone phreaks  about the joy and the risks of the earliest type of hacking."
+        },
+        {
+            "itunes": {
+                "duration": "173",
+                "explicit": "clean",
+                "summary": "Digital anthropologist Gabriella Coleman explores the strange history of hacker culture. From the kids who Phreaked the phone networks of the 1950s, right up to the present day.",
+                "author": "BBC Radio 4",
+                "subtitle": "Digital anthropologist Gabriella Coleman explores the strange history of hacker culture."
+            },
+            "enclosure": {
+                "length": "2768000",
+                "type": "audio/mpeg",
+                "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bbdxyr.mp3"
+            },
+            "link": "http://www.bbc.co.uk/programmes/p0bbf362",
+            "guid": "urn:bbc:podcast:p0bbf362",
+            "isoDate": "2021-12-06T05:00:00.000Z",
+            "title": "Introducing The Hackers",
+            "pubDate": "Mon, 06 Dec 2021 05:00:00 +0000",
+            "content": "Digital anthropologist Gabriella Coleman explores the strange history of hacker culture. From the kids who Phreaked the phone networks of the 1950s, right up to the present day.",
+            "contentSnippet": "Digital anthropologist Gabriella Coleman explores the strange history of hacker culture. From the kids who Phreaked the phone networks of the 1950s, right up to the present day."
+        }
+    ]
+}

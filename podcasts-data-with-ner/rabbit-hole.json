@@ -1,0 +1,287 @@
+{
+    "image": {
+        "link": "https://rabbit-hole.simplecast.com",
+        "title": "Rabbit Hole",
+        "url": "https://image.simplecastcdn.com/images/2f42c02b-f514-4d58-9dba-9c912710c44c/7399e9eb-d028-4f89-b34f-48d00e7d148f/3000x3000/7aa6977d5de901347c8940d68c096f75e4301fe415c53cc78d28b429ca2efec7d4059c725d603810524f18ff6a2c03ecab3158c13e6c6c624aae1d3831a871ee.jpeg?aid=rss_feed"
+    },
+    "copyright": "© 2020-2021 THE NEW YORK TIMES COMPANY; The New York Times encourages the use of RSS feeds for personal use in a news reader or as part of a non-commercial blog, subject to your agreement to our Terms of Service.",
+    "feedUrl": "https://feeds.simplecast.com/oCXij9l2",
+    "paginationLinks": { "self": "https://feeds.simplecast.com/oCXij9l2" },
+    "lastBuildDate": "Fri, 19 Mar 2021 15:33:09 +0000",
+    "link": "https://rabbit-hole.simplecast.com",
+    "description": "What is the internet doing to us? The Times tech columnist Kevin Roose discovers what happens when our lives move online.",
+    "generator": "https://simplecast.com",
+    "language": "en",
+    "title": "Rabbit Hole",
+    "pubDate": "Thu, 4 Jun 2020 20:00:21 +0000",
+    "itunes": {
+        "categoriesWithSubs": [
+            { "subs": null, "name": "Technology" },
+            { "subs": null, "name": "Society & Culture" }
+        ],
+        "explicit": "no",
+        "owner": {
+            "name": "The New York Times",
+            "email": "thedaily@nytimes.com"
+        },
+        "summary": "What is the internet doing to us? The Times tech columnist Kevin Roose discovers what happens when our lives move online.",
+        "image": "https://image.simplecastcdn.com/images/2f42c02b-f514-4d58-9dba-9c912710c44c/7399e9eb-d028-4f89-b34f-48d00e7d148f/3000x3000/7aa6977d5de901347c8940d68c096f75e4301fe415c53cc78d28b429ca2efec7d4059c725d603810524f18ff6a2c03ecab3158c13e6c6c624aae1d3831a871ee.jpeg?aid=rss_feed",
+        "author": "The New York Times",
+        "categories": ["Technology", "Society & Culture"]
+    },
+    "entities": ["Times", "columnist", "Kevin Roose"],
+    "palette": ["171816", "CE7568", "337196", "2C5C72", "68443F", "4A8FB3"],
+    "items": [
+        {
+            "creator": "thedaily@nytimes.com (The New York Times)",
+            "author": "thedaily@nytimes.com (The New York Times)",
+            "link": "https://rabbit-hole.simplecast.com/episodes/eight-we-go-all-cVLeCuQL",
+            "title": "Eight: 'We Go All'",
+            "pubDate": "Thu, 4 Jun 2020 20:00:21 +0000",
+            "content": "<p>One QAnon believer\u2019s journey through faith and loss \u2014 and what becomes of reality as we move online.</p>\n",
+            "contentSnippet": "One QAnon believer\u2019s journey through faith and loss \u2014 and what becomes of reality as we move online.",
+            "itunes": {
+                "duration": "00:35:04",
+                "explicit": "yes",
+                "summary": "One QAnon believer\u2019s journey through faith and loss \u2014 and what becomes of reality as we move online.",
+                "image": "https://image.simplecastcdn.com/images/2f42c0/2f42c02b-f514-4d58-9dba-9c912710c44c/c072ace0-089c-43e0-9c88-b6b659631d0e/3000x3000/7aa6977d5de901347c8940d68c096f75e4301fe415c53cc78d28b429ca2efec7d4059c725d603810524f18ff6a2c03ecab3158c13e6c6c624aae1d3831a871ee.jpeg?aid=rss_feed",
+                "author": "The New York Times",
+                "subtitle": "One QAnon believer\u2019s journey through faith and loss \u2014 and what becomes of reality as we move online.",
+                "season": "1",
+                "episode": "8"
+            },
+            "enclosure": {
+                "length": "34386583",
+                "type": "audio/mpeg",
+                "url": "https://chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/2f42c02b-f514-4d58-9dba-9c912710c44c/episodes/c072ace0-089c-43e0-9c88-b6b659631d0e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2f42c02b-f514-4d58-9dba-9c912710c44c&awEpisodeId=c072ace0-089c-43e0-9c88-b6b659631d0e&feed=oCXij9l2"
+            },
+            "content:encodedSnippet": "One QAnon believer\u2019s journey through faith and loss \u2014 and what becomes of reality as we move online.",
+            "guid": "gid://art19-episode-locator/V0/eZdcXAMjVYmpitGDd6s3EOvlgM4G4u9Uy0H-gPfR4JU",
+            "isoDate": "2020-06-04T20:00:21.000Z",
+            "content:encoded": "<p>One QAnon believer\u2019s journey through faith and loss \u2014 and what becomes of reality as we move online.</p>\n"
+        },
+        {
+            "creator": "thedaily@nytimes.com (The New York Times)",
+            "author": "thedaily@nytimes.com (The New York Times)",
+            "link": "https://rabbit-hole.simplecast.com/episodes/seven-where-we-go-one-Hb8BAoNg",
+            "title": "Seven: 'Where We Go One'",
+            "pubDate": "Thu, 28 May 2020 20:00:00 +0000",
+            "content": "<p>QAnon believers, united in a battle against what they see as dark forces of the world, reveal where the internet is headed.</p>\n",
+            "contentSnippet": "QAnon believers, united in a battle against what they see as dark forces of the world, reveal where the internet is headed.",
+            "itunes": {
+                "duration": "00:29:01",
+                "explicit": "yes",
+                "summary": "QAnon believers, united in a battle against what they see as dark forces of the world, reveal where the internet is headed.",
+                "image": "https://image.simplecastcdn.com/images/2f42c0/2f42c02b-f514-4d58-9dba-9c912710c44c/1f13b0a8-88af-46f9-b9c6-0135bdacc6a1/3000x3000/7aa6977d5de901347c8940d68c096f75e4301fe415c53cc78d28b429ca2efec7d4059c725d603810524f18ff6a2c03ecab3158c13e6c6c624aae1d3831a871ee.jpeg?aid=rss_feed",
+                "author": "The New York Times",
+                "subtitle": "QAnon believers, united in a battle against what they see as dark forces of the world, reveal where the internet is headed.",
+                "season": "1",
+                "episode": "7"
+            },
+            "enclosure": {
+                "length": "28574030",
+                "type": "audio/mpeg",
+                "url": "https://chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/2f42c02b-f514-4d58-9dba-9c912710c44c/episodes/1f13b0a8-88af-46f9-b9c6-0135bdacc6a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2f42c02b-f514-4d58-9dba-9c912710c44c&awEpisodeId=1f13b0a8-88af-46f9-b9c6-0135bdacc6a1&feed=oCXij9l2"
+            },
+            "content:encodedSnippet": "QAnon believers, united in a battle against what they see as dark forces of the world, reveal where the internet is headed.",
+            "guid": "gid://art19-episode-locator/V0/eWRXh_ej5nlRUnIPdCQoZ1te1GxnfL9z41pJ-k3PKgQ",
+            "isoDate": "2020-05-28T20:00:00.000Z",
+            "content:encoded": "<p>QAnon believers, united in a battle against what they see as dark forces of the world, reveal where the internet is headed.</p>\n"
+        },
+        {
+            "creator": "thedaily@nytimes.com (The New York Times)",
+            "author": "thedaily@nytimes.com (The New York Times)",
+            "link": "https://rabbit-hole.simplecast.com/episodes/six-impasse-hxzR_8kQ",
+            "title": "Six: Impasse",
+            "pubDate": "Thu, 21 May 2020 20:00:00 +0000",
+            "content": "<p>An interview with PewDiePie, as he comes to grips with his influence.</p>\n",
+            "contentSnippet": "An interview with PewDiePie, as he comes to grips with his influence.",
+            "itunes": {
+                "duration": "00:23:55",
+                "explicit": "yes",
+                "summary": "An interview with PewDiePie, as he comes to grips with his influence.",
+                "image": "https://image.simplecastcdn.com/images/2f42c0/2f42c02b-f514-4d58-9dba-9c912710c44c/1916526d-ff07-4c0d-94ce-e2500ca902fe/3000x3000/7aa6977d5de901347c8940d68c096f75e4301fe415c53cc78d28b429ca2efec7d4059c725d603810524f18ff6a2c03ecab3158c13e6c6c624aae1d3831a871ee.jpeg?aid=rss_feed",
+                "author": "The New York Times",
+                "subtitle": "An interview with PewDiePie, as he comes to grips with his influence.",
+                "season": "1",
+                "episode": "6"
+            },
+            "enclosure": {
+                "length": "23687239",
+                "type": "audio/mpeg",
+                "url": "https://chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/2f42c02b-f514-4d58-9dba-9c912710c44c/episodes/1916526d-ff07-4c0d-94ce-e2500ca902fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=2f42c02b-f514-4d58-9dba-9c912710c44c&awEpisodeId=1916526d-ff07-4c0d-94ce-e2500ca902fe&feed=oCXij9l2"
+            },
+            "content:encodedSnippet": "An interview with PewDiePie, as he comes to grips with his influence.",
+            "guid": "gid://art19-episode-locator/V0/QSnquz7doezfRfNxfmIivoMOTDmN-ttm76tEAW9p7Jc",
+            "isoDate": "2020-05-21T20:00:00.000Z",
+            "content:encoded": "<p>An interview with PewDiePie, as he comes to grips with his influence.</p>\n"
+        },
+        {
+            "creator": "thedaily@nytimes.com (The New York Times)",
+            "author": "thedaily@nytimes.com (The New York Times)",
+            "link": "https://rabbit-hole.simplecast.com/episodes/five-the-accidental-emperor-I8WBGOV6",
+            "title": "Five: The Accidental Emperor",
+            "pubDate": "Thu, 14 May 2020 20:00:00 +0000",
+            "content": "<p>How one outsider came to rule the internet \u2014 and eventually embody its battle with mainstream culture.</p>\n",
+            "contentSnippet": "How one outsider came to rule the internet \u2014 and eventually embody its battle with mainstream culture.",
+            "itunes": {
+                "duration": "00:34:17",
+                "explicit": "no",
+                "summary": "How one outsider came to rule the internet \u2014 and eventually embody its battle with mainstream culture.",
+                "image": "https://image.simplecastcdn.com/images/2f42c0/2f42c02b-f514-4d58-9dba-9c912710c44c/67e1738b-1f55-4685-b2b3-79b6bb621f1c/3000x3000/7aa6977d5de901347c8940d68c096f75e4301fe415c53cc78d28b429ca2efec7d4059c725d603810524f18ff6a2c03ecab3158c13e6c6c624aae1d3831a871ee.jpeg?aid=rss_feed",
+                "author": "The New York Times",
+                "subtitle": "How one outsider came to rule the internet \u2014 and eventually embody its battle with mainstream culture.",
+                "season": "1",
+                "episode": "5"
+            },
+            "enclosure": {
+                "length": "33635519",
+                "type": "audio/mpeg",
+                "url": "https://chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/2f42c02b-f514-4d58-9dba-9c912710c44c/episodes/67e1738b-1f55-4685-b2b3-79b6bb621f1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=2f42c02b-f514-4d58-9dba-9c912710c44c&awEpisodeId=67e1738b-1f55-4685-b2b3-79b6bb621f1c&feed=oCXij9l2"
+            },
+            "content:encodedSnippet": "How one outsider came to rule the internet \u2014 and eventually embody its battle with mainstream culture.",
+            "guid": "gid://art19-episode-locator/V0/ht5hzIPSnvz2xfqNXNNwEJQEADvM5rry6lYBEtjcBrE",
+            "isoDate": "2020-05-14T20:00:00.000Z",
+            "content:encoded": "<p>How one outsider came to rule the internet \u2014 and eventually embody its battle with mainstream culture.</p>\n"
+        },
+        {
+            "creator": "thedaily@nytimes.com (The New York Times)",
+            "author": "thedaily@nytimes.com (The New York Times)",
+            "link": "https://rabbit-hole.simplecast.com/episodes/four-headquarters-s7kp6oJr",
+            "title": "Four: Headquarters",
+            "pubDate": "Thu, 7 May 2020 20:00:00 +0000",
+            "content": "<p>A trip to YouTube for a conversation with the woman trying to change it. </p>\n",
+            "contentSnippet": "A trip to YouTube for a conversation with the woman trying to change it.",
+            "itunes": {
+                "duration": "00:39:10",
+                "explicit": "no",
+                "summary": "A trip to YouTube for a conversation with the woman trying to change it.",
+                "image": "https://image.simplecastcdn.com/images/2f42c0/2f42c02b-f514-4d58-9dba-9c912710c44c/c4d99535-4159-446e-8ae4-be787f2a386a/3000x3000/7aa6977d5de901347c8940d68c096f75e4301fe415c53cc78d28b429ca2efec7d4059c725d603810524f18ff6a2c03ecab3158c13e6c6c624aae1d3831a871ee.jpeg?aid=rss_feed",
+                "author": "The New York Times",
+                "subtitle": "A trip to YouTube for a conversation with the woman trying to change it.",
+                "season": "1",
+                "episode": "4"
+            },
+            "enclosure": {
+                "length": "38315817",
+                "type": "audio/mpeg",
+                "url": "https://chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/2f42c02b-f514-4d58-9dba-9c912710c44c/episodes/c4d99535-4159-446e-8ae4-be787f2a386a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2f42c02b-f514-4d58-9dba-9c912710c44c&awEpisodeId=c4d99535-4159-446e-8ae4-be787f2a386a&feed=oCXij9l2"
+            },
+            "content:encodedSnippet": "A trip to YouTube for a conversation with the woman trying to change it.",
+            "guid": "gid://art19-episode-locator/V0/m19lYCBylzHA_yTDO2IhWgxp1pSas0_-me9Ya5_vvX8",
+            "isoDate": "2020-05-07T20:00:00.000Z",
+            "content:encoded": "<p>A trip to YouTube for a conversation with the woman trying to change it. </p>\n"
+        },
+        {
+            "creator": "thedaily@nytimes.com (The New York Times)",
+            "author": "thedaily@nytimes.com (The New York Times)",
+            "link": "https://rabbit-hole.simplecast.com/episodes/three-mirror-image-CipIukZU",
+            "title": "Three: Mirror Image",
+            "pubDate": "Thu, 30 Apr 2020 20:00:00 +0000",
+            "content": "<p>Five years into a rabbit hole, Caleb goes from one side of the screen to the other.</p>\n",
+            "contentSnippet": "Five years into a rabbit hole, Caleb goes from one side of the screen to the other.",
+            "itunes": {
+                "duration": "00:27:58",
+                "explicit": "yes",
+                "summary": "Five years into a rabbit hole, Caleb goes from one side of the screen to the other.",
+                "image": "https://image.simplecastcdn.com/images/2f42c0/2f42c02b-f514-4d58-9dba-9c912710c44c/c3f96b26-39fe-408a-9860-909cbc683b07/3000x3000/7aa6977d5de901347c8940d68c096f75e4301fe415c53cc78d28b429ca2efec7d4059c725d603810524f18ff6a2c03ecab3158c13e6c6c624aae1d3831a871ee.jpeg?aid=rss_feed",
+                "author": "The New York Times",
+                "subtitle": "Five years into a rabbit hole, Caleb goes from one side of the screen to the other.",
+                "season": "1",
+                "episode": "3"
+            },
+            "enclosure": {
+                "length": "27566326",
+                "type": "audio/mpeg",
+                "url": "https://chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/2f42c02b-f514-4d58-9dba-9c912710c44c/episodes/c3f96b26-39fe-408a-9860-909cbc683b07/audio/128/default.mp3?aid=rss_feed&awCollectionId=2f42c02b-f514-4d58-9dba-9c912710c44c&awEpisodeId=c3f96b26-39fe-408a-9860-909cbc683b07&feed=oCXij9l2"
+            },
+            "content:encodedSnippet": "Five years into a rabbit hole, Caleb goes from one side of the screen to the other.",
+            "guid": "gid://art19-episode-locator/V0/Cxw-kt3XoDitJOVlN75XcogEJu5Jjj-msrdwodtGnBI",
+            "isoDate": "2020-04-30T20:00:00.000Z",
+            "content:encoded": "<p>Five years into a rabbit hole, Caleb goes from one side of the screen to the other.</p>\n"
+        },
+        {
+            "creator": "thedaily@nytimes.com (The New York Times)",
+            "author": "thedaily@nytimes.com (The New York Times)",
+            "link": "https://rabbit-hole.simplecast.com/episodes/two-looking-down-B0TjPTNv",
+            "title": "Two: Looking Down",
+            "pubDate": "Thu, 23 Apr 2020 20:00:37 +0000",
+            "content": "<p>\u201cThe truth is down there, and you\u2019ve got to go down and dig for it.\u201d We trace Caleb\u2019s descent into YouTube, inch by inch. </p>\n",
+            "contentSnippet": "\u201cThe truth is down there, and you\u2019ve got to go down and dig for it.\u201d We trace Caleb\u2019s descent into YouTube, inch by inch.",
+            "itunes": {
+                "duration": "00:36:57",
+                "explicit": "yes",
+                "summary": "\u201cThe truth is down there, and you\u2019ve got to go down and dig for it.\u201d We trace Caleb\u2019s descent into YouTube, inch by inch.",
+                "image": "https://image.simplecastcdn.com/images/2f42c0/2f42c02b-f514-4d58-9dba-9c912710c44c/c9f6b9f9-1549-4060-acbc-aede164c935e/3000x3000/7aa6977d5de901347c8940d68c096f75e4301fe415c53cc78d28b429ca2efec7d4059c725d603810524f18ff6a2c03ecab3158c13e6c6c624aae1d3831a871ee.jpeg?aid=rss_feed",
+                "author": "The New York Times",
+                "subtitle": "\u201cThe truth is down there, and you\u2019ve got to go down and dig for it.\u201d We trace Caleb\u2019s descent into YouTube, inch by inch.",
+                "season": "1",
+                "episode": "2"
+            },
+            "enclosure": {
+                "length": "36191329",
+                "type": "audio/mpeg",
+                "url": "https://chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/2f42c02b-f514-4d58-9dba-9c912710c44c/episodes/c9f6b9f9-1549-4060-acbc-aede164c935e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2f42c02b-f514-4d58-9dba-9c912710c44c&awEpisodeId=c9f6b9f9-1549-4060-acbc-aede164c935e&feed=oCXij9l2"
+            },
+            "content:encodedSnippet": "\u201cThe truth is down there, and you\u2019ve got to go down and dig for it.\u201d We trace Caleb\u2019s descent into YouTube, inch by inch.",
+            "guid": "gid://art19-episode-locator/V0/c5ctOVf7lIncAmSCS3u2_RFeo-X6xclYwmCBGvt9Ycg",
+            "isoDate": "2020-04-23T20:00:37.000Z",
+            "content:encoded": "<p>\u201cThe truth is down there, and you\u2019ve got to go down and dig for it.\u201d We trace Caleb\u2019s descent into YouTube, inch by inch. </p>\n"
+        },
+        {
+            "creator": "thedaily@nytimes.com (The New York Times)",
+            "author": "thedaily@nytimes.com (The New York Times)",
+            "link": "https://rabbit-hole.simplecast.com/episodes/one-wonderland-l7n5BIdF",
+            "title": "One: Wonderland",
+            "pubDate": "Thu, 16 Apr 2020 19:30:00 +0000",
+            "content": "<p>A young man finds escape on the internet. He doesn\u2019t realize that on the other side of the screen, a force is pulling him in.</p>\n",
+            "contentSnippet": "A young man finds escape on the internet. He doesn\u2019t realize that on the other side of the screen, a force is pulling him in.",
+            "itunes": {
+                "duration": "00:26:49",
+                "explicit": "no",
+                "summary": "A young man finds escape on the internet. He doesn\u2019t realize that on the other side of the screen, a force is pulling him in.",
+                "image": "https://image.simplecastcdn.com/images/2f42c0/2f42c02b-f514-4d58-9dba-9c912710c44c/b0e1d378-e1b0-40e8-9bf6-e5822b4d46ba/3000x3000/7aa6977d5de901347c8940d68c096f75e4301fe415c53cc78d28b429ca2efec7d4059c725d603810524f18ff6a2c03ecab3158c13e6c6c624aae1d3831a871ee.jpeg?aid=rss_feed",
+                "author": "The New York Times",
+                "subtitle": "A young man finds escape on the internet. He doesn\u2019t realize that on the other side of the screen, a force is pulling him in.",
+                "season": "1",
+                "episode": "1"
+            },
+            "enclosure": {
+                "length": "26456639",
+                "type": "audio/mpeg",
+                "url": "https://chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/2f42c02b-f514-4d58-9dba-9c912710c44c/episodes/b0e1d378-e1b0-40e8-9bf6-e5822b4d46ba/audio/128/default.mp3?aid=rss_feed&awCollectionId=2f42c02b-f514-4d58-9dba-9c912710c44c&awEpisodeId=b0e1d378-e1b0-40e8-9bf6-e5822b4d46ba&feed=oCXij9l2"
+            },
+            "content:encodedSnippet": "A young man finds escape on the internet. He doesn\u2019t realize that on the other side of the screen, a force is pulling him in.",
+            "guid": "gid://art19-episode-locator/V0/P36DzbeywoQyTxJIZezPG7jsPKU2-kBIVpn66gNzuE8",
+            "isoDate": "2020-04-16T19:30:00.000Z",
+            "content:encoded": "<p>A young man finds escape on the internet. He doesn\u2019t realize that on the other side of the screen, a force is pulling him in.</p>\n"
+        },
+        {
+            "creator": "thedaily@nytimes.com (The New York Times)",
+            "author": "thedaily@nytimes.com (The New York Times)",
+            "link": "https://rabbit-hole.simplecast.com/episodes/start-here-_zE28vq7",
+            "title": "START HERE",
+            "pubDate": "Fri, 10 Apr 2020 17:31:36 +0000",
+            "content": "<p>What is the internet doing to us? The Times tech columnist Kevin Roose discovers what happens when our lives move online.</p>\n",
+            "contentSnippet": "What is the internet doing to us? The Times tech columnist Kevin Roose discovers what happens when our lives move online.",
+            "itunes": {
+                "duration": "00:05:18",
+                "explicit": "no",
+                "summary": "What is the internet doing to us?",
+                "image": "https://image.simplecastcdn.com/images/2f42c0/2f42c02b-f514-4d58-9dba-9c912710c44c/64781bd4-e9f5-4f1c-96b9-0d6cd7a62717/3000x3000/7aa6977d5de901347c8940d68c096f75e4301fe415c53cc78d28b429ca2efec7d4059c725d603810524f18ff6a2c03ecab3158c13e6c6c624aae1d3831a871ee.jpeg?aid=rss_feed",
+                "author": "The New York Times",
+                "subtitle": "What is the internet doing to us?",
+                "season": "1"
+            },
+            "enclosure": {
+                "length": "5814049",
+                "type": "audio/mpeg",
+                "url": "https://chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/2f42c02b-f514-4d58-9dba-9c912710c44c/episodes/64781bd4-e9f5-4f1c-96b9-0d6cd7a62717/audio/128/default.mp3?aid=rss_feed&awCollectionId=2f42c02b-f514-4d58-9dba-9c912710c44c&awEpisodeId=64781bd4-e9f5-4f1c-96b9-0d6cd7a62717&feed=oCXij9l2"
+            },
+            "content:encodedSnippet": "What is the internet doing to us? The Times tech columnist Kevin Roose discovers what happens when our lives move online.",
+            "guid": "gid://art19-episode-locator/V0/SjpJ9uEbZqbIBJeVKzD-uzloU1jNGtD7HjPJZgphrMs",
+            "isoDate": "2020-04-10T17:31:36.000Z",
+            "content:encoded": "<p>What is the internet doing to us? The Times tech columnist Kevin Roose discovers what happens when our lives move online.</p>\n"
+        }
+    ]
+}

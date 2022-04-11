@@ -1,0 +1,824 @@
+{
+    "copyright": "Enduring Word 2018",
+    "itunes": {
+        "categoriesWithSubs": [
+            {
+                "subs": [{ "name": "Christianity" }],
+                "name": "Religion & Spirituality"
+            }
+        ],
+        "explicit": "no",
+        "owner": { "name": "David Guzik", "email": "admin@enduringword.com" },
+        "summary": "Pastor David Guzik preaches through the New Testament Book of Hebrews.",
+        "image": "https://media.enduringword.com/wp-content/uploads/2018/07/enduringword_058_hebrews.jpg",
+        "keywords": [
+            "Bible",
+            "David",
+            "Guzik",
+            "Enduring",
+            "Word",
+            "Commentary",
+            "New",
+            "Testament",
+            "Book",
+            "of",
+            "Hebrews"
+        ],
+        "author": "David Guzik",
+        "subtitle": "Enduring Word Commentary Series \u2013 The Book of Hebrews",
+        "categories": ["Religion & Spirituality"]
+    },
+    "lastBuildDate": "Sat, 16 Feb 2019 06:16:54 +0000",
+    "entities": [],
+    "link": "https://media.enduringword.com",
+    "description": "Audio and Video Server For Enduring Word",
+    "generator": "https://wordpress.org/?v=5.0.16",
+    "language": "en-US",
+    "palette": [],
+    "title": "The Book of Hebrews \u2013 Enduring Word Media Server",
+    "items": [
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-138-25-jesus-our-shepherd/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-138-25-jesus-our-shepherd/",
+            "title": "Hebrews 13:8-25 \u2013 Jesus Our Shepherd",
+            "pubDate": "Wed, 18 Oct 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1308_25.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1308_25.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1308_25.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1308_25.mp3"
+            },
+            "enclosure": {
+                "length": "11563490",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1308_25.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1308_25.mp3",
+            "guid": "https://media.enduringword.com/hebrews-138-25-jesus-our-shepherd/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-10-18T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26482-2\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews1308_25.mp3?_=2\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews1308_25.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews1308_25.mp3</a></audio>\n"
+        },
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-131-7-jesus-our-lord/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-131-7-jesus-our-lord/",
+            "title": "Hebrews 13:1-7 \u2013 Jesus Our Lord",
+            "pubDate": "Tue, 17 Oct 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1301_07.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1301_07.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1301_07.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1301_07.mp3"
+            },
+            "enclosure": {
+                "length": "9596067",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1301_07.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1301_07.mp3",
+            "guid": "https://media.enduringword.com/hebrews-131-7-jesus-our-lord/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-10-17T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26481-4\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews1301_07.mp3?_=4\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews1301_07.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews1301_07.mp3</a></audio>\n"
+        },
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-1218-29-jesus-judge-of-all/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-1218-29-jesus-judge-of-all/",
+            "title": "Hebrews 12:18-29 \u2013 Jesus Judge of All",
+            "pubDate": "Mon, 16 Oct 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1218_29.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1218_29.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1218_29.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1218_29.mp3"
+            },
+            "enclosure": {
+                "length": "8677359",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1218_29.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1218_29.mp3",
+            "guid": "https://media.enduringword.com/hebrews-1218-29-jesus-judge-of-all/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-10-16T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26480-6\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews1218_29.mp3?_=6\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews1218_29.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews1218_29.mp3</a></audio>\n"
+        },
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-125-17-jesus-our-trainer/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-125-17-jesus-our-trainer/",
+            "title": "Hebrews 12:5-17 \u2013 Jesus Our Trainer",
+            "pubDate": "Sun, 15 Oct 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1205_17.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1205_17.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1205_17.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1205_17.mp3"
+            },
+            "enclosure": {
+                "length": "8966067",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1205_17.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1205_17.mp3",
+            "guid": "https://media.enduringword.com/hebrews-125-17-jesus-our-trainer/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-10-15T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26479-8\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews1205_17.mp3?_=8\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews1205_17.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews1205_17.mp3</a></audio>\n"
+        },
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-121-4-jesus-author-and-finisher-of-our-faith/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-121-4-jesus-author-and-finisher-of-our-faith/",
+            "title": "Hebrews 12:1-4 \u2013 Jesus, Author and Finisher of Our Faith",
+            "pubDate": "Sat, 14 Oct 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1201_04.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1201_04.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1201_04.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1201_04.mp3"
+            },
+            "enclosure": {
+                "length": "11612407",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1201_04.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1201_04.mp3",
+            "guid": "https://media.enduringword.com/hebrews-121-4-jesus-author-and-finisher-of-our-faith/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-10-14T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26478-10\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews1201_04.mp3?_=10\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews1201_04.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews1201_04.mp3</a></audio>\n"
+        },
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-1130-40-jesus-people-of-faith-4/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-1130-40-jesus-people-of-faith-4/",
+            "title": "Hebrews 11:30-40 \u2013 Jesus\u2019 People of Faith 4",
+            "pubDate": "Fri, 13 Oct 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1130_40.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1130_40.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1130_40.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1130_40.mp3"
+            },
+            "enclosure": {
+                "length": "8575185",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1130_40.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1130_40.mp3",
+            "guid": "https://media.enduringword.com/hebrews-1130-40-jesus-people-of-faith-4/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-10-13T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26477-12\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews1130_40.mp3?_=12\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews1130_40.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews1130_40.mp3</a></audio>\n"
+        },
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-1123-29-jesus-people-of-faith-3/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-1123-29-jesus-people-of-faith-3/",
+            "title": "Hebrews 11:23-29 \u2013 Jesus\u2019 People of Faith 3",
+            "pubDate": "Thu, 12 Oct 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1123_29.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1123_29.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1123_29.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1123_29.mp3"
+            },
+            "enclosure": {
+                "length": "8968416",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1123_29.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1123_29.mp3",
+            "guid": "https://media.enduringword.com/hebrews-1123-29-jesus-people-of-faith-3/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-10-12T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26476-14\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews1123_29.mp3?_=14\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews1123_29.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews1123_29.mp3</a></audio>\n"
+        },
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-1117-22-jesus-people-of-faith-2/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-1117-22-jesus-people-of-faith-2/",
+            "title": "Hebrews 11:17-22 \u2013 Jesus\u2019 People of Faith 2",
+            "pubDate": "Wed, 11 Oct 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1117_22.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1117_22.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1117_22.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1117_22.mp3"
+            },
+            "enclosure": {
+                "length": "9872149",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1117_22.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1117_22.mp3",
+            "guid": "https://media.enduringword.com/hebrews-1117-22-jesus-people-of-faith-2/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-10-11T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26475-16\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews1117_22.mp3?_=16\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews1117_22.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews1117_22.mp3</a></audio>\n"
+        },
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-111-16-jesus-people-of-faith-1/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-111-16-jesus-people-of-faith-1/",
+            "title": "Hebrews 11:1-16 \u2013 Jesus\u2019 People of Faith 1",
+            "pubDate": "Tue, 10 Oct 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1101_16.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1101_16.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1101_16.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1101_16.mp3"
+            },
+            "enclosure": {
+                "length": "8597779",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1101_16.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1101_16.mp3",
+            "guid": "https://media.enduringword.com/hebrews-111-16-jesus-people-of-faith-1/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-10-10T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26474-18\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews1101_16.mp3?_=18\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews1101_16.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews1101_16.mp3</a></audio>\n"
+        },
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-1026-39-jesus-urgent-call/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-1026-39-jesus-urgent-call/",
+            "title": "Hebrews 10:26-39 \u2013 Jesus\u2019 Urgent Call",
+            "pubDate": "Mon, 09 Oct 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1026_39.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1026_39.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1026_39.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1026_39.mp3"
+            },
+            "enclosure": {
+                "length": "7903182",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1026_39.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1026_39.mp3",
+            "guid": "https://media.enduringword.com/hebrews-1026-39-jesus-urgent-call/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-10-09T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26473-20\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews1026_39.mp3?_=20\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews1026_39.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews1026_39.mp3</a></audio>\n"
+        },
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-1019-25-jesus-new-and-living-way/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-1019-25-jesus-new-and-living-way/",
+            "title": "Hebrews 10:19-25 \u2013 Jesus\u2019 New and Living Way",
+            "pubDate": "Sun, 08 Oct 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1019_25.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1019_25.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1019_25.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1019_25.mp3"
+            },
+            "enclosure": {
+                "length": "8644033",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1019_25.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1019_25.mp3",
+            "guid": "https://media.enduringword.com/hebrews-1019-25-jesus-new-and-living-way/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-10-08T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26472-22\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews1019_25.mp3?_=22\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews1019_25.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews1019_25.mp3</a></audio>\n"
+        },
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-101-18-jesus-perfect-sacrifice/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-101-18-jesus-perfect-sacrifice/",
+            "title": "Hebrews 10:1-18 \u2013 Jesus\u2019 Perfect Sacrifice",
+            "pubDate": "Sat, 07 Oct 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1001_18.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1001_18.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1001_18.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1001_18.mp3"
+            },
+            "enclosure": {
+                "length": "8761896",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1001_18.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews1001_18.mp3",
+            "guid": "https://media.enduringword.com/hebrews-101-18-jesus-perfect-sacrifice/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-10-07T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26471-24\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews1001_18.mp3?_=24\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews1001_18.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews1001_18.mp3</a></audio>\n"
+        },
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-915-28-jesus-blood/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-915-28-jesus-blood/",
+            "title": "Hebrews 9:15-28 \u2013 Jesus\u2019 Blood",
+            "pubDate": "Fri, 06 Oct 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0916_28.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0916_28.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0916_28.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0916_28.mp3"
+            },
+            "enclosure": {
+                "length": "8675518",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0916_28.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0916_28.mp3",
+            "guid": "https://media.enduringword.com/hebrews-915-28-jesus-blood/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-10-06T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26470-26\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0916_28.mp3?_=26\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0916_28.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews0916_28.mp3</a></audio>\n"
+        },
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-91-15-jesus-house/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-91-15-jesus-house/",
+            "title": "Hebrews 9:1-15 \u2013 Jesus\u2019 House",
+            "pubDate": "Thu, 05 Oct 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0901_15.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0901_15.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0901_15.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0901_15.mp3"
+            },
+            "enclosure": {
+                "length": "7094017",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0901_15.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0901_15.mp3",
+            "guid": "https://media.enduringword.com/hebrews-91-15-jesus-house/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-10-05T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26469-28\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0901_15.mp3?_=28\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0901_15.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews0901_15.mp3</a></audio>\n"
+        },
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-8-jesus-new-covenant/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-8-jesus-new-covenant/",
+            "title": "Hebrews 8 \u2013 Jesus\u2019 New Covenant",
+            "pubDate": "Wed, 04 Oct 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0800_00.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0800_00.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0800_00.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0800_00.mp3"
+            },
+            "enclosure": {
+                "length": "8952542",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0800_00.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0800_00.mp3",
+            "guid": "https://media.enduringword.com/hebrews-8-jesus-new-covenant/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-10-04T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26468-30\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0800_00.mp3?_=30\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0800_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews0800_00.mp3</a></audio>\n"
+        },
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-711-28-jesus-our-perfect-priest/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-711-28-jesus-our-perfect-priest/",
+            "title": "Hebrews 7:11-28 \u2013 Jesus Our Perfect Priest",
+            "pubDate": "Tue, 03 Oct 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0711_28.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0711_28.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0711_28.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0711_28.mp3"
+            },
+            "enclosure": {
+                "length": "8721145",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0711_28.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0711_28.mp3",
+            "guid": "https://media.enduringword.com/hebrews-711-28-jesus-our-perfect-priest/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-10-03T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26467-32\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0711_28.mp3?_=32\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0711_28.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews0711_28.mp3</a></audio>\n"
+        },
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-71-10-jesus-foreshadowed/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-71-10-jesus-foreshadowed/",
+            "title": "Hebrews 7:1-10 \u2013 Jesus Foreshadowed",
+            "pubDate": "Mon, 02 Oct 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0701_10.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0701_10.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0701_10.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0701_10.mp3"
+            },
+            "enclosure": {
+                "length": "8748054",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0701_10.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0701_10.mp3",
+            "guid": "https://media.enduringword.com/hebrews-71-10-jesus-foreshadowed/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-10-02T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26466-34\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0701_10.mp3?_=34\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0701_10.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews0701_10.mp3</a></audio>\n"
+        },
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-69-20-jesus-our-anchor/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-69-20-jesus-our-anchor/",
+            "title": "Hebrews 6:9-20 \u2013 Jesus Our Anchor",
+            "pubDate": "Sun, 01 Oct 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0609_20.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0609_20.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0609_20.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0609_20.mp3"
+            },
+            "enclosure": {
+                "length": "8221465",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0609_20.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0609_20.mp3",
+            "guid": "https://media.enduringword.com/hebrews-69-20-jesus-our-anchor/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-10-01T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26465-36\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0609_20.mp3?_=36\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0609_20.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews0609_20.mp3</a></audio>\n"
+        },
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-64-9-jesus-the-only-way/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-64-9-jesus-the-only-way/",
+            "title": "Hebrews 6:4-9 \u2013 Jesus the Only Way",
+            "pubDate": "Sat, 30 Sep 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0604_09.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0604_09.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0604_09.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0604_09.mp3"
+            },
+            "enclosure": {
+                "length": "8695780",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0604_09.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0604_09.mp3",
+            "guid": "https://media.enduringword.com/hebrews-64-9-jesus-the-only-way/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-09-30T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26464-38\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0604_09.mp3?_=38\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0604_09.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews0604_09.mp3</a></audio>\n"
+        },
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-511-63-jesus-leads-us-forward/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-511-63-jesus-leads-us-forward/",
+            "title": "Hebrews 5:11-6:3 \u2013 Jesus Leads Us Forward",
+            "pubDate": "Fri, 29 Sep 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0511_0603.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0511_0603.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0511_0603.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0511_0603.mp3"
+            },
+            "enclosure": {
+                "length": "8257680",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0511_0603.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0511_0603.mp3",
+            "guid": "https://media.enduringword.com/hebrews-511-63-jesus-leads-us-forward/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-09-29T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26463-40\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0511_0603.mp3?_=40\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0511_0603.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews0511_0603.mp3</a></audio>\n"
+        },
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-51-11-jesus-our-great-high-priest/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-51-11-jesus-our-great-high-priest/",
+            "title": "Hebrews 5:1-11 \u2013 Jesus Our Great High Priest",
+            "pubDate": "Thu, 28 Sep 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0501_11.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0501_11.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0501_11.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0501_11.mp3"
+            },
+            "enclosure": {
+                "length": "8933635",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0501_11.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0501_11.mp3",
+            "guid": "https://media.enduringword.com/hebrews-51-11-jesus-our-great-high-priest/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-09-28T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26462-42\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0501_11.mp3?_=42\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0501_11.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews0501_11.mp3</a></audio>\n"
+        },
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-411-16-jesus-sharp-word/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-411-16-jesus-sharp-word/",
+            "title": "Hebrews 4:11-16 \u2013 Jesus\u2019 Sharp Word",
+            "pubDate": "Wed, 27 Sep 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0411_16.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0411_16.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0411_16.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0411_16.mp3"
+            },
+            "enclosure": {
+                "length": "8918835",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0411_16.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0411_16.mp3",
+            "guid": "https://media.enduringword.com/hebrews-411-16-jesus-sharp-word/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-09-27T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26461-44\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0411_16.mp3?_=44\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0411_16.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews0411_16.mp3</a></audio>\n"
+        },
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-41-10-jesus-gives-rest/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-41-10-jesus-gives-rest/",
+            "title": "Hebrews 4:1-10 \u2013 Jesus Gives Rest",
+            "pubDate": "Tue, 26 Sep 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0401_10.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0401_10.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0401_10.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0401_10.mp3"
+            },
+            "enclosure": {
+                "length": "9004204",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0401_10.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0401_10.mp3",
+            "guid": "https://media.enduringword.com/hebrews-41-10-jesus-gives-rest/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-09-26T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26460-46\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0401_10.mp3?_=46\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0401_10.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews0401_10.mp3</a></audio>\n"
+        },
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-37-19-jesus-promises-rest/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-37-19-jesus-promises-rest/",
+            "title": "Hebrews 3:7-19 \u2013 Jesus Promises Rest",
+            "pubDate": "Mon, 25 Sep 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0307_19.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0307_19.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0307_19.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0307_19.mp3"
+            },
+            "enclosure": {
+                "length": "8313198",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0307_19.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0307_19.mp3",
+            "guid": "https://media.enduringword.com/hebrews-37-19-jesus-promises-rest/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-09-25T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26459-48\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0307_19.mp3?_=48\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0307_19.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews0307_19.mp3</a></audio>\n"
+        },
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-31-6-jesus-is-faithful/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-31-6-jesus-is-faithful/",
+            "title": "Hebrews 3:1-6 \u2013 Jesus is Faithful",
+            "pubDate": "Sun, 24 Sep 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0301_06.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0301_06.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0301_06.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0301_06.mp3"
+            },
+            "enclosure": {
+                "length": "8868574",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0301_06.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0301_06.mp3",
+            "guid": "https://media.enduringword.com/hebrews-31-6-jesus-is-faithful/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-09-24T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26458-50\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0301_06.mp3?_=50\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0301_06.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews0301_06.mp3</a></audio>\n"
+        },
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-210-18-jesus-brings-his-people-to-glory/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-210-18-jesus-brings-his-people-to-glory/",
+            "title": "Hebrews 2:10-18 \u2013 Jesus Brings His People to Glory",
+            "pubDate": "Sat, 23 Sep 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0210_18.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0210_18.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0210_18.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0210_18.mp3"
+            },
+            "enclosure": {
+                "length": "8996483",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0210_18.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0210_18.mp3",
+            "guid": "https://media.enduringword.com/hebrews-210-18-jesus-brings-his-people-to-glory/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-09-23T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26457-52\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0210_18.mp3?_=52\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0210_18.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews0210_18.mp3</a></audio>\n"
+        },
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-21-9-jesus-lower-than-the-angels/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-21-9-jesus-lower-than-the-angels/",
+            "title": "Hebrews 2:1-9 \u2013 Jesus, Lower than the Angels",
+            "pubDate": "Fri, 22 Sep 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0201_09.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0201_09.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0201_09.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0201_09.mp3"
+            },
+            "enclosure": {
+                "length": "8978806",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0201_09.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0201_09.mp3",
+            "guid": "https://media.enduringword.com/hebrews-21-9-jesus-lower-than-the-angels/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-09-22T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26456-54\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0201_09.mp3?_=54\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0201_09.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews0201_09.mp3</a></audio>\n"
+        },
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-15-14-jesus-exalted/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-15-14-jesus-exalted/",
+            "title": "Hebrews 1:5-14 \u2013 Jesus Exalted",
+            "pubDate": "Thu, 21 Sep 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0105_14.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0105_14.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0105_14.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0105_14.mp3"
+            },
+            "enclosure": {
+                "length": "8288508",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0105_14.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0105_14.mp3",
+            "guid": "https://media.enduringword.com/hebrews-15-14-jesus-exalted/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-09-21T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26455-56\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0105_14.mp3?_=56\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0105_14.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews0105_14.mp3</a></audio>\n"
+        },
+        {
+            "creator": "admin@enduringword.com (David Guzik)",
+            "comments": "https://media.enduringword.com/hebrews-11-4-jesus-speaks/#respond",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "link": "https://media.enduringword.com/hebrews-11-4-jesus-speaks/",
+            "title": "Hebrews 1:1-4 \u2013 Jesus Speaks",
+            "pubDate": "Wed, 20 Sep 2017 07:00:00 +0000",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0101_04.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0101_04.mp3",
+            "itunes": {
+                "explicit": "no",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0101_04.mp3",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Hebrews",
+                "author": "David Guzik",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0101_04.mp3"
+            },
+            "enclosure": {
+                "length": "8471780",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0101_04.mp3"
+            },
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Hebrews0101_04.mp3",
+            "guid": "https://media.enduringword.com/hebrews-11-4-jesus-speaks/",
+            "categories": ["The Book of Hebrews", "Epistles", "New Testament"],
+            "isoDate": "2017-09-20T07:00:00.000Z",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26454-58\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0101_04.mp3?_=58\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Hebrews0101_04.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Hebrews0101_04.mp3</a></audio>\n"
+        }
+    ]
+}
