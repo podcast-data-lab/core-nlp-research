@@ -64,45 +64,28 @@ public class PodcastNER{
             podcast.put("entities", podcastEntities);
 
             /* Process Episode named entities */
-//            JSONArray episodes = (JSONArray) podcast.get("items");
-//            for(Object o: episodes){
-//                JSONObject episode =  (JSONObject) o;
-//
-//                Set<String> episodeEntities = new HashSet<>();
-//                String episodeDescription = (String) episode.get("content");
-//                CoreDocument descriptionDoc = pipeline.processToCoreDocument(episodeDescription);
-//                for(CoreEntityMention entity: descriptionDoc.entityMentions()){
-//                    episodeEntities.add(entity.toString());
-//                }
-//                JSONArray entities = new JSONArray();
-//                for(String e: episodeEntities){
-//                    entities.put(e);
-//                }
-//                episode.put("entities",entities);
-//            }
+           JSONArray episodes = (JSONArray) podcast.get("items");
+           for(Object o: episodes){
+               JSONObject episode =  (JSONObject) o;
+
+               Set<String> episodeEntities = new HashSet<>();
+               String episodeDescription = (String) episode.get("content");
+               CoreDocument descriptionDoc = pipeline.processToCoreDocument(episodeDescription);
+               for(CoreEntityMention entity: descriptionDoc.entityMentions()){
+                   episodeEntities.add(entity.toString());
+               }
+               JSONArray entities = new JSONArray();
+               for(String e: episodeEntities){
+                   entities.put(e);
+               }
+               episode.put("entities",entities);
+           }
 
             /* Write to file */
             FileWriter outputFile = new FileWriter("temp/podcast-data-ner-output/"+podcastFile);
             outputFile.write(podcast.toString());
             outputFile.close();
 
-//            for (CoreSentence sentence : document.sentences()) {
-//                // System.out.println(token.originalText() + " " + token.ner());
-//                for (CoreEntityMention entity : sentence.entityMentions()) {
-//                    set.add(entity.toString());
-//                }
-//            }
-
-            //     BufferedReader br = new BufferedReader(new FileReader(file));
-            //     StringBuilder sb = new StringBuilder();
-            //     String line = br.readLine();
-
-            //     while (line != null) {
-            //         sb.append(line);
-            //         line = br.readLine();
-            //     }
-            //     br.close();
-            //     System.out.println(sb.toString());
         } catch (Exception e) {
             e.printStackTrace();
         }
