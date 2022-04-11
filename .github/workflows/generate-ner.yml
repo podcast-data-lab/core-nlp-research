@@ -35,7 +35,7 @@ jobs:
           java -cp ".:temp/stanford-corenlp-4.4.0/*" nerWork/PodcastNER
       - name: Prepare release
         run: |
-          npm run prettify
+          npm run prettify-output
           chmod +x ./scripts/prepare-release
           ./scripts/prepare-release
       - name: 'Deploy 💾'
