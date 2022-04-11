@@ -24,12 +24,15 @@ jobs:
         with:
             distribution: 'adopt'
             java-version: '11'
-      - name: Setup
+      - name: Install node packages
+        run: npm install
+      - name: generate named entities
         run: |
           chmod +x ./scripts/setup
           ./scripts/setup
-          npm install
-      - name: generate named entities
+          javac nerWork/PodcastNER.java 
+          java nerWork.PodcastNER
+      - name: 
         run: |
           javac nerWork/PodcastNER.java 
           java nerWork.PodcastNER
