@@ -24,18 +24,15 @@ jobs:
         with:
             distribution: 'adopt'
             java-version: '11'
-      - name: Install node packages
-        run: npm install
-      - name: generate named entities
+      - name: Setup
         run: |
           chmod +x ./scripts/setup
           ./scripts/setup
-          javac nerWork/PodcastNER.java 
-          java nerWork.PodcastNER
-      - name: 
+          npm install
+      - name: generate named entities
         run: |
-          javac nerWork/PodcastNER.java 
-          java nerWork.PodcastNER
+        javac -cp ".:temp/stanford-corenlp-4.4.0/*" nerWork/PodcastNER.java
+        java -cp ".:temp/stanford-corenlp-4.4.0/*" nerWork/PodcastNER
       - name: Prepare release
         run: |
           npm run prettify
