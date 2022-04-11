@@ -23,10 +23,12 @@ jobs:
         run: |
           chmod +x ./scripts/setup
           ./scripts/setup
+          npm install
       - name: generate named entities
         run: javac nerWork/PodcastNER.java &&  java nerWork.PodcastNER
       - name: Prepare release
         run: |
+          npm run prettify
           chmod +x ./scripts/prepare-release
           ./scripts/prepare-release
       - name: 'Deploy 💾'
