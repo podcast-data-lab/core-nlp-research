@@ -40,6 +40,15 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/04/20220409_wesat_book_left_on_tenth.mp3?orgId=1&topicId=1033&d=490&p=7&story=1091859857&ft=nprml&f=1091859857"
             },
+            "entities": [
+                "she",
+                "her",
+                "Scott Simon",
+                "writer",
+                "Delia Ephron",
+                "Tenth",
+                "illness"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/delia-ephron-recounts-a-concentrated-period-of-loss-love-and-illness-in-new-memoir",
             "guid": "story-64379",
@@ -64,6 +73,7 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/04/20220409_wesat_20220409_wesat_saturday_sports.mp3?orgId=1&topicId=1055&d=241&p=7&story=1091859843&ft=nprml&f=1091859843"
             },
+            "entities": ["a week", "NBA", "Major League Baseball"],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/saturday-sports-mlb-begins-nba-playoffs-coming-up-tiger-woods-plays-masters",
             "guid": "story-64380",
@@ -88,6 +98,7 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/04/20220409_wesat_media_coverage_of_hunter_biden.mp3?orgId=1&topicId=1014&d=273&p=7&story=1091859822&ft=nprml&f=1091859822"
             },
+            "entities": ["Now", "2020", "Bidens", "Hunter Biden"],
             "author": "David Folkenflik",
             "link": "https://www.kuow.org/stories/more-details-emerge-in-federal-investigation-into-hunter-biden",
             "guid": "story-64378",
@@ -112,6 +123,13 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/04/20220409_wesat_movie_cow.mp3?orgId=1&topicId=1137&d=300&p=7&story=1091859829&ft=nprml&f=1091859829"
             },
+            "entities": [
+                "Andrea Arnold",
+                "her",
+                "Scott Simon",
+                "daily",
+                "filmmaker"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/new-documentary-cow-imparts-the-painful-solitude-in-the-life-of-a-dairy-cow",
             "guid": "story-64381",
@@ -136,6 +154,14 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/04/20220409_wesat_yemen_voice.mp3?orgId=1&topicId=1125&d=251&p=7&story=1091859815&ft=nprml&f=1091859815"
             },
+            "entities": [
+                "Scott Simon",
+                "analyst",
+                "Nadwa Al-Dawsari",
+                "Yemeni",
+                "Yemen",
+                "president"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/yemen-s-president-steps-down-in-effort-to-end-7-year-civil-war",
             "guid": "story-64377",
@@ -160,6 +186,7 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/04/20220402_wesat_a_poem.mp3?orgId=1&topicId=1047&d=91&p=7&story=1090448806&ft=nprml&f=1090448806"
             },
+            "entities": ["Month", "his", "Poet", "Billy Collins"],
             "author": "KUOW Staff",
             "link": "https://www.kuow.org/stories/former-poet-laureate-billy-collins-reads-his-poem-introduction-to-poetry",
             "guid": "story-64137",
@@ -184,6 +211,13 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/04/20220402_wesat_book_lessons_in_chemistry.mp3?orgId=1&topicId=1033&d=447&p=7&story=1090448799&ft=nprml&f=1090448799"
             },
+            "entities": [
+                "her",
+                "author",
+                "Scott Simon",
+                "chemist",
+                "Bonnie Garmus"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/in-new-novel-elizabeth-zott-is-a-chemist-with-a-cooking-show-thanks-to-gender-roles",
             "guid": "story-64136",
@@ -208,6 +242,14 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/04/20220402_wesat_saturday_sports_03-13-22.mp3?orgId=1&topicId=1055&d=289&p=7&story=1090448792&ft=nprml&f=1090448792"
             },
+            "entities": [
+                "NCAA",
+                "tonight",
+                "World Cup",
+                "UConn",
+                "later today",
+                "South Carolina"
+            ],
             "author": "Tom Goldman",
             "link": "https://www.kuow.org/stories/saturday-sports-uconn-and-s-c-in-women-s-ncaa-final-men-s-final-four-tonight",
             "guid": "story-64138",
@@ -232,6 +274,15 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/04/20220402_wesat_ukraine-italy_economy.mp3?orgId=1&topicId=1124&d=293&p=7&story=1090448785&ft=nprml&f=1090448785"
             },
+            "entities": [
+                "Russian",
+                "three years",
+                "Ukraine",
+                "Italy",
+                "40%",
+                "war",
+                "Russia"
+            ],
             "author": "Adam Raney",
             "link": "https://www.kuow.org/stories/utility-prices-in-italy-have-almost-quadrupled-due-to-reliance-on-russian-natural-gas",
             "guid": "story-64135",
@@ -256,6 +307,7 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/04/20220402_wesat_cdc_terminates_title_42.mp3?orgId=1&topicId=1122&d=232&p=7&story=1090448778&ft=nprml&f=1090448778"
             },
+            "entities": ["CDC", "42", "May 23"],
             "author": "Joel Rose",
             "link": "https://www.kuow.org/stories/lifting-pandemic-border-restrictions-could-result-in-an-influx-of-migrants-to-u-s",
             "guid": "story-64134",
@@ -280,6 +332,14 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220326_wesat_the_southernization_of_the_south_-_cynthia_tucker_frye_gaillard.mp3?orgId=1&topicId=1033&d=482&p=7&story=1088991099&ft=nprml&f=1088991099"
             },
+            "entities": [
+                "NPR",
+                "Frye Galliard",
+                "Debbie Elliott",
+                "Cynthia Tucker",
+                "America",
+                "Democracy"
+            ],
             "author": "Debbie Elliott",
             "link": "https://www.kuow.org/stories/a-new-book-argues-the-u-s-south-shapes-the-nation-s-political-and-cultural-landscape",
             "guid": "story-63897",
@@ -304,6 +364,14 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220326_wesat_sports.mp3?orgId=1&topicId=1055&d=250&p=7&story=1088991092&ft=nprml&f=1088991092"
             },
+            "entities": [
+                "St. Peter's University",
+                "NCAA",
+                "tennis player",
+                "25",
+                "her",
+                "Cleveland Browns"
+            ],
             "author": "Debbie Elliott",
             "link": "https://www.kuow.org/stories/saturday-sports-elite-eight-begins-top-player-retires-from-women-s-tennis",
             "guid": "story-63898",
@@ -328,6 +396,7 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220326_wesat_visible_mending.mp3?orgId=1&topicId=1047&d=213&p=7&story=1088991078&ft=nprml&f=1088991078"
             },
+            "entities": ["centuries", "Japanese"],
             "author": "Debbie Elliott",
             "link": "https://www.kuow.org/stories/the-visible-mending-trend-of-fixing-clothes-can-be-traced-to-a-japanese-tradition",
             "guid": "story-63895",
@@ -352,6 +421,7 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220326_wesat_transitioning_out_of_foster_care.mp3?orgId=1&topicId=1003&d=614&p=7&story=1088991071&ft=nprml&f=1088991071"
             },
+            "entities": ["Louisiana"],
             "author": "Debbie Elliott",
             "link": "https://www.kuow.org/stories/louisiana-program-helps-transition-young-adults-out-of-foster-care-and-into-adulthood",
             "guid": "story-63896",
@@ -376,6 +446,16 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220326_wesat_biden_in_warsaw.mp3?orgId=1&topicId=1014&d=233&p=7&story=1088991064&ft=nprml&f=1088991064"
             },
+            "entities": [
+                "President",
+                "U.S.",
+                "Polish",
+                "Biden",
+                "Ukraine",
+                "Poland",
+                "Andrzej Duda",
+                "He"
+            ],
             "author": "Joanna Kakissis",
             "link": "https://www.kuow.org/stories/president-biden-visits-poland-in-diplomatic-trip-to-europe",
             "guid": "story-63894",
@@ -400,6 +480,15 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220326_wesat_new_story.mp3?orgId=1&topicId=1014&d=266&p=7&story=1088990994&ft=nprml&f=1088990994"
             },
+            "entities": [
+                "President",
+                "current",
+                "U.S. Supreme Court",
+                "his",
+                "Donald Trump",
+                "congressman",
+                "Alabama"
+            ],
             "author": "Susan Davis",
             "link": "https://www.kuow.org/stories/week-in-politics-reactions-to-court-nominee-trump-retracts-an-endorsement-in-ala",
             "guid": "story-63890",
@@ -424,6 +513,7 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220326_wesat_ukraine_latest.mp3?orgId=1&topicId=1124&d=218&p=7&story=1088990987&ft=nprml&f=1088990987"
             },
+            "entities": ["Russian", "attacks", "Ukraine"],
             "author": "Nathan Rott",
             "link": "https://www.kuow.org/stories/russian-military-says-it-s-turning-its-attention-to-eastern-ukraine",
             "guid": "story-63891",
@@ -448,6 +538,13 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220326_wesat_immigration_archive_proj.mp3?orgId=1&topicId=1136&d=343&p=7&story=1088991022&ft=nprml&f=1088991022"
             },
+            "entities": [
+                "Congress",
+                "NPR",
+                "Debbie Elliott",
+                "Tony Hernandez",
+                "founder"
+            ],
             "author": "Debbie Elliott",
             "link": "https://www.kuow.org/stories/the-immigrant-archive-project-collects-the-stories-of-coming-to-call-the-u-s-home",
             "guid": "story-63892",
@@ -472,6 +569,7 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220326_wesat_ukraine_internally_displaced.mp3?orgId=1&topicId=1124&d=250&p=7&story=1088991015&ft=nprml&f=1088991015"
             },
+            "entities": ["Ukraine"],
             "author": "Eric Westervelt",
             "link": "https://www.kuow.org/stories/some-ukrainians-forced-from-their-homes-are-fleeing-to-small-towns-for-refuge",
             "guid": "story-63893",
@@ -496,6 +594,12 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220319_wesat_cosmonauts_dock_at_iss.mp3?orgId=1&topicId=1026&d=38&p=7&story=1087716874&ft=nprml&f=1087716874"
             },
+            "entities": [
+                "Cosmonauts",
+                "Ukrainian",
+                "Russian",
+                "International Space Station"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/three-russians-arrive-at-international-space-station",
             "guid": "story-63663",
@@ -520,6 +624,14 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220319_wesat_houston_kidney_transplant.mp3?orgId=1&topicId=1135&d=442&p=7&story=1087715711&ft=nprml&f=1087715711"
             },
+            "entities": [
+                "This week",
+                "Methodist",
+                "10-person",
+                "second",
+                "Houston",
+                "Medical Center"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/donors-and-recipients-in-10-person-kidney-donation-chain-meet-in-an-emotional-reveal",
             "guid": "story-63662",
@@ -544,6 +656,13 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220319_wesat_dst_and_health.mp3?orgId=1&topicId=1128&d=235&p=7&story=1087712609&ft=nprml&f=1087712609"
             },
+            "entities": [
+                "Congress",
+                "Karin Johnson",
+                "daylight",
+                "Scott Simon",
+                "Baystate Regional Sleep Medicine Program"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/permanent-daylight-saving-time-could-have-health-downsides",
             "guid": "story-63665",
@@ -568,6 +687,13 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220319_wesat_saturday_sports_03-19-22.mp3?orgId=1&topicId=1055&d=245&p=7&story=1087712595&ft=nprml&f=1087712595"
             },
+            "entities": [
+                "Brittney Griner",
+                "American",
+                "NFL",
+                "March",
+                "Russia"
+            ],
             "author": "Tom Goldman",
             "link": "https://www.kuow.org/stories/saturday-sports-march-madness-begins-browns-acquire-watson-despite-harassment-suits",
             "guid": "story-63661",
@@ -592,6 +718,15 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220319_wesat_book_booth.mp3?orgId=1&topicId=1033&d=463&p=7&story=1087712602&ft=nprml&f=1087712602"
             },
+            "entities": [
+                "Booth",
+                "Karen Joy Fowler",
+                "she",
+                "her",
+                "Scott Simon",
+                "John Wilkes Booth",
+                "Abraham Lincoln"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/karen-joy-fowler-paints-the-unlikely-life-path-of-john-wilkes-booth-in-novel-booth",
             "guid": "story-63664",
@@ -616,6 +751,7 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220312_wesat_this_professor_studies_each_swimmer_as_a_math_problem_its_helped_them_to_be_faster.mp3?orgId=1&topicId=1003&d=225&p=7&story=1085542427&ft=nprml&f=1085542427"
             },
+            "entities": ["University of Virginia", "swimmer", "mathematician"],
             "author": "Sandy Hausman",
             "link": "https://www.kuow.org/stories/this-professor-studies-each-swimmer-as-a-math-problem-it-s-helped-them-to-be-faster",
             "guid": "story-63420",
@@ -640,6 +776,16 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220312_wesat_saturday_sports_03-12-22.mp3?orgId=1&d=273&p=7&story=1086274368&ft=nprml&f=1086274368"
             },
+            "entities": [
+                "NPR",
+                "99-day",
+                "Howard Bryant",
+                "Meadowlark Media",
+                "NFL",
+                "NBA",
+                "David Folkenflik",
+                "Major League Baseball"
+            ],
             "author": "KUOW Staff",
             "link": "https://www.kuow.org/stories/saturday-sports-03-12-22",
             "guid": "story-63422",
@@ -664,6 +810,12 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220312_wesat_covid_brain_study.mp3?orgId=1&topicId=1128&d=253&p=7&story=1086274361&ft=nprml&f=1086274361"
             },
+            "entities": [
+                "Professor",
+                "Tom Nichols",
+                "University of Oxford",
+                "David Folkenflik"
+            ],
             "author": "David Folkenflik",
             "link": "https://www.kuow.org/stories/how-the-brain-is-greatly-changed-by-covid-19",
             "guid": "story-63423",
@@ -688,6 +840,7 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220312_wesat_houston_kidney_tranplant_1.mp3?orgId=1&topicId=1128&d=576&p=7&story=1086274347&ft=nprml&f=1086274347"
             },
+            "entities": ["one", "Houston Methodist Hospital", "Ten"],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/ten-kidney-donors-make-up-a-chain-of-life",
             "guid": "story-63421",
@@ -712,6 +865,7 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220312_wesat_ukraine-lgbtq.mp3?orgId=1&topicId=1124&d=242&p=7&story=1086274340&ft=nprml&f=1086274340"
             },
+            "entities": ["Ukraine", "war", "separatist", "Russia"],
             "author": "Lauren Frayer",
             "link": "https://www.kuow.org/stories/lgbtq-people-are-fighting-to-keep-their-rights-in-ukraine",
             "guid": "story-63424",
@@ -736,6 +890,7 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220305_wesat_book_read_dangerously.mp3?orgId=1&topicId=1033&d=432&p=7&story=1084729628&ft=nprml&f=1084729628"
             },
+            "entities": ["her", "author", "Scott Simon", "Azar Nafisi"],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/azar-nafisi-s-new-book-is-on-what-it-means-to-read-dangerously",
             "guid": "story-63187",
@@ -760,6 +915,12 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220305_wesat_tracking_disinfo_from_ukraine-russia_war.mp3?orgId=1&topicId=1019&d=301&p=7&story=1084729621&ft=nprml&f=1084729621"
             },
+            "entities": [
+                "Joan Donovan",
+                "Harvard",
+                "Scott Simon",
+                "Russia-Ukraine"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/how-to-spot-disinformation-and-propaganda-coming-out-of-the-ukraine-russia-conflict",
             "guid": "story-63185",
@@ -784,6 +945,7 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220305_wesat_saturday_sports_03-05-22.mp3?orgId=1&topicId=1055&d=285&p=7&story=1084729607&ft=nprml&f=1084729607"
             },
+            "entities": ["MLB", "Winter", "Belarus", "Russia"],
             "author": "Tom Goldman",
             "link": "https://www.kuow.org/stories/saturday-sports-russia-and-belarus-banned-from-paralympics-coach-k-s-last-game",
             "guid": "story-63188",
@@ -808,6 +970,14 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220305_wesat_blinken_in_poland.mp3?orgId=1&topicId=1014&d=253&p=7&story=1084729600&ft=nprml&f=1084729600"
             },
+            "entities": [
+                "assault",
+                "Ukraine",
+                "Poland",
+                "Anthony Blinken",
+                "Secretary of State",
+                "Russia"
+            ],
             "author": "Joanna Kakissis",
             "link": "https://www.kuow.org/stories/secretary-of-state-blinken-visits-poland-to-discuss-further-assistance-to-ukraine",
             "guid": "story-63186",
@@ -832,6 +1002,7 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220305_wesat_biden_russia_ukraine_sat.mp3?orgId=1&topicId=1017&d=223&p=7&story=1084729593&ft=nprml&f=1084729593"
             },
+            "entities": ["Russian", "White House"],
             "author": "Tamara Keith",
             "link": "https://www.kuow.org/stories/biden-considers-banning-russian-oil-but-gas-prices-are-already-creeping-up",
             "guid": "story-63184",
@@ -856,6 +1027,15 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220305_wesat_week_in_politics.mp3?orgId=1&topicId=1014&d=289&p=7&story=1084729516&ft=nprml&f=1084729516"
             },
+            "entities": [
+                "President",
+                "his",
+                "Biden",
+                "Ukraine",
+                "NATO",
+                "him",
+                "Russia"
+            ],
             "author": "Ron Elving",
             "link": "https://www.kuow.org/stories/week-in-politics-biden-leads-nato-in-denouncing-russia-s-invasion-of-ukraine",
             "guid": "story-63179",
@@ -880,6 +1060,13 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220305_wesat_jan_6_trial_developments.mp3?orgId=1&topicId=1070&d=297&p=7&story=1084729523&ft=nprml&f=1084729523"
             },
+            "entities": [
+                "journalist",
+                "independent",
+                "Marcy Wheeler",
+                "Scott Simon",
+                "Jan. 6"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/rioters-plea-guilty-this-week-as-jan-6-panel-alleges-trump-broke-the-law",
             "guid": "story-63180",
@@ -904,6 +1091,7 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220305_wesat_ukraine_latest.mp3?orgId=1&topicId=1124&d=218&p=7&story=1084729509&ft=nprml&f=1084729509"
             },
+            "entities": ["Russian", "Ukraine", "two"],
             "author": "Lauren Frayer",
             "link": "https://www.kuow.org/stories/the-russian-invasion-of-ukraine-enters-its-10th-day",
             "guid": "story-63181",
@@ -928,6 +1116,14 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220305_wesat_china_two_sessions_meetings.mp3?orgId=1&topicId=1125&d=204&p=7&story=1084729537&ft=nprml&f=1084729537"
             },
+            "entities": [
+                "Beijing",
+                "third",
+                "party leader",
+                "Xi Peng",
+                "he",
+                "this weekend"
+            ],
             "author": "Emily Feng",
             "link": "https://www.kuow.org/stories/china-s-two-sessions-meetings-commence-setting-the-political-agenda-for-the-year",
             "guid": "story-63183",
@@ -952,6 +1148,14 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/03/20220305_wesat_oligarch_money_in_the_west.mp3?orgId=1&topicId=1006&d=298&p=7&story=1084729530&ft=nprml&f=1084729530"
             },
+            "entities": [
+                "Financial Times",
+                "Tom Burgis",
+                "Russian",
+                "author",
+                "Scott Simon",
+                "reporter"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/rich-russians-have-been-squirreling-money-away-in-the-u-k-and-u-s",
             "guid": "story-63182",
@@ -976,6 +1180,14 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220226_wesat_music_emily_wells.mp3?orgId=1&topicId=1105&d=446&p=7&story=1083283315&ft=nprml&f=1083283315"
             },
+            "entities": [
+                "Emily Wells",
+                "her",
+                "Scott Simon",
+                "AIDS",
+                "End",
+                "musician"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/emily-wells-considers-the-aids-crisis-and-climate-change-in-her-regards-to-the-end",
             "guid": "story-62933",
@@ -1000,6 +1212,13 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220226_wesat_saturday_sports_02-26-22.mp3?orgId=1&topicId=1055&d=275&p=7&story=1083283308&ft=nprml&f=1083283308"
             },
+            "entities": [
+                "Howard Bryant",
+                "Russian",
+                "Meadowlark Media",
+                "Scott Simon",
+                "Ukraine"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/saturday-sports-big-games-and-sponsors-break-russian-ties",
             "guid": "story-62931",
@@ -1024,6 +1243,16 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220226_wesat_georgia_sos_race.mp3?orgId=1&topicId=139482413&d=279&p=7&story=1083283287&ft=nprml&f=1083283287"
             },
+            "entities": [
+                "President",
+                "candidate",
+                "his",
+                "Donald Trump",
+                "GOP",
+                "Georgia",
+                "2020",
+                "Trump"
+            ],
             "author": "Miles Parks",
             "link": "https://www.kuow.org/stories/georgia-republicans-will-choose-between-candidates-that-supported-or-denounced-trump",
             "guid": "story-62929",
@@ -1048,6 +1277,7 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220226_wesat_cdc_relaxes_mask_guidelines.mp3?orgId=1&topicId=1128&aggIds=812054919&d=217&p=7&story=1083283280&ft=nprml&f=1083283280"
             },
+            "entities": ["CDC"],
             "author": "Maria Godoy",
             "link": "https://www.kuow.org/stories/cdc-drops-guidance-for-universal-indoor-masking",
             "guid": "story-62930",
@@ -1072,6 +1302,16 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220226_wesat_russia_sanctions.mp3?orgId=1&topicId=1124&d=328&p=7&story=1083283273&ft=nprml&f=1083283273"
             },
+            "entities": [
+                "Bill Browder",
+                "President",
+                "Vladimir Putin",
+                "critic",
+                "Russian",
+                "Scott Simon",
+                "businessman",
+                "Russia"
+            ],
             "author": "KUOW Staff",
             "link": "https://www.kuow.org/stories/will-the-current-sanctions-actually-push-russia-to-withdraw-from-ukraine",
             "guid": "story-62932",
@@ -1096,6 +1336,14 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220226_wesat_book_checkout_19.mp3?orgId=1&topicId=1033&d=445&p=7&story=1083283244&ft=nprml&f=1083283244"
             },
+            "entities": [
+                "English",
+                "Claire-Louise Bennett",
+                "her",
+                "author",
+                "Scott Simon",
+                "19"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/checkout-19-encapsulates-a-lifelong-love-affair-with-the-magic-of-books",
             "guid": "story-62925",
@@ -1120,6 +1368,13 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220226_wesat_banned_musicals_recital.mp3?orgId=1&topicId=1144&d=372&p=7&story=1083283230&ft=nprml&f=1083283230"
             },
+            "entities": [
+                "she",
+                "student",
+                "Caitlyn Fox",
+                "Scott Simon",
+                "Friends University"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/her-senior-recital-was-on-historically-censored-songs-then-her-school-censored-her",
             "guid": "story-62926",
@@ -1144,6 +1399,15 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220226_wesat_nato_and_russia.mp3?orgId=1&topicId=1124&d=263&p=7&story=1083283223&ft=nprml&f=1083283223"
             },
+            "entities": [
+                "Ivo Daalder",
+                "attack",
+                "Ukraine",
+                "ambassador",
+                "Scott Simon",
+                "NATO",
+                "Russia"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/what-is-nato-s-role-in-responding-to-the-russia-ukraine-conflict",
             "guid": "story-62928",
@@ -1168,6 +1432,10 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220226_wesat_lake_tahoe_bears.mp3?orgId=1&topicId=1132&d=202&p=7&story=1083283237&ft=nprml&f=1083283237"
             },
+            "entities": [
+                "Lake Tahoe",
+                "California Department of Fish and Wildlife"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/bears-have-become-bandits-and-burglars-in-the-lake-tahoe-region",
             "guid": "story-62927",
@@ -1192,6 +1460,7 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220219_wesat_music_-_ethos.mp3?orgId=1&topicId=1105&d=423&p=7&story=1081948919&ft=nprml&f=1081948919"
             },
+            "entities": ["Araya", "his", "Scott Simon", "musician", "Ethos"],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/araya-s-new-album-ethos-meets-at-the-intersection-of-r-b-and-electronic",
             "guid": "story-62694",
@@ -1216,6 +1485,15 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220219_wesat_book_how_i_escaped_a_chinese_reeducation_camp.mp3?orgId=1&topicId=1033&d=512&p=7&story=1081948912&ft=nprml&f=1081948912"
             },
+            "entities": [
+                "Gulbahar Haitiwaji",
+                "three years",
+                "Her",
+                "Scott Simon",
+                "Uyghur",
+                "Chinese",
+                "Reeducation Camp"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/a-uyghur-woman-releases-her-memoir-detailing-3-years-in-a-chinese-reeducation-camp",
             "guid": "story-62691",
@@ -1240,6 +1518,7 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220219_wesat_fantasy_mushing.mp3?orgId=1&topicId=1019&d=223&p=7&story=1081948905&ft=nprml&f=1081948905"
             },
+            "entities": ["David Hunt", "Danny Seavey", "Iditarod"],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/no-need-to-face-the-cold-you-can-now-get-into-mushing-virtually",
             "guid": "story-62690",
@@ -1264,6 +1543,7 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220219_wesat_levis_exec_speech.mp3?orgId=1&topicId=1006&d=275&p=7&story=1081948898&ft=nprml&f=1081948898"
             },
+            "entities": ["executive", "this week", "Levi Strauss &amp; Co."],
             "author": "Alina Selyukh",
             "link": "https://www.kuow.org/stories/jennifer-sey-could-have-been-the-next-levi-s-ceo-she-left-over-her-covid-19-views",
             "guid": "story-62693",
@@ -1288,6 +1568,13 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220219_wesat_ov_-_substitute_teacher.mp3?orgId=1&topicId=1013&d=276&p=7&story=1081948891&ft=nprml&f=1081948891"
             },
+            "entities": [
+                "teacher",
+                "Ariz.",
+                "Cisco Fernandez",
+                "Phoenix",
+                "him"
+            ],
             "author": "KUOW Staff",
             "link": "https://www.kuow.org/stories/a-substitute-teacher-brings-joy-and-relatability-in-a-tumultuous-time",
             "guid": "story-62692",
@@ -1312,6 +1599,14 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220219_wesat_figure_skating.mp3?orgId=1&topicId=1055&d=295&p=7&story=1081948828&ft=nprml&f=1081948828"
             },
+            "entities": [
+                "current",
+                "Olympics",
+                "skater",
+                "Scott Simon",
+                "the future",
+                "Polina Edmunds"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/olympic-figure-skating-faces-a-series-of-controversies-what-is-its-future",
             "guid": "story-62687",
@@ -1336,6 +1631,13 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220219_wesat_park_ranger_eviction.mp3?orgId=1&topicId=1003&d=230&p=7&story=1081948835&ft=nprml&f=1081948835"
             },
+            "entities": [
+                "Iowa",
+                "State Police Officers Council",
+                "Scott Simon",
+                "Jason Bardsley",
+                "president"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/iowa-park-rangers-have-been-evicted-from-government-housing-to-avoid-repair-costs",
             "guid": "story-62688",
@@ -1360,6 +1662,16 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220219_wesat_black_cloud_rising.mp3?orgId=1&topicId=1033&d=503&p=7&story=1081948842&ft=nprml&f=1081948842"
             },
+            "entities": [
+                "leader",
+                "Civil",
+                "his",
+                "Scott Simon",
+                "War",
+                "novelist",
+                "David Wright Falade",
+                "all-Black"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/black-cloud-rising-is-the-story-of-an-all-black-brigade-in-the-u-s-civil-war",
             "guid": "story-62689",
@@ -1384,6 +1696,14 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220212_wesat_biden_putin.mp3?orgId=1&topicId=1124&d=240&p=7&story=1080381785&ft=nprml&f=1080381785"
             },
+            "entities": [
+                "President",
+                "Russian",
+                "his",
+                "Biden",
+                "today",
+                "Ukraine"
+            ],
             "author": "Franco Ordoñez",
             "link": "https://www.kuow.org/stories/biden-tells-putin-the-u-s-will-swiftly-and-severely-respond-to-a-ukraine-invasion",
             "guid": "story-62443",
@@ -1408,6 +1728,15 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220212_wesat_book_chilean_poet.mp3?orgId=1&topicId=1033&d=430&p=7&story=1080354273&ft=nprml&f=1080354273"
             },
+            "entities": [
+                "Santiago",
+                "his",
+                "Alejandro Zambra",
+                "Scott Simon",
+                "Poet",
+                "Chilean",
+                "two"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/the-novel-chilean-poet-touches-on-and-pulls-apart-the-numerous-varietals-of-love",
             "guid": "story-62441",
@@ -1432,6 +1761,14 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220212_wesat_sarah_palin_v_nyt.mp3?orgId=1&topicId=1020&d=254&p=7&story=1080354259&ft=nprml&f=1080354259"
             },
+            "entities": [
+                "her",
+                "New York Times",
+                "Friday",
+                "Sarah Palin",
+                "Republican",
+                "governor"
+            ],
             "author": "David Folkenflik",
             "link": "https://www.kuow.org/stories/new-york-times-admitted-it-made-mistakes-and-moved-too-fast-in-palin-editorial",
             "guid": "story-62442",
@@ -1456,6 +1793,14 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220212_wesat_opinion_my_fathers_valentines_day_cufflinks.mp3?orgId=1&topicId=1057&aggIds=4495795&d=152&p=7&story=1080305032&ft=nprml&f=1080305032"
             },
+            "entities": [
+                "NPR",
+                "his",
+                "Scott Simon",
+                "two",
+                "years",
+                "Valentine's Day"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/opinion-my-father-s-valentine-s-day-cufflinks",
             "guid": "story-62438",
@@ -1480,6 +1825,15 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220212_wesat_the_lone_philippines_olympian.mp3?orgId=1&topicId=1055&d=212&p=7&story=1080354252&ft=nprml&f=1080354252"
             },
+            "entities": [
+                "Beijing",
+                "Philippines",
+                "Olympics",
+                "Asa Miller",
+                "Sunday",
+                "one",
+                "winter"
+            ],
             "author": "Ashley Westerman",
             "link": "https://www.kuow.org/stories/tropical-philippines-has-only-one-entrant-in-the-winter-olympics",
             "guid": "story-62440",
@@ -1504,6 +1858,7 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220212_wesat_ottawa_healthcare_worker.mp3?orgId=1&topicId=1027&aggIds=812054919&d=262&p=7&story=1080354245&ft=nprml&f=1080354245"
             },
+            "entities": ["Canada", "Alison Eyre", "Scott Simon", "Ottawa"],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/health-care-workers-in-ottawa-are-being-harassed-protesters-against-covid-19-mandates",
             "guid": "story-62439",
@@ -1528,6 +1883,17 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220205_wesat_movie_winter_journey.mp3?orgId=1&topicId=1137&d=515&p=7&story=1078478667&ft=nprml&f=1078478667"
             },
+            "entities": [
+                "his",
+                "Winter",
+                "author",
+                "Nazi",
+                "Scott Simon",
+                "host",
+                "Martin Goldsmith",
+                "Germany",
+                "Jewish"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/in-winter-journey-a-son-pushes-his-father-to-reflect-on-his-past-in-nazi-germany",
             "guid": "story-62168",
@@ -1552,6 +1918,14 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220205_wesat_book_the_family_chao.mp3?orgId=1&topicId=1033&d=445&p=7&story=1078478658&ft=nprml&f=1078478658"
             },
+            "entities": [
+                "Dostoevsky",
+                "Chang",
+                "Scott Simon",
+                "Chinese-American",
+                "Lan Samantha Chang",
+                "Wisconsin"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/the-family-chao-centers-on-good-food-made-by-a-not-so-good-person",
             "guid": "story-62167",
@@ -1576,6 +1950,15 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220205_wesat_old_puzzle_crazes.mp3?orgId=1&topicId=1052&d=264&p=7&story=1078478644&ft=nprml&f=1078478644"
             },
+            "entities": [
+                "journalist",
+                "storm",
+                "his",
+                "A.J. Jacobs",
+                "author",
+                "Scott Simon",
+                "first"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/wordle-don-t-forget-your-roots-the-puzzler-details-puzzle-fads-through-time",
             "guid": "story-62170",
@@ -1600,6 +1983,7 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220205_wesat_fewer_cars_more_profits.mp3?orgId=1&topicId=1006&d=238&p=7&story=1078478637&ft=nprml&f=1078478637"
             },
+            "entities": [],
             "author": "Camila Domonoske",
             "link": "https://www.kuow.org/stories/automakers-and-dealers-are-rolling-in-it-thanks-to-demand-for-new-cars",
             "guid": "story-62169",
@@ -1624,6 +2008,14 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220205_wesat_saturday_sports_020522.mp3?orgId=1&topicId=1055&d=286&p=7&story=1078478630&ft=nprml&f=1078478630"
             },
+            "entities": [
+                "NFL",
+                "China",
+                "Tom Brady",
+                "winter",
+                "coach",
+                "Olympic Games"
+            ],
             "author": "Tom Goldman",
             "link": "https://www.kuow.org/stories/saturday-sports-winter-olympics-begin-tom-brady-retires-flores-sues-nfl",
             "guid": "story-62166",
@@ -1648,6 +2040,12 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220205_wesat_week_in_politics_russia_and_china_grow_closer.mp3?orgId=1&topicId=1014&d=278&p=7&story=1078478553&ft=nprml&f=1078478553"
             },
+            "entities": [
+                "Republican National Committee",
+                "China",
+                "Jan. 6",
+                "Russia"
+            ],
             "author": "Ron Elving",
             "link": "https://www.kuow.org/stories/week-in-politics-russia-and-china-align-rnc-justifies-jan-6-job-growth",
             "guid": "story-62161",
@@ -1672,6 +2070,7 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220205_wesat_view_from_rostov.mp3?orgId=1&topicId=1124&d=225&p=7&story=1078478546&ft=nprml&f=1078478546"
             },
+            "entities": ["Rostov-on-Don", "Russian", "Ukraine", "war"],
             "author": "Charles Maynes",
             "link": "https://www.kuow.org/stories/citizens-of-rostov-on-don-could-be-caught-in-the-middle-of-a-russia-ukraine-war",
             "guid": "story-62162",
@@ -1696,6 +2095,7 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220205_wesat_opinion_remember_reading_the_paper_.mp3?orgId=1&topicId=1057&aggIds=4495795&d=153&p=7&story=1078377406&ft=nprml&f=1078377406"
             },
+            "entities": ["NPR", "Scott Simon"],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/opinion-remember-reading-the-paper",
             "guid": "story-62163",
@@ -1720,6 +2120,7 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220205_wesat_first_person_vaccine_authorized_for_children_under_5.mp3?orgId=1&topicId=1030&d=253&p=7&story=1078478567&ft=nprml&f=1078478567"
             },
+            "entities": ["5 years old", "her", "Christina Cantor", "Denver"],
             "author": "KUOW Staff",
             "link": "https://www.kuow.org/stories/a-shot-for-children-under-5-could-put-compromised-kids-lives-back-on-track",
             "guid": "story-62164",
@@ -1744,6 +2145,14 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/02/20220205_wesat_nfl_coachs_lawsuit.mp3?orgId=1&topicId=1055&d=280&p=7&story=1078478560&ft=nprml&f=1078478560"
             },
+            "entities": [
+                "Brian Flores",
+                "bribery",
+                "this week",
+                "NFL",
+                "coach",
+                "Miami Dolphins"
+            ],
             "author": "Sandhya Dirks",
             "link": "https://www.kuow.org/stories/former-miami-dolphins-coach-brian-flores-sues-nfl-citing-systemic-racism",
             "guid": "story-62165",
@@ -1768,6 +2177,14 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/01/20220129_wesat_movie_-_belfast.mp3?orgId=1&topicId=1137&d=412&p=7&story=1076664018&ft=nprml&f=1076664018"
             },
+            "entities": [
+                "actor",
+                "Jamie Dornan",
+                "Belfast",
+                "Ireland",
+                "Scott Simon",
+                "Northern"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/actor-jamie-dornan-discusses-northern-ireland-conflict-film-belfast",
             "guid": "story-61909",
@@ -1792,6 +2209,7 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/01/20220129_wesat_cook_books_sunk.mp3?orgId=1&topicId=1146&d=76&p=7&story=1076664011&ft=nprml&f=1076664011"
             },
+            "entities": ["Atlantic Ocean", "Two"],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/due-to-a-shipping-container-incident-every-copy-of-2-cookbooks-were-lost-at-sea",
             "guid": "story-61906",
@@ -1816,6 +2234,14 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/01/20220129_wesat_book_thank_you_mr_nixon.mp3?orgId=1&topicId=1033&d=456&p=7&story=1076664004&ft=nprml&f=1076664004"
             },
+            "entities": [
+                "Nixon",
+                "Gish Jen",
+                "her",
+                "Scott Simon",
+                "Thank You",
+                "writer"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/gish-jen-tells-stories-of-the-u-s-and-china-in-thank-you-mr-nixon",
             "guid": "story-61907",
@@ -1840,6 +2266,17 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/01/20220129_wesat_new_story.mp3?orgId=1&topicId=1055&d=245&p=7&story=1076663990&ft=nprml&f=1076663990"
             },
+            "entities": [
+                "Howard Bryant",
+                "Meadowlark Media",
+                "NFL",
+                "Australian",
+                "Scott Simon",
+                "Joel Embiid",
+                "NBA",
+                "Open",
+                "this weekend"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/saturday-sports-australian-open-finals-nfl-playoffs-joel-embiid-s-scoring-streak",
             "guid": "story-61905",
@@ -1864,6 +2301,16 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/01/20220129_wesat_congressman_on_ukraine.mp3?orgId=1&topicId=1014&d=297&p=7&story=1076663976&ft=nprml&f=1076663976"
             },
+            "entities": [
+                "U.S.",
+                "Brian Fitzpatrick",
+                "Scott Simon",
+                "Republican",
+                "Congressional Ukraine Caucus",
+                "Congressman",
+                "Pennsylvania",
+                "Russia"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/chair-of-the-congressional-ukraine-caucus-says-u-s-must-act-now-to-assist-ukraine",
             "guid": "story-61908",
@@ -1888,6 +2335,7 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/01/20220129_wesat_ukraine_cyber_piece.mp3?orgId=1&topicId=1019&d=265&p=7&story=1076663927&ft=nprml&f=1076663927"
             },
+            "entities": ["2017", "Ukraine", "Russia"],
             "author": "Jenna McLaughlin",
             "link": "https://www.kuow.org/stories/russia-could-cyberattack-ukraine-again-and-disrupt-the-entire-world",
             "guid": "story-61900",
@@ -1912,6 +2360,15 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/01/20220129_wesat_new_england_storm.mp3?orgId=1&topicId=1165&d=182&p=7&story=1076663920&ft=nprml&f=1076663920"
             },
+            "entities": [
+                "mid-Atlantic",
+                "New",
+                "Dave Epstein",
+                "Scott Simon",
+                "today",
+                "England",
+                "Boston"
+            ],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/winter-storm-hitting-the-east-coast-could-produce-4-inches-of-snow-an-hour",
             "guid": "story-61902",
@@ -1936,6 +2393,7 @@
                 "type": "audio/mp3",
                 "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2022/01/20220129_wesat_opinion_a_case_for_hong_kongs_hamsters_.mp3?orgId=1&topicId=1057&aggIds=4495795&d=155&p=7&story=1076606146&ft=nprml&f=1076606146"
             },
+            "entities": ["11", "Hong Kong", "the past five weeks"],
             "author": "Scott Simon",
             "link": "https://www.kuow.org/stories/opinion-a-case-for-hong-kong-s-hamsters",
             "guid": "story-61903",

@@ -46,6 +46,16 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/p/acast/s/go-off-sis/e/61f289ec52364800122cb240/media.mp3"
             },
+            "entities": [
+                "she",
+                "Nutritionist",
+                "this week",
+                "5",
+                "Gessie",
+                "one",
+                "winter",
+                "Coach"
+            ],
             "link": "https://shows.acast.com/go-off-sis/episodes/dear-momma-with-coach-gessie",
             "guid": "61f289ec52364800122cb240",
             "isoDate": "2022-01-27T12:02:52.000Z",
@@ -68,6 +78,15 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/p/acast/s/go-off-sis/e/61dfefe3f2acc80013af23b6/media.mp3"
             },
+            "entities": [
+                "she",
+                "She",
+                "Tiffany Haddish",
+                "Tiffany",
+                "her",
+                "2022",
+                "Ready Foundation"
+            ],
             "link": "https://shows.acast.com/go-off-sis/episodes/the-category-is-body-fttiffany-haddish",
             "guid": "61dfefe3f2acc80013af23b6",
             "isoDate": "2022-01-13T11:00:00.000Z",
@@ -90,6 +109,20 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/p/acast/s/go-off-sis/e/61ccc295120c0400147478dc/media.mp3"
             },
+            "entities": [
+                "New York Stock Exchange",
+                "30 days",
+                "boss",
+                "her",
+                "student",
+                "this year may",
+                "Lauren Simmons",
+                "trader",
+                "2022",
+                "the future",
+                "this year",
+                "second"
+            ],
             "link": "https://shows.acast.com/go-off-sis/episodes/why-do-things-cost-money-ft-lauren-simmons",
             "guid": "61ccc295120c0400147478dc",
             "isoDate": "2021-12-30T12:30:16.000Z",
@@ -112,6 +145,15 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/p/acast/s/go-off-sis/e/61bafe2c57f5d700129b1822/media.mp3"
             },
+            "entities": [
+                "actress",
+                "she",
+                "Palmer",
+                "this week",
+                "singer",
+                "Keke Palmer",
+                "this year"
+            ],
             "link": "https://shows.acast.com/go-off-sis/episodes/go-off-sis-favorite-tings-holiday-edition-with-keke-palmer",
             "guid": "61bafe2c57f5d700129b1822",
             "isoDate": "2021-12-16T10:30:00.000Z",
@@ -135,6 +177,18 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/therealteaonrealitytvft.porshawilliams/media.mp3"
             },
+            "entities": [
+                "she",
+                "Georgia Peach",
+                "boss",
+                "her",
+                "author",
+                "now",
+                "today",
+                "Porsha Williams",
+                "entrepreneur",
+                "Real Housewives of Atlanta"
+            ],
             "link": "https://play.acast.com/s/go-off-sis/therealteaonrealitytvft.porshawilliams",
             "guid": "f0102781-a25b-4b6a-9881-052d566d63e7",
             "isoDate": "2021-12-02T10:30:00.000Z",
@@ -158,6 +212,19 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/hitthatnotebutsecurethebag/media.mp3"
             },
+            "entities": [
+                "Whitney Houston",
+                "Flo Milli",
+                "her",
+                "Megan Thee Stallion",
+                "Baby Tate",
+                "daily",
+                "NOW",
+                "Normani",
+                "Saweetie",
+                "Jazmine Sullivan",
+                "Chloe Bailey"
+            ],
             "link": "https://play.acast.com/s/go-off-sis/hitthatnotebutsecurethebag",
             "guid": "12875065-f2a1-45d5-8532-6fa83fea6b53",
             "isoDate": "2021-11-18T10:31:31.000Z",
@@ -181,6 +248,17 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/don-tplaywithblacktwitterft.sasheerzamata/media.mp3"
             },
+            "entities": [
+                "Black Twitter",
+                "Sasheer Zamata",
+                "She",
+                "she",
+                "ABC",
+                "Hulu",
+                "Beyonce",
+                "one",
+                "today"
+            ],
             "link": "https://play.acast.com/s/go-off-sis/don-tplaywithblacktwitterft.sasheerzamata",
             "guid": "6445e7b0-2600-4dca-8e79-0c401155f9af",
             "isoDate": "2021-11-11T10:30:00.000Z",
@@ -204,6 +282,16 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/relationshipgoldpart2ft.niecynash/media.mp3"
             },
+            "entities": [
+                "she",
+                "Jessica Betts",
+                "her",
+                "a minute",
+                "one",
+                "Niecy Nash",
+                "two",
+                "first"
+            ],
             "link": "https://play.acast.com/s/go-off-sis/relationshipgoldpart2ft.niecynash",
             "guid": "a87e4aec-f1ff-4997-bd61-7654fa1c2f2e",
             "isoDate": "2021-11-04T09:00:00.000Z",
@@ -227,6 +315,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/relationshipgoldpart1ft.joyofodu/media.mp3"
             },
+            "entities": ["creator", "today", "one", "two", "Joy Ofodu"],
             "link": "https://play.acast.com/s/go-off-sis/relationshipgoldpart1ft.joyofodu",
             "guid": "ac6ce451-a6d7-46e8-ab32-07ffab4b4730",
             "isoDate": "2021-10-21T09:00:06.000Z",
@@ -250,6 +339,20 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/partyoverhereft.yvonneorji/media.mp3"
             },
+            "entities": [
+                "comedian",
+                "Yvonne",
+                "she",
+                "Jesus",
+                "her",
+                "HBO",
+                "DJ",
+                "Yvonne Orji",
+                "Molly",
+                "the first 30 seconds",
+                "writer",
+                "first"
+            ],
             "link": "https://play.acast.com/s/go-off-sis/partyoverhereft.yvonneorji",
             "guid": "523d0d96-d0b0-42c0-95f4-28fe945e5336",
             "isoDate": "2021-10-07T09:40:41.000Z",
@@ -273,6 +376,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/blackluxuryft.elainewelteroth-/media.mp3"
             },
+            "entities": ["Elaine Welteroth", "Maldives", "boss", "her"],
             "link": "https://play.acast.com/s/go-off-sis/blackluxuryft.elainewelteroth-",
             "guid": "13bf5a2f-bec0-439e-ae7e-2fa462f89fc0",
             "isoDate": "2021-09-23T12:55:02.000Z",
@@ -296,6 +400,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/rebootingthetimeline/media.mp3"
             },
+            "entities": ["5", "this fall", "now", "summer"],
             "link": "https://play.acast.com/s/go-off-sis/rebootingthetimeline",
             "guid": "31bc1f7e-2a62-42a8-94af-69b72e095cc3",
             "isoDate": "2021-09-09T12:00:00.000Z",
@@ -318,6 +423,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/season5trailer/media.mp3"
             },
+            "entities": ["bi-weekly", "Black twitter", "present", "five"],
             "link": "https://play.acast.com/s/go-off-sis/season5trailer",
             "guid": "712281e2-390a-44b0-910c-0d87b9084316",
             "isoDate": "2021-09-02T13:27:10.000Z",
@@ -341,6 +447,19 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/throwbacksandnevercomingbackft.daniellecadetwiggins-misahylton/media.mp3"
             },
+            "entities": [
+                "she",
+                "SWV",
+                "manager",
+                "her",
+                "now",
+                "Misa Hylton",
+                "'90s",
+                "HR",
+                "the '90s",
+                "stylist",
+                "Jodeci"
+            ],
             "link": "https://play.acast.com/s/go-off-sis/throwbacksandnevercomingbackft.daniellecadetwiggins-misahylton",
             "guid": "aac33c47-4d43-439d-a6e5-609dc70b77f6",
             "isoDate": "2021-05-13T14:30:00.000Z",
@@ -364,6 +483,16 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/blackcomedy-joyandgrouptherapyft.lalamilan/media.mp3"
             },
+            "entities": [
+                "she",
+                "Today",
+                "her",
+                "Lala Milan",
+                "America",
+                "Private Investigator",
+                "Laughter",
+                "Black"
+            ],
             "link": "https://play.acast.com/s/go-off-sis/blackcomedy-joyandgrouptherapyft.lalamilan",
             "guid": "cf068ce4-2d5e-47d3-8556-92b2c4ffb932",
             "isoDate": "2021-04-22T14:00:00.000Z",
@@ -387,6 +516,16 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/mercuryinmicrobraidsft.marsaimartin/media.mp3"
             },
+            "entities": [
+                "Leo Energy",
+                "boss",
+                "Executive Producer",
+                "her",
+                "the year",
+                "Actress",
+                "Spring",
+                "Marsai Martin"
+            ],
             "link": "https://play.acast.com/s/go-off-sis/mercuryinmicrobraidsft.marsaimartin",
             "guid": "777c5e68-5714-443b-b9cc-4bdafa3afb2d",
             "isoDate": "2021-04-15T14:00:00.000Z",
@@ -410,6 +549,13 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/forus-byus-young-black-andfashionable/media.mp3"
             },
+            "entities": [
+                "Ade Samuel",
+                "Michael B. Jordan",
+                "she",
+                "her",
+                "Stylist"
+            ],
             "link": "https://play.acast.com/s/go-off-sis/forus-byus-young-black-andfashionable",
             "guid": "bb60a470-c3a5-497e-b3d8-9203fe828590",
             "isoDate": "2021-04-08T15:00:00.000Z",
@@ -433,6 +579,15 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/planes-trains-automobilesandanxietyft.jessicafranklin/media.mp3"
             },
+            "entities": [
+                "she",
+                "current",
+                "two weeks",
+                "months",
+                "Jessica Franklin",
+                "Creator",
+                "This past year"
+            ],
             "link": "https://play.acast.com/s/go-off-sis/planes-trains-automobilesandanxietyft.jessicafranklin",
             "guid": "4846d29c-3096-44ae-8456-8fbd43f7c9b4",
             "isoDate": "2021-04-01T14:00:00.000Z",
@@ -456,6 +611,16 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/arewehomeyet-ft.themcbridesisters/media.mp3"
             },
+            "entities": [
+                "now",
+                "this past year",
+                "one",
+                "Andréa",
+                "Robin",
+                "two",
+                "first",
+                "Black Girl Magic"
+            ],
             "link": "https://play.acast.com/s/go-off-sis/arewehomeyet-ft.themcbridesisters",
             "guid": "4a42de28-8444-4b23-b57a-2f9f7a8e0170",
             "isoDate": "2021-03-25T14:00:00.000Z",
@@ -479,6 +644,16 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/shotgirlsummerloveft.megangood/media.mp3"
             },
+            "entities": [
+                "she",
+                "Hollywood",
+                "She",
+                "Meagan Good",
+                "her",
+                "one",
+                "now",
+                "Black"
+            ],
             "link": "https://play.acast.com/s/go-off-sis/shotgirlsummerloveft.megangood",
             "guid": "c83c9b7d-10ee-4362-a282-ca99d2a6d780",
             "isoDate": "2021-03-18T16:14:54.000Z",
@@ -502,6 +677,14 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/molassesandmelaninloveft.jillscott/media.mp3"
             },
+            "entities": [
+                "she",
+                "her",
+                "queen",
+                "15-year-old",
+                "Jill Scott",
+                "A year"
+            ],
             "link": "https://play.acast.com/s/go-off-sis/molassesandmelaninloveft.jillscott",
             "guid": "986d91cf-e047-401a-a204-8cd32b4d2f85",
             "isoDate": "2021-03-11T15:00:00.000Z",
@@ -525,6 +708,14 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/andtheawardgoesto...blackwomen/media.mp3"
             },
+            "entities": [
+                "activist",
+                "Brittany Packnett Cunningham",
+                "four",
+                "this new year",
+                "2020",
+                "US"
+            ],
             "link": "https://play.acast.com/s/go-off-sis/andtheawardgoesto...blackwomen",
             "guid": "4aeb3064-b4db-4bdc-b894-6a808b335d9e",
             "isoDate": "2021-03-04T15:00:00.000Z",
@@ -547,6 +738,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/blackisqueen/media.mp3"
             },
+            "entities": ["year", "four", "2021", "2020", "weekly"],
             "link": "https://play.acast.com/s/go-off-sis/blackisqueen",
             "guid": "28d6a880-752c-46f6-aa35-8580f7c2eb0d",
             "isoDate": "2021-02-25T13:28:25.000Z",
@@ -570,6 +762,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/thehookupft.javicialeslie/media.mp3"
             },
+            "entities": ["Javicia Leslie", "Hampton"],
             "link": "https://play.acast.com/s/go-off-sis/thehookupft.javicialeslie",
             "guid": "b2054b96-0ad3-4155-9a77-3e4205ed1278",
             "isoDate": "2020-10-27T14:43:26.000Z",
@@ -593,6 +786,15 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/excuseme-imvotingft.yandysmith-harris/media.mp3"
             },
+            "entities": [
+                "activist",
+                "Yandy Smith-Harris",
+                "she",
+                "Howard",
+                "her",
+                "America",
+                "this year"
+            ],
             "link": "https://play.acast.com/s/go-off-sis/excuseme-imvotingft.yandysmith-harris",
             "guid": "1a26555b-e71d-4933-8a03-91a5d8de213a",
             "isoDate": "2020-10-22T12:00:00.000Z",
@@ -616,6 +818,16 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/homecomingisnotcancelledft.creesummer/media.mp3"
             },
+            "entities": [
+                "Beychella",
+                "Susie Carmichael",
+                "one",
+                "Freddie Brooks",
+                "Summer",
+                "Hillman",
+                "Stomp the Yard",
+                "HBCU"
+            ],
             "link": "https://play.acast.com/s/go-off-sis/homecomingisnotcancelledft.creesummer",
             "guid": "a16eeb26-3e52-4beb-a5f7-26ac46557420",
             "isoDate": "2020-10-20T12:00:00.000Z",
@@ -639,6 +851,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/changingthegameft.chineyogwumike/media.mp3"
             },
+            "entities": ["today", "Black", "social justice", "first"],
             "link": "https://play.acast.com/s/go-off-sis/changingthegameft.chineyogwumike",
             "guid": "fdf22578-cbc7-4f11-82b9-02f82692dca6",
             "isoDate": "2020-10-13T12:00:00.000Z",
@@ -662,6 +875,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/formysistersft.marabrockakil/media.mp3"
             },
+            "entities": ["Mara Brock Akil", "one"],
             "link": "https://play.acast.com/s/go-off-sis/formysistersft.marabrockakil",
             "guid": "6b5ed7b7-770e-4934-b458-8aa02284b35f",
             "isoDate": "2020-10-06T10:00:00.000Z",
@@ -685,6 +899,16 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/hbcusvs.pwisft.sylviaobell-scottiebeam-loganbrowning/media.mp3"
             },
+            "entities": [
+                "3",
+                "PWI",
+                "Sylvia",
+                "Now",
+                "Logan Browning",
+                "header",
+                "Scottie",
+                "HBCU"
+            ],
             "link": "https://play.acast.com/s/go-off-sis/hbcusvs.pwisft.sylviaobell-scottiebeam-loganbrowning",
             "guid": "ac8d4b1d-efbd-481d-8155-003cfdb2393f",
             "isoDate": "2020-09-29T12:00:00.000Z",
@@ -707,6 +931,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/season3trailer/media.mp3"
             },
+            "entities": ["Fall", "three", "weekly"],
             "link": "https://play.acast.com/s/go-off-sis/season3trailer",
             "guid": "2da68c3f-c671-4e48-b592-e6c404141dc7",
             "isoDate": "2020-09-22T12:00:29.000Z",
@@ -729,6 +954,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/blackwomenareessentialfeat.kierseyclemons/media.mp3"
             },
+            "entities": ["Antebellum", "actress", "night", "Kiersey Clemons"],
             "link": "https://play.acast.com/s/go-off-sis/blackwomenareessentialfeat.kierseyclemons",
             "guid": "88164997-2aaf-4676-9cb8-2ebc8ece6706",
             "isoDate": "2020-07-30T12:43:35.000Z",
@@ -752,6 +978,16 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/keepthatsameenergyfeat.kekepalmer/media.mp3"
             },
+            "entities": [
+                "She",
+                "she",
+                "summer 2020",
+                "Keke&nbsp;Palmer",
+                "this year",
+                "summer",
+                "guide",
+                "every week"
+            ],
             "link": "https://play.acast.com/s/go-off-sis/keepthatsameenergyfeat.kekepalmer",
             "guid": "adf4b8f9-657c-4688-83d9-83206bb5a823",
             "isoDate": "2020-07-02T11:00:53.000Z",
@@ -775,6 +1011,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/allyisspelledl.o.u.d-/media.mp3"
             },
+            "entities": ["today", "BIPOC"],
             "link": "https://play.acast.com/s/go-off-sis/allyisspelledl.o.u.d-",
             "guid": "b11fc945-6a63-41cb-972a-80e65a138e18",
             "isoDate": "2020-06-25T06:00:00.000Z",
@@ -798,6 +1035,14 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/fortheculture-feat.amandaseales/media.mp3"
             },
+            "entities": [
+                "this week",
+                "complications",
+                "Amanda Seales",
+                "one",
+                "May 22, 2020",
+                "teller"
+            ],
             "link": "https://play.acast.com/s/go-off-sis/fortheculture-feat.amandaseales",
             "guid": "b22715d3-4902-4eba-9159-5969c4f734db",
             "isoDate": "2020-06-12T15:09:29.000Z",
@@ -820,6 +1065,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/werenotok.andthatsok-/media.mp3"
             },
+            "entities": ["right now"],
             "link": "https://play.acast.com/s/go-off-sis/werenotok.andthatsok-",
             "guid": "f08e3210-ae7d-45b7-b293-f8df81146b47",
             "isoDate": "2020-06-04T13:46:34.000Z",
@@ -843,6 +1089,17 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/bishbetterhavemymoneyfeat.traceeellisross/media.mp3"
             },
+            "entities": [
+                "actress",
+                "chaser",
+                "boss",
+                "this week",
+                "her",
+                "today",
+                "Golden-Globe",
+                "Tracee Ellis Ross",
+                "this summer"
+            ],
             "link": "https://play.acast.com/s/go-off-sis/bishbetterhavemymoneyfeat.traceeellisross",
             "guid": "4a121a08-8713-4208-b983-f22476d7235f",
             "isoDate": "2020-05-28T13:44:04.000Z",
@@ -866,6 +1123,14 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/nuspiritualityfeat.janellemonae/media.mp3"
             },
+            "entities": [
+                "activist",
+                "actress",
+                "right now",
+                "singer",
+                "today",
+                "Janelle Monáe"
+            ],
             "link": "https://play.acast.com/s/go-off-sis/nuspiritualityfeat.janellemonae",
             "guid": "9099b897-9d21-4a49-88a6-963a545b0650",
             "isoDate": "2020-05-21T13:16:31.000Z",
@@ -889,6 +1154,16 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/sisters-howyallfeel-feat.tiamowry/media.mp3"
             },
+            "entities": [
+                "Tia Mowry",
+                "actress",
+                "2",
+                "right now",
+                "WFH",
+                "producer",
+                "present",
+                "entrepreneur"
+            ],
             "link": "https://play.acast.com/s/go-off-sis/sisters-howyallfeel-feat.tiamowry",
             "guid": "2d445120-cb8e-4193-82f7-8e8df9ec7379",
             "isoDate": "2020-05-14T16:21:47.000Z",
@@ -911,6 +1186,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/trailer-season2/media.mp3"
             },
+            "entities": ["Thursday", "two", "every"],
             "link": "https://play.acast.com/s/go-off-sis/trailer-season2",
             "guid": "b78322e0-96bb-4bca-9d91-820af844e17b",
             "isoDate": "2020-05-07T18:58:22.000Z",
@@ -934,6 +1210,13 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/myblackisbeautiful/media.mp3"
             },
+            "entities": [
+                "Danielle",
+                "Nadirah Mutala",
+                "Breann Davis",
+                "My Black is Beautiful",
+                "Black is Beautiful"
+            ],
             "link": "https://play.acast.com/s/go-off-sis/myblackisbeautiful",
             "guid": "gid://art19-episode-locator/V0/_YUkt_J9SeXxGifRcj86UnuEWz4Gqy1_bhaEt_8F5NM",
             "isoDate": "2019-09-05T13:46:44.000Z",
@@ -957,6 +1240,20 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/blackwomen-theirhomophobiafeat.jarijones/media.mp3"
             },
+            "entities": [
+                "Danielle",
+                "activist",
+                "Laurise McMillian",
+                "@dbcadet",
+                "@Lauriseirl",
+                "this week",
+                "Raven Baker",
+                "model",
+                "Jari Jones",
+                "@Chan_inthecity",
+                "@Theglogoddess",
+                "Channing Hargrove"
+            ],
             "link": "https://play.acast.com/s/go-off-sis/blackwomen-theirhomophobiafeat.jarijones",
             "guid": "gid://art19-episode-locator/V0/L2MiawERDh7-66yeFVzHkIos84NN-BMGAK2ks98N7uc",
             "isoDate": "2019-08-29T15:45:28.000Z",
@@ -980,6 +1277,17 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/checkyourstress-sis.feat.erickahart/media.mp3"
             },
+            "entities": [
+                "Danielle",
+                "Laurise McMillian",
+                "@dbcadet",
+                "@Lauriseirl",
+                "Raven Baker",
+                "Ericka Hart",
+                "@Chan_inthecity",
+                "@Theglogoddess",
+                "Channing Hargrove"
+            ],
             "link": "https://play.acast.com/s/go-off-sis/checkyourstress-sis.feat.erickahart",
             "guid": "gid://art19-episode-locator/V0/Vw-bpvU3frHGP0_W8OsAXQoDvP6z0Y0g0sHUCAKf-Pw",
             "isoDate": "2019-08-22T04:00:00.000Z",
@@ -1003,6 +1311,18 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/wereafamilynow/media.mp3"
             },
+            "entities": [
+                "Danielle",
+                "actress",
+                "Laurise McMillian",
+                "@dbcadet",
+                "La La Anthony",
+                "@Lauriseirl",
+                "Raven Baker",
+                "@Chan_inthecity",
+                "@Theglogoddess",
+                "Channing Hargrove"
+            ],
             "link": "https://play.acast.com/s/go-off-sis/wereafamilynow",
             "guid": "gid://art19-episode-locator/V0/A-XuMAXvQ6vMcKrT3AjJWYyLSxKr8d6mrvzF4yVlLrs",
             "isoDate": "2019-08-15T04:25:14.000Z",
@@ -1026,6 +1346,18 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/corporatewhileblack/media.mp3"
             },
+            "entities": [
+                "journalist",
+                "Danielle",
+                "Laurise McMillian",
+                "@dbcadet",
+                "@Lauriseirl",
+                "Raven Baker",
+                "Black",
+                "@Chan_inthecity",
+                "@Theglogoddess",
+                "Channing Hargrove"
+            ],
             "link": "https://play.acast.com/s/go-off-sis/corporatewhileblack",
             "guid": "gid://art19-episode-locator/V0/u7-e5UALQxqDvu8BAmJ-u8T_zNPTMcIUPRGhH_XOi28",
             "isoDate": "2019-08-08T04:00:00.000Z",
@@ -1049,6 +1381,18 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/hotgirlsummersnotcancelled/media.mp3"
             },
+            "entities": [
+                "Danielle",
+                "Laurise McMillian",
+                "@dbcadet",
+                "@Lauriseirl",
+                "Raven Baker",
+                "one",
+                "Summer",
+                "@Chan_inthecity",
+                "@Theglogoddess",
+                "Channing Hargrove"
+            ],
             "link": "https://play.acast.com/s/go-off-sis/hotgirlsummersnotcancelled",
             "guid": "gid://art19-episode-locator/V0/tvAGvRrs8Z5vUS95_aC3PuHLnVo-gscVeMPv4QUOesM",
             "isoDate": "2019-08-01T05:00:00.000Z",
@@ -1071,6 +1415,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/go-off-sis/trailer/media.mp3"
             },
+            "entities": [],
             "link": "https://play.acast.com/s/go-off-sis/trailer",
             "guid": "gid://art19-episode-locator/V0/NZ2UB0nVxWNfqGxQB94e8C93jzAcbasrij8VW2S6EBQ",
             "isoDate": "2019-07-23T19:31:10.000Z",

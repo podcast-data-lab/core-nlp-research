@@ -66,6 +66,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/85a24574-beda-4065-984a-790b026f8206/episodes/d323860c-4285-483f-a0f8-6043c610f0cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=85a24574-beda-4065-984a-790b026f8206&awEpisodeId=d323860c-4285-483f-a0f8-6043c610f0cd&feed=B9KgArY4"
             },
+            "entities": ["Brian", "one", "Australia", "him", "three", "Hamza"],
             "author": "ndeye.thioubou@nytimes.com (Serial Productions & The New York Times)",
             "link": "https://trojan-horse.simplecast.com/episodes/an-appointment-in-perth-BrSju_dE",
             "guid": "6458304d-1194-4302-935e-24df1d1f8462",
@@ -92,6 +93,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/85a24574-beda-4065-984a-790b026f8206/episodes/d8c49bc1-845c-4feb-9810-6246d98563e2/audio/128/default.mp3?aid=rss_feed&awCollectionId=85a24574-beda-4065-984a-790b026f8206&awEpisodeId=d8c49bc1-845c-4feb-9810-6246d98563e2&feed=B9KgArY4"
             },
+            "entities": ["Brian", "Birmingham", "Hamza"],
             "author": "ndeye.thioubou@nytimes.com (Serial Productions & The New York Times)",
             "link": "https://trojan-horse.simplecast.com/episodes/the-detail-of-the-deputies-YO7rnSiP",
             "guid": "8cf44173-f028-40e8-a9fd-6c3a896cd05e",
@@ -118,6 +120,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/85a24574-beda-4065-984a-790b026f8206/episodes/a725ee50-bec2-46fc-99f3-848ec6fefcef/audio/128/default.mp3?aid=rss_feed&awCollectionId=85a24574-beda-4065-984a-790b026f8206&awEpisodeId=a725ee50-bec2-46fc-99f3-848ec6fefcef&feed=B9KgArY4"
             },
+            "entities": ["majority-Muslim", "Birmingham", "two", "20", "Hamza"],
             "author": "ndeye.thioubou@nytimes.com (Serial Productions & The New York Times)",
             "link": "https://trojan-horse.simplecast.com/episodes/cucumbers-and-cooker-bombs-ExhswWG0",
             "guid": "73eeaae1-0667-4571-90d7-c38929ee7eec",
@@ -144,6 +147,13 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/85a24574-beda-4065-984a-790b026f8206/episodes/2173e3e8-263d-4821-819b-3f14da9b80f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=85a24574-beda-4065-984a-790b026f8206&awEpisodeId=2173e3e8-263d-4821-819b-3f14da9b80f7&feed=B9KgArY4"
             },
+            "entities": [
+                "Brian",
+                "six hours later",
+                "Birmingham",
+                "he",
+                "Hamza"
+            ],
             "author": "ndeye.thioubou@nytimes.com (Serial Productions & The New York Times)",
             "link": "https://trojan-horse.simplecast.com/episodes/a-study-in-scarlett-0_t7c2P_",
             "guid": "645742a7-8178-46d5-844f-4feeaebb933b",
@@ -170,6 +180,16 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/85a24574-beda-4065-984a-790b026f8206/episodes/ea25334b-7118-446c-8f18-c7cc5279d770/audio/128/default.mp3?aid=rss_feed&awCollectionId=85a24574-beda-4065-984a-790b026f8206&awEpisodeId=ea25334b-7118-446c-8f18-c7cc5279d770&feed=B9KgArY4"
             },
+            "entities": [
+                "afternoon",
+                "Brian",
+                "Friday",
+                "Trojan Horse",
+                "one",
+                "London",
+                "Birmingham",
+                "Hamza"
+            ],
             "author": "ndeye.thioubou@nytimes.com (Serial Productions & The New York Times)",
             "link": "https://trojan-horse.simplecast.com/episodes/the-meeting-and-the-mole-y8hYKsye",
             "guid": "31f1c48a-9cd0-458f-a835-1bef2ee0c790",
@@ -196,6 +216,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/85a24574-beda-4065-984a-790b026f8206/episodes/7c24511a-2b41-4172-8098-070753ff0972/audio/128/default.mp3?aid=rss_feed&awCollectionId=85a24574-beda-4065-984a-790b026f8206&awEpisodeId=7c24511a-2b41-4172-8098-070753ff0972&feed=B9KgArY4"
             },
+            "entities": ["Brian", "first", "Hamza"],
             "author": "ndeye.thioubou@nytimes.com (Serial Productions & The New York Times)",
             "link": "https://trojan-horse.simplecast.com/episodes/sir-albert-and-the-missing-h-ysxPmv4f",
             "guid": "66b0b21b-e92c-4cd1-9d90-599da6f06c6b",
@@ -222,6 +243,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/85a24574-beda-4065-984a-790b026f8206/episodes/7af1322a-1144-4394-889f-80f948c13685/audio/128/default.mp3?aid=rss_feed&awCollectionId=85a24574-beda-4065-984a-790b026f8206&awEpisodeId=7af1322a-1144-4394-889f-80f948c13685&feed=B9KgArY4"
             },
+            "entities": ["Brian", "Hamza"],
             "author": "ndeye.thioubou@nytimes.com (Serial Productions & The New York Times)",
             "link": "https://trojan-horse.simplecast.com/episodes/the-case-of-the-four-resignations-j95sEFt8",
             "guid": "d850cc7e-e63c-48d9-acd3-22e1714ab2dc",
@@ -248,6 +270,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/85a24574-beda-4065-984a-790b026f8206/episodes/38dc3934-17bc-4d66-8692-5e152a56acdb/audio/128/default.mp3?aid=rss_feed&awCollectionId=85a24574-beda-4065-984a-790b026f8206&awEpisodeId=38dc3934-17bc-4d66-8692-5e152a56acdb&feed=B9KgArY4"
             },
+            "entities": ["Brian", "Islamic", "Birmingham", "he", "Hamza"],
             "author": "ndeye.thioubou@nytimes.com (Serial Productions & The New York Times)",
             "link": "https://trojan-horse.simplecast.com/episodes/the-letter-in-the-brown-paper-envelope-U7e3h_nU",
             "guid": "b8797498-32a0-4081-82c6-94c30c05cd8f",
@@ -273,6 +296,14 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/85a24574-beda-4065-984a-790b026f8206/episodes/86f4a7fc-ad85-4c74-b552-a8e59b4c8275/audio/128/default.mp3?aid=rss_feed&awCollectionId=85a24574-beda-4065-984a-790b026f8206&awEpisodeId=86f4a7fc-ad85-4c74-b552-a8e59b4c8275&feed=B9KgArY4"
             },
+            "entities": [
+                "next Thursday, February 3rd",
+                "New York Times",
+                "2014",
+                "Britain",
+                "Islamist",
+                "eight"
+            ],
             "author": "ndeye.thioubou@nytimes.com (Serial Productions & The New York Times)",
             "link": "https://trojan-horse.simplecast.com/episodes/trailer-8fy1rZ9j",
             "guid": "32ec088f-8471-4d4d-a695-9c46d49138ea",

@@ -53,6 +53,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/50078731/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-4%2F257875264-44100-2-21a59041ba5bb.mp3"
             },
+            "entities": ["One"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-One-Who-Seeks-Finds-e1gmpib",
             "guid": "dbd1ea74-ddf5-4fee-a029-52ecf87d088b",
@@ -75,6 +76,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/49711365/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-29%2F256661348-44100-2-4376a043a4bd4.mp3"
             },
+            "entities": [],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/It-Will-Come-Together-e1gbiq5",
             "guid": "ff3972ec-743b-4e01-9c98-ddbf72380fa4",
@@ -97,6 +99,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/49353798/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-22%2F255246379-44100-2-fae64304bf55b.mp3"
             },
+            "entities": ["5", "author", "Dave Ramsey", "coach"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Stepping-Into-Financial-Freedom-Dave-Ramsey-e1g0lk6",
             "guid": "043c575a-e09a-447e-8a9c-1986c018c645",
@@ -119,6 +122,15 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/49004443/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-22%2F255246518-44100-2-430294c9a4ed6.mp3"
             },
+            "entities": [
+                "Extremes",
+                "Pastor",
+                "Larry Brey",
+                "\u201cBetween",
+                "He",
+                "Two",
+                "Christ"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Between-Two-Extremes-Larry-Brey-e1fm0er",
             "guid": "4094920e-3775-4e52-87f4-72ae34ac1a9b",
@@ -141,6 +153,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/48651047/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-9%2F252733956-44100-2-995a8ddb0fb4.mp3"
             },
+            "entities": [],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Making-Peace-With-Missing-Pieces-e1fb7b7",
             "guid": "74cd2b49-c5b7-4a38-9417-e6940625a42b",
@@ -163,6 +176,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/48303400/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-28%2F251042066-44100-2-4ea0a997437fa.mp3"
             },
+            "entities": [],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Move-In-What-Youre-Made-For-e1f0jr8",
             "guid": "9dfdffac-f3e4-43d0-a882-78a9bb8e96f2",
@@ -185,6 +199,38 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/47963493/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-1%2F251233214-44100-2-0c2508dc54558.mp3"
             },
+            "entities": [
+                "Rich Wilkerson Jr.",
+                "elevationnights.com",
+                "Pastor",
+                "Grand Rapids",
+                "One",
+                "MA",
+                "April 26",
+                "April 27",
+                "OH",
+                "Washington, DC",
+                "MI",
+                "Prudential Center",
+                "Steven Furtick",
+                "Boston",
+                "IL",
+                "Chicago",
+                "April 29",
+                "May 5",
+                "PA",
+                "May 3",
+                "His",
+                "May 4",
+                "Vous Church",
+                "NOW",
+                "Columbus",
+                "Newark",
+                "May 1",
+                "NJ",
+                "Indianapolis",
+                "April 30"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Work-Your-Weakness-Rich-Wilkerson-Jr-e1em7t5",
             "guid": "9fa37b8f-405e-46c4-b0db-b38f6707720f",
@@ -207,6 +253,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/47620455/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-21%2F249644048-44100-2-3d6591164634b.mp3"
             },
+            "entities": ["No Weapon"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/No-Weapon-e1ebot7",
             "guid": "b4bedb10-f106-423c-ae6d-15cd9c56c627",
@@ -229,6 +276,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/47285435/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-21%2F249643348-44100-2-8596b400dc872.mp3"
             },
+            "entities": [],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Never-Stop-Knocking-e1e1hnr",
             "guid": "8468362c-c69c-40c5-be28-bbb3ccd06447",
@@ -251,6 +299,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/46927094/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-21%2F249641481-44100-2-38ee55563dd64.mp3"
             },
+            "entities": [],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-X-Factor-e1dmjpm",
             "guid": "77a34d09-55af-4001-a522-885e5bd266c5",
@@ -273,6 +322,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/46580273/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-21%2F249640395-44100-2-d2afcccf653ae.mp3"
             },
+            "entities": ["Holly Furtick of Elevation Church"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Say-Yes-To-Simple-Holly-Furtick-e1dc13h",
             "guid": "16d7509a-06e9-4612-8c1c-311ef0490c24",
@@ -295,6 +345,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/46247381/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-21%2F249640160-44100-2-b29d8a052b319.mp3"
             },
+            "entities": ["Now", "days"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/When-Never-Meets-Now-e1d1s0l",
             "guid": "32e5f4af-2853-419e-becb-e56585d588ac",
@@ -317,6 +368,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/45924767/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-21%2F249640002-44100-2-3bd465983d5fd.mp3"
             },
+            "entities": ["\u201cDevil You\u2019ve Held Me Long Enough"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Devil-Youve-Held-Me-Long-Enough-e1co0uv",
             "guid": "31968bba-b83b-4422-8a66-cb0528fb8b97",
@@ -339,6 +391,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/45610427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-2%2Faf2855bb-4b3b-ae05-a4fa-d47796e7febb.mp3"
             },
+            "entities": [
+                "Chad Veach",
+                "Pastor",
+                "Zoe Church",
+                "the future",
+                "new year"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Highs-And-Lows-Chad-Veach-e1cedvr",
             "guid": "eb2b0cbe-4260-49c4-ab9e-6203d058bf82",
@@ -361,6 +420,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/45337969/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-26%2F239491739-44100-2-632da817e9b94.mp3"
             },
+            "entities": ["Pastor", "Holly", "This year", "2021", "Steven"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Better-Than-Ever-2021-Year-In-Review-e1c63th",
             "guid": "f281f5cd-1bf8-4c1e-971e-85cf2226ee84",
@@ -383,6 +443,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/45094459/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-21%2F238917318-44100-2-904f95d33d258.mp3"
             },
+            "entities": ["Right Now", "Holly Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Something-Good-Is-Here-Right-Now--Holly-Furtick-e1bum3r",
             "guid": "b8f83f71-c815-4b0f-a1ef-292cbb5e6b5d",
@@ -405,6 +466,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/44755105/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-14%2F237576046-44100-2-2ed0bec91ad02.mp3"
             },
+            "entities": [],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Something-Good-Is-Coming-From-This-e1bkan1",
             "guid": "8f601ed8-f775-42bb-825c-7cf30bfc010c",
@@ -427,6 +489,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/44413024/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-6%2F235846016-44100-2-f48dc03beb7a3.mp3"
             },
+            "entities": ["He"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Kept-In-The-Dark-e1b9sl0",
             "guid": "d7992384-1ed6-4fe5-a536-6a7cbaf87191",
@@ -449,6 +512,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/44056298/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-29%2F234312809-44100-2-011ab3f0609e5.mp3"
             },
+            "entities": [
+                "Union Church",
+                "current",
+                "Stephen Chandler",
+                "Blessing Of A Closed Door"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Blessing-Of-A-Closed-Door-Stephen-Chandler-e1av09a",
             "guid": "28f14368-ff54-4390-a4fb-53f4b2cb6ed9",
@@ -471,6 +540,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/43710991/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-22%2F232766617-44100-2-452ab213bd8e2.mp3"
             },
+            "entities": ["Power Of A Better Question"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Power-Of-A-Better-Question-e1akf2f",
             "guid": "f7645691-65d5-4f7e-b570-288bdd1dfce0",
@@ -493,6 +563,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/43351333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-15%2F231233099-44100-2-a5eb26ca06bfb.mp3"
             },
+            "entities": ["storm", "Now", "Him"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/But-Now-Be-Strong-e1a9fr5",
             "guid": "6772bf5f-8a8c-4ded-86bf-c8dc81144a5d",
@@ -515,6 +586,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/42972029/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-15%2F231263198-44100-2-5e7328814f47f.mp3"
             },
+            "entities": ["Pastor", "Elevation Church", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Stop-Crying--Its-Coming-e19ttdt",
             "guid": "942fbab1-85c4-467e-8d70-90f3974192a6",
@@ -537,6 +609,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/42627315/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-1%2F227974832-44100-2-7c0c9978d2b69.mp3"
             },
+            "entities": [
+                "Earl McClellan",
+                "right now",
+                "his",
+                "Pastor",
+                "Shoreline City Church"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Victory-Earl-McClellan-e19jcpj",
             "guid": "21b2fe22-aa37-4349-9e40-f72d9a136422",
@@ -559,6 +638,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/42274025/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-24%2F226507594-44100-2-9873a1e429e58.mp3"
             },
+            "entities": [
+                "current",
+                "Pastor",
+                "Elevation Church",
+                "Steven Furtick"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Yes-You-e198jp9",
             "guid": "3159ab83-4795-4e31-b352-7f8fc16773ae",
@@ -581,6 +666,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/41935311/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-25%2F226513937-44100-2-15fd9f55d48aa.mp3"
             },
+            "entities": ["Pastor", "Elevation Church", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-God-Nod-e18u90f",
             "guid": "efe23440-7486-41b9-b505-bedf35200751",
@@ -603,6 +689,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/41589942/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-25%2F226517289-44100-2-8c27d33919721.mp3"
             },
+            "entities": ["Pastor", "Larry Brey"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Fill-In-The-Gap-Larry-Brey-e18jnnm",
             "guid": "dc736618-87a1-41d7-860e-60a304cc472e",
@@ -625,6 +712,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/41240625/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-25%2F226532434-44100-2-c34c438237c31.mp3"
             },
+            "entities": ["Pastor", "Elevation Church", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/No-Shortage--The-Power-Of-Therefore-e1892jh",
             "guid": "fcd15603-50e8-461f-824a-ebcecdefb98d",
@@ -647,6 +735,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/40888467/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-25%2F226603178-44100-2-20e1f9baa4eb8.mp3"
             },
+            "entities": ["Pastor", "Elevation Church", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Mentor-You-Didnt-Ask-For-e17uamj",
             "guid": "bc8177f1-5667-40d1-a1b8-55d5a4dbced8",
@@ -669,6 +758,15 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/40529614/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-21%2F225922898-44100-2-166aff2e6783.m4a"
             },
+            "entities": [
+                "Pastor",
+                "Elevation Church",
+                "An Open Door",
+                "Steven Furtick",
+                "he",
+                "Christ",
+                "http://ele.vc/7vUtpo"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/A-Troubled-Mind-And-An-Open-Door-e17jc8e",
             "guid": "76aafe41-ee15-45e0-a794-1c77b55eb128",
@@ -691,6 +789,12 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/40200541/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-21%2F225924076-44100-2-779bd6c55ad9b.m4a"
             },
+            "entities": [
+                "Pastor",
+                "Red Sea",
+                "Elevation Church",
+                "Steven Furtick"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Green-Light-At-The-Red-Sea-e179ast",
             "guid": "0aeac0db-070d-499e-8298-df3fcb07e4ae",
@@ -713,6 +817,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/39864920/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-6%2F27eaef7a-2511-122b-39b6-66f13c9d6136.mp3"
             },
+            "entities": ["Tim Timberlake", "Pastor"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Miracle-In-The-Mismatch-Tim-Timberlake-e16v34o",
             "guid": "27620640-7b67-42af-a1df-107b1dce4847",
@@ -735,6 +840,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/39527648/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-30%2Fc58a3714-e217-7f63-93aa-331a01dc414e.mp3"
             },
+            "entities": ["Holly Furtick of Elevation Church", "He", "Christ"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/You-Were-Not-Meant-To-Do-This-Alone-Holly-Furtick-e16kpp0",
             "guid": "34056c64-058e-49a1-9217-900d446e213e",
@@ -757,6 +863,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/39182807/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-23%2F86a374e8-ec87-330f-6d71-00e09abef764.mp3"
             },
+            "entities": [
+                "His",
+                "Jesus",
+                "Pastor",
+                "Elevation Church",
+                "Steven Furtick"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/When-The-Gift-Becomes-A-Prison-e16a90n",
             "guid": "fd8e328a-aa5b-4932-a404-199568f2e46c",
@@ -779,6 +892,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/38833118/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-16%2Ff2c9b0ed-4aec-c4b5-8f9a-5db38032afa2.mp3"
             },
+            "entities": [
+                "Pastor",
+                "Elevation Church",
+                "Steven Furtick",
+                "Christ"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Copy-That-e15vjgu",
             "guid": "93b48348-1230-411b-aea0-70fd53556107",
@@ -801,6 +920,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/38492428/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-9%2Fcb373d10-5f86-d414-a258-d71c2b98d670.mp3"
             },
+            "entities": ["Pastor", "Elevation Church", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Be-Careful-What-You-Copy-e15l6qc",
             "guid": "47bb47b6-0c7e-497b-8e12-01662b9001c9",
@@ -823,6 +943,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/38164747/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-2%2F6d5bd615-3dac-1c6d-6812-94aa595142aa.mp3"
             },
+            "entities": ["Pastor", "Elevation Church", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/You-Didnt-Lose-It-e15b6qb",
             "guid": "a3eed848-89da-4259-ad19-cab55929f7db",
@@ -845,6 +966,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/37817420/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-25%2F2208fee9-e49f-84cc-1475-8ab633e4808a.mp3"
             },
+            "entities": [
+                "Pastor",
+                "Elevation Church",
+                "Steven Furtick",
+                "Christ",
+                "http://ele.vc/7vUtpo"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/You-Are-Not-It-e150jkc",
             "guid": "1e6b4713-8cf4-43cc-9787-c76add145c35",
@@ -867,6 +995,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/37466823/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-19%2F8a38c79f-7c00-329b-33b6-a1881309934b.mp3"
             },
+            "entities": [
+                "Pastor",
+                "past",
+                "Elevation Church",
+                "Steven Furtick"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Other-Hand-e14lt87",
             "guid": "436acdd3-e2a0-47c0-94e5-a88ab334bf58",
@@ -889,6 +1023,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/37074753/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-11%2Fca13ecdf-2e12-9bd7-a27e-986f79af7e4d.mp3"
             },
+            "entities": ["Pastor", "one", "Elevation Church", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Guided-Mind--The-Guarded-Heart-e149uc1",
             "guid": "66ae9daa-1eba-48d8-b21e-db6de6c60406",
@@ -911,6 +1046,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/36666793/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-4%2F95fa8e7e-a94d-7e1b-9510-959eb25616e0.mp3"
             },
+            "entities": [
+                "Pastor",
+                "every day",
+                "the future",
+                "Elevation Church",
+                "He",
+                "Tim Somers"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/All-I-Do-Is-Wind--Tim-Somers-e13tfv9",
             "guid": "6d9d4492-6d95-4006-b878-149e1a46c93a",
@@ -933,6 +1076,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/36287972/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-27%2Fbfe7a4d2-95cd-e753-44e9-8e8d0c4d9709.mp3"
             },
+            "entities": ["Jesus", "Lisa Harper", "Him"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/You-Can-Be-Satisfied-Lisa-Harper-e13hu14",
             "guid": "904d796c-8838-4364-8769-b876fe0690d3",
@@ -955,6 +1099,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/35866509/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-20%2F710f36bf-eda2-9a3a-101c-476b5bddafca.mp3"
             },
+            "entities": ["Pastor", "City Light Church", "Jabin Chavez"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/A-Ridiculous-Reality-Jabin-Chavez-e1352ed",
             "guid": "872cc252-533e-4fb4-87fc-d92068dd3e44",
@@ -977,6 +1122,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/35392724/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-13%2F9bedbe68-b352-b64d-b0bc-63f7b1fc17d3.mp3"
             },
+            "entities": ["Rich Wilkerson Jr.", "Pastor", "Vous Church"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Frustration-Of-Expectation-Rich-Wilkerson-Jr-e12mjok",
             "guid": "d06b0b12-c84d-4047-be15-b1b19845ca66",
@@ -999,6 +1145,7 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/34949941/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-06-10%2Fcf6904346d5d5ca3a83955fd0242fd9f.m4a"
             },
+            "entities": ["Robert Madu", "Pastor"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Where-Restoration-Starts-Robert-Madu-e1293bl",
             "guid": "d4a035be-3568-4920-b31b-d33f0c7839e1",
@@ -1021,6 +1168,7 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/34525919/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-06-10%2F08c6e588ad872ec9d79134dcd16f9ac1.m4a"
             },
+            "entities": ["Pastor", "Larry Brey", "future"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Lets-Face-It-Larry-Brey-e11s58v",
             "guid": "5c4da08f-6052-4e0a-940f-fd0a78a63914",
@@ -1043,6 +1191,7 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/34071237/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-06-10%2Ffc3a8287f0e1aad7dfddeb48ed35d50c.m4a"
             },
+            "entities": ["Pastor", "Elevation Church", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Then-They-Gathered-e11e985",
             "guid": "76229b6e-ebec-460f-bd05-f4ec6e5ac7eb",
@@ -1065,6 +1214,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/33624554/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-16%2F6763a748-98fd-203f-736f-777afca3cab2.mp3"
             },
+            "entities": ["Pastor", "now", "Elevation Church", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Too-Grown-To-Give-Up-e110l1a",
             "guid": "778b9f46-8f75-4435-811c-d02353685279",
@@ -1087,6 +1237,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/33283449/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-11%2Fa4c153ac-d1d7-45d9-0d7a-6d9c96d0ce6a.mp3"
             },
+            "entities": [
+                "Pastor",
+                "Potter's House",
+                "Elevation Church",
+                "Steven Furtick",
+                "Bishop T.D. Jakes",
+                "Drop The Mic"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Dont-Drop-The-Mic-with-Bishop-T-D--Jakes-and-Pastor-Steven-Furtick-e10m7tp",
             "guid": "d134eb3e-39a3-4c6e-985d-38aa4fc726cb",
@@ -1109,6 +1267,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/33175174/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-9%2Fc89448d8-2be6-70a4-99ab-c574694a7b3f.mp3"
             },
+            "entities": [
+                "Mother\u2019s Day",
+                "Elevation Church",
+                "Holly Furtick"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Running-On-Empty-Holly-Furtick-e10iu66",
             "guid": "e43aad45-fcc6-4806-a562-16627c38eb0c",
@@ -1131,6 +1294,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/32693710/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-2%2Fc91959b7-f042-420c-57a6-0ff3d27b9e91.mp3"
             },
+            "entities": ["Pastor", "Elevation Church", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Its-Always-Been-In-You-e10480e",
             "guid": "74a6092e-d2ae-478f-8bbb-803e382aa00b",
@@ -1153,6 +1317,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/32180654/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-25%2F762e7cf1-2698-75f4-5c25-ceb90f64c776.mp3"
             },
+            "entities": ["His", "Pastor", "Elevation Church", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Timing-Your-Testimony-evkive",
             "guid": "a4cb9482-a9b7-4916-8f2d-428f0b7c6a16",
@@ -1175,6 +1340,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/31690237/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-18%2F5a29d72c-7403-87d6-f0af-09925fcc510a.mp3"
             },
+            "entities": ["Pastor", "Elevation Church", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Unlearn-Your-Limitations-ev5k1t",
             "guid": "d2286324-9ede-496d-a77d-6785c1400c95",
@@ -1197,6 +1363,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/31220028/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-11%2F6e9a3470-a911-d974-7820-a19c8cb0eb51.mp3"
             },
+            "entities": ["12", "Dharius Daniels", "one", "Change Church"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/I-Am-Number-12-Dharius-Daniels-eun8rs",
             "guid": "71a605ed-585f-4158-b889-c21239b1f145",
@@ -1219,6 +1386,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/30716090/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-4%2F572a68d6-0d85-9028-6b4d-820d93d322bd.mp3"
             },
+            "entities": [
+                "Easter",
+                "Pastor",
+                "past",
+                "Elevation Church",
+                "Steven Furtick"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Thats-Not-All-You-Are-eu7snq",
             "guid": "a6d7ce3f-281a-4230-b3d6-31f54f82143a",
@@ -1241,6 +1415,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/30196594/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-28%2F204c2948-2d1d-7bd8-9bdf-09eb77ae872f.mp3"
             },
+            "entities": ["Pastor", "Elevation Church", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Protect-The-Vessel-eto1di",
             "guid": "c1675ca0-29a6-4741-a09f-2be86af68f5d",
@@ -1263,6 +1438,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/29617273/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-21%2F91b3d0fe-12ad-2b88-d4d7-6173c91c0ad3.mp3"
             },
+            "entities": ["Robert Madu", "No Crown"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/No-Crown-Robert-Madu-et6blp",
             "guid": "000024a3-6176-4076-b073-4976531aa844",
@@ -1285,6 +1461,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/28978766/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-14%2Fe3dc7e4b-4bdc-d27d-cb77-b163b8c2f2ed.mp3"
             },
+            "entities": ["Pastor", "Elevation Church", "Steven Furtick", "He"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Surprise-esis4e",
             "guid": "bf9dcf7d-9f9a-4e80-8c74-0785255ef0bf",
@@ -1307,6 +1484,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/28295669/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-8%2F1cb3e038-cc68-b4d9-bace-13abb04524b9.mp3"
             },
+            "entities": ["Pastor", "Elevation Church", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Borrowed-Confidence-eru11l",
             "guid": "8410e013-115c-41ec-9c5c-81cb1ae331e8",
@@ -1329,6 +1507,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/27584742/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-1%2F6485ea95-76f8-778f-b0d3-19390b18cbd9.mp3"
             },
+            "entities": [
+                "Pastor",
+                "Joseph",
+                "Elevation Church",
+                "Steven Furtick"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Get-To-The-Good-Part-er8ap6",
             "guid": "a6853faa-be04-4090-b64b-e4f9d41c70d5",
@@ -1351,6 +1535,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/27054596/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-22%2F144b0764-2a65-4e07-361b-d31d18b01a04.mp3"
             },
+            "entities": ["Pastor", "Elevation Church", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/What-You-Call-Small-eqo524",
             "guid": "1da7a6d4-33f8-47ed-8f29-b449992cde84",
@@ -1373,6 +1558,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/26714300/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-15%2F66fd26b8-7401-50ea-636f-888aedca993a.mp3"
             },
+            "entities": ["His", "Pastor", "Elevation Church", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Built-Different-eqdons",
             "guid": "3c9f090a-397d-4122-9a19-064558366368",
@@ -1395,6 +1581,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/26371000/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-7%2Faf765793-6525-5f4e-5c33-d7ef42c73f02.mp3"
             },
+            "entities": ["lady", "Elevation Church", "first", "Holly Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/I-Dont-Think-Im-Ready-For-This-Holly-Furtick-eq39fo",
             "guid": "76d1734f-07dd-4c4c-acfa-6c28cf2f7332",
@@ -1417,6 +1604,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/26018753/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-1%2Fe876d5df-0a3e-5fae-706e-a5e3551f9091.mp3"
             },
+            "entities": ["Pastor", "Elevation Church", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Same-Devils--New-Levels-epohg1",
             "guid": "19cf6484-1042-47d1-a342-0631a31d5d3b",
@@ -1439,6 +1627,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/25668584/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-25%2Fd70bdf74-6b29-3bbf-1596-60c7033fb0d8.mp3"
             },
+            "entities": ["Pastor", "Elevation Church", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Beta-Blessings-epdrh8",
             "guid": "a154d7b3-7a71-43cd-aa64-4bb1fdb4f10d",
@@ -1461,6 +1650,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/25338273/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-17%2F4bbb3766-bfba-88e3-e409-7bcd1fca75f1.mp3"
             },
+            "entities": ["Pastor", "Elevation Church", "He", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/What-God-Left-Out-Flatbread-Faith-ep3ov1",
             "guid": "a979f9f3-6cc0-4e76-8fc2-b48dfc4ef16c",
@@ -1483,6 +1673,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/25018063/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-10%2Feb87d95b-d598-9ef8-5861-2d2debbf8d45.mp3"
             },
+            "entities": ["Pastor", "Elevation Church", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Comfort-Food-eoq08f",
             "guid": "b78b69bc-fc25-42b6-a835-15d4e1e39b3a",
@@ -1505,6 +1696,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/24719516/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-3%2F1798daf5-5548-d179-3675-69b6e0852c9e.mp3"
             },
+            "entities": [
+                "she",
+                "Pastor",
+                "2020",
+                "Join Holly Furtick of Elevation Church",
+                "Steven"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Hindsight-2020-Pastors-Steven--Holly-Furtick-eogsms",
             "guid": "61a6ae62-81f7-4fc1-82b4-fabba3f9ace8",
@@ -1527,6 +1725,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/24630218/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-1%2F00a83fb0-a7ef-e940-5ff4-af9996543221.mp3"
             },
+            "entities": ["Pastor", "Elevation Church", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Bonus-Episode-Protected-By-Gods-Presence-Praise-Party-2019-eoe5ga",
             "guid": "41881461-0fcc-4ccb-b33d-41e57f87c33b",
@@ -1549,6 +1748,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/24467499/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-27%2F6441dd46-9ce4-180a-5d92-a1af99a439e4.mp3"
             },
+            "entities": ["Rich Wilkerson Jr.", "VOUS Church", "Pastor"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Little-By-Little-Rich-Wilkerson-Jr-eo96jb",
             "guid": "9e3a301c-a842-487f-bc02-1e1f53b64a90",
@@ -1571,6 +1771,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/24240358/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-20%2Fdd1b084c-7d7f-be6f-a6d5-2401479c33b0.mp3"
             },
+            "entities": [
+                "Foundation Of Favor",
+                "lady",
+                "Elevation Church",
+                "first",
+                "Holly Furtick",
+                "Mary"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Foundation-For-Favor-Holly-Furtick-eo28p6",
             "guid": "4f5bddce-c841-4f41-87c1-ee0c7dbb3c17",
@@ -1593,6 +1801,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/23935158/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-14%2Fb8c0ef17-fb90-2299-f764-a71990f82610.mp3"
             },
+            "entities": ["Pastor", "this year", "a year", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Favor-Over-Fear-enounm",
             "guid": "bc709557-a966-4798-9300-dc6df4223e62",
@@ -1615,6 +1824,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/23607306/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-6%2Fdc3fe44f-91e7-be2b-ea30-d10e7cd7e17d.mp3"
             },
+            "entities": ["Pastor", "Elevation Church", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Finish-With-Favor-eneuia",
             "guid": "0fe89042-7241-42a6-81c7-c5f42a6a310e",
@@ -1637,6 +1847,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/23371870/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-1%2F3f08f411-cbaa-c12e-d92f-c0dfc2223c80.mp3"
             },
+            "entities": [
+                "storm",
+                "lady",
+                "Elevation Church",
+                "accident",
+                "first",
+                "Holly Furtick"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Bonus-Episode-Root-Check-Holly-Furtick-en7oku",
             "guid": "c867305f-3fc0-4809-9d14-033156f1189c",
@@ -1659,6 +1877,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/23272863/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-29%2Fa4f6bb6a-ead3-3be5-f2b8-03b680d06759.mp3"
             },
+            "entities": [
+                "his",
+                "Pastor",
+                "Levi",
+                "Fresh Life Church",
+                "Levi Lusko",
+                "pastor"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/I-Woke-Up-Like-This-Levi-Lusko-en4nuv",
             "guid": "e80296ac-1fbf-47b5-b303-f846a478a8b9",
@@ -1681,6 +1907,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/22978048/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-22%2Fce55dc2a-18c5-bdbf-c459-0511ee1fe94a.mp3"
             },
+            "entities": [
+                "Pastor",
+                "every day",
+                "Momentum Of A Decision",
+                "Elevation Church",
+                "Steven Furtick"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Momentum-of-a-Decision-emro20",
             "guid": "7aa43c96-d7cb-4db7-960f-a0c47db7a4cb",
@@ -1703,6 +1936,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/22635990/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-15%2Fd5da76e1-a709-3a76-a57d-5fd261cfb7e9.mp3"
             },
+            "entities": ["Pastor", "Elevation Church", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Wasted-Rain-emha0m",
             "guid": "68644eaf-64d8-411c-8d6c-ca02bb51a0d7",
@@ -1725,6 +1959,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/22303221/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-9%2F5a4bf80c-1dc2-580b-4280-5f4502ac77a8.mp3"
             },
+            "entities": [
+                "Jesus",
+                "Pastor",
+                "Elevation Church",
+                "Steven Furtick"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Use-Your-Inside-Voice-em751l",
             "guid": "3a1d95c2-9d3a-4f0b-bf99-1037d54371d8",
@@ -1747,6 +1987,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/21970958/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-2%2F6bf3c5f2-cff4-01f6-249e-df42339d63c7.mp3"
             },
+            "entities": ["Dharius Daniels of Change Church", "Pastor", "Now"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/I-See-It-Now-Dharius-Daniels-elt0ie",
             "guid": "6c3d1d46-3886-453b-894a-52496f35f0c1",
@@ -1769,6 +2010,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/21627426/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-25%2F70727526-2197-b25f-21a4-08d3d3117198.mp3"
             },
+            "entities": ["Pastor", "Elevation Church", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Jump-To-A-New-Conclusion-elih32",
             "guid": "47fba927-851a-4710-a73c-61c3dddc77df",
@@ -1791,6 +2033,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/21289743/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-18%2F159a0cd1-19b4-4a1c-eb30-291ccda7f5b1.mp3"
             },
+            "entities": [
+                "Pastor",
+                "Joseph",
+                "Elevation Church",
+                "Steven Furtick",
+                "Paul"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/What-It-Means-Is-Up-To-Me-el87af",
             "guid": "1826a1c6-26a2-42b6-901b-f743e81372a6",
@@ -1813,6 +2062,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/20944255/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-11%2F79c6a1e4-c857-47ff-c1f7-30163654652d.mp3"
             },
+            "entities": [
+                "Pastor",
+                "one",
+                "Elevation Church",
+                "Steven Furtick",
+                "three"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Taking-Control-Of-Your-Mind-ektltv",
             "guid": "3c4cbe88-96a7-4863-b62e-818f5c28ca0f",
@@ -1835,6 +2091,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/20612949/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-4%2Ff9bf84ed-a033-1a4f-f00c-5ebdbbc14a55.mp3"
             },
+            "entities": ["lady", "Elevation Church", "first", "Holly Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Shut-Up-and-Shine-Holly-Furtick-ekjicl",
             "guid": "4290e8ac-6c79-40da-8369-eef3df1b17bd",
@@ -1857,6 +2114,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/20244276/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-27%2F4a92254e-676a-ee9c-5cde-0389620344c9.mp3"
             },
+            "entities": [
+                "2",
+                "Pastor",
+                "prophet",
+                "Elevation Church",
+                "Elisha",
+                "Steven Furtick"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Just-The-2-Of-Us-ek8abk",
             "guid": "5a09137e-fbda-4613-8f26-6f4ef0cc042c",
@@ -1879,6 +2144,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/19911606/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-20%2F0d393194-50ae-76d5-0272-fa50e2658367.mp3"
             },
+            "entities": [
+                "Pastor",
+                "5,000",
+                "Elevation Church",
+                "Steven Furtick"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Did-I-Ask-eju5fm",
             "guid": "d1ea2886-1de7-41e1-a5d8-e3bd4f0ae43d",
@@ -1901,6 +2172,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/19549939/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-13%2F7ce4a212-d056-a3c0-1000-e50d2e5acca0.mp3"
             },
+            "entities": [
+                "Pastor",
+                "5,000",
+                "Elevation Church",
+                "Steven Furtick"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/When-They-Found-Out-ejj49j",
             "guid": "f350c3b8-a104-4d8a-9430-1a68eaed9308",
@@ -1923,6 +2200,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/19178389/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-6%2F7c6b76e1-2714-ee08-5de9-8383e24f3006.mp3"
             },
+            "entities": [
+                "artist",
+                "Christian",
+                "preacher",
+                "This year",
+                "Tauren Wells",
+                "The Year"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Year-I-Saw-Tauren-Wells-ej7pel",
             "guid": "e84df8e2-fc31-46c3-b885-e623078f0a01",
@@ -1945,6 +2230,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/18820744/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-30%2F077a0193-53b3-183b-bba3-706293a83e8a.mp3"
             },
+            "entities": ["Pastor", "Larry Brey"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Its-Your-Time-Larry-Brey-eiss68",
             "guid": "2127354e-e510-4014-9eed-da9cf04858ef",
@@ -1967,6 +2253,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/18469471/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-23%2F69ffd383-da64-d955-3847-70783c60c5d3.mp3"
             },
+            "entities": ["Pastor", "Elevation Church", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Thought-Bubbles-eii54v",
             "guid": "c420fc03-191a-455d-8381-be3d1f7bbc03",
@@ -1989,6 +2276,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/18141783/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-16%2Fee5fbd7a-91d9-4818-3dde-254f7b5fd709.mp3"
             },
+            "entities": ["Pastor", "Elevation Church", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Im-Not-What-I-Thought-ei854n",
             "guid": "1ffe93d1-69ed-406d-8b75-ed9dd9c0ae9f",
@@ -2011,6 +2299,19 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/17786336/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-9%2Fd4985cc4-f4a9-5917-6e85-94f57e80f30e.mp3"
             },
+            "entities": [
+                "101",
+                "storm",
+                "14",
+                "His",
+                "Jesus",
+                "Pastor",
+                "today",
+                "Matthew",
+                "Elevation Church",
+                "Peter",
+                "Steven Furtick"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Water-Walking-101-ehta10",
             "guid": "0b71f8a1-e2a2-4310-bc62-e44a2e434c73",
@@ -2033,6 +2334,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/17462734/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-2%2F8143c48b-c750-accb-ae8b-7829dc15edb9.mp3"
             },
+            "entities": [
+                "Pastor",
+                "prophet",
+                "Lid Off A Little",
+                "Steven Furtick",
+                "He",
+                "Elijah"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Take-The-Lid-Off-A-Little-ehje0e",
             "guid": "55bf66cc-ae54-420f-afb4-0b48b43f20aa",
@@ -2055,6 +2364,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/17138575/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-26%2Fefd9e27c-9e08-1fa2-c7f3-d5f39b0b624b.mp3"
             },
+            "entities": ["Pastor", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Unschedulable-Blessings-eh9hef",
             "guid": "e732d646-3785-40ed-ba37-0716ca2ed6bb",
@@ -2077,6 +2387,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/16809322/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2F83d7424e-6909-96f4-63f4-4bb10c5fe982.mp3"
             },
+            "entities": ["Pastor", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Lonely-Places-egvfta",
             "guid": "131e7b13-b6c7-46b4-9f58-7dd8ce301c4f",
@@ -2099,6 +2410,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/16472318/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-12%2F3d7e0f10-de58-7778-442d-593cdb3a0155.mp3"
             },
+            "entities": ["Pastor", "Dharius Daniels", "Change Church"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/I-Didnt-See-That-Coming--Dharius-Daniels-egl6pu",
             "guid": "4de2b6f7-e8b7-43de-9d00-564dfa928400",
@@ -2121,6 +2433,15 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/15848526/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-28%2F86087771-44100-2-2acb7dbabb2.mp3"
             },
+            "entities": [
+                "King",
+                "Jesus Himself",
+                "David",
+                "\u201cHope Is In Our DNA",
+                "Lisa Harper",
+                "He",
+                "Lisa"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Hope-Is-In-Our-DNA-Lisa-Harper-eg25ke",
             "guid": "5fc8350e-1b1e-41a1-b9ce-c936808340ef",
@@ -2143,6 +2464,18 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/15521101/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-22%2F84244864-44100-2-9a80856d8995e.mp3"
             },
+            "entities": [
+                "4",
+                "her",
+                "Pastor",
+                "messenger",
+                "Joseph",
+                "John",
+                "Israel",
+                "Steven Furtick",
+                "He",
+                "Jacob"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Plot-Twist-efo5sd",
             "guid": "e84fdadd-683c-4f42-84e7-5af2a221851e",
@@ -2165,6 +2498,15 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/15186268/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-14%2F82273707-44100-2-d66fbeca696f6.mp3"
             },
+            "entities": [
+                "Robert Madu",
+                "Jesus",
+                "her",
+                "Pastor",
+                "Robert",
+                "John",
+                "He"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Living-In-The-Tension-Robert-Madu-efduss",
             "guid": "9ca28e52-87ed-4a86-881c-f4efe49f8d90",
@@ -2187,6 +2529,16 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/14876033/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-7%2F80363424-44100-2-78bb0ce8cf46f.mp3"
             },
+            "entities": [
+                "4",
+                "Pastor",
+                "one",
+                "John",
+                "Matthew",
+                "11:28",
+                "He",
+                "Steven"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Tired-On-The-Inside-ef4fu1",
             "guid": "034d3fca-7339-496c-83be-3eb363bb899d",
@@ -2209,6 +2561,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/14565387/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-31%2F78419301-44100-2-c5ee09560b578.mp3"
             },
+            "entities": ["John Gray", "Pastor", "future", "Steven Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Become-The-Bridge-A-Conversation-With-Pastor-Steven-Furtick--Pastor-John-Gray-eer0ib",
             "guid": "d8b0f179-b728-4583-a54e-7b248977e48b",
@@ -2231,6 +2584,24 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/14232794/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-24%2F76300696-44100-2-17f0d00812e8e.mp3"
             },
+            "entities": [
+                "13-44",
+                "storm",
+                "27",
+                "Pastor",
+                "Jerusalem",
+                "Bible",
+                "the day",
+                "Him",
+                "Steven",
+                "His",
+                "Jesus",
+                "Elevation Church",
+                "Steven Furtick",
+                "He",
+                "he",
+                "storms"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Staying-Power-Appointment-With-An-Angel-eegroq",
             "guid": "43e7c6ed-86b7-42be-95c6-24b17e94f164",
@@ -2253,6 +2624,28 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/14083123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-21%2F75335685-44100-2-aa1a27c69120e.mp3"
             },
+            "entities": [
+                "Charlotte",
+                "Pastor",
+                "prophet",
+                "http://ele.vc/TI55jR",
+                "Isaiah",
+                "Paul",
+                "Philippians",
+                "1",
+                "4",
+                "NC",
+                "200 year old",
+                "wed",
+                "Elevation Church",
+                "Israel",
+                "200 years",
+                "Steven Furtick",
+                "God",
+                "he",
+                "New Testament",
+                "54"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/FLEX--SPACE-eec9jj",
             "guid": "45bc7fe0-a513-44ac-bfe6-58582698bbb3",
@@ -2275,6 +2668,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742299/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097731-44100-2-90094bb96adcc4d9.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/More-Than-Miracles-Holly-Furtick-ee1sor",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/MTMI_HI.mp3",
@@ -2297,6 +2691,24 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742377/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097768-44100-2-a07119505de63c2c.mp3"
             },
+            "entities": [
+                "Charlotte",
+                "Pastor",
+                "8:18-28",
+                "http://ele.vc/TI55jR",
+                "Romans",
+                "two",
+                "Paul",
+                "him",
+                "8:28",
+                "His",
+                "NC",
+                "1:12-22",
+                "Elevation Church",
+                "Steven Furtick",
+                "He",
+                "he"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Focus-On-The-Fruit-ee1sr9",
             "guid": "https://elevationaudio.s3.us-east-1.amazonaws.com/elevationapp/appaudio/FOTF_HI.mp3",
@@ -2319,6 +2731,21 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742304/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097674-44100-2-9fd49fc2cbc14252.mp3"
             },
+            "entities": [
+                "12",
+                "Charlotte",
+                "grip",
+                "14",
+                "Pastor",
+                "http://ele.vc/TI55jR",
+                "Romans",
+                "Him",
+                "Steven",
+                "last week",
+                "NC",
+                "Elevation Church",
+                "Steven Furtick"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/A-Lesson-In-Letting-Go-ee1sp0",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/ALIL_HI.mp3",
@@ -2341,6 +2768,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742367/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097723-44100-2-7968d0318eac0460.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Looking-Forward-To-Normal-ee1sqv",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/LFTON_HI.mp3",
@@ -2363,6 +2791,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742373/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097849-44100-2-f9bae1fbc5763964.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/THE-RATTLE--OF-RESURRECTION-ee1sr5",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/TROR_HI.mp3",
@@ -2385,6 +2814,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097691-44100-2-56ea688a944b48e5.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/I-Know-The-Way-Holly-Furtick-ee1spt",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/IKTW_HI.mp3",
@@ -2407,6 +2837,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742423/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097953-44100-2-a205cd4b35db4e70.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Im-Still-Scared-ee1ssn",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/IMSS_HI.mp3",
@@ -2429,6 +2860,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742395/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097722-44100-2-cdd27323674a3cd6.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/When-God-Says-Stop-ee1srr",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/WGSS_HI.mp3",
@@ -2451,6 +2883,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742314/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097727-44100-2-5dad1ed9ead98f76.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Beauty-Of-Being-Stuck-Robert-Madu-ee1spa",
             "guid": "https://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/TBOBS_HI.mp3",
@@ -2473,6 +2906,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742414/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097776-44100-2-118b9a75346eb4ac.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Make-Room-For-The-New-ee1sse",
             "guid": "https://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/MRFT_HI.mp3",
@@ -2495,6 +2929,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742320/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097701-44100-2-127953fa3e90d9ba.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Theres-A-Hole-In-Your-Story-ee1spg",
             "guid": "https://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/TAHI_HI.mp3",
@@ -2517,6 +2952,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742355/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097817-44100-2-b8e5ef3b8ef0f23c.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Thank-U-Next-Tim-Somers-ee1sqj",
             "guid": "https://elevationaudio.s3.us-east-1.amazonaws.com/elevationapp/appaudio/TUNE_HIGH.mp3",
@@ -2539,6 +2975,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742382/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097825-44100-2-b84ad8123e84eb51.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Chain-Breaker-Bishop-T-D--Jakes-ee1sre",
             "guid": "https://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/CBRE_HI.mp3",
@@ -2561,6 +2998,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742354/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097831-44100-2-9ff5ca469b6db85e.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Your-Season-To-Succeed-ee1sqi",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/KCLO-5_HI.mp3",
@@ -2583,6 +3021,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742410/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097942-44100-2-33f1f61741e79a8d.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Flip-The-Bag-ee1ssa",
             "guid": "https://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/KCLO-4_HI.mp3",
@@ -2605,6 +3044,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742384/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097850-44100-2-8527f06891cf3beb.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Father-Saw-When-You-Feel-Invisible-ee1srg",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/KCLO-2_HI.mp3",
@@ -2627,6 +3067,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742326/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097675-44100-2-ce6fe924e12c82b7.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Kingdom-Clout-Part-1-ee1spm",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/KCLO-1_HI.mp3",
@@ -2649,6 +3090,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742348/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097736-44100-2-faeb50e3f935d6af.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Crushing-God-Turns-Pressure-Into-Power-with-Bishop-T-D--Jakes--Pastor-Steven-Furtick-ee1sqc",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/CRUS_HI.mp3",
@@ -2671,6 +3113,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742350/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097780-44100-2-482047529386763f.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Dont-Make-A-Scene-ee1sqe",
             "guid": "https://elevationaudio.s3.us-east-1.amazonaws.com/elevationapp/appaudio/DMAS-2019_HI.mp3",
@@ -2693,6 +3136,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742341/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097706-44100-2-e0c0f317493f1a77.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/This-Isnt-What-I-Pictured-ee1sq5",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/TIWI_HI.mp3",
@@ -2715,6 +3159,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742369/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097690-44100-2-b490bacc64863774.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Im-The-One-ee1sr1",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/AVAI-5_HI.mp3",
@@ -2737,6 +3182,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742315/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097666-44100-2-4c13e0cf45d76eb1.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/A-Holding-Pattern-Levi-Lusko-ee1spb",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/AVAI-4_HI.mp3",
@@ -2759,6 +3205,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742324/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097680-44100-2-32ae1394a9856d9c.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Now-I-Know-Why-ee1spk",
             "guid": "https://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/AVAI-3_HI.mp3",
@@ -2781,6 +3228,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742308/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097732-44100-2-1ad7da76fc9b2ad0.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Second-Yes-ee1sp4",
             "guid": "https://elevationaudio.s3.us-east-1.amazonaws.com/elevationapp/appaudio/AVAI-2_HI.mp3",
@@ -2803,6 +3251,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742327/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097716-44100-2-5d20fe8e0e4e731a.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Needers--Feeders-ee1spn",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/AVAI-1_HI.mp3",
@@ -2825,6 +3274,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742383/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097843-44100-2-76e5e401bef6b448.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Lazarus-Factor-God-Of-The-Outcome-ee1srf",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/TLFG_HI.mp3",
@@ -2847,6 +3297,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742376/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097860-44100-2-19ae74cd15756c22.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Sticking-Point-ee1sr8",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/TSPO_HI.mp3",
@@ -2869,6 +3320,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742321/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097718-44100-2-95d42d454d9486b5.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/What-To-Do-In-A-Valley-Jabin-Chavez-ee1sph",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/WTDI_HI.mp3",
@@ -2891,6 +3343,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742417/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097933-44100-2-9f7e48d2dd0a4b8e.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Chasing-Contentment-Wade-Joye-ee1ssh",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/CCON_HI.mp3",
@@ -2913,6 +3366,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742325/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097697-44100-2-f80d81bb8d415d7a.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/I-Caught-A-Thought-ee1spl",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/ICAT_HI.mp3",
@@ -2935,6 +3389,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742313/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097733-44100-2-4ac85068d15d3cd2.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Trapped-In-Transition-ee1sp9",
             "guid": "https://elevationaudio.s3.us-east-1.amazonaws.com/elevationapp/appaudio/TIT_HI.mp3?metafile=false",
@@ -2957,6 +3412,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742284/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097714-44100-2-51912ad928a4363e.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/When-Better-Feels-Backwards-ee1soc",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/WBFB_HI.mp3",
@@ -2979,6 +3435,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742360/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097799-44100-2-dcf0fa6f1236542f.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Wind-vs--Word-Trusting-Gods-Timing-ee1sqo",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/WVWO_HI.mp3",
@@ -3001,6 +3458,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742406/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097945-44100-2-4d4368c721916abd.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Master-Key-Paul-Daugherty-ee1ss6",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/TMKE_HI.mp3",
@@ -3023,6 +3481,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742289/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097660-44100-2-7868a708764f7356.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Missing-Blessing-Jonathan-Josephs-ee1soh",
             "guid": "https://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/MIBL_HI.mp3",
@@ -3045,6 +3504,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742435/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097836-44100-2-728b39313ed35433.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Mystery-Of-Potential-ee1st3",
             "guid": "https://elevationaudio.s3.us-east-1.amazonaws.com/elevationapp/appaudio/TMOP_HI.mp3",
@@ -3067,6 +3527,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742421/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097855-44100-2-e7828752e90a4226.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Trust-Me-Im-Trying-ee1ssl",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/TMIT_HI.mp3",
@@ -3089,6 +3550,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742298/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097720-44100-2-824832c3f01182f8.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/I-Know-How-This-Story-Ends-ee1soq",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/IKHT_HI.mp3",
@@ -3111,6 +3573,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742292/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097724-44100-2-3fe0d205fdf58cc0.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Blessing-Of-Both-ee1sok",
             "guid": "https://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/TBOB_HI.mp3",
@@ -3133,6 +3596,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742338/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097705-44100-2-a5b59e60a0d830d8.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Expiration-Date-ee1sq2",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/EXDA_HI.mp3",
@@ -3155,6 +3619,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742283/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097708-44100-2-0546fd7ea7cbf5e6.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Way-Of-Escape-ee1sob",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/TWOE_HI.mp3",
@@ -3177,6 +3642,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742317/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097704-44100-2-5565ee2402141810.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Knock-Knock-ee1spd",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/KNOC_HI.mp3",
@@ -3199,6 +3665,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742365/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097826-44100-2-cd07bb18d933cb49.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Love-Hard-Even-When-It-Is-Hard-Lisa-Harper-ee1sqt",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/LHEW_HI.mp3",
@@ -3221,6 +3688,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742358/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097824-44100-2-cd47d168ab5ff6cb.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Work-It-Out-Daniel-Floyd-ee1sqm",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/WIOU_HI.mp3",
@@ -3243,6 +3711,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742305/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097673-44100-2-2bee768832f9d725.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Get-Over-It-Robert-Madu-ee1sp1",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/GOIT_HI.mp3",
@@ -3265,6 +3734,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742370/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097719-44100-2-5b6c1ec17239e7d0.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Other-Side-Of-The-Promise-Larry-Brey-ee1sr2",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/TOSTP_HI.mp3",
@@ -3287,6 +3757,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742301/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097683-44100-2-d44223951368aab2.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/This-Doesnt-Make-Sense-Dustin-Stradley-ee1sot",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/TDMS_HI.mp3",
@@ -3309,6 +3780,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742353/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097709-44100-2-6bb813304059de1e.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/When-The-Battle-Chooses-You-ee1sqh",
             "guid": "https://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/WTBCY_HI.mp3",
@@ -3331,6 +3803,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742306/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097698-44100-2-d2fb1578c405d586.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Stacking-Strength-Wade-Joye-ee1sp2",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/SSTR_HI.mp3",
@@ -3353,6 +3826,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742339/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097728-44100-2-05768429bcf5168e.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Pressure-To-Perform-ee1sq3",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/TPTP_HI.mp3",
@@ -3375,6 +3849,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742336/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097789-44100-2-bdd7bfa4075639fa.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Hope-CycleHolly-Furtick-ee1sq0",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/THCY_HI.mp3",
@@ -3397,6 +3872,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742352/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097841-44100-2-8cc8bb61e2bfce6f.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/My-Maker-Is-My-Mirror-ee1sqg",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/MMIM_HI.mp3",
@@ -3419,6 +3895,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742331/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097791-44100-2-6f72e5bceb7d0f80.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Potential-Of-Pain-ee1spr",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/TPOP-2019_HI.mp3",
@@ -3441,6 +3918,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742357/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097842-44100-2-f69b735203e0c3c6.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Paradox-Of-Progress-ee1sql",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/TPPR_HI.mp3",
@@ -3463,6 +3941,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742401/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097938-44100-2-13c60aada71ede2a.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Danger-Of-A-Dream-ee1ss1",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/TDOA_HI.mp3",
@@ -3485,6 +3964,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742281/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097689-44100-2-a7ce348396c7541c.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Trading-Truth-ee1so9",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/TTRU_HI.mp3",
@@ -3507,6 +3987,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742363/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097729-44100-2-7b5642a25878b0cf.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Life-Between-Two-Gardens-Lysa-TerKeurst-ee1sqr",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/LIFE_HI.mp3",
@@ -3529,6 +4010,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742344/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097837-44100-2-0484dd29927ddaa3.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Blocked-Calls-Chet-Pete-ee1sq8",
             "guid": "https://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/BCAL_HI.mp3",
@@ -3551,6 +4033,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742345/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097737-44100-2-bbfab8a8c0bb6c17.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR", "He"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Invisible-Prisons-ee1sq9",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/MGOD-4_HI.mp3",
@@ -3573,6 +4056,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742296/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097710-44100-2-2e0adee8216d7dd2.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/5050-Faith-ee1soo",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/MGOD-3_HI.mp3",
@@ -3595,6 +4079,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742294/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097703-44100-2-49f283af78eac34a.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Pivotal-Decisions-Put-A-Purpose-On-It-ee1som",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/MGOD-2_HI.mp3",
@@ -3617,6 +4102,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742411/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097918-44100-2-fe1d497d058e1ebc.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Im-Confused-About-My-Calling-ee1ssb",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/MGOD-1_HI.mp3",
@@ -3639,6 +4125,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742386/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097775-44100-2-8ca46d3250a796b7.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Peace-In-My-Pocket-ee1sri",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/PIMP_HI.mp3",
@@ -3661,6 +4148,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742413/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097950-44100-2-326c0538e5eccb0b.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/You-Already-Know-Fear-Of-Running-Out-ee1ssd",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/FTFL-3_HI.mp3",
@@ -3683,6 +4171,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742403/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097932-44100-2-268232f0fad75272.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Backseat-DJs-ee1ss3",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/FTFL-2_HI.mp3",
@@ -3705,6 +4194,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742310/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097715-44100-2-6fd331a1531c7c79.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Flip-It-ee1sp6",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/FTFL-1_HI.mp3",
@@ -3727,6 +4217,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742319/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097725-44100-2-0a71308c1c6dc9c1.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Come-Through-Drippin-ee1spf",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/CTDR_HI.mp3",
@@ -3749,6 +4240,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742347/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097829-44100-2-0389b980bab8bbf8.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Path-Of-Peace-ee1sqb",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/TPOP_HI.mp3",
@@ -3771,6 +4263,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742380/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097844-44100-2-a3cdffaec9b9ff01.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Exchange-Zone-ee1src",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/GAME-7_HI.mp3",
@@ -3793,6 +4286,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742375/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097845-44100-2-a610d82b616560ae.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Go-4-Broke-ee1sr7",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/GAME-6_HI.mp3",
@@ -3815,6 +4309,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742359/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097820-44100-2-d6db0fed991c5416.mp3"
             },
+            "entities": ["today", "tomorrow", "http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Power-of-the-Prompt-ee1sqn",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/GAME-5_HI.mp3",
@@ -3837,6 +4332,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742293/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097699-44100-2-a647e95afe069cf3.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Its-Mine-To-Manage-ee1sol",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/GAME-4_HI.mp3",
@@ -3859,6 +4355,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742288/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097726-44100-2-0a94d3cccce142b6.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/An-Ordinary-Day-ee1sog",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/GAME-3_HI.mp3",
@@ -3881,6 +4378,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742371/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097814-44100-2-415dc5fe97fb8a96.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Reverse-Your-Worry-ee1sr3",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/GAME-2_HI.mp3",
@@ -3903,6 +4401,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742291/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097707-44100-2-823192e10c988dd7.mp3"
             },
+            "entities": ["one", "http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Secret-Scoreboard-ee1soj",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/GAME-1_HI.mp3",
@@ -3925,6 +4424,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742297/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097730-44100-2-2e30d80a43a9854b.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Get-Out-ee1sop",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/GOUT_HI.mp3",
@@ -3947,6 +4447,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742391/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097797-44100-2-17fd72cc101ff097.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Acceptable-Sacrifices-ee1srn",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/ASAC_HI.mp3",
@@ -3969,6 +4470,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742374/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097821-44100-2-2e48cd2e9d59885f.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Ive-Changed-My-Mind-ee1sr6",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/ICMM_HI.mp3",
@@ -3991,6 +4493,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742335/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097712-44100-2-35b341762d44f50e.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Reputation-Rehab-ee1spv",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/RREH_HI.mp3",
@@ -4013,6 +4516,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742425/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097943-44100-2-88d60c72a158d71e.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Power-Of-Interpretation-ee1ssp",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/TRIG-6_HI.mp3",
@@ -4035,6 +4539,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742286/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097700-44100-2-22b115560b89bd91.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/I-Lost-My-Confidence-ee1soe",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/TRIG-5_HI.mp3",
@@ -4057,6 +4562,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742282/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097696-44100-2-7ab2007acd0368e3.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Support-System-ee1soa",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/SSYS_HI.mp3",
@@ -4079,6 +4585,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742430/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097939-44100-2-73285e384e522b0f.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Why-I-Went-Off-ee1ssu",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/TRIG-4_HI.mp3",
@@ -4101,6 +4608,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742362/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097827-44100-2-8bdb01da9693e053.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Everything-Must-Go-ee1sqq",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/EMGO_HI.mp3",
@@ -4123,6 +4631,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742387/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097779-44100-2-bb3d19320148e044.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Movie-In-My-Mind-ee1srj",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/TRIG-3_HI.mp3",
@@ -4145,6 +4654,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742295/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097717-44100-2-d9144f27cf1f692a.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR", "him", "three"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/The-Devil-In-3D-ee1son",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/TRIG-2_HI.mp3",
@@ -4167,6 +4677,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742361/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097847-44100-2-1dfa12ce6bbba38d.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Lions--Lizards--Lies-ee1sqp",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/TRIG-1_HI.mp3",
@@ -4189,6 +4700,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742456/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097839-44100-2-904888bc2eaf103b.mp3"
             },
+            "entities": ["one", "http://ele.vc/TI55jR", "He"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Need-Meeters-ee1sto",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/NMEE_HI.mp3",
@@ -4211,6 +4723,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097834-44100-2-18a1b02bd02b5cc8.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Its-A-No-Go-ee1squ",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/IANG_HI.mp3",
@@ -4233,6 +4746,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742400/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097927-44100-2-00f15a2a51df30e5.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Choosing-Your-Chains-ee1ss0",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/CYCH_HI.mp3",
@@ -4255,6 +4769,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742340/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097772-44100-2-9cc6a3967df413c3.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR", "Author", "Lisa Harper"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/My-Redeemer-Lives-ee1sq4",
             "guid": "https://s3.amazonaws.com/elevationaudio/elevationapp/appaudio/MYRL_HI.mp3",
@@ -4277,6 +4792,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742337/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097788-44100-2-a2b365798ddd179c.mp3"
             },
+            "entities": ["Pastor", "Chad Hampton", "http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Help-Is-On-The-Way-ee1sq1",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/HIOT_HI.mp3",
@@ -4299,6 +4815,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742330/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097721-44100-2-c48fd70d1970d221.mp3"
             },
+            "entities": ["Pastor", "http://ele.vc/TI55jR", "Jonathan Josephs"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Stay-Focused-ee1spq",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/SFOC_HI.mp3",
@@ -4321,6 +4838,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742390/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097778-44100-2-12a8d10340d23e85.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Give-Me-A-Sign-ee1srm",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/GMAS_HI.mp3",
@@ -4343,6 +4861,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742394/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097919-44100-2-89eec281cb1f5c2c.mp3"
             },
+            "entities": [
+                "Pastor",
+                "http://ele.vc/TI55jR",
+                "Dustin Stradley",
+                "Roanoke Campus"
+            ],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Ive-Tried-Everything-ee1srq",
             "guid": "https://s3.amazonaws.com/elevationaudio/elevationapp/appaudio/ITET_HI.mp3",
@@ -4365,6 +4889,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742290/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097695-44100-2-4721c6dc5ed203b7.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Frozen-Oil-And-Chosen-Vessels-ee1soi",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/FOAC_HI.mp3",
@@ -4387,6 +4912,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742408/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097952-44100-2-65c00baec9dae0b1.mp3"
             },
+            "entities": ["Wade Joye", "Pastor", "http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/Living-In-Denial-ee1ss8",
             "guid": "https://s3.amazonaws.com/elevationaudio/elevationapp/appaudio/SJES-12_HI.mp3",
@@ -4409,6 +4935,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742372/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097851-44100-2-469e87ee805a8927.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/This-Is-Significant-ee1sr4",
             "guid": "http://elevationaudio.s3.amazonaws.com/elevationapp/appaudio/SJES-11_HI.mp3",
@@ -4431,6 +4958,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/214425fc/podcast/play/13742434/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-14%2F73097936-44100-2-792e845ef917ae56.mp3"
             },
+            "entities": ["http://ele.vc/TI55jR", "Holly Furtick"],
             "dc:creator": "Elevation Church",
             "link": "https://anchor.fm/elevation-with-steven-furtick/episodes/When-Your-All-Seems-Small-ee1st2",
             "guid": "https://s3.amazonaws.com/elevationaudio/elevationapp/appaudio/WYAS_HI.mp3",

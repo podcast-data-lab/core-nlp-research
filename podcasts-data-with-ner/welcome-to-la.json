@@ -49,6 +49,21 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/podcast-download.kcrw.com/kcrw/audio/podcast/etc/wt/KCRW-welcome_to_la-nikola_and_fritz-200708.mp3"
             },
+            "entities": [
+                "one",
+                "Ethan Hawke",
+                "California",
+                "L.A.",
+                "his",
+                "Colorado",
+                "David Weinberg",
+                "David",
+                "Nikola Tesla",
+                "inventor",
+                "he",
+                "first",
+                "movie star"
+            ],
             "content:encodedSnippet": "When David first got the email, it just seemed like one of those offers that\u2019s too good to be true. The idea that he would be holding the reins of a horse drawn carriage tearing across the high plains of Colorado and that his passenger would be the famous movie star Ethan Hawke, the whole idea of being in a movie just seemed unlikely. This was the dream of millions of people who have made their way to L.A. It\u2019s become a cliche, all those starry eyed dreamers flocking to California with a singular vision of becoming a movie star.\n\r\nAnd here was this offer sitting in his lap. All he had to do was say yes. \n\r\nThis is the story of David Weinberg\u2019s acting gig on the movie \u201cTesla\u201d \u2014 and the story of Nikola Tesla himself, an inventor who changed the world but who spent his life watching rivals steal his ideas to reap great fortunes.",
             "guid": "955a1a03c8e3473ebe1358fb8aff9682",
             "isoDate": "2020-07-08T15:00:00.000Z",
@@ -76,6 +91,14 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/podcast-download.kcrw.com/kcrw/audio/podcast/etc/wt/KCRW-welcome_to_la-welcome_to_richards_famous_la_food_podcast-v2-200701.mp3"
             },
+            "entities": [
+                "Richard Parks III",
+                "host",
+                "Richard",
+                "David",
+                "Wolfgang Puck",
+                "Los Angeles"
+            ],
             "content:encodedSnippet": "A crossover spectacular! Richard Parks III, the host of Richard\u2019s Famous Food Podcast, helps David find where food meets fame in Los Angeles. And is that Wolfgang Puck in the backseat?",
             "guid": "24dff3415e5b4b8fa3da8fa5299aca60",
             "isoDate": "2020-07-01T15:00:00.000Z",
@@ -103,6 +126,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/podcast-download.kcrw.com/kcrw/audio/podcast/etc/wt/KCRW-welcome_to_la-friday_night_the_kingdom_of_time-200624.mp3"
             },
+            "entities": ["night of the week", "Friday", "nights", "night"],
             "content:encodedSnippet": "Remember what Friday nights used to feel like? It was freedom, that moment when you get off work, and your time no longer belongs to someone else \u2014 the night is yours. Here is an ode, a time capsule, to everyone's favorite night of the week.",
             "guid": "21d3774166d543588ff7f648d606f63e",
             "isoDate": "2020-06-24T15:00:00.000Z",
@@ -130,6 +154,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/podcast-download.kcrw.com/kcrw/audio/podcast/etc/wt/KCRW-welcome_to_la-whats_ours-200617.mp3"
             },
+            "entities": ["LA", "Southern", "California", "Palmdale"],
             "content:encodedSnippet": "In this episode of Welcome to LA: A look at redlining in Southern California. A story about how Black families are being priced-out of LA and moving to Palmdale and other cities of the High Desert. Also some rock and roll.",
             "guid": "cda516dcde7c48669fc4126ed3f5ba76",
             "isoDate": "2020-06-17T15:00:00.000Z",
@@ -156,6 +181,13 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/podcast-download.kcrw.com/kcrw/audio/podcast/etc/wt/KCRW-welcome_to_la-podcast_recommendations_race_black_experience-200610.mp3"
             },
+            "entities": [
+                "current",
+                "this week",
+                "LA",
+                "David Weinberg",
+                "host"
+            ],
             "content:encodedSnippet": "\u2018Welcome to LA\u2019 is not putting out a new episode this week. In the meantime, host David Weinberg recommends some podcasts that are worth a listen during this current moment.",
             "guid": "af2e6b9fcdc04cc6ab3ad67a59c180c0",
             "isoDate": "2020-06-10T15:00:00.000Z",
@@ -183,6 +215,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/podcast-download.kcrw.com/kcrw/audio/podcast/etc/wt/KCRW-welcome_to_la-johnies_coffee_shop_los_angeles_googie_architecture_history-200603.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "Inside an old restaurant you can hear the sound of kids hunkered down at the counter, plotting a revolution. It\u2019s a long shot for sure, but maybe they will pull it off. Maybe they will save us all.",
             "guid": "e6f7d432cd8143f9a01c28ae69d63a34",
             "isoDate": "2020-06-03T15:00:00.000Z",
@@ -210,6 +243,12 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/podcast-download.kcrw.com/kcrw/audio/podcast/etc/wt/KCRW-welcome_to_la-buffalo_soldiers-200527.mp3"
             },
+            "entities": [
+                "Hollywood",
+                "LA",
+                "the 1960s",
+                "Black Stuntmen\u2019s Association"
+            ],
             "content:encodedSnippet": "How did a group of stuntmen in the 1960s diversify Hollywood? On this episode of Welcome to LA, we delve into the origin story of the Black Stuntmen\u2019s Association.",
             "guid": "1636f275b09f4331b89991c65f697840",
             "isoDate": "2020-05-27T15:00:00.000Z",
@@ -237,6 +276,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/podcast-download.kcrw.com/kcrw/audio/podcast/etc/wt/KCRW-welcome_to_la-the_best_of_all_possible_worlds_a_prologue-200520.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "Have you ever had a friend who you thought should live their life differently than they do? A story about building a meaningful life out of chaos.",
             "guid": "502a738d022343ad85b8a6e6634c5ae0",
             "isoDate": "2020-05-20T15:00:00.000Z",
@@ -263,6 +303,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/podcast-download.kcrw.com/kcrw/audio/podcast/etc/wt/KCRW-welcome_to_la-welcome_back_to_la-200513.mp3"
             },
+            "entities": ["journalist", "David Weinberg", "Los Angeles"],
             "content:encodedSnippet": "Los Angeles is a city carved out of the desert \u2013 a conjured image of paradise. Award-winning journalist David Weinberg returns with stories of people who learn what lies beyond the dream.",
             "guid": "62aa2cc20fdf43338348ce15bedb8701",
             "isoDate": "2020-05-13T15:00:00.000Z",
@@ -288,6 +329,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/podcast-download.kcrw.com/kcrw/audio/podcast/etc/wt/KCRW-welcome_to_la-listen_to_lost_notes-190528.mp3"
             },
+            "entities": ["David Bowie", "LA", "KCRW"],
             "content:encodedSnippet": "Lost Notes is a podcast from KCRW. It's about music, and artistic legacy, and people. Listen to this episode about David Bowie's favorite rock band, Fanny. Then, go subscribe in your podcast player. See you soon for more Welcome to LA.",
             "guid": "648a7da286c34b98a9db4fb1e12474b2",
             "isoDate": "2019-05-28T07:00:00.000Z",
@@ -315,6 +357,15 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/podcast-download.kcrw.com/kcrw/audio/podcast/etc/wt/KCRW-welcome_to_la-pans_plans-180703.mp3"
             },
+            "entities": [
+                "Architect",
+                "his",
+                "Trevor Pan",
+                "him",
+                "first",
+                "Arizona",
+                "Trevor"
+            ],
             "content:encodedSnippet": "Architect Trevor Pan built his first building with his own hands in a barren patch of Arizona desert. It didn\u2019t have running water or electricity, but it got him some attention in the architecture world and his career was off to a promising start. But then Trevor made a decision that, from the outside, seemed completely insane.",
             "guid": "6ec64315987d44259e5518f5a6328e3a",
             "isoDate": "2018-07-03T07:00:00.000Z",
@@ -342,6 +393,15 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/podcast-download.kcrw.com/kcrw/audio/podcast/etc/wt/KCRW-welcome_to_la-the_recruiter-180626.mp3"
             },
+            "entities": [
+                "Ronald McDonald",
+                "one",
+                "America",
+                "Christian",
+                "U.S. Marine Corps",
+                "Rob Navarro",
+                "he"
+            ],
             "content:encodedSnippet": "Before he launched one of the most successful porn companies in America, Rob Navarro was a chart topping Christian rock star and the voice of Ronald McDonald. Then he got the help of a few good men from the U.S. Marine Corps.",
             "guid": "2a1be04ca92d419cb2fb0987c6ca5dba",
             "isoDate": "2018-06-26T07:00:00.000Z",
@@ -369,6 +429,16 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/podcast-download.kcrw.com/kcrw/audio/podcast/etc/wt/KCRW-welcome_to_la-grace_of_the_sea-v2-180619.mp3"
             },
+            "entities": [
+                "six years",
+                "Luis Gutierrez Sanchez",
+                "his",
+                "LA",
+                "South",
+                "Los Angeles",
+                "he",
+                "street vendor"
+            ],
             "content:encodedSnippet": "Luis Gutierrez Sanchez, a hot dog street vendor also known as \"Grace of the Sea,\" lived in a garage in South LA for six years. Miraculously good at finding beauty in dark places, he tells his story of surviving as a gay undocumented immigrant in Los Angeles.",
             "guid": "c0407ac0a27240c881439f69e2a745ae",
             "isoDate": "2018-06-19T07:00:00.000Z",
@@ -396,6 +466,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/podcast-download.kcrw.com/kcrw/audio/podcast/etc/wt/KCRW-welcome_to_la-the_case_of_the_missing_sprinkles-180612.mp3"
             },
+            "entities": ["Judy", "now", "Americans", "Judge"],
             "content:encodedSnippet": "Before Judge Judy there was \u201cThe People\u2019s Court\u201d This is the origin story of the court case that started what is now a lucrative empire that feeds off the petty disputes of everyday Americans.",
             "guid": "158d74a711734284b3e76727245b576d",
             "isoDate": "2018-06-12T07:00:00.000Z",
@@ -423,6 +494,16 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/podcast-download.kcrw.com/kcrw/audio/podcast/etc/wt/KCRW-welcome_to_la-bilals_calling-180605.mp3"
             },
+            "entities": [
+                "his",
+                "six",
+                "Now",
+                "Tyreek Bilal",
+                "barber",
+                "scholar",
+                "He",
+                "he"
+            ],
             "content:encodedSnippet": "Tyreek Bilal has gone through many transformations in his life. He\u2019s been barber for powerful celebrities, a husband to six wives, a celibate religious scholar. Now he's taking a stand against changes at his neighborhood mosque.",
             "guid": "67f65a22793f4add9113298456c07882",
             "isoDate": "2018-06-05T07:00:00.000Z",
@@ -450,6 +531,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/podcast-download.kcrw.com/kcrw/audio/podcast/etc/wt/KCRW-welcome_to_la-the_grifter-180529.mp3"
             },
+            "entities": ["actress", "the entire year"],
             "content:encodedSnippet": "When a suspicious couple and a former soap opera actress try to rent an apartment they offer to deposit the entire year\u2019s rent into the building owners bank account. But something wasn\u2019t adding up.",
             "guid": "7f1ed86b0fe24c29a31f8afb843e7d95",
             "isoDate": "2018-05-29T07:00:00.000Z",
@@ -477,6 +559,21 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/podcast-download.kcrw.com/kcrw/audio/podcast/etc/wt/KCRW-welcome_to_la-the_paradise_motel-180522.mp3"
             },
+            "entities": [
+                "Kevin Gage",
+                "Motel",
+                "him",
+                "Boulevard",
+                "Sunset",
+                "Hollywood",
+                "2003",
+                "Mexico",
+                "Gage",
+                "Los Angeles",
+                "he",
+                "He",
+                "Paradise"
+            ],
             "content:encodedSnippet": "Kevin Gage played villains in Hollywood action movies of the mid-90s. But in 2003 he went to federal prison. He tried to start a new life in Mexico but Los Angeles sucked him back in. We find Gage in a new role at the Paradise Motel on Sunset Boulevard.",
             "guid": "392ee470a1664a7ea379b4421df09800",
             "isoDate": "2018-05-22T07:00:00.000Z",
@@ -504,6 +601,15 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/podcast-download.kcrw.com/kcrw/audio/podcast/etc/wt/KCRW-welcome_to_la-concordance_finalfinal-180522.mp3"
             },
+            "entities": [
+                "Russian",
+                "his",
+                "David Weinberg",
+                "builder",
+                "Host",
+                "Los Angeles",
+                "first day"
+            ],
             "content:encodedSnippet": "Host David Weinberg moves to Los Angeles and on his first day in town ends up on a yacht, attending a birthday party for a Russian theremin builder. But the pleasure cruise turns disastrous and they have to be rescued by boat police.",
             "guid": "ebf4d16f42934fada7ba7a86479361d6",
             "isoDate": "2018-05-22T07:00:00.000Z",
@@ -530,6 +636,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/podcast-download.kcrw.com/kcrw/audio/podcast/etc/wt/KCRW-welcome_to_la-welcome_to_la_trailer_correctfinal-180520.mp3"
             },
+            "entities": ["American"],
             "content:encodedSnippet": "Drifters and dreamers in the great American mirage.",
             "guid": "38bca1da84bb49cabfa233f60448eea5",
             "isoDate": "2018-05-20T07:00:00.000Z",

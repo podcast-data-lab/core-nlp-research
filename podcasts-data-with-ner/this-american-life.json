@@ -41,6 +41,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/38e10e78-f1a9-4c2b-9215-61aebe46acf3/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&awEpisodeId=38e10e78-f1a9-4c2b-9215-61aebe46acf3"
             },
+            "entities": [],
             "dc:creator": "This American Life",
             "link": "https://www.thisamericanlife.org/766/well-someone-had-to-do-something",
             "guid": "45043 at https://www.thisamericanlife.org",
@@ -62,6 +63,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/d99eccca-6579-45c3-b591-24d4a1507fdd/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&awEpisodeId=d99eccca-6579-45c3-b591-24d4a1507fdd"
             },
+            "entities": ["This week"],
             "dc:creator": "This American Life",
             "link": "https://www.thisamericanlife.org/523/death-and-taxes",
             "guid": "37150 at https://www.thisamericanlife.org",
@@ -83,6 +85,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/feaf7292-2425-4e69-a5f1-e8aad976f9b3/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&awEpisodeId=feaf7292-2425-4e69-a5f1-e8aad976f9b3"
             },
+            "entities": ["one", "Three"],
             "dc:creator": "This American Life",
             "link": "https://www.thisamericanlife.org/765/off-course",
             "guid": "45029 at https://www.thisamericanlife.org",
@@ -104,6 +107,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/f82a132a-5656-4824-9933-39f475ac5f5a/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&awEpisodeId=f82a132a-5656-4824-9933-39f475ac5f5a"
             },
+            "entities": [],
             "dc:creator": "This American Life",
             "link": "https://www.thisamericanlife.org/764/schools-out-forever",
             "guid": "45025 at https://www.thisamericanlife.org",
@@ -125,6 +129,14 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/70c3aa87-4933-4637-8486-a0e8198d1e20/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&awEpisodeId=70c3aa87-4933-4637-8486-a0e8198d1e20"
             },
+            "entities": [
+                "Vladimir Putin",
+                "his",
+                "Russians",
+                "he",
+                "him",
+                "1999"
+            ],
             "dc:creator": "This American Life",
             "link": "https://www.thisamericanlife.org/763/the-other-mr-president",
             "guid": "45013 at https://www.thisamericanlife.org",
@@ -146,6 +158,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/71dd7fd6-1256-4ff7-839f-0adfd9a6e6f6/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&awEpisodeId=71dd7fd6-1256-4ff7-839f-0adfd9a6e6f6"
             },
+            "entities": ["her"],
             "dc:creator": "This American Life",
             "link": "https://www.thisamericanlife.org/762/apocalypse-creep",
             "guid": "44997 at https://www.thisamericanlife.org",
@@ -167,6 +180,21 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/a1f1d9b8-b3b4-4803-875b-dd71d6985e75/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&awEpisodeId=a1f1d9b8-b3b4-4803-875b-dd71d6985e75"
             },
+            "entities": [
+                "This week",
+                "student",
+                "one",
+                "England",
+                "Britain",
+                "him",
+                "years",
+                "Brian",
+                "Brian Reed",
+                "Hamza Syed",
+                "today",
+                "he",
+                "first"
+            ],
             "dc:creator": "This American Life",
             "link": "https://www.thisamericanlife.org/761/the-trojan-horse-affair",
             "guid": "44985 at https://www.thisamericanlife.org",
@@ -188,6 +216,12 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/b8d6a83e-e68c-40bb-8b72-f190bfc38352/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&awEpisodeId=b8d6a83e-e68c-40bb-8b72-f190bfc38352"
             },
+            "entities": [
+                "Last week",
+                "This week",
+                "police officer",
+                "Michigan"
+            ],
             "dc:creator": "This American Life",
             "link": "https://www.thisamericanlife.org/760/a-city-walks-into-an-investigation",
             "guid": "44974 at https://www.thisamericanlife.org",
@@ -209,6 +243,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/6abe9421-2524-452b-bc46-877538b1ada0/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&awEpisodeId=6abe9421-2524-452b-bc46-877538b1ada0"
             },
+            "entities": ["Reyna Mathis", "Rob", "police officer", "he"],
             "dc:creator": "This American Life",
             "link": "https://www.thisamericanlife.org/759/a-couple-walks-into-a-house",
             "guid": "44972 at https://www.thisamericanlife.org",
@@ -230,6 +265,17 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/5129308a-16b8-466a-b81e-31404dfbcc6a/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&awEpisodeId=5129308a-16b8-466a-b81e-31404dfbcc6a"
             },
+            "entities": [
+                ", the",
+                "Black Americans",
+                "current",
+                "Host Emanuele Berry",
+                "one",
+                "America",
+                "summer of 2020",
+                "two",
+                "summers ago"
+            ],
             "dc:creator": "This American Life",
             "link": "https://www.thisamericanlife.org/758/talking-while-black",
             "guid": "44947 at https://www.thisamericanlife.org",

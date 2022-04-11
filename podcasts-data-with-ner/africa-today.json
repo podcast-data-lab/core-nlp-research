@@ -48,6 +48,24 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0c08m7h.mp3"
             },
+            "entities": [
+                "leader",
+                "Nnamdi Kanu",
+                "15",
+                "queen",
+                "athlete",
+                "Africa",
+                "Simidele Adeagbo",
+                "eight",
+                "French",
+                "her",
+                "judge",
+                "separatist",
+                "Nigeria",
+                "France",
+                "Kanu",
+                "lawyer"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0c08n8k",
             "guid": "urn:bbc:podcast:p0c08n8k",
             "isoDate": "2022-04-08T19:34:00.000Z",
@@ -69,6 +87,19 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0c02q2f.mp3"
             },
+            "entities": [
+                "prime minister",
+                "President",
+                "35%",
+                "Mohamed Abdullahi Farmajo",
+                "10-years-old",
+                "Somali",
+                "Nigerian",
+                "Kenya",
+                "representative",
+                "Union",
+                "African"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0c02qtb",
             "guid": "urn:bbc:podcast:p0c02qtb",
             "isoDate": "2022-04-07T19:54:00.000Z",
@@ -90,6 +121,26 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bzt7j8.mp3"
             },
+            "entities": [
+                "Mozambican",
+                "murder",
+                "Thomas Sankara",
+                "singer",
+                "Miriam Makeba",
+                "Blaise Compaore",
+                "1987",
+                "President",
+                "Burkina Faso",
+                "his",
+                "her",
+                "African-American",
+                "al-Shabab",
+                "A year",
+                "Palma",
+                "South African",
+                "violence",
+                "Somi"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bzt90s",
             "guid": "urn:bbc:podcast:p0bzt90s",
             "isoDate": "2022-04-06T19:53:00.000Z",
@@ -111,6 +162,19 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bzkyt3.mp3"
             },
+            "entities": [
+                "Sudanese",
+                "Gauteng Department of Health",
+                "Sierra Leonean",
+                "his",
+                "International Criminal Court",
+                "singer-songwriter",
+                "spokesperson",
+                "South Africa",
+                "Darfur",
+                "first",
+                "about 20 years ago"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bzkz2w",
             "guid": "urn:bbc:podcast:p0bzkz2w",
             "isoDate": "2022-04-05T19:36:00.000Z",
@@ -132,6 +196,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bzd0f1.mp3"
             },
+            "entities": [
+                "President",
+                "his",
+                "Sudan",
+                "Afrobeats",
+                "South",
+                "Ghana",
+                "US",
+                "Nana Akufo-Addo"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bzd0my",
             "guid": "urn:bbc:podcast:p0bzd0my",
             "isoDate": "2022-04-04T18:46:00.000Z",
@@ -153,6 +227,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0byycl3.mp3"
             },
+            "entities": [
+                "December last year",
+                "World Food Program",
+                "16.5%",
+                "Angola",
+                "5,000",
+                "Malawians",
+                "Tigray",
+                "Ethiopia",
+                "first"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0byyd8l",
             "guid": "urn:bbc:podcast:p0byyd8l",
             "isoDate": "2022-04-01T17:48:00.000Z",
@@ -174,6 +259,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0byrlzb.mp3"
             },
+            "entities": [
+                "President",
+                "Supreme Court",
+                "Ukraine",
+                "eight months",
+                "war",
+                "Kenya",
+                "he",
+                "Tunisia",
+                "Uhuru Kenyatta",
+                "African"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0byrn6q",
             "guid": "urn:bbc:podcast:p0byrn6q",
             "isoDate": "2022-03-31T19:07:00.000Z",
@@ -195,6 +292,19 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0byhdkc.mp3"
             },
+            "entities": [
+                "DRC",
+                "Transportation",
+                "Uganda",
+                "Abuja",
+                "Kaduna",
+                "UNHCR",
+                "Nigeria",
+                "Minister",
+                "entrepreneur",
+                "Congolese",
+                "train"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0byhfly",
             "guid": "urn:bbc:podcast:p0byhfly",
             "isoDate": "2022-03-30T19:38:00.000Z",
@@ -216,6 +326,21 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0by707m.mp3"
             },
+            "entities": [
+                "BBC",
+                "Republic of",
+                "Democratic",
+                "EAC",
+                "Abuja",
+                "Seven",
+                "Congo",
+                "African",
+                "Kaduna",
+                "Nigeria",
+                "East",
+                "Community",
+                "train"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0by718p",
             "guid": "urn:bbc:podcast:p0by718p",
             "isoDate": "2022-03-29T19:19:00.000Z",
@@ -237,6 +362,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0by10hk.mp3"
             },
+            "entities": [
+                "Sudanese",
+                "South",
+                "Juba",
+                "First",
+                "Kenya",
+                "Riek Machar",
+                "Sub-Saharan Africa",
+                "Vice-President",
+                "Saturday"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0by11m8",
             "guid": "urn:bbc:podcast:p0by11m8",
             "isoDate": "2022-03-28T19:11:00.000Z",
@@ -258,6 +394,24 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bxlsd6.mp3"
             },
+            "entities": [
+                "Prime Minister",
+                "This week",
+                "Cape Town",
+                "Africa",
+                "Mount",
+                "spokesperson",
+                "Olushambles",
+                "Kenya",
+                "Kenya Forest Service",
+                "Tigrayan",
+                "TPLF",
+                "Tigray People's Liberation Front",
+                "Abiy Ahmed",
+                "Khoi",
+                "South Africa",
+                "Amazon"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bxlvwy",
             "guid": "urn:bbc:podcast:p0bxlvwy",
             "isoDate": "2022-03-25T19:30:00.000Z",
@@ -279,6 +433,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bxdpq7.mp3"
             },
+            "entities": [
+                "Ukraine",
+                "Africa",
+                "Egypt",
+                "South Africa",
+                "Ethiopian",
+                "International Monetary Fund",
+                "mediator",
+                "second month",
+                "Russia"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bxdpy6",
             "guid": "urn:bbc:podcast:p0bxdpy6",
             "isoDate": "2022-03-24T18:47:00.000Z",
@@ -300,6 +465,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bx3xhg.mp3"
             },
+            "entities": [
+                "Shell",
+                "Niger",
+                "Delta",
+                "Gambia",
+                "attack",
+                "Ogoni Nine",
+                "Nigerian",
+                "Somali",
+                "Dutch",
+                "Mogadishu"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bx3yz2",
             "guid": "urn:bbc:podcast:p0bx3yz2",
             "isoDate": "2022-03-23T19:32:00.000Z",
@@ -321,6 +498,26 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bwxcsl.mp3"
             },
+            "entities": [
+                "a decade",
+                "one",
+                "Ukraine",
+                "Somalia",
+                "4.5 million",
+                "war",
+                "Sokoto",
+                "Nigerian",
+                "Kenyan",
+                "Huzaifa Habibu",
+                "his",
+                "instructor",
+                "James Kagambi",
+                "Mount Everest",
+                "Nigeria",
+                "He",
+                "first",
+                "60-years-old"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bwxdc2",
             "guid": "urn:bbc:podcast:p0bwxdc2",
             "isoDate": "2022-03-22T18:56:00.000Z",
@@ -342,6 +539,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bwqwhf.mp3"
             },
+            "entities": [
+                "three million",
+                "Malawi",
+                "of Forests",
+                "Central Africa",
+                "five",
+                "Day",
+                "Congo",
+                "International",
+                "second"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bwqws6",
             "guid": "urn:bbc:podcast:p0bwqws6",
             "isoDate": "2022-03-21T19:47:00.000Z",
@@ -363,6 +571,22 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bw9s17.mp3"
             },
+            "entities": [
+                "American",
+                "United Nations",
+                "Ukraine",
+                "Tanzania",
+                "Ambassador",
+                "neutral",
+                "war",
+                "last year",
+                "African",
+                "President",
+                "she",
+                "one year",
+                "Tigray",
+                "Ethiopian"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bw9tx5",
             "guid": "urn:bbc:podcast:p0bw9tx5",
             "isoDate": "2022-03-18T20:52:00.000Z",
@@ -384,6 +608,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bw44ws.mp3"
             },
+            "entities": [
+                "World Health Organization",
+                "Afro-futuristic",
+                "director",
+                "Ukraine",
+                "Tigray",
+                "war",
+                "East",
+                "Ethiopia",
+                "African",
+                "Mekelle"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bw46fg",
             "guid": "urn:bbc:podcast:p0bw46fg",
             "isoDate": "2022-03-17T20:02:00.000Z",
@@ -405,6 +641,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bvsq26.mp3"
             },
+            "entities": [
+                "Diaspora Commission",
+                "Kora",
+                "HIV infections",
+                "Gambia",
+                "Ukraine",
+                "South Africa",
+                "Nigeria",
+                "first"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bvsqfc",
             "guid": "urn:bbc:podcast:p0bvsqfc",
             "isoDate": "2022-03-16T18:58:00.000Z",
@@ -426,6 +672,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bvjtxt.mp3"
             },
+            "entities": [
+                "leader",
+                "Raila Odinga",
+                "Russian",
+                "his",
+                "war",
+                "South Africa",
+                "Kenyan",
+                "first",
+                "African",
+                "president"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bvjvdz",
             "guid": "urn:bbc:podcast:p0bvjvdz",
             "isoDate": "2022-03-15T18:54:00.000Z",
@@ -447,6 +705,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bvc8cg.mp3"
             },
+            "entities": [
+                "President",
+                "Ukrainian",
+                "South Africa",
+                "Africans",
+                "Zambia",
+                "Rupiah Banda",
+                "Kenyan",
+                "85",
+                "Russia"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bvc8pv",
             "guid": "urn:bbc:podcast:p0bvc8pv",
             "isoDate": "2022-03-14T18:40:00.000Z",
@@ -468,6 +737,22 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0btyg8v.mp3"
             },
+            "entities": [
+                "Niger",
+                "Cyril Ramaphosa",
+                "Ukraine",
+                "1,390",
+                "the second half of last year",
+                "Afar",
+                "Nigerian",
+                "Russia",
+                "Amhara",
+                "President",
+                "750",
+                "South Africa",
+                "Ethiopia",
+                "Kebbi"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0btykcv",
             "guid": "urn:bbc:podcast:p0btykcv",
             "isoDate": "2022-03-11T19:08:00.000Z",
@@ -489,6 +774,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0btr6v4.mp3"
             },
+            "entities": [
+                "Gabon",
+                "Mali",
+                "UK",
+                "Roman Abramovich",
+                "Ukraine",
+                "Chelsea",
+                "2020",
+                "Timbuktu",
+                "Russia",
+                "African"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0btr7pz",
             "guid": "urn:bbc:podcast:p0btr7pz",
             "isoDate": "2022-03-10T20:33:00.000Z",
@@ -510,6 +807,24 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bt7f3x.mp3"
             },
+            "entities": [
+                "student",
+                "Ukraine",
+                "one",
+                "Patricia Whitehorne",
+                "Kenya",
+                "Nigerian",
+                "Cameroonian",
+                "Kenyan",
+                "President",
+                "Nairobi",
+                "her",
+                "Producer",
+                "attack",
+                "Kherson",
+                "Aisha Afrah",
+                "Uhuru Kenyatta"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bt7g2s",
             "guid": "urn:bbc:podcast:p0bt7g2s",
             "isoDate": "2022-03-08T20:29:00.000Z",
@@ -531,6 +846,25 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bt1nky.mp3"
             },
+            "entities": [
+                "Eritrea",
+                "singer",
+                "one",
+                "Ukraine",
+                "record producer",
+                "Kenya",
+                "Davido",
+                "him",
+                "Russia",
+                "deputy president",
+                "President",
+                "his",
+                "UN",
+                "five",
+                "songwriter",
+                "Uhuru Kenyatta",
+                "more than a decade"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bt1ny9",
             "guid": "urn:bbc:podcast:p0bt1ny9",
             "isoDate": "2022-03-07T19:43:00.000Z",
@@ -552,6 +886,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0brwr58.mp3"
             },
+            "entities": [
+                "English",
+                "BBC",
+                "Polish",
+                "Republic of",
+                "Democratic",
+                "Ukraine",
+                "Chinese",
+                "Congo"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0brws3r",
             "guid": "urn:bbc:podcast:p0brws3r",
             "isoDate": "2022-03-01T19:29:00.000Z",
@@ -573,6 +917,27 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bp9h0k.mp3"
             },
+            "entities": [
+                "drug-trafficking",
+                "Syriacus Buguzi",
+                "Paul Gicheru",
+                "BBC",
+                "Commander",
+                "Kenyan",
+                "The Hague",
+                "Nigerian",
+                "two",
+                "doctor",
+                "journalist",
+                "International Criminal Court",
+                "Abba Kyari",
+                "analyst",
+                "Nigeria",
+                "Tanzanian",
+                "he",
+                "lawyer",
+                "first"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bp9hhq",
             "guid": "urn:bbc:podcast:p0bp9hhq",
             "isoDate": "2022-02-15T20:40:00.000Z",
@@ -594,6 +959,23 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bp4124.mp3"
             },
+            "entities": [
+                "Sudanese",
+                "singer",
+                "politician",
+                "Nigerian",
+                "him",
+                "Chagossians",
+                "Chagos Islands",
+                "50 years ago",
+                "Adekunle Gold",
+                "Indian",
+                "Ocean",
+                "Mauritian",
+                "songwriter",
+                "he",
+                "first"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bp41gj",
             "guid": "urn:bbc:podcast:p0bp41gj",
             "isoDate": "2022-02-14T20:47:00.000Z",
@@ -615,6 +997,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bnpw0x.mp3"
             },
+            "entities": [
+                "2018",
+                "week",
+                "Sudan",
+                "South",
+                "Zimbabwe",
+                "UN",
+                "war",
+                "nearly six years",
+                "democracy"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bnpwlx",
             "guid": "urn:bbc:podcast:p0bnpwlx",
             "isoDate": "2022-02-11T19:17:00.000Z",
@@ -636,6 +1029,20 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bnhrqj.mp3"
             },
+            "entities": [
+                "prime minister",
+                "Information Minister",
+                "BBC",
+                "Chris Baryomunsi",
+                "Africa",
+                "Uganda",
+                "Kakwenza Rukirabashaija",
+                "a month",
+                "novelist",
+                "he",
+                "Libya",
+                "Ghanaian"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bnhs85",
             "guid": "urn:bbc:podcast:p0bnhs85",
             "isoDate": "2022-02-10T19:52:00.000Z",
@@ -657,6 +1064,19 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bm96mh.mp3"
             },
+            "entities": [
+                "Guinea-Bissau",
+                "this week",
+                "West",
+                "Africa",
+                "Addis Ababa",
+                "South Africa",
+                "2020",
+                "Ecowas",
+                "first",
+                "African",
+                "this weekend"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bm97jk",
             "guid": "urn:bbc:podcast:p0bm97jk",
             "isoDate": "2022-02-04T19:04:00.000Z",
@@ -678,6 +1098,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bm46dw.mp3"
             },
+            "entities": [
+                "explosion",
+                "West Africa",
+                "Tanzania",
+                "Ghana",
+                "Nigeria",
+                "20-year",
+                "president"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bm4702",
             "guid": "urn:bbc:podcast:p0bm4702",
             "isoDate": "2022-02-03T22:50:00.000Z",
@@ -699,6 +1128,20 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bkzl6t.mp3"
             },
+            "entities": [
+                "WFP",
+                "Burkina Faso",
+                "West",
+                "Tigray",
+                "more than a year",
+                "Rwanda",
+                "next week",
+                "Uganda",
+                "Ecowas",
+                "UN World Food Programme",
+                "Ethiopia",
+                "African"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bkzm1c",
             "guid": "urn:bbc:podcast:p0bkzm1c",
             "isoDate": "2022-01-28T20:10:00.000Z",
@@ -720,6 +1163,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bjnr72.mp3"
             },
+            "entities": [
+                "explosion",
+                "13",
+                "two weeks",
+                "China",
+                "winter",
+                "Ghana",
+                "Ethiopian"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bjnrg1",
             "guid": "urn:bbc:podcast:p0bjnrg1",
             "isoDate": "2022-01-21T21:25:00.000Z",
@@ -741,6 +1193,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bjgdcm.mp3"
             },
+            "entities": [
+                "explosion",
+                "Liberia",
+                "President",
+                "three days",
+                "George Weah",
+                "29",
+                "Monrovia",
+                "Ghana",
+                "explosives",
+                "Bogoso"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bjgdp1",
             "guid": "urn:bbc:podcast:p0bjgdp1",
             "isoDate": "2022-01-20T20:41:00.000Z",
@@ -762,6 +1226,20 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bj6cf0.mp3"
             },
+            "entities": [
+                "activist",
+                "President",
+                "Cameroon",
+                "his",
+                "Somaliland",
+                "artist",
+                "Cape Town",
+                "Cyril Ramaphosa",
+                "Somalia",
+                "South Africa",
+                "Rocky Dawuni",
+                "Ghanaian"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bj6f9s",
             "guid": "urn:bbc:podcast:p0bj6f9s",
             "isoDate": "2022-01-19T21:29:00.000Z",
@@ -783,6 +1261,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bc7z5f.mp3"
             },
+            "entities": [
+                "Omar El Bashir",
+                "leader",
+                "Sudanese",
+                "Tigray People's Liberation Front",
+                "three years",
+                "war",
+                "Ethiopian"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bc7zzq",
             "guid": "urn:bbc:podcast:p0bc7zzq",
             "isoDate": "2021-12-20T22:35:00.000Z",
@@ -804,6 +1291,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0b9c90p.mp3"
             },
+            "entities": [
+                "leader",
+                "Benin",
+                "Economic Crime and Terrorism Court",
+                "midnight on",
+                "Sunday",
+                "Reckya Madougou",
+                "Ghanaian"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0b9c9dm",
             "guid": "urn:bbc:podcast:p0b9c9dm",
             "isoDate": "2021-12-10T20:36:00.000Z",
@@ -825,6 +1321,27 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0b8n12w.mp3"
             },
+            "entities": [
+                "Burundi",
+                "38",
+                "Senator",
+                "genocide",
+                "war",
+                "Chris Coons",
+                "the last three years",
+                "TPLF",
+                "Human Rights Watch",
+                "Mozambique",
+                "Delgado",
+                "Abiy Ahmed",
+                "Cabo",
+                "600",
+                "Tigray",
+                "fire",
+                "he",
+                "US",
+                "Ethiopia"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0b8n6fw",
             "guid": "urn:bbc:podcast:p0b8n6fw",
             "isoDate": "2021-12-07T18:11:00.000Z",
@@ -846,6 +1363,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0b8h78s.mp3"
             },
+            "entities": [
+                "180,000",
+                "UK",
+                "apartheid",
+                "West",
+                "Nigeria",
+                "African",
+                "12-year-old"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0b8h7x0",
             "guid": "urn:bbc:podcast:p0b8h7x0",
             "isoDate": "2021-12-06T21:04:00.000Z",
@@ -867,6 +1393,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0b7t2y9.mp3"
             },
+            "entities": [
+                "HIV",
+                "United Nations",
+                "Botswana",
+                "now",
+                "infections",
+                "South Africa"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0b7t3tx",
             "guid": "urn:bbc:podcast:p0b7t3tx",
             "isoDate": "2021-12-02T19:31:00.000Z",
@@ -888,6 +1422,19 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0b7m7tj.mp3"
             },
+            "entities": [
+                "NCDC",
+                "three days",
+                "Disease Control",
+                "Gambia",
+                "South Africa",
+                "Jammeh",
+                "Omicron",
+                "Nigerian",
+                "Nigeria",
+                "him",
+                "president"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0b7m930",
             "guid": "urn:bbc:podcast:p0b7m930",
             "isoDate": "2021-12-01T20:14:00.000Z",
@@ -909,6 +1456,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0b7977g.mp3"
             },
+            "entities": [
+                "Khartoum",
+                "ADF",
+                "Republic of",
+                "Democratic",
+                "Sudan",
+                "Allied Democratic Forces",
+                "Ugandan",
+                "Congo"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0b798vg",
             "guid": "urn:bbc:podcast:p0b798vg",
             "isoDate": "2021-11-30T19:46:00.000Z",
@@ -930,6 +1487,22 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0b6dyw8.mp3"
             },
+            "entities": [
+                "singer",
+                "Deputy",
+                "Miatta Fahnbulleh",
+                "Director",
+                "Yahya Jammeh",
+                "Liberia",
+                "his",
+                "her",
+                "Gambia",
+                "22-year",
+                "Southern Africa",
+                "Zebib Kavuma",
+                "UN",
+                "violence"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0b6f45z",
             "guid": "urn:bbc:podcast:p0b6f45z",
             "isoDate": "2021-11-25T19:11:00.000Z",
@@ -951,6 +1524,21 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0b3z69s.mp3"
             },
+            "entities": [
+                "leader",
+                "Gen Abdel Fattah al-Burhan",
+                "United States",
+                "Sudan",
+                "Africa",
+                "Glasgow",
+                "Norway",
+                "European Union",
+                "UK",
+                "1.5",
+                "day",
+                "US",
+                "Ethiopia"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0b3zbp8",
             "guid": "urn:bbc:podcast:p0b3zbp8",
             "isoDate": "2021-11-12T18:18:00.000Z",
@@ -972,6 +1560,19 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0b3p961.mp3"
             },
+            "entities": [
+                "Liberia",
+                "vice president",
+                "Sudanese",
+                "George Weah",
+                "FW de Klerk",
+                "Joseph Boakai",
+                "South Africa",
+                "85",
+                "he",
+                "three",
+                "president"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0b3pdtr",
             "guid": "urn:bbc:podcast:p0b3pdtr",
             "isoDate": "2021-11-11T18:48:00.000Z",
@@ -993,6 +1594,19 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09vw5vg.mp3"
             },
+            "entities": [
+                "leader",
+                "singer",
+                "several years",
+                "Guinea",
+                "Zamfara",
+                "Colonel",
+                "DJ Edu",
+                "Anna Joyce",
+                "Nigeria",
+                "Angolan",
+                "Doumbouya"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09vw7cb",
             "guid": "urn:bbc:podcast:p09vw7cb",
             "isoDate": "2021-09-13T18:17:00.000Z",
@@ -1014,6 +1628,22 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09vb5c2.mp3"
             },
+            "entities": [
+                "murder",
+                "Guinea",
+                "attempted murder",
+                "DJ Rita Ray",
+                "Africa",
+                "Masaka",
+                "Col Mamady Doumbouya",
+                "two",
+                "Ugandan",
+                "eight",
+                "President",
+                "her",
+                "this month",
+                "Central Region"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09vb605",
             "guid": "urn:bbc:podcast:p09vb605",
             "isoDate": "2021-09-07T19:10:00.000Z",
@@ -1035,6 +1665,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09tt294.mp3"
             },
+            "entities": [
+                "BBC",
+                "May",
+                "Gambia",
+                "Zambia",
+                "three-day",
+                "he",
+                "president"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09tt2tm",
             "guid": "urn:bbc:podcast:p09tt2tm",
             "isoDate": "2021-09-01T19:42:00.000Z",
@@ -1056,6 +1695,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09tf4p7.mp3"
             },
+            "entities": [
+                "teacher",
+                "May",
+                "Somalia",
+                "Islamic",
+                "Nigeria",
+                "Kenya"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09tf5fv",
             "guid": "urn:bbc:podcast:p09tf5fv",
             "isoDate": "2021-08-27T17:39:00.000Z",
@@ -1077,6 +1724,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09stbt3.mp3"
             },
+            "entities": ["Uganda", "50", "Kenya"],
             "link": "http://www.bbc.co.uk/programmes/p09stcfk",
             "guid": "urn:bbc:podcast:p09stcfk",
             "isoDate": "2021-08-20T19:24:00.000Z",
@@ -1098,6 +1746,22 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09sh5dw.mp3"
             },
+            "entities": [
+                "BBC",
+                "2,000",
+                "six",
+                "Yoweri Museveni",
+                "Zimbabwean-led",
+                "Americans",
+                "Afghan",
+                "Kenya",
+                "two",
+                "President",
+                "Uganda",
+                "Prosecutor",
+                "Esther Anyakun",
+                "Minister"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09sh6hb",
             "guid": "urn:bbc:podcast:p09sh6hb",
             "isoDate": "2021-08-17T18:35:00.000Z",
@@ -1119,6 +1783,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09dkjnx.mp3"
             },
+            "entities": [
+                "Djibouti",
+                "Burkina Faso",
+                "Thomas Sankara",
+                "his",
+                "author",
+                "Sierra Leone",
+                "40",
+                "president",
+                "Blaise Compaore",
+                "Yemen"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09dkjy5",
             "guid": "urn:bbc:podcast:p09dkjy5",
             "isoDate": "2021-04-13T18:36:00.000Z",
@@ -1140,6 +1816,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09dgfwk.mp3"
             },
+            "entities": [
+                "Eritrean",
+                "Tanzania",
+                "the end of the year",
+                "Christian",
+                "Uganda",
+                "Somalis"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09dgfzq",
             "guid": "urn:bbc:podcast:p09dgfzq",
             "isoDate": "2021-04-12T19:37:00.000Z",
@@ -1161,6 +1845,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09cx7mp.mp3"
             },
+            "entities": [
+                "President",
+                "once",
+                "Tanzania",
+                "Sudan",
+                "Zimbabwe",
+                "Darfur",
+                "Samia Suluhu Hassan"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09cx7yg",
             "guid": "urn:bbc:podcast:p09cx7yg",
             "isoDate": "2021-04-06T19:21:00.000Z",
@@ -1182,6 +1875,25 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p092qkkw.mp3"
             },
+            "entities": [
+                "Oby Ezekwesili",
+                "Professor",
+                "presenter",
+                "Africa",
+                "Patricia Whitehorne",
+                "2021",
+                "2020",
+                "Ken Opalo",
+                "African",
+                "Rebecca Enonchong",
+                "Dickens Olewe",
+                "the past year",
+                "Producer",
+                "Continental Free Trade Area",
+                "January 2021",
+                "Landry Signé",
+                "fourth"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p092qsjw",
             "guid": "urn:bbc:podcast:p092qsjw",
             "isoDate": "2020-12-31T17:50:00.000Z",
@@ -1203,6 +1915,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p092czzx.mp3"
             },
+            "entities": ["Christmas", "year", "Jerusalema", "Nigerian"],
             "link": "http://www.bbc.co.uk/programmes/p092d8b3",
             "guid": "urn:bbc:podcast:p092d8b3",
             "isoDate": "2020-12-25T18:10:00.000Z",
@@ -1224,6 +1937,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08sgfn4.mp3"
             },
+            "entities": [
+                "15",
+                "Zambia",
+                "Kenyan",
+                "theft",
+                "tens of millions of dollars"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08sghn6",
             "guid": "urn:bbc:podcast:p08sghn6",
             "isoDate": "2020-09-24T19:54:00.000Z",
@@ -1245,6 +1965,21 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08rpz60.mp3"
             },
+            "entities": [
+                "United States",
+                "Zineb Jammeh",
+                "20 years ago",
+                "Lady",
+                "Yahya Jammeh",
+                "his",
+                "her",
+                "Mali",
+                "Robert Mugabe",
+                "Zimbabwe",
+                "First",
+                "US",
+                "president"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08rq0qr",
             "guid": "urn:bbc:podcast:p08rq0qr",
             "isoDate": "2020-09-16T19:37:00.000Z",
@@ -1266,6 +2001,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08r07z3.mp3"
             },
+            "entities": [
+                "Cameroon",
+                "Hwange National Park",
+                "Bamenda",
+                "Northwest Region",
+                "attacks",
+                "Zimbabwe",
+                "Chinese",
+                "South Africa",
+                "two",
+                "violence"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08r03zp",
             "guid": "urn:bbc:podcast:p08r03zp",
             "isoDate": "2020-09-09T19:08:00.000Z",
@@ -1287,6 +2034,22 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08qt5zj.mp3"
             },
+            "entities": [
+                "the weekend",
+                "attempted murder",
+                "Deputy",
+                "shooting",
+                "NRM",
+                "journalist",
+                "his",
+                "today",
+                "Uganda",
+                "South Africa",
+                "Zimbabwe",
+                "Mwesigwa Rukutana",
+                "Minister",
+                "Hopewell Chin"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08qt6h5",
             "guid": "urn:bbc:podcast:p08qt6h5",
             "isoDate": "2020-09-07T20:27:00.000Z",
@@ -1308,6 +2071,12 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08db3l9.mp3"
             },
+            "entities": [
+                "European Union",
+                "Sudan",
+                "480 million Euros",
+                "African"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08db4kt",
             "guid": "urn:bbc:podcast:p08db4kt",
             "isoDate": "2020-05-15T18:32:00.000Z",
@@ -1329,6 +2098,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08d6gy8.mp3"
             },
+            "entities": [
+                "Burundi",
+                "26",
+                "four",
+                "Sudan",
+                "World Health Organisation",
+                "South Kordofan"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08d6jv4",
             "guid": "urn:bbc:podcast:p08d6jv4",
             "isoDate": "2020-05-14T18:49:00.000Z",
@@ -1350,6 +2127,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08d2yfs.mp3"
             },
+            "entities": [
+                "Cameroon",
+                "her",
+                "artist",
+                "today",
+                "Malawian",
+                "Hazel Mak",
+                "Lesotho",
+                "Julie Owono",
+                "Facebook",
+                "African"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08d2zk2",
             "guid": "urn:bbc:podcast:p08d2zk2",
             "isoDate": "2020-05-13T18:43:00.000Z",
@@ -1371,6 +2160,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08cwmn2.mp3"
             },
+            "entities": [
+                "his",
+                "singer",
+                "Tanzania",
+                "Zambia",
+                "Sierra Leone",
+                "Tony Allen",
+                "France",
+                "violence"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08cwn1w",
             "guid": "urn:bbc:podcast:p08cwn1w",
             "isoDate": "2020-05-11T18:38:00.000Z",
@@ -1392,6 +2191,20 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08cpgrd.mp3"
             },
+            "entities": [
+                "Malawi",
+                "Asia",
+                "Supreme Court",
+                "Mongolian",
+                "Onon",
+                "last year",
+                "Peter Mutharika",
+                "Kenya",
+                "August this year",
+                "Ethiopia",
+                "Cuckoo",
+                "seven days"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08cphzs",
             "guid": "urn:bbc:podcast:p08cphzs",
             "isoDate": "2020-05-08T18:54:00.000Z",
@@ -1413,6 +2226,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08clg6v.mp3"
             },
+            "entities": [
+                "Covid-Organics",
+                "South Africa",
+                "Gambian",
+                "Madagascar",
+                "first"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08clktz",
             "guid": "urn:bbc:podcast:p08clktz",
             "isoDate": "2020-05-07T18:25:00.000Z",
@@ -1434,6 +2254,19 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08c8cnv.mp3"
             },
+            "entities": [
+                "journalist",
+                "President",
+                "his",
+                "John Magufuli",
+                "Rwanda",
+                "Tanzania",
+                "one",
+                "Somalia",
+                "South Africa",
+                "Nigeria",
+                "African"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08c8dky",
             "guid": "urn:bbc:podcast:p08c8dky",
             "isoDate": "2020-05-04T22:04:00.000Z",
@@ -1455,6 +2288,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08bfhsg.mp3"
             },
+            "entities": [
+                "South African-Ghanaian",
+                "a second",
+                "one",
+                "South Africa",
+                "Sierra Leone",
+                "last year",
+                "entrepreneur",
+                "East Africa",
+                "20"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08bfjv2",
             "guid": "urn:bbc:podcast:p08bfjv2",
             "isoDate": "2020-04-24T19:46:00.000Z",
@@ -1476,6 +2320,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08bb7nm.mp3"
             },
+            "entities": [
+                "Morocco",
+                "Europe",
+                "Angelique Kidjo",
+                "fifty thousand",
+                "US",
+                "African"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08bb8qt",
             "guid": "urn:bbc:podcast:p08bb8qt",
             "isoDate": "2020-04-23T18:40:00.000Z",
@@ -1497,6 +2349,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08b7582.mp3"
             },
+            "entities": ["last February", "Cameroonian", "Kenya"],
             "link": "http://www.bbc.co.uk/programmes/p08b776t",
             "guid": "urn:bbc:podcast:p08b776t",
             "isoDate": "2020-04-22T19:30:00.000Z",
@@ -1518,6 +2371,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08b3kmy.mp3"
             },
+            "entities": ["she", "Kenyans", "Angola", "Africa", "Nigeria"],
             "link": "http://www.bbc.co.uk/programmes/p08b3l5b",
             "guid": "urn:bbc:podcast:p08b3l5b",
             "isoDate": "2020-04-21T19:15:00.000Z",
@@ -1539,6 +2393,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08864b7.mp3"
             },
+            "entities": ["World Health Organisation"],
             "link": "http://www.bbc.co.uk/programmes/p0886597",
             "guid": "urn:bbc:podcast:p0886597",
             "isoDate": "2020-03-30T18:12:00.000Z",
@@ -1560,6 +2415,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07ny718.mp3"
             },
+            "entities": ["African"],
             "link": "http://www.bbc.co.uk/programmes/p07ny74v",
             "guid": "urn:bbc:podcast:p07ny74v",
             "isoDate": "2019-09-20T19:34:00.000Z",
@@ -1581,6 +2437,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07jvh8m.mp3"
             },
+            "entities": ["Nairobi", "attack", "Africa", "Libya"],
             "link": "http://www.bbc.co.uk/programmes/p07jvjyz",
             "guid": "urn:bbc:podcast:p07jvjyz",
             "isoDate": "2019-08-05T20:07:00.000Z",
@@ -1602,6 +2459,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07373nt.mp3"
             },
+            "entities": ["Ethiopian Airlines", "A day", "Ethiopia", "crash"],
             "link": "http://www.bbc.co.uk/programmes/p07375rf",
             "guid": "urn:bbc:podcast:p07375rf",
             "isoDate": "2019-03-11T19:12:00.000Z",
@@ -1623,6 +2481,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06w5hhn.mp3"
             },
+            "entities": [
+                "450 million",
+                "Today",
+                "World Bank",
+                "Africa",
+                "2035",
+                "African"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p06w5pbw",
             "guid": "urn:bbc:podcast:p06w5pbw",
             "isoDate": "2018-12-20T12:50:00.000Z",
@@ -1644,6 +2510,19 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06jzqpm.mp3"
             },
+            "entities": [
+                "Chancellor",
+                "Angela Merkel",
+                "her",
+                "now",
+                "Theresa May",
+                "South Africa",
+                "German",
+                "Nigeria",
+                "Nigerians",
+                "first",
+                "Muslim"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p06jzrkw",
             "guid": "urn:bbc:podcast:p06jzrkw",
             "isoDate": "2018-08-31T18:53:00.000Z",
@@ -1665,6 +2544,20 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06jvpdf.mp3"
             },
+            "entities": [
+                "anti-immigrant",
+                "Soweto",
+                "his",
+                "attacks",
+                "Europe",
+                "South Africa",
+                "Ghana",
+                "Kenya",
+                "Nigeria",
+                "Two",
+                "African",
+                "defence minister"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p06jvpnl",
             "guid": "urn:bbc:podcast:p06jvpnl",
             "isoDate": "2018-08-30T18:51:00.000Z",
@@ -1686,6 +2579,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06js125.mp3"
             },
+            "entities": [
+                "more than a century ago",
+                "Europe",
+                "Namibians",
+                "Africa",
+                "Kenya",
+                "two",
+                "Germany"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p06js1qq",
             "guid": "urn:bbc:podcast:p06js1qq",
             "isoDate": "2018-08-29T18:47:00.000Z",
@@ -1707,6 +2609,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06j2xyl.mp3"
             },
+            "entities": [
+                "journalist",
+                "Liberia",
+                "spokesman",
+                "Uganda",
+                "BBC Pidgin",
+                "a year",
+                "Arsene Wenger",
+                "African"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p06j2yr4",
             "guid": "urn:bbc:podcast:p06j2yr4",
             "isoDate": "2018-08-21T18:56:00.000Z",
@@ -1728,6 +2640,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06gdyfs.mp3"
             },
+            "entities": [
+                "tonight",
+                "December",
+                "one",
+                "Zimbabwe",
+                "Ghana",
+                "five",
+                "two",
+                "Congolese"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p06gdyqx",
             "guid": "urn:bbc:podcast:p06gdyqx",
             "isoDate": "2018-08-02T19:42:00.000Z",
@@ -1749,6 +2671,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06fq5m3.mp3"
             },
+            "entities": [
+                "Beijing",
+                "New Delhi",
+                "Eritrea",
+                "now",
+                "Zimbabwean",
+                "war",
+                "Ethiopia"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p06fq659",
             "guid": "urn:bbc:podcast:p06fq659",
             "isoDate": "2018-07-25T18:37:00.000Z",
@@ -1770,6 +2701,23 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06dpl85.mp3"
             },
+            "entities": [
+                "five years",
+                "Cameroon",
+                "the same day",
+                "Sudan",
+                "South",
+                "war",
+                "Juba",
+                "Sierra Leone",
+                "President",
+                "attack",
+                "UN",
+                "100 days",
+                "army chief",
+                "Anglophone",
+                "defence minister"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p06dpllx",
             "guid": "urn:bbc:podcast:p06dpllx",
             "isoDate": "2018-07-13T18:41:00.000Z",
@@ -1791,6 +2739,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06dldlb.mp3"
             },
+            "entities": [
+                "Kenyans",
+                "Gambia",
+                "World Cup",
+                "Ebola",
+                "twenty",
+                "Russia"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p06dldyp",
             "guid": "urn:bbc:podcast:p06dldyp",
             "isoDate": "2018-07-12T19:10:00.000Z",
@@ -1812,6 +2768,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06cgbs8.mp3"
             },
+            "entities": [
+                "information minister",
+                "boss",
+                "European Union",
+                "Gambia",
+                "Adama Barrow",
+                "Ghana",
+                "nine hours",
+                "Charlotte Osei"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p06cgcf9",
             "guid": "urn:bbc:podcast:p06cgcf9",
             "isoDate": "2018-06-29T18:31:00.000Z",
@@ -1833,6 +2799,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06cbpjy.mp3"
             },
+            "entities": [
+                "Nairobi",
+                "DRC",
+                "Swaziland",
+                "fire",
+                "Ghana",
+                "Ebola",
+                "WHO"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p06cbpyz",
             "guid": "urn:bbc:podcast:p06cbpyz",
             "isoDate": "2018-06-28T18:47:00.000Z",
@@ -1854,6 +2829,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06bnn4j.mp3"
             },
+            "entities": [
+                "Eritrea",
+                "Gambia",
+                "Faraba",
+                "Sudan",
+                "Addis Ababa",
+                "Tunisia",
+                "Ethiopia"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p06bnngt",
             "guid": "urn:bbc:podcast:p06bnngt",
             "isoDate": "2018-06-20T18:43:00.000Z",
@@ -1875,6 +2859,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0688l3z.mp3"
             },
+            "entities": [
+                "Malian",
+                "last night",
+                "snake-bites",
+                "World Health Organisation",
+                "Ethiopian",
+                "Kassé Mady Diabaté",
+                "Dutch"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0688ln6",
             "guid": "urn:bbc:podcast:p0688ln6",
             "isoDate": "2018-05-25T20:03:00.000Z",
@@ -1896,6 +2889,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p066th78.mp3"
             },
+            "entities": [
+                "Liberia",
+                "47",
+                "HIV",
+                "Gambia",
+                "mayor",
+                "Kenya",
+                "Ethiopia"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p066thzl",
             "guid": "urn:bbc:podcast:p066thzl",
             "isoDate": "2018-05-10T18:31:00.000Z",
@@ -1917,6 +2919,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p05wh91n.mp3"
             },
+            "entities": ["Nairobi", "UK", "fire", "Lang", "Sierra Leone"],
             "link": "http://www.bbc.co.uk/programmes/p05whcg8",
             "guid": "urn:bbc:podcast:p05whcg8",
             "isoDate": "2018-01-29T19:25:00.000Z",
@@ -1938,6 +2941,21 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p05skkw4.mp3"
             },
+            "entities": [
+                "Mufti",
+                "Egypt",
+                "Africa",
+                "DJ Rita Ray",
+                "African",
+                "Grand",
+                "2018",
+                "daily",
+                "UN",
+                "Israel",
+                "Central African Republic",
+                "three months",
+                "Zambian"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p05skm51",
             "guid": "urn:bbc:podcast:p05skm51",
             "isoDate": "2018-01-02T19:16:00.000Z",
@@ -1959,6 +2977,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p05rk4x3.mp3"
             },
+            "entities": [
+                "Dickens Olewe",
+                "Chief Justice",
+                "current",
+                "his",
+                "Kenya",
+                "this year",
+                "He",
+                "he",
+                "Willy Mutunga"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p05rk83y",
             "guid": "urn:bbc:podcast:p05rk83y",
             "isoDate": "2017-12-26T03:00:00.000Z",
@@ -1980,6 +3009,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p05012v5.mp3"
             },
+            "entities": [
+                "Eighty thousand",
+                "Burundi",
+                "three-year",
+                "ninety",
+                "Britain",
+                "diplomat",
+                "Nigeria",
+                "Libya"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p05013bx",
             "guid": "urn:bbc:podcast:p05013bx",
             "isoDate": "2017-04-13T18:29:00.000Z",
@@ -2001,6 +3040,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0450dpr.mp3"
             },
+            "entities": ["Sudanese", "South", "Vice President", "South Africa"],
             "link": "http://www.bbc.co.uk/programmes/p0450dpl",
             "guid": "urn:bbc:podcast:p0450dpl",
             "isoDate": "2016-08-17T18:30:00.000Z",
@@ -2022,6 +3062,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0448k8r.mp3"
             },
+            "entities": ["Burkina Faso", "China", "tomorrow", "Zambian"],
             "link": "http://www.bbc.co.uk/programmes/p0448k8k",
             "guid": "urn:bbc:podcast:p0448k8k",
             "isoDate": "2016-08-10T19:09:00.000Z",
@@ -2043,6 +3084,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p043jbyj.mp3"
             },
+            "entities": [
+                "Malian",
+                "Harare",
+                "ANC",
+                "Modja",
+                "Zimbabwe",
+                "South Africa"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p043jby6",
             "guid": "urn:bbc:podcast:p043jby6",
             "isoDate": "2016-08-03T18:25:00.000Z",
@@ -2064,6 +3113,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p041wncn.mp3"
             },
+            "entities": [
+                "HIV infections",
+                "Africa",
+                "chairman",
+                "first",
+                "African"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p041wncl",
             "guid": "urn:bbc:podcast:p041wncl",
             "isoDate": "2016-07-18T18:51:00.000Z",
@@ -2085,6 +3141,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p03yc621.mp3"
             },
+            "entities": [
+                "his",
+                "her",
+                "South Africa",
+                "Reeva Steenkamp",
+                "Oscar Pistorius"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p03yc61s",
             "guid": "urn:bbc:podcast:p03yc61s",
             "isoDate": "2016-06-14T18:57:00.000Z",
@@ -2106,6 +3169,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p03w8g8v.mp3"
             },
+            "entities": [
+                "Zimbabweans",
+                "poison",
+                "Robert Mugabe",
+                "UN",
+                "1000s"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p03w8g8q",
             "guid": "urn:bbc:podcast:p03w8g8q",
             "isoDate": "2016-05-25T19:31:00.000Z",

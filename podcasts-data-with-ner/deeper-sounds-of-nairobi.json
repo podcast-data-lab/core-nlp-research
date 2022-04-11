@@ -68,6 +68,7 @@
                 "type": "audio/mpeg",
                 "url": "https://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E047_-_Nov_2021.mp3"
             },
+            "entities": ["Africa", "the Hague"],
             "guid": "caffe-mocha-047",
             "isoDate": "2021-11-20T02:57:44.000Z",
             "title": "DSoN #047 The Hague,Netherlands ",
@@ -87,6 +88,14 @@
                 "type": "audio/mpeg",
                 "url": "https://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E046_-_Oct_2021.mp3"
             },
+            "entities": [
+                "Greece",
+                "Netherlands",
+                "Ibiza",
+                "Africa",
+                "Italy",
+                "this past summer"
+            ],
             "guid": "caffe-mocha-046",
             "isoDate": "2021-10-10T02:57:44.000Z",
             "title": "DSoN #046 Bracciano,Italy",
@@ -106,6 +115,13 @@
                 "type": "audio/mpeg",
                 "url": "https://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E045_-_Sept_2021.mp3"
             },
+            "entities": [
+                "this sunset",
+                "Greece",
+                "Palia Kameni",
+                "George",
+                "present"
+            ],
             "guid": "caffe-mocha-045",
             "isoDate": "2021-08-21T02:57:44.000Z",
             "title": "DSoN #045 Live from Palia Kameni ,Greece",
@@ -125,6 +141,13 @@
                 "type": "audio/mpeg",
                 "url": "https://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E044_-_Aug_2021.mp3"
             },
+            "entities": [
+                "this sunset",
+                "Greece",
+                "Princess",
+                "present",
+                "Santorini"
+            ],
             "guid": "caffe-mocha-044",
             "isoDate": "2021-08-14T02:57:44.000Z",
             "title": "DSoN #044 Live from Santorini,Greece",
@@ -144,6 +167,13 @@
                 "type": "audio/mpeg",
                 "url": "https://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E043_-_July_2021.mp3"
             },
+            "entities": [
+                "this sunset",
+                "Greece",
+                "Princess",
+                "present",
+                "Santorini"
+            ],
             "guid": "caffe-mocha-043",
             "isoDate": "2021-07-30T02:57:44.000Z",
             "title": "DSoN #043 Live from Santorini,Greece",
@@ -163,6 +193,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_444_-_28th_Feb_2021.mp3"
             },
+            "entities": ["10 Years"],
             "guid": "caffe-mocha-444",
             "isoDate": "2021-02-28T02:57:44.000Z",
             "title": "Caffé Mocha #444 feat. Masta Luminary,L3gs Music,B-Town",
@@ -182,6 +213,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_443_-_21st_Feb_2021.mp3"
             },
+            "entities": ["10 Years"],
             "guid": "caffe-mocha-443",
             "isoDate": "2021-02-21T02:57:44.000Z",
             "title": "Caffé Mocha #443 feat. Kori,Malkia,OneDown",
@@ -201,6 +233,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_442_-_14th_Feb_2021.mp3"
             },
+            "entities": ["10 Years"],
             "guid": "caffe-mocha-442",
             "isoDate": "2021-02-14T02:57:44.000Z",
             "title": "Caffé Mocha #442 feat. Monroe Marcus,Mike Muema,Max Theuri",
@@ -220,6 +253,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_441_-_7th_Feb_2021.mp3"
             },
+            "entities": ["10 Years"],
             "guid": "caffe-mocha-441",
             "isoDate": "2021-02-07T02:57:44.000Z",
             "title": "Caffé Mocha #441 feat. Afula , DJ Shock Afrika, Shangatatu ",
@@ -239,6 +273,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_434_-_20th_Dec_2020.mp3"
             },
+            "entities": ["his", "Musician", "Sun-El", "him"],
             "guid": "caffe-mocha-434",
             "isoDate": "2020-12-20T02:57:44.000Z",
             "title": "Caffé Mocha #434 feat. Sun-El Musician ",
@@ -258,6 +293,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_431_-_29th_Nov_2020.mp3"
             },
+            "entities": ["SURAJ", "his", "him", "#431"],
             "guid": "caffe-mocha-431",
             "isoDate": "2020-11-29T02:57:44.000Z",
             "title": "Caffé Mocha #431 feat. SURAJ ",
@@ -277,6 +313,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_426_-_25th_Oct_2020.mp3"
             },
+            "entities": ["South Africa", "Zambia", "Kenya", "Nigeria"],
             "guid": "caffe-mocha-426",
             "isoDate": "2020-10-25T02:57:44.000Z",
             "title": "Caffé Mocha #426 ",
@@ -296,6 +333,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_422_-_27th_Sept_2020.mp3"
             },
+            "entities": ["Rome", "422", "Fumicino Airport"],
             "guid": "caffe-mocha-422",
             "isoDate": "2020-09-27T02:57:44.000Z",
             "title": "Caffé Mocha #422 ",
@@ -315,6 +353,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_419_-_8th_Sept_2020.mp3"
             },
+            "entities": ["JKIA", "419"],
             "guid": "caffe-mocha-419",
             "isoDate": "2020-08-23T02:57:44.000Z",
             "title": "Caffé Mocha #419 ",
@@ -334,6 +373,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_417_-_23rd_Aug_2020.mp3"
             },
+            "entities": ["Masai Mara", "Imani", "second"],
             "guid": "caffe-mocha-417",
             "isoDate": "2020-08-23T02:57:44.000Z",
             "title": "Caffé Mocha #417 ",
@@ -353,6 +393,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_415_-_9th_Aug_2020.mp3"
             },
+            "entities": ["Now", "415"],
             "guid": "caffe-mocha-415",
             "isoDate": "2020-08-09T02:57:44.000Z",
             "title": "Caffé Mocha #415 ",
@@ -372,6 +413,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_411_feat_XtetiqSoul_19th_Jul_2020.mp3"
             },
+            "entities": ["411", "Producer", "DJ"],
             "guid": "caffe-mocha-411",
             "isoDate": "2020-07-19T02:57:44.000Z",
             "title": "Caffé Mocha #411 feat. XtetiQsoul ",
@@ -391,6 +433,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_409_feat_DJIV_5thJul_2020.mp3"
             },
+            "entities": ["she", "DJ", "409"],
             "guid": "caffe-mocha-409",
             "isoDate": "2020-07-05T02:57:44.000Z",
             "title": "Caffé Mocha #409 feat. DJ IV ",
@@ -410,6 +453,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_407_-_June14th_2020.mp3"
             },
+            "entities": ["Dj Drazen"],
             "guid": "caffe-mocha-407",
             "isoDate": "2020-06-14T02:57:44.000Z",
             "title": "Caffé Mocha #407 feat. DJ Drazen ",
@@ -429,6 +473,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_405_-_May31st_2020.mp3"
             },
+            "entities": ["Giza"],
             "guid": "caffe-mocha-405",
             "isoDate": "2020-05-31T02:57:44.000Z",
             "title": "Caffé Mocha #405 feat. B-Town ",
@@ -448,6 +493,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_400_-_Apr26th_2020.mp3"
             },
+            "entities": ["Vatican", "Sounds", "African"],
             "guid": "caffe-mocha-400",
             "isoDate": "2020-04-26T02:57:44.000Z",
             "title": "Caffé Mocha #400 Live from Vatican City ",
@@ -467,6 +513,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_399_-_Apr17th_2020.mp3"
             },
+            "entities": ["Rome", "monthly"],
             "guid": "caffe-mocha-399",
             "isoDate": "2020-04-19T02:57:44.000Z",
             "title": "Caffé Mocha #399 Live from Rome ",
@@ -486,6 +533,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_398_-_Apr12th_2020.mp3"
             },
+            "entities": [],
             "guid": "caffe-mocha-398",
             "isoDate": "2020-04-12T02:57:44.000Z",
             "title": "Caffé Mocha #398 Live from Italy ",
@@ -505,6 +553,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_397_-_Apr5th_2020.mp3"
             },
+            "entities": ["now", "Youtube"],
             "guid": "caffe-mocha-397",
             "isoDate": "2020-04-05T02:57:44.000Z",
             "title": "Caffé Mocha #397 Live from Italy ",
@@ -524,6 +573,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_396_-_Mar29th_2020.mp3"
             },
+            "entities": ["now", "Youtube"],
             "guid": "caffe-mocha-396",
             "isoDate": "2020-03-29T02:57:44.000Z",
             "title": "Caffé Mocha #396 Live from Italy ",
@@ -543,6 +593,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_394_-_Mar15th_2020.mp3"
             },
+            "entities": ["Italy"],
             "guid": "caffe-mocha-394",
             "isoDate": "2020-03-15T02:57:44.000Z",
             "title": "Caffé Mocha #394 ",
@@ -562,6 +613,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_382_-_Dec22nd_2019.mp3"
             },
+            "entities": ["Kenya"],
             "guid": "caffe-mocha-382",
             "isoDate": "2019-12-22T02:57:44.000Z",
             "title": "Caffé Mocha #382 ",
@@ -581,6 +633,15 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_378_-_Nov24th_2019.mp3"
             },
+            "entities": [
+                "another 3 hour",
+                "Rome",
+                "his",
+                "NYUMBA",
+                "European",
+                "Jack Rooster",
+                "Tour"
+            ],
             "guid": "caffe-mocha-378",
             "isoDate": "2019-11-24T02:57:44.000Z",
             "title": "Caffé Mocha #378 Live from Rome ",
@@ -600,6 +661,12 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_367_-_Sept8th_2019.mp3"
             },
+            "entities": [
+                "Sundowner",
+                "the end of Summer",
+                "Ostia",
+                "Jack Rooster"
+            ],
             "guid": "caffe-mocha-367",
             "isoDate": "2019-09-08T02:57:44.000Z",
             "title": "Caffé Mocha #367 Live from Ostia Beach ",
@@ -619,6 +686,16 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_366_-_Sept1st_2019.mp3"
             },
+            "entities": [
+                "week",
+                "Rome",
+                "his",
+                "Euro Tour.This",
+                "Europe",
+                "Jack Rooster",
+                "he",
+                "him"
+            ],
             "guid": "caffe-mocha-366",
             "isoDate": "2019-09-01T02:57:44.000Z",
             "title": "Caffé Mocha #366 Live from Rome - Italy ",
@@ -638,6 +715,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_353_-_June17th_2019.mp3"
             },
+            "entities": ["Caffe Mocha"],
             "guid": "caffe-mocha-353",
             "isoDate": "2019-06-17T02:57:44.000Z",
             "title": "Caffé Mocha #353 - NYUMBA Album Post-Launch Edition ",
@@ -657,6 +735,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_352_-_June_9th_2019.mp3"
             },
+            "entities": ["Saturday 15th June", "Caffe Mocha", "Jack Roosters"],
             "guid": "caffe-mocha-352",
             "isoDate": "2019-06-09T02:57:44.000Z",
             "title": "Caffé Mocha #352 - NYUMBA Special Edition ",
@@ -676,6 +755,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_350_-_May_29th_2019.mp3"
             },
+            "entities": ["Mediterranean"],
             "guid": "caffe-mocha-350",
             "isoDate": "2019-05-20T02:57:44.000Z",
             "title": "Caffé Mocha #350 ",
@@ -695,6 +775,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_345_April_14th_2019.mp3"
             },
+            "entities": ["!", "Nairobi", "MUZE Club", "May 18th"],
             "guid": "caffe-mocha-345",
             "isoDate": "2019-04-14T02:57:44.000Z",
             "title": "Caffé Mocha #345 ",
@@ -714,6 +795,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_344_April_7th_2019.mp3"
             },
+            "entities": ["Ankole Grill", "this Wednesday"],
             "guid": "caffe-mocha-344",
             "isoDate": "2019-04-07T02:57:44.000Z",
             "title": "Caffé Mocha #344 ",
@@ -733,6 +815,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_341_-_Mar_17th_2019.mp3"
             },
+            "entities": ["Lords of Uptime", "Mar 23rd", "29th"],
             "guid": "caffe-mocha-341",
             "isoDate": "2019-03-17T02:57:44.000Z",
             "title": "Caffé Mocha #341 ",
@@ -752,6 +835,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_338_Feb_17th_2019.mp3"
             },
+            "entities": ["Cape Verde", "Limpopo", "River"],
             "guid": "caffe-mocha-338",
             "isoDate": "2019-02-17T02:57:44.000Z",
             "title": "Caffé Mocha #338 ",
@@ -771,6 +855,14 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_337_Feb_10th_2019.mp3"
             },
+            "entities": [
+                "Prince",
+                "ADUMA",
+                "Kaybee",
+                "this weekend Saturday 16th Feb 2019",
+                "Rwenzori",
+                "Kenya"
+            ],
             "guid": "caffe-mocha-337",
             "isoDate": "2019-02-10T02:57:44.000Z",
             "title": "Caffé Mocha #337 ",
@@ -790,6 +882,14 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_335_Jan_27th_2019.mp3"
             },
+            "entities": [
+                "Ankole",
+                "Producer",
+                "this Wednesday",
+                "evening",
+                "Sebastien Dutch",
+                "Zambian"
+            ],
             "guid": "caffe-mocha-335",
             "isoDate": "2019-01-27T02:57:44.000Z",
             "title": "Caffé Mocha #335 ",
@@ -809,6 +909,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_334_Jan_20th_2019.mp3"
             },
+            "entities": ["#334", "House", "Kenya"],
             "guid": "caffe-mocha-334",
             "isoDate": "2019-01-20T02:57:44.000Z",
             "title": "Caffé Mocha #334 ",
@@ -828,6 +929,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_332_Jan_6th_2019_feat_UPZ.mp3"
             },
+            "entities": ["him"],
             "guid": "caffe-mocha-332",
             "isoDate": "2019-01-06T02:57:44.000Z",
             "title": "Caffé Mocha #332 feat. UPZ[SA] ",
@@ -847,6 +949,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_331_Dec_30th_2018.mp3"
             },
+            "entities": ["1", "2018", "the year", "40"],
             "guid": "caffe-mocha-331",
             "isoDate": "2018-12-30T02:57:44.000Z",
             "title": "Caffé Mocha #331 ",
@@ -866,6 +969,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_330_Dec_23rd_2018.mp3"
             },
+            "entities": ["2019", "this Christmas"],
             "guid": "caffe-mocha-330",
             "isoDate": "2018-12-23T02:57:44.000Z",
             "title": "Caffé Mocha #330 ",
@@ -885,6 +989,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_329_-_Dec_9th_2018.mp3"
             },
+            "entities": [],
             "guid": "caffe-mocha-329",
             "isoDate": "2018-12-02T02:57:44.000Z",
             "title": "Caffé Mocha #329 ",
@@ -904,6 +1009,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_325_-_11th_Nov_2018.mp3"
             },
+            "entities": ["ADUMA", "this Saturday 17th Nov 2018"],
             "guid": "caffe-mocha-325",
             "isoDate": "2018-11-11T02:57:44.000Z",
             "title": "Caffé Mocha #325 ",
@@ -923,6 +1029,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_324_-_4th_Oct_2018.mp3"
             },
+            "entities": ["tonight", "324", "Sunday"],
             "guid": "caffe-mocha-324",
             "isoDate": "2018-10-07T02:57:44.000Z",
             "title": "Caffé Mocha #324 ",
@@ -942,6 +1049,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_320_Oct_7_2018.mp3"
             },
+            "entities": [],
             "guid": "caffe-mocha-320",
             "isoDate": "2018-10-07T02:57:44.000Z",
             "title": "Caffé Mocha #320 ",
@@ -961,6 +1069,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_316_feat_DJ_Btown_Sept6th18.mp3"
             },
+            "entities": ["Sounds", "DJ", "316"],
             "guid": "caffe-mocha-316",
             "isoDate": "2018-09-09T02:57:44.000Z",
             "title": "Caffé Mocha #316 feat. DJ BTown[KE]",
@@ -980,6 +1089,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_315_-_2nd_Sept_2018.mp3"
             },
+            "entities": ["Sounds", "Mother Africa", "315"],
             "guid": "caffe-mocha-315",
             "isoDate": "2018-09-02T02:57:44.000Z",
             "title": "Caffé Mocha #315 ",
@@ -999,6 +1109,12 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_308_feat_DJ_MT_15thJul18.mp3"
             },
+            "entities": [
+                "Jumpseat Guest DJ MT",
+                "Sounds",
+                "Mother Africa",
+                "308"
+            ],
             "guid": "caffe-mocha-308",
             "isoDate": "2018-07-15T02:57:44.000Z",
             "title": "Caffé Mocha #308 feat. 3DJ MT[SAUG] ",
@@ -1018,6 +1134,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_297_-22nd_April_2018_Mkuzi.mp3"
             },
+            "entities": ["DJ", "Kerry Martin", "Captain"],
             "guid": "caffe-mocha-297",
             "isoDate": "2018-04-22T02:57:44.000Z",
             "title": "Caffé Mocha #297 feat. DJ MKUZI[KE] ",
@@ -1037,6 +1154,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_295_-_8th_April_2018.mp3"
             },
+            "entities": ["Epic"],
             "guid": "caffe-mocha-295",
             "isoDate": "2018-04-08T02:57:44.000Z",
             "title": "Caffé Mocha #295 ",
@@ -1056,6 +1174,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_294_-_feat_AMARE_1st_April_2018.mp3"
             },
+            "entities": ["Brussels"],
             "guid": "caffe-mocha-294",
             "isoDate": "2018-04-01T02:57:44.000Z",
             "title": "Caffé Mocha #294 feat. AMARE ",
@@ -1075,6 +1194,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_292_-_18th_March_2018.mp3"
             },
+            "entities": ["Kenyans", "292", "Namibian"],
             "guid": "caffe-mocha-292",
             "isoDate": "2018-03-18T02:57:44.000Z",
             "title": "Caffé Mocha #292 ",
@@ -1094,6 +1214,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_290_-_Mar_4th_2018.mp3"
             },
+            "entities": ["300", "Africa", "290", "Fresh House", "10"],
             "guid": "caffe-mocha-290",
             "isoDate": "2018-03-04T02:57:44.000Z",
             "title": "Caffé Mocha #290 ",
@@ -1113,6 +1234,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_289_-_Feb_25th_2018.mp3"
             },
+            "entities": ["Kenyan Citizens", "Kenya"],
             "guid": "caffe-mocha-289",
             "isoDate": "2018-02-25T02:57:44.000Z",
             "title": "Caffé Mocha #289 ",
@@ -1132,6 +1254,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_288_-_Feb_18th_2018.mp3"
             },
+            "entities": ["East", "African"],
             "guid": "caffe-mocha-288",
             "isoDate": "2018-02-18T02:57:44.000Z",
             "title": "Caffé Mocha #288 ",
@@ -1151,6 +1274,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_287_-_11th_Feb_2018.mp3"
             },
+            "entities": ["House", "Kenyan"],
             "guid": "caffe-mocha-287",
             "isoDate": "2018-02-11T02:57:44.000Z",
             "title": "Caffé Mocha #287 ",
@@ -1170,6 +1294,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_286_SURAJ_-_4th_Feb_2018.mp3"
             },
+            "entities": ["One", "the future", "African"],
             "guid": "caffe-mocha-286",
             "isoDate": "2018-02-04T02:57:44.000Z",
             "title": "Caffé Mocha #286 feat.SURAJ ",
@@ -1189,6 +1314,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_283_feat_Max_D_Idd_A_-_Jan2118.mp3"
             },
+            "entities": ["Max Doblhoff", "Idd Aziz", "283"],
             "guid": "caffe-mocha-283",
             "isoDate": "2018-01-21T02:57:44.000Z",
             "title": "Caffé Mocha #283 ",
@@ -1208,6 +1334,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_282_-_14th_Jan_2018.mp3"
             },
+            "entities": ["Johannesburg", "the year"],
             "guid": "caffe-mocha-282",
             "isoDate": "2018-01-14T02:57:44.000Z",
             "title": "Caffé Mocha #282 ",
@@ -1227,6 +1354,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_280_-_AFROPUNK_Africa_Special.mp3"
             },
+            "entities": ["Johannesburg", "the year"],
             "guid": "caffe-mocha-280",
             "isoDate": "2017-12-31T02:57:44.000Z",
             "title": "Caffé Mocha #280 Live from AFROPUNK Joburg ",
@@ -1246,6 +1374,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_276_-_Dec_3rd_2017.mp3"
             },
+            "entities": ["Jameson", "2017", "Dance", "Kenya", "African"],
             "guid": "caffe-mocha-276",
             "isoDate": "2017-12-03T02:57:44.000Z",
             "title": "Caffé Mocha #276 ",
@@ -1265,6 +1394,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_275_feat_Jinku_-_Nov_26th_2017.mp3"
             },
+            "entities": ["Namibia", "EA Wave"],
             "guid": "caffe-mocha-275",
             "isoDate": "2017-11-26T02:57:44.000Z",
             "title": "Caffé Mocha #275 feat. Jinku ",
@@ -1284,6 +1414,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_269_-_15thOct2017.mp3"
             },
+            "entities": ["#269", "Cameroon"],
             "guid": "caffe-mocha-269",
             "isoDate": "2017-10-15T02:57:44.000Z",
             "title": "Caffé Mocha #269 ",
@@ -1303,6 +1434,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_266_feat_MikeMuema-_Sept24th2017.mp3"
             },
+            "entities": ["Producer", "DJ", "Kenyan", "Mike Muema", "#266"],
             "guid": "caffe-mocha-266",
             "isoDate": "2017-09-24T02:57:44.000Z",
             "title": "Caffé Mocha #266 feat. Music Producer Mike Muema(KE) ",
@@ -1322,6 +1454,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_264_Sept10th2017.mp3"
             },
+            "entities": ["Africa", "House", "#264"],
             "guid": "caffe-mocha-264",
             "isoDate": "2017-09-17T02:57:44.000Z",
             "title": "Caffé Mocha #264 ",
@@ -1341,6 +1474,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_263_feat_Vlogger_ChacheetaKE_Sept3rd2017.mp3"
             },
+            "entities": ["#263"],
             "guid": "caffe-mocha-263",
             "isoDate": "2017-08-23T02:57:44.000Z",
             "title": "Caffé Mocha #263 feat. Vlogger ChacheetaKE ",
@@ -1360,6 +1494,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_261_feat_Mouza_Deep_BW_-_Aug_20th_2017.mp3"
             },
+            "entities": ["Economist", "Producer", "DJ"],
             "guid": "caffe-mocha-261",
             "isoDate": "2017-08-20T02:57:44.000Z",
             "title": "Caffé Mocha #261 feat. Mouza Deep(BW)",
@@ -1379,6 +1514,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Jack_On_Drive_HBR_17th_Aug_2017.mp3"
             },
+            "entities": [],
             "guid": "ignition-mix",
             "isoDate": "2017-08-18T03:54:24.000Z",
             "title": "Jack's 15min Mix on #IgnitionHBR",
@@ -1398,6 +1534,13 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_260_-_13th_Aug_2017.mp3"
             },
+            "entities": [
+                "35,000",
+                "Inami",
+                "Mother Africa",
+                "House",
+                "DJ Lesh"
+            ],
             "guid": "caffe-mocha-260",
             "isoDate": "2017-08-16T02:57:44.000Z",
             "title": "Caffé Mocha #260 feat. DJ Lesh(SA) and Inami(KE)",
@@ -1417,6 +1560,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Caffe_Mocha_258_-_Jul30th2017.mp3"
             },
+            "entities": ["Africa"],
             "guid": "caffe-mocha-258",
             "isoDate": "2017-07-30T02:57:44.000Z",
             "title": "Caffé Mocha #258",
@@ -1436,6 +1580,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_254_-_16th_July_2017.mp3"
             },
+            "entities": ["Africa"],
             "guid": "caffe-mocha-254",
             "isoDate": "2017-07-16T02:57:44.000Z",
             "title": "Caffé Mocha #254 - AreaCodeYaKenya",
@@ -1455,6 +1600,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E042_Part2_-_July_2017_320kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Moseh Drumist"],
             "guid": "DSoN-042-Part2",
             "isoDate": "2017-07-14T02:57:44.000Z",
             "title": "DSoN #042 Part 2 feat. XtetiqSoul(SA),Moseh Drumist",
@@ -1474,6 +1620,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E042_Part1_-_July_2017_320kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Moseh Drumis", "Songstress"],
             "guid": "DSoN-042-Part1",
             "isoDate": "2017-07-14T02:57:44.000Z",
             "title": "DSoN #042 Part 1 feat. Inami,Moseh Drumist,Jack Rooster",
@@ -1493,6 +1640,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E041_-_June_2017_192kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "June 23rd 2017", "Alchemist Bar"],
             "guid": "dson-041",
             "isoDate": "2017-07-14T02:57:44.000Z",
             "title": "DSoN #041 feat. Inami,Moseh Drumist,Jack Rooster",
@@ -1512,6 +1660,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_251_-_18th_June_2017.mp3"
             },
+            "entities": ["soldier", "Brian Gichuhi</p>", "251", "Tina"],
             "guid": "caffe-mocha-251",
             "isoDate": "2017-07-05T02:57:44.000Z",
             "title": "Caffé Mocha #251 feat. Tina and DJ MGM",
@@ -1531,6 +1680,16 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_250_-_11th_June_2017_-_Betty_G(ET)_-_MasterKraft(NG).mp3"
             },
+            "entities": [
+                "DJ Xpect",
+                "Vincent",
+                "Moseh Drumist",
+                "Skaiva",
+                "Laety",
+                "Nzech",
+                "Seyi Sheyi",
+                "Chynaman"
+            ],
             "guid": "caffe-mocha-250",
             "isoDate": "2017-06-12T02:57:44.000Z",
             "title": "Caffé Mocha #250",
@@ -1550,6 +1709,16 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_249_-_4th_June_2017.mp3"
             },
+            "entities": [
+                "DJ Xpect",
+                "Vincent",
+                "Moseh Drumist",
+                "Skaiva",
+                "Laety",
+                "Nzech",
+                "Seyi Sheyi",
+                "Chynaman"
+            ],
             "guid": "caffe-mocha-249",
             "isoDate": "2017-06-06T02:57:44.000Z",
             "title": "Caffé Mocha #249",
@@ -1569,6 +1738,20 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_239_-_3rd_April_2017.mp3"
             },
+            "entities": [
+                "Inami",
+                "Jua Kali",
+                "Fena",
+                "artist",
+                "AG",
+                "Caiiro",
+                "Laety",
+                "Port City",
+                "Djeff Afrozilla",
+                "Lyra Aoko",
+                "Ziyon",
+                "Burna Boy"
+            ],
             "guid": "caffe-mocha-239",
             "isoDate": "2017-04-07T02:57:44.000Z",
             "title": "Caffé Mocha #239",
@@ -1588,6 +1771,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_235_-_5th_Mar_2017.mp3"
             },
+            "entities": ["#235", "Rigga"],
             "guid": "B04DCBB0-F112-4BC2-9D51-FF579B7CD78B",
             "isoDate": "2017-03-05T17:24:06.000Z",
             "title": "Caffé Mocha #235 feat. Rigga",
@@ -1607,6 +1791,16 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_234_-_1st_Mar_2017.mp3"
             },
+            "entities": [
+                "#234",
+                "Inami",
+                "Cece Sagini",
+                "Laety",
+                "Kenya",
+                "Kentphonik",
+                "Tetu Shani",
+                "Moseh Drummist"
+            ],
             "guid": "BC10DAAA-ED18-4E19-BFFB-85E94DA8EEDE",
             "isoDate": "2017-03-02T06:28:05.000Z",
             "title": "Caffé Mocha #234",
@@ -1625,6 +1819,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_233_-_25th_Feb_2017.mp3"
             },
+            "entities": ["she", "her", "JumpSeat Guest DJ Vida", "he", "#233"],
             "link": "http://www.jackrooster.com/downloads/CaffeMocha_233_-_25th_Feb_2017.mp3",
             "guid": "E0F063E2-D830-48BE-B481-F6547A56221A",
             "isoDate": "2017-03-02T06:19:22.000Z",
@@ -1644,6 +1839,16 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_231_-_5th_Feb_2017.mp3"
             },
+            "entities": [
+                "Vincent",
+                "DRC",
+                "DJ",
+                "Africa",
+                "#231",
+                "Rigga",
+                "US",
+                "Distruction Boyz"
+            ],
             "link": "http://www.jackrooster.com/downloads/CaffeMocha_231_-_5th_Feb_2017.mp3",
             "guid": "30C8792C-51D3-4026-860D-C8116579D790",
             "isoDate": "2017-02-06T05:44:07.000Z",
@@ -1663,6 +1868,18 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_230_-_29th_Jan_2017.mp3"
             },
+            "entities": [
+                "Spilulu",
+                "Suraj",
+                "Zahara",
+                "DRC",
+                "Tunji",
+                "#230",
+                "Louie Vega",
+                "US",
+                "Rampa",
+                "GE"
+            ],
             "link": "http://www.jackrooster.com/downloads/CaffeMocha_230_-_29th_Jan_2017.mp3",
             "guid": "C3DD753C-8781-437F-A272-FBA1E771D4A3",
             "isoDate": "2017-01-29T15:56:45.000Z",
@@ -1682,6 +1899,14 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_229_-_22nd_Jan_2017.mp3"
             },
+            "entities": [
+                "Da Capo",
+                "Kevin Servhis",
+                "Femi Kuti",
+                "#229",
+                "West",
+                "Navy Kenzo"
+            ],
             "link": "http://www.jackrooster.com/downloads/CaffeMocha_229_-_22nd_Jan_2017.mp3",
             "guid": "241E72D0-530C-4D90-A96A-368EF6FEC369",
             "isoDate": "2017-01-23T04:21:45.000Z",
@@ -1701,6 +1926,25 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_228_-_15th_Jan_2017.mp3"
             },
+            "entities": [
+                "DJ Stavo",
+                "Luther Vandross",
+                "Laura Stacy",
+                "Jua Kali",
+                "#228",
+                "Kerry Martin",
+                "Brian Nadra",
+                "Salif Keita",
+                "Gino Brown",
+                "Da Capo",
+                "Cece Sagini",
+                "Captains",
+                "Skaiva",
+                "Jack Rooster",
+                "Innov Gwana",
+                "US",
+                "MAR"
+            ],
             "link": "http://www.jackrooster.com/downloads/CaffeMocha_228_-_15th_Jan_2017.mp3",
             "guid": "8EC22CB9-055C-4C33-8FCF-E0311BC3CA40",
             "isoDate": "2017-01-16T21:20:40.000Z",
@@ -1721,6 +1965,15 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E040_-_Dec_2016_320kbps_www.jackrooster.com.mp3"
             },
+            "entities": [
+                "Kwame",
+                "Joy",
+                "Wally Lopez",
+                "040",
+                "Nick Holder",
+                "Jack Rooster",
+                "Ananda Project"
+            ],
             "link": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E040_-_Dec_2016_320kbps_www.jackrooster.com.mp3",
             "guid": "27D68B48-BA8C-4151-B79E-0E0175816BF7",
             "isoDate": "2016-12-28T10:30:41.000Z",
@@ -1740,6 +1993,13 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_217_-_27th_Nov_2016.mp3"
             },
+            "entities": [
+                "DJ Bongz",
+                "#217",
+                "DJ Fortee",
+                "Renato Xtrova",
+                "Radi Mziki"
+            ],
             "link": "http://www.jackrooster.com/downloads/CaffeMocha_217_-_27th_Nov_2016.mp3",
             "guid": "1EE3489D-0F3E-4590-90B9-674579873FCC",
             "isoDate": "2016-11-27T10:51:18.000Z",
@@ -1759,6 +2019,25 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_216_-_20th_Nov_2016.mp3"
             },
+            "entities": [
+                "DJ Sbu",
+                "Inami",
+                "Jua Kali",
+                "Zameka",
+                "Labdi",
+                "Van Luco",
+                "Nuru",
+                "Cece Sagini",
+                "Mobi Dixon",
+                "Zahara",
+                "Macadam",
+                "Jack Rooster",
+                "Saint",
+                "Rigga",
+                "Homeboyz Music",
+                "Evo",
+                "Ben C"
+            ],
             "link": "http://www.jackrooster.com/downloads/CaffeMocha_216_-_20th_Nov_2016.mp3",
             "guid": "61EEA458-9395-45C1-B568-F70F32EC2C9B",
             "isoDate": "2016-11-21T22:46:27.000Z",
@@ -1778,6 +2057,18 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E039_-_Oct_2016_320kbps_www.jackrooster.com.mp3"
             },
+            "entities": [
+                "Earth",
+                "6AM",
+                "Nairobi",
+                "2016",
+                "4",
+                "one",
+                "Fire",
+                "Epic Nation",
+                "Earth Stage",
+                "2:00AM"
+            ],
             "link": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E039_-_Oct_2016_320kbps_www.jackrooster.com.mp3",
             "guid": "51F50984-8794-48B1-8A32-17070AAE5AE8",
             "isoDate": "2016-10-11T11:00:00.000Z",
@@ -1797,6 +2088,18 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_211_-_Oct_9th_2016.mp3"
             },
+            "entities": [
+                "Inami",
+                "Lady Zamar",
+                "Mobi Dixon",
+                "DRC",
+                "Victoria Kimani",
+                "Boddhi Satva",
+                "Jack Rooster",
+                "Jullian Gomes",
+                "Rigga",
+                "Nashinski"
+            ],
             "link": "http://www.jackrooster.com/downloads/CaffeMocha_211_-_Oct_9th_2016.mp3",
             "guid": "C620C963-709E-471E-87AD-E0ABB0B06B82",
             "isoDate": "2016-10-11T14:03:00.000Z",
@@ -1816,6 +2119,14 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E038_-_Aug_2016_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": [
+                "Nairobi",
+                "Kato Change",
+                "Cece Sagini",
+                "Africa",
+                "House",
+                "Kenya"
+            ],
             "link": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E038_-_Aug_2016_160kbps_www.jackrooster.com.mp3",
             "guid": "28115872-F3CD-422F-BEC4-0CCC29620850",
             "isoDate": "2016-10-10T07:02:51.000Z",
@@ -1836,6 +2147,62 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Caffe%20Mocha%20197%20-%20July%203rd%20-%20Final%20Edit.mp3"
             },
+            "entities": [
+                "DJ",
+                "Slezz",
+                "Jah Band",
+                "Malembe Na Soukouss",
+                "Nairobi",
+                "King",
+                "Busi",
+                "Shimmytones",
+                "Nakupenda",
+                "10",
+                "11",
+                "12",
+                "13",
+                "Sangue De Beirona",
+                "14",
+                "15",
+                "16",
+                "Cesaria Evora",
+                "17",
+                "Africa",
+                "18",
+                "19",
+                "Da Capo",
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "Sunday",
+                "6",
+                "7",
+                "Messive Classic Mix Remix",
+                "8",
+                "9",
+                "20",
+                "21",
+                "22",
+                "23",
+                "24",
+                "Stephanie Cooke",
+                "25",
+                "Dvine Brothers",
+                "Mensah",
+                "Helen Ting",
+                "5 Years",
+                "Monocles",
+                "Mobi Dixon",
+                "Wilson Kentura & Tiuze",
+                "Eltonnick",
+                "Charlene Lai",
+                "Inga Hina",
+                "Chanelle",
+                "Zaki Ibrahim",
+                "Francois"
+            ],
             "guid": "BD514F1F-A421-41EB-B51D-23B6656D6938",
             "isoDate": "2016-07-05T10:18:09.000Z",
             "title": "Caffé Mocha #197",
@@ -1854,6 +2221,13 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E037_-_April_2016_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": [
+                "Suraj",
+                "Saint Evo",
+                "http://bit.ly/Anuy84",
+                "Wiz Kid",
+                "Nuru"
+            ],
             "link": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E037_-_April_2016_160kbps_www.jackrooster.com.mp3",
             "guid": "471EFF7E-2907-4A48-ADF0-58C12C209AF6",
             "isoDate": "2016-04-19T14:12:17.000Z",
@@ -1876,6 +2250,41 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E036_-_Sept_2015_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": [
+                "Artist",
+                "Mia Tuttavilla",
+                "Joe Goddard",
+                "DJ Tira & Big Nuz",
+                "Musique",
+                "DJ Micks",
+                "Ce Ce Rogers",
+                "Valentina",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14",
+                "Give Praises - Mzee & Rafiki",
+                "Martijn ten Velden & Mark Knight Mix) - Ferrer & Sydenham Inc.",
+                "15",
+                "16",
+                "17",
+                "Benny",
+                "Dennis Ferrer",
+                "Manoo",
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "Club",
+                "7",
+                "8",
+                "9",
+                "Pasuka Nyama",
+                "Gabriel"
+            ],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E036_-_Sept_2015_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting"],
             "isoDate": "2015-09-24T04:42:57.000Z",
@@ -1898,6 +2307,33 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E035_-_Aug_2015_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": [
+                "Artist",
+                "Julien Jabre",
+                "8 Years",
+                "One",
+                "Axel Boman",
+                "War",
+                "ME",
+                "1979",
+                "10",
+                "11",
+                "12",
+                "13",
+                "House",
+                "1",
+                "Baal \u2013 Jericho",
+                "Eddie Fowlkes",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "2014",
+                "7",
+                "8",
+                "9"
+            ],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E035_-_Aug_2015_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting"],
             "isoDate": "2015-08-20T04:42:57.000Z",
@@ -1920,6 +2356,33 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E34_-_Jul_2015_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": [
+                "Artist",
+                "DJ",
+                "0152",
+                "Elaina - Rising",
+                "Mobi Dixon",
+                "Calvin Fallo",
+                "ID",
+                "Boddhi Satva",
+                "First",
+                "10",
+                "11",
+                "12",
+                "1",
+                "Mama Kosa",
+                "2",
+                "3",
+                "4",
+                "Venus - Atjazz Record Company",
+                "5",
+                "6",
+                "Denny Dugg",
+                "7",
+                "9",
+                "Liquidistic Vibe Records",
+                "Jack Rooster"
+            ],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E34_-_Jul_2015_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting"],
             "isoDate": "2015-07-14T03:50:26.000Z",
@@ -1942,6 +2405,16 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Caffe_Mocha_Radio_Show_-_Episode_150_160kbps.mp3"
             },
+            "entities": [
+                "Smooth Soulful House",
+                "103.5",
+                "@jackroosterlive",
+                "+3",
+                "@homeboyzradio",
+                "Sundays 9:00AM-11:00AM",
+                "GMT",
+                "www.homeboyzradio.co.ke"
+            ],
             "guid": "http://www.jackrooster.com/downloads/Caffe_Mocha_Radio_Show_-_Episode_150_160kbps.mp3",
             "categories": ["Podcasting"],
             "isoDate": "2015-03-09T17:20:09.000Z",
@@ -1964,6 +2437,17 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Caffe_Mocha_141_-_Jan11th2015.mp3"
             },
+            "entities": [
+                "Smooth Soulful House",
+                "103.5",
+                "@jackroosterlive",
+                "+3",
+                "@homeboyzradio",
+                "Sundays 9:00AM-11:00AM",
+                "weekly",
+                "GMT",
+                "www.homeboyzradio.co.ke"
+            ],
             "guid": "http://www.jackrooster.com/downloads/Caffe_Mocha_141_-_Jan11th2015.mp3",
             "categories": ["Podcasting"],
             "isoDate": "2015-01-13T22:29:49.000Z",
@@ -1986,6 +2470,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E033_-_Oct_2014_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["right now", "Nairobi"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E033_-_Oct_2014_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting"],
             "isoDate": "2014-10-31T12:23:18.000Z",
@@ -2008,6 +2493,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/GMITM_-_Sept16th2014_-_Jack_Rooster_Mix_29_21mins.mp3"
             },
+            "entities": ["Wednesday", "Morning"],
             "guid": "http://www.jackrooster.com/downloads/GMITM_-_Sept16th2014_-_Jack_Rooster_Mix_29_21mins.mp3",
             "categories": ["Podcasting"],
             "isoDate": "2014-09-18T15:10:24.000Z",
@@ -2030,6 +2516,17 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Caffe_Mocha_108_-_May25th2014.mp3"
             },
+            "entities": [
+                "Smooth Soulful House",
+                "103.5",
+                "@jackroosterlive",
+                "+3",
+                "@homeboyzradio",
+                "Sundays 9:00AM-11:00AM",
+                "weekly",
+                "GMT",
+                "www.homeboyzradio.co.ke"
+            ],
             "guid": "http://www.jackrooster.com/downloads/Caffe_Mocha_108_-_May25th2014.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2014-05-27T08:00:58.000Z",
@@ -2052,6 +2549,17 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Caffe_Mocha_107_-_May18th2914.mp3"
             },
+            "entities": [
+                "Smooth Soulful House",
+                "103.5",
+                "@jackroosterlive",
+                "http://bit.ly/1gUWtKV",
+                "+3",
+                "@homeboyzradio",
+                "Sundays 9:00AM-11:00AM",
+                "weekly",
+                "GMT"
+            ],
             "guid": "http://www.jackrooster.com/downloads/Caffe_Mocha_107_-_May18th2914.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2014-05-20T06:57:29.000Z",
@@ -2074,6 +2582,12 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/CaffeMocha_098_feat._L.A.Dave_-_March16th2014.mp3"
             },
+            "entities": [
+                "103.5",
+                "March 16th 2014",
+                "https://www.facebook.com/L.A.DAVE.OFFICIAL",
+                "98"
+            ],
             "guid": "http://www.jackrooster.com/downloads/CaffeMocha_098_feat._L.A.Dave_-_March16th2014.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2014-03-19T06:39:30.000Z",
@@ -2096,6 +2610,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E32_-_Mar_2014_1_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["right now", "Nairobi"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E32_-_Mar_2014_1_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2014-03-10T10:33:10.000Z",
@@ -2118,6 +2633,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E31_-_Feb_2014_1_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Rancido", "Calvin Fallo", "Naima Kay", "Gino Brown"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E31_-_Feb_2014_1_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2014-02-03T09:00:00.000Z",
@@ -2140,6 +2656,7 @@
                 "type": "audio/mpeg",
                 "url": "http://jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E30_-_Jan_2014_1_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "Kenya"],
             "guid": "http://jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E30_-_Jan_2014_1_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2014-01-07T06:20:41.000Z",
@@ -2162,6 +2679,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E29_-_Nov_2013_1_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "Kenya"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E29_-_Nov_2013_1_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2013-12-09T08:35:19.000Z",
@@ -2184,6 +2702,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E28_-_Oct_2013_1_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "Kenya"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E28_-_Oct_2013_1_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2013-10-24T00:26:31.000Z",
@@ -2206,6 +2725,17 @@
                 "type": "audio/mpeg",
                 "url": "http://jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E27_-_Sept_2013_1_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": [
+                "Professor",
+                "Earthdance",
+                "Sept 14th 2013",
+                "Nairobi",
+                "Kalawa Jazmee",
+                "2013",
+                "Africa",
+                "Jack Rooster",
+                "Kenya"
+            ],
             "guid": "http://jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E27_-_Sept_2013_1_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2013-09-17T16:48:46.000Z",
@@ -2228,6 +2758,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E26_-_Aug_2013_1_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "Kenya"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E26_-_Aug_2013_1_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2013-08-24T21:38:33.000Z",
@@ -2250,6 +2781,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E25_-_Nov_2012_1_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "Kenya"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E25_-_Nov_2012_1_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2012-11-30T07:42:01.000Z",
@@ -2272,6 +2804,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E24_-_Sept_2012_1_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "Kenya"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E24_-_Sept_2012_1_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2012-09-26T09:31:24.000Z",
@@ -2294,6 +2827,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E23_-_Aug_2012_2_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "Kenya"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E23_-_Aug_2012_2_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2012-08-31T12:17:14.000Z",
@@ -2316,6 +2850,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E22_-_Aug_2012_1_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "Kenya"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E22_-_Aug_2012_1_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2012-08-06T21:19:46.000Z",
@@ -2338,6 +2873,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E21_-_Jul_2012_2_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "Kenya"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E21_-_Jul_2012_2_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2012-07-16T17:28:31.000Z",
@@ -2360,6 +2896,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E20_-_Jul_2012_1_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "Kenya"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E20_-_Jul_2012_1_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2012-07-03T19:33:34.000Z",
@@ -2382,6 +2919,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E19_-_June_2012_2_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "Kenya"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E19_-_June_2012_2_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2012-06-18T11:48:07.000Z",
@@ -2404,6 +2942,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E18_-_June_2012_1_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "Kenya"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E18_-_June_2012_1_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2012-06-04T13:24:26.000Z",
@@ -2426,6 +2965,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E17_-_May_2012_2_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "Kenya"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E17_-_May_2012_2_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2012-05-17T15:14:19.000Z",
@@ -2448,6 +2988,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E16_-_May_2012_1_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "Kenya"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E16_-_May_2012_1_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2012-05-01T08:13:53.000Z",
@@ -2470,6 +3011,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E15_-_April_2012_1_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "Kenya"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E15_-_April_2012_1_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2012-04-16T08:35:30.000Z",
@@ -2492,6 +3034,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E14_-_Mar_2012_2_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "Kenya"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E14_-_Mar_2012_2_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2012-04-03T03:57:10.000Z",
@@ -2514,6 +3057,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E13_-_Mar_2012_1_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "Kenya"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E13_-_Mar_2012_1_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2012-03-16T06:30:04.000Z",
@@ -2536,6 +3080,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E12_-_Feb_2012_2_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "House", "Kenya"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E12_-_Feb_2012_2_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2012-02-29T21:14:53.000Z",
@@ -2558,6 +3103,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E11_-_Feb_2012_1_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "Kenya"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E11_-_Feb_2012_1_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2012-02-16T03:17:45.000Z",
@@ -2580,6 +3126,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E10_-_Jan_2012_2_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "Kenya"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E10_-_Jan_2012_2_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2012-01-31T08:14:17.000Z",
@@ -2602,6 +3149,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E01_-_June_2011_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "Kenya"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E01_-_June_2011_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2012-01-18T07:45:45.000Z",
@@ -2624,6 +3172,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E09_-_Jan_2012_1_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "Kenya"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E09_-_Jan_2012_1_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2012-01-18T03:56:12.000Z",
@@ -2646,6 +3195,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E08_-_Dec_2011_1_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "Kenya"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E08_-_Dec_2011_1_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2012-01-18T03:55:34.000Z",
@@ -2668,6 +3218,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E07_-_Nov_2011_2_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "Kenya"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E07_-_Nov_2011_2_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2012-01-18T03:54:23.000Z",
@@ -2690,6 +3241,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E06_-_Nov_2011_1_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "Kenya"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E06_-_Nov_2011_1_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2012-01-18T03:44:08.000Z",
@@ -2712,6 +3264,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E05_-_Oct_2011_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "Kenya"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E05_-_Oct_2011_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
             "isoDate": "2012-01-18T03:36:31.000Z",
@@ -2734,6 +3287,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E04_-_Sept_2011_160kbps_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "Kenya"],
             "link": "http://www.jackrooster.com",
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E04_-_Sept_2011_160kbps_www.jackrooster.com.mp3",
             "categories": ["Podcasting,Music,Spirituality"],
@@ -2757,6 +3311,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E03_-_Aug_2011_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "Kenya"],
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E03_-_Aug_2011_www.jackrooster.com.mp3",
             "categories": ["Podcasting"],
             "isoDate": "2012-01-18T02:00:18.000Z",
@@ -2779,6 +3334,7 @@
                 "type": "audio/mpeg",
                 "url": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E02_-_July_2011_www.jackrooster.com.mp3"
             },
+            "entities": ["Nairobi", "Africa", "Kenya"],
             "link": "http://www.jackrooster.com",
             "guid": "http://www.jackrooster.com/downloads/Deeper_Sounds_Of_Nairobi_-_E02_-_July_2011_www.jackrooster.com.mp3",
             "categories": ["Podcasting"],

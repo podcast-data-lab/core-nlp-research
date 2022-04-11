@@ -53,6 +53,7 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5d01462e46e0fb0008a91261/20200218/5dae1516cff47e0008009532/5e4c5f9446e0fb00099e9ac6_1351620000001-300040_t_1582063512368_44100_128_2.mp3?awCollectionId=5d01462e46e0fb0008a91261&awEpisodeId=5dae1516cff47e0008009532"
             },
+            "entities": ["11", "Earth"],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/moonrise/the-dark-moon/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=moonrise",
             "guid": "5dae1516cff47e0008009532",
@@ -76,6 +77,14 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5d01462e46e0fb0008a91261/20200218/5da5005ccff47e0008900daf/5e4c5fd0cff47e00090aeb14_1351620000001-300040_t_1582063571721_44100_128_2.mp3?awCollectionId=5d01462e46e0fb0008a91261&awEpisodeId=5da5005ccff47e0008900daf"
             },
+            "entities": [
+                "Vietnam",
+                "11th",
+                "United States",
+                "NASA",
+                "now",
+                "War"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/moonrise/magnificent-desolation/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=moonrise",
             "guid": "5da5005ccff47e0008900daf",
@@ -99,6 +108,16 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5d01462e46e0fb0008a91261/20200218/5d9bb212cff47e0008900afd/5e4c604852faff00091597e5_1351620000001-300040_t_1582063692692_44100_128_2.mp3?awCollectionId=5d01462e46e0fb0008a91261&awEpisodeId=5d9bb212cff47e0008900afd"
             },
+            "entities": [
+                "Lyndon Johnson",
+                "his",
+                "10th",
+                "Sergei Korolev",
+                "assassination",
+                "Soviet",
+                "Union",
+                "John F. Kennedy"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/moonrise/the-beyond/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=moonrise",
             "guid": "5d9bb212cff47e0008900afd",
@@ -122,6 +141,12 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5d01462e46e0fb0008a91261/20200218/5d9274a74cedfd0008b2ccd3/5e4c5fbb46e0fb00099e9ad1_1351620000001-300040_t_1582063550930_44100_128_2.mp3?awCollectionId=5d01462e46e0fb0008a91261&awEpisodeId=5d9274a74cedfd0008b2ccd3"
             },
+            "entities": [
+                "ninth",
+                "White House",
+                "John F. Kennedy",
+                "president"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/moonrise/jfk-and-the-secret-tapes/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=moonrise",
             "guid": "5d9274a74cedfd0008b2ccd3",
@@ -145,6 +170,13 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5d01462e46e0fb0008a91261/20200218/5d8927c14cedfd0008b2c9c6/5e4c5ffacff47e00090aeb1f_1351620000001-300040_t_1582063613261_44100_128_2.mp3?awCollectionId=5d01462e46e0fb0008a91261&awEpisodeId=5d8927c14cedfd0008b2c9c6"
             },
+            "entities": [
+                "senator",
+                "United States",
+                "eighth",
+                "John F. Kennedy",
+                "president"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/moonrise/a-new-frontier/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=moonrise",
             "guid": "5d8927c14cedfd0008b2c9c6",
@@ -168,6 +200,14 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5d01462e46e0fb0008a91261/20200218/5d7ff0e152faff0008e546ab/5e4c602752faff00091597e4_1351620000001-300040_t_1582063658193_44100_128_2.mp3?awCollectionId=5d01462e46e0fb0008a91261&awEpisodeId=5d7ff0e152faff0008e546ab"
             },
+            "entities": [
+                "Congress",
+                "President",
+                "Lyndon Johnson",
+                "seventh",
+                "Eisenhower",
+                "Sputnik"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/moonrise/nightmare-on-the-hill/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=moonrise",
             "guid": "5d7ff0e152faff0008e546ab",
@@ -191,6 +231,7 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5d01462e46e0fb0008a91261/20200218/5d64751b4cedfd00088b48d7/5e4c5f5e46e0fb00099e9ac5_1351620000001-300040_t_1582063460076_44100_128_2.mp3?awCollectionId=5d01462e46e0fb0008a91261&awEpisodeId=5d64751b4cedfd00088b48d7"
             },
+            "entities": ["sixth", "Eisenhower", "Soviet", "first"],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/moonrise/sputnik/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=moonrise",
             "guid": "5d64751b4cedfd00088b48d7",
@@ -214,6 +255,7 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5d01462e46e0fb0008a91261/20200218/5d572e05c9e77c0008e8ec1b/5e4c5f4c46e0fb00099e9aba_1351620000001-300040_t_1582063439268_44100_128_2.mp3?awCollectionId=5d01462e46e0fb0008a91261&awEpisodeId=5d572e05c9e77c0008e8ec1b"
             },
+            "entities": ["spring", "U.S.", "American", "fifth"],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/moonrise/the-bomb-and-the-saucer/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=moonrise",
             "guid": "5d572e05c9e77c0008e8ec1b",
@@ -237,6 +279,7 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5d01462e46e0fb0008a91261/20200218/5d50c37cc9e77c00085ec625/5e4c5f4952faff00091597d8_1351620000001-300040_t_1582063435947_44100_128_2.mp3?awCollectionId=5d01462e46e0fb0008a91261&awEpisodeId=5d50c37cc9e77c00085ec625"
             },
+            "entities": ["Siberian", "Russian", "5,000", "Soviet"],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/moonrise/inside-the-gulag/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=moonrise",
             "guid": "5d50c37cc9e77c00085ec625",
@@ -260,6 +303,15 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5d01462e46e0fb0008a91261/20200218/5d44abc0cff47e000884db13/5e4c5f9d52faff00091597e3_1351620000001-300040_t_1582063520739_44100_128_2.mp3?awCollectionId=5d01462e46e0fb0008a91261&awEpisodeId=5d44abc0cff47e000884db13"
             },
+            "entities": [
+                "editor",
+                "third",
+                "scientist",
+                "past",
+                "war",
+                "German",
+                "FBI"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/moonrise/the-shapeshifter/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=moonrise",
             "guid": "5d44abc0cff47e000884db13",
@@ -283,6 +335,7 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5d01462e46e0fb0008a91261/20200218/5d39ecc4c9e77c0008f263e2/5e4c5ecd46e0fb00099e9ab9_1351620000001-300040_t_1582063313380_44100_128_2.mp3?awCollectionId=5d01462e46e0fb0008a91261&awEpisodeId=5d39ecc4c9e77c0008f263e2"
             },
+            "entities": ["New York", "American"],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/moonrise/visionaries-of-the-void/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=moonrise",
             "guid": "5d39ecc4c9e77c0008f263e2",
@@ -306,6 +359,7 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5d01462e46e0fb0008a91261/20200218/5d2f3d8c4cedfd00088571c3/5e4c5a5752faff00091597c3_1351620000001-300040_t_1582062170854_44100_128_2.mp3?awCollectionId=5d01462e46e0fb0008a91261&awEpisodeId=5d2f3d8c4cedfd00088571c3"
             },
+            "entities": ["first"],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/moonrise/the-tale-of-the-blue-light/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=moonrise",
             "guid": "5d2f3d8c4cedfd00088571c3",
@@ -329,6 +383,16 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5d01462e46e0fb0008a91261/20200218/5d07ccdb46e0fb0008afed48/5e4c55ca46e0fb00099e9aa7_1351620000001-300040_t_1582061005249_44100_128_2.mp3?awCollectionId=5d01462e46e0fb0008a91261&awEpisodeId=5d07ccdb46e0fb0008afed48"
             },
+            "entities": [
+                "Washington Post",
+                "Chicago",
+                "now",
+                "Host",
+                "Lillian Cunningham",
+                "Thursday, July 18",
+                "first",
+                "summer 2019"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/moonrise/introducing-moonrise/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=moonrise",
             "guid": "5d07ccdb46e0fb0008afed48",

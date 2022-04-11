@@ -37,6 +37,20 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0c07qtr.mp3"
             },
+            "entities": [
+                "Professor",
+                "explosion",
+                "economist",
+                "Nathan Gower",
+                "Graham Puddifoot",
+                "Producer",
+                "University of Colorado Boulder",
+                "Presenter",
+                "England",
+                "Sound Engineer",
+                "Tim Harford",
+                "Francisca Antman"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0c07vm9",
             "guid": "urn:bbc:podcast:p0c07vm9",
             "isoDate": "2022-04-09T05:00:00.000Z",
@@ -58,6 +72,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bywtj1.mp3"
             },
+            "entities": ["25%", "Russian", "Ukraine", "One", "Russia"],
             "link": "http://www.bbc.co.uk/programmes/p0bywvrw",
             "guid": "urn:bbc:podcast:p0bywvrw",
             "isoDate": "2022-04-02T05:00:00.000Z",
@@ -79,6 +94,19 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bw77g9.mp3"
             },
+            "entities": [
+                "Professor",
+                "Lizzy McNeill",
+                "Yale University",
+                "his",
+                "Nuclear",
+                "Producer",
+                "Presenter",
+                "Ukraine",
+                "War",
+                "Barry Nalebuff",
+                "Tim Harford"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bw7817",
             "guid": "urn:bbc:podcast:p0bw7817",
             "isoDate": "2022-03-20T15:00:00.000Z",
@@ -100,6 +128,27 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0btwss4.mp3"
             },
+            "entities": [
+                "Prime Minister",
+                "Hungary",
+                "100,000",
+                "Ukraine",
+                "1000",
+                "war",
+                "Reuters",
+                "2020",
+                "European",
+                "200,000",
+                "2015",
+                "UK",
+                "the 8th of march",
+                "Poland",
+                "UN",
+                "1.3 million",
+                "Slovakia",
+                "Boris Johnson",
+                "2.3 million"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0btx0dc",
             "guid": "urn:bbc:podcast:p0btx0dc",
             "isoDate": "2022-03-13T15:00:00.000Z",
@@ -121,6 +170,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bsjzbv.mp3"
             },
+            "entities": ["Chagos Islands", "Ukraine", "war", "100m", "Russia"],
             "link": "http://www.bbc.co.uk/programmes/p0bsk11h",
             "guid": "urn:bbc:podcast:p0bsk11h",
             "isoDate": "2022-03-06T15:00:00.000Z",
@@ -142,6 +192,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0brw2y5.mp3"
             },
+            "entities": [
+                "prime minister",
+                "35,000",
+                "100",
+                "Chagos Islands",
+                "Ukraine",
+                "NHS",
+                "a day",
+                "battery",
+                "Russia"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0brwkcl",
             "guid": "urn:bbc:podcast:p0brwkcl",
             "isoDate": "2022-03-02T09:30:00.000Z",
@@ -163,6 +224,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0br6sqp.mp3"
             },
+            "entities": [
+                "Covid",
+                "five hundred",
+                "the past two years",
+                "0.2%",
+                "one"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0br6v3j",
             "guid": "urn:bbc:podcast:p0br6v3j",
             "isoDate": "2022-02-27T15:00:00.000Z",
@@ -184,6 +252,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bql1r4.mp3"
             },
+            "entities": ["UK", "Elon Musk", "five", "11-year-olds", "two"],
             "link": "http://www.bbc.co.uk/programmes/p0bql9vh",
             "guid": "urn:bbc:podcast:p0bql9vh",
             "isoDate": "2022-02-23T09:30:00.000Z",
@@ -205,6 +274,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bpr87h.mp3"
             },
+            "entities": ["12", "months", "5", "UK", "Italy", "Germany"],
             "link": "http://www.bbc.co.uk/programmes/p0bpr9yl",
             "guid": "urn:bbc:podcast:p0bpr9yl",
             "isoDate": "2022-02-20T15:00:00.000Z",
@@ -226,6 +296,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bp8bsc.mp3"
             },
+            "entities": ["Covid"],
             "link": "http://www.bbc.co.uk/programmes/p0bp9c2m",
             "guid": "urn:bbc:podcast:p0bp9c2m",
             "isoDate": "2022-02-16T09:30:00.000Z",
@@ -247,6 +318,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bnmj05.mp3"
             },
+            "entities": [
+                "she",
+                "early December 2021",
+                "Penn University",
+                "Lia Thomas",
+                "three",
+                "two"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bnmpld",
             "guid": "urn:bbc:podcast:p0bnmpld",
             "isoDate": "2022-02-13T15:00:00.000Z",
@@ -268,6 +347,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bn6cz5.mp3"
             },
+            "entities": [
+                "Boris Johnson",
+                "Donald Rumsfeld",
+                "He",
+                "he",
+                "Parliament"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bmz69n",
             "guid": "urn:bbc:podcast:p0bmz69n",
             "isoDate": "2022-02-09T09:30:00.000Z",
@@ -289,6 +375,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bm70w5.mp3"
             },
+            "entities": [
+                "David Robson",
+                "New Year\u2019s",
+                "author",
+                "Mike Hall",
+                "Every year",
+                "next year"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bm79m2",
             "guid": "urn:bbc:podcast:p0bm79m2",
             "isoDate": "2022-02-06T15:00:00.000Z",
@@ -310,6 +404,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bll3gk.mp3"
             },
+            "entities": [
+                "McDonald",
+                "each day",
+                "statistician",
+                "his",
+                "UK",
+                "Conservative",
+                "David Cox"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bll75j",
             "guid": "urn:bbc:podcast:p0bll75j",
             "isoDate": "2022-02-02T09:30:00.000Z",
@@ -331,6 +434,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bkz11h.mp3"
             },
+            "entities": ["Professor", "the future", "Marina Adshade"],
             "link": "http://www.bbc.co.uk/programmes/p0bkz4vp",
             "guid": "urn:bbc:podcast:p0bkz4vp",
             "isoDate": "2022-01-30T15:00:00.000Z",
@@ -352,6 +456,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bk862y.mp3"
             },
+            "entities": [
+                "she",
+                "17,000",
+                "five seconds",
+                "this week",
+                "writer",
+                "the five second",
+                "Jack Monroe"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bk8lmz",
             "guid": "urn:bbc:podcast:p0bk8lmz",
             "isoDate": "2022-01-26T09:30:00.000Z",
@@ -373,6 +486,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bjmhbx.mp3"
             },
+            "entities": ["32%", "early January", "surgeon"],
             "link": "http://www.bbc.co.uk/programmes/p0bjmnh8",
             "guid": "urn:bbc:podcast:p0bjmnh8",
             "isoDate": "2022-01-23T15:00:00.000Z",
@@ -394,6 +508,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bhy10w.mp3"
             },
+            "entities": [
+                "Covid",
+                "32%",
+                "recently",
+                "UK",
+                "surgeon",
+                "one",
+                "Omicron",
+                "ten",
+                "the coming year",
+                "Germany"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bhzbyj",
             "guid": "urn:bbc:podcast:p0bhzbyj",
             "isoDate": "2022-01-19T09:25:00.000Z",
@@ -415,6 +541,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bhbts6.mp3"
             },
+            "entities": [
+                "editor",
+                "Storm",
+                "December",
+                "Gabriel Gatehouse",
+                "conspiracy",
+                "Lauren Boebert",
+                "politician",
+                "Republican",
+                "2020",
+                "365,348"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bhbvmv",
             "guid": "urn:bbc:podcast:p0bhbvmv",
             "isoDate": "2022-01-16T15:00:00.000Z",
@@ -436,6 +574,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bgmbj5.mp3"
             },
+            "entities": [
+                "New Year\u2019s Day",
+                "every year",
+                "politician",
+                "Republican",
+                "Omicron",
+                "US"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bgn2rw",
             "guid": "urn:bbc:podcast:p0bgn2rw",
             "isoDate": "2022-01-12T09:30:00.000Z",
@@ -457,6 +603,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bfxyk9.mp3"
             },
+            "entities": [
+                "Ortakoy",
+                "Getty Images",
+                "Sebnem Coskun/Anadolu Agency",
+                "30 million pounds",
+                "$30 million dollars",
+                "Mark Rober",
+                "Ocean",
+                "Sahika Encumen",
+                "October of last year",
+                "Beast"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bfy1l7",
             "guid": "urn:bbc:podcast:p0bfy1l7",
             "isoDate": "2022-01-09T07:00:00.000Z",
@@ -478,6 +636,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bcjxpx.mp3"
             },
+            "entities": ["11 billion", "recent years", "Europe", "Nigeria"],
             "link": "http://www.bbc.co.uk/programmes/p0bck1pn",
             "guid": "urn:bbc:podcast:p0bck1pn",
             "isoDate": "2022-01-02T15:00:00.000Z",
@@ -499,6 +658,25 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bcjr35.mp3"
             },
+            "entities": [
+                "Professor",
+                "Heleen De Coninck",
+                "researcher",
+                "author",
+                "about the year",
+                "University of British Columbia",
+                "2021",
+                "three",
+                "Marina Adshade",
+                "Eindhoven University of Technology",
+                "Intergovernmental Panel",
+                "professor",
+                "the past year",
+                "University of Oxford",
+                "Tim Harford",
+                "Hannah Ritchie",
+                "guide"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bcjt8x",
             "guid": "urn:bbc:podcast:p0bcjt8x",
             "isoDate": "2021-12-26T15:00:00.000Z",
@@ -520,6 +698,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bbnz20.mp3"
             },
+            "entities": [
+                "Christmas",
+                "the year",
+                "scientist Professor",
+                "hundreds of dollars",
+                "Every year",
+                "Francesca Gino"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bbprh9",
             "guid": "urn:bbc:podcast:p0bbprh9",
             "isoDate": "2021-12-19T15:00:00.000Z",
@@ -541,6 +727,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0b98c55.mp3"
             },
+            "entities": [
+                "infection",
+                "disease",
+                "27",
+                "recently",
+                "Congresswoman",
+                "Fox News",
+                "two years ago",
+                "US",
+                "Nancy Mace"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0b98hzl",
             "guid": "urn:bbc:podcast:p0b98hzl",
             "isoDate": "2021-12-12T15:00:00.000Z",
@@ -562,6 +759,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0b7zp00.mp3"
             },
+            "entities": [
+                "Leon Neal",
+                "recently",
+                "now",
+                "53%",
+                "infections",
+                "2020"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0b7zzdr",
             "guid": "urn:bbc:podcast:p0b7zzdr",
             "isoDate": "2021-12-05T23:59:00.000Z",
@@ -583,6 +788,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0b6j0x4.mp3"
             },
+            "entities": ["ONS"],
             "link": "http://www.bbc.co.uk/programmes/p0b6j20n",
             "guid": "urn:bbc:podcast:p0b6j20n",
             "isoDate": "2021-11-28T15:00:00.000Z",
@@ -604,6 +810,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0b55slb.mp3"
             },
+            "entities": [
+                "Chris Flynn",
+                "Producer",
+                "Presenter",
+                "one",
+                "TikTok",
+                "Tim Harford",
+                "summer"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0b55wc2",
             "guid": "urn:bbc:podcast:p0b55wc2",
             "isoDate": "2021-11-21T15:00:00.000Z",
@@ -625,6 +840,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0b3y8sv.mp3"
             },
+            "entities": [
+                "French",
+                "Getty",
+                "minister",
+                "Continental",
+                "Cris Cantón",
+                "this year",
+                "Tim Harford"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0b3yd9y",
             "guid": "urn:bbc:podcast:p0b3yd9y",
             "isoDate": "2021-11-14T15:00:00.000Z",
@@ -646,6 +870,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0b2hbkz.mp3"
             },
+            "entities": [
+                "Professor",
+                "his",
+                "Getty",
+                "analyst",
+                "he",
+                "Martin Schweinsberg",
+                "TED Talks"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0b2hfhh",
             "guid": "urn:bbc:podcast:p0b2hfhh",
             "isoDate": "2021-11-07T15:00:00.000Z",
@@ -667,6 +900,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0b14nbc.mp3"
             },
+            "entities": [
+                "she",
+                "author",
+                "Betta Blue Red Veiltail/Getty Images",
+                "three",
+                "Deborah Stone"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0b14prk",
             "guid": "urn:bbc:podcast:p0b14prk",
             "isoDate": "2021-10-31T15:00:00.000Z",
@@ -688,6 +928,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09zskjd.mp3"
             },
+            "entities": ["Netflix", "South Korean", "one"],
             "link": "http://www.bbc.co.uk/programmes/p09zsls9",
             "guid": "urn:bbc:podcast:p09zsls9",
             "isoDate": "2021-10-24T14:00:00.000Z",
@@ -709,6 +950,19 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09ytfb5.mp3"
             },
+            "entities": [
+                "Miami Herald",
+                "Cubans",
+                "United States",
+                "100,000",
+                "Joshua Angrist",
+                "Guido Imbens",
+                "Tim Chapman",
+                "2021",
+                "David Card",
+                "Tim Harford",
+                "Nobel Memorial Prize"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09ytg3s",
             "guid": "urn:bbc:podcast:p09ytg3s",
             "isoDate": "2021-10-17T13:50:00.000Z",
@@ -730,6 +984,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09xwsr6.mp3"
             },
+            "entities": [
+                "presenter",
+                "4",
+                "Andrew Dilnot",
+                "now",
+                "producer",
+                "Michael Blastland",
+                "first",
+                "13 November 2001"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09xwwtr",
             "guid": "urn:bbc:podcast:p09xwwtr",
             "isoDate": "2021-10-07T17:00:00.000Z",
@@ -751,6 +1015,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09xtfl6.mp3"
             },
+            "entities": [
+                "two decades",
+                "storm",
+                "4",
+                "presenter",
+                "UK",
+                "now",
+                "producer",
+                "Spock",
+                "two",
+                "first"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09xthjw",
             "guid": "urn:bbc:podcast:p09xthjw",
             "isoDate": "2021-10-06T08:25:00.000Z",
@@ -772,6 +1048,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09xjlf9.mp3"
             },
+            "entities": [
+                "UK",
+                "Machiavelli",
+                "Stacey Vanek Smith",
+                "writer",
+                "Tim Harford",
+                "US"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09xjm8m",
             "guid": "urn:bbc:podcast:p09xjm8m",
             "isoDate": "2021-10-03T13:55:00.000Z",
@@ -793,6 +1077,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09x66jz.mp3"
             },
+            "entities": ["EU", "Europe", "UK", "Brexit", "Britain", "Internet"],
             "link": "http://www.bbc.co.uk/programmes/p09x66st",
             "guid": "urn:bbc:podcast:p09x66st",
             "isoDate": "2021-09-29T08:25:00.000Z",
@@ -814,6 +1099,19 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09wl287.mp3"
             },
+            "entities": [
+                "two hours",
+                "nine",
+                "£20",
+                "a week",
+                "minister",
+                "third",
+                "second year",
+                "every day",
+                "daily",
+                "129 billion",
+                "weekly"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09wl3rz",
             "guid": "urn:bbc:podcast:p09wl3rz",
             "isoDate": "2021-09-22T08:30:00.000Z",
@@ -835,6 +1133,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09w8qs2.mp3"
             },
+            "entities": [
+                "Madison",
+                "professor",
+                "Jordan Ellenberg",
+                "University of Wisconsin",
+                "Tim Harford"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09w8sr2",
             "guid": "urn:bbc:podcast:p09w8sr2",
             "isoDate": "2021-09-19T14:00:00.000Z",
@@ -856,6 +1161,28 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09vywrp.mp3"
             },
+            "entities": [
+                "79",
+                "Public Health",
+                "two-thirds",
+                "Office for National Statistics",
+                "year",
+                "Helen Miller",
+                "England",
+                "2021",
+                "2020",
+                "Mathematician",
+                "a century",
+                "Open",
+                "and",
+                "Now",
+                "Institute for Fiscal Studies",
+                "James Ward\nAdele Groyer",
+                "40",
+                "this year",
+                "US",
+                "Emma Raducanu"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09vyy6h",
             "guid": "urn:bbc:podcast:p09vyy6h",
             "isoDate": "2021-09-15T08:25:00.000Z",
@@ -877,6 +1204,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09v9wbb.mp3"
             },
+            "entities": [
+                "Afghanistan",
+                "35%",
+                "65%",
+                "UK",
+                "England",
+                "36 minutes"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09v9z48",
             "guid": "urn:bbc:podcast:p09v9z48",
             "isoDate": "2021-09-08T08:25:00.000Z",
@@ -898,6 +1233,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09v01cj.mp3"
             },
+            "entities": [
+                "$2 trillion",
+                "President",
+                "Afghanistan",
+                "American",
+                "Joe Biden",
+                "war",
+                "Todd Harrison",
+                "Centre for Strategic International Studies"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09v01z0",
             "guid": "urn:bbc:podcast:p09v01z0",
             "isoDate": "2021-09-04T05:00:00.000Z",
@@ -919,6 +1264,26 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09tpgqc.mp3"
             },
+            "entities": [
+                "Covid",
+                "100,000",
+                "Extinction Rebellion",
+                "Duncan Weldon",
+                "£50 million",
+                "English",
+                "2019",
+                "Economist",
+                "his",
+                "UK",
+                "6,000",
+                "Metropolitan Police",
+                "200 Years",
+                "the following month",
+                "correspondent",
+                "July",
+                "a day",
+                "Spock"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09tpk7c",
             "guid": "urn:bbc:podcast:p09tpk7c",
             "isoDate": "2021-09-01T08:30:00.000Z",
@@ -940,6 +1305,19 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09tcwk6.mp3"
             },
+            "entities": [
+                "Julia",
+                "Getty Images",
+                "Nathan Gower",
+                "Producer",
+                "author",
+                "Julia Galef",
+                "Leonard Nimoy",
+                "Tim Harford",
+                "Spock",
+                "Writer",
+                "Scout"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09tcx2d",
             "guid": "urn:bbc:podcast:p09tcx2d",
             "isoDate": "2021-08-28T05:00:00.000Z",
@@ -961,6 +1339,23 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09srmnd.mp3"
             },
+            "entities": [
+                "New York",
+                "Robert Elfstrom",
+                "Villon Films/Gety Images",
+                "1964",
+                "Mississippi",
+                "Robert Parris Moses",
+                "Robert Moses",
+                "his",
+                "Producer",
+                "African-American",
+                "Presenter",
+                "1960s",
+                "Nathan Gower\n\nPortrait of American Civil Rights",
+                "86",
+                "Charmaine Cozier"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09srn2l",
             "guid": "urn:bbc:podcast:p09srn2l",
             "isoDate": "2021-08-21T05:00:00.000Z",
@@ -982,6 +1377,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09sbt41.mp3"
             },
+            "entities": [
+                "A year later",
+                "This week",
+                "Producer",
+                "Tokyo",
+                "Olympics",
+                "now",
+                "Olivia Noon",
+                "Tim Harford",
+                "Olympic",
+                "Joel Mason"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09sbtzz",
             "guid": "urn:bbc:podcast:p09sbtzz",
             "isoDate": "2021-08-16T09:24:00.000Z",
@@ -1003,6 +1410,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09rkkcb.mp3"
             },
+            "entities": [
+                "infection",
+                "Nathan Gower",
+                "Delta",
+                "Katelyn Jetelina",
+                "University of Texas Health Science Centre School of Public Health",
+                "Presenter",
+                "Charlotte McDonald\n\nProducer"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09rkn2z",
             "guid": "urn:bbc:podcast:p09rkn2z",
             "isoDate": "2021-08-07T05:00:00.000Z",
@@ -1024,6 +1440,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09qvwlg.mp3"
             },
+            "entities": [
+                "June",
+                "Canada",
+                "Nathan Gower",
+                "Producer",
+                "UK",
+                "Presenter",
+                "Peter Stott",
+                "Northwest of the USA",
+                "Tim Harford"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09qvxd4",
             "guid": "urn:bbc:podcast:p09qvxd4",
             "isoDate": "2021-07-31T05:00:00.000Z",
@@ -1045,6 +1472,20 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09q87sb.mp3"
             },
+            "entities": [
+                "Professor",
+                "This week",
+                "Infectious Disease Epidemiology at Imperial College",
+                "now",
+                "London",
+                "John Burn-Murdoch",
+                "Azra Ghani",
+                "reporter",
+                "The Financial Times",
+                "Tim Harford",
+                "first",
+                "India"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09q88tl",
             "guid": "urn:bbc:podcast:p09q88tl",
             "isoDate": "2021-07-24T05:00:00.000Z",
@@ -1066,6 +1507,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09pnqjf.mp3"
             },
+            "entities": ["the day", "Tim Harford", "day"],
             "link": "http://www.bbc.co.uk/programmes/p09pnw4q",
             "guid": "urn:bbc:podcast:p09pnw4q",
             "isoDate": "2021-07-19T11:00:00.000Z",
@@ -1087,6 +1529,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09nxt8p.mp3"
             },
+            "entities": [
+                "Nathan Gower",
+                "Producer",
+                "40 million",
+                "recent months",
+                "Twitter",
+                "Allwell Okpi",
+                "Nigeria",
+                "Nigerian",
+                "five",
+                "president"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09nxx4w",
             "guid": "urn:bbc:podcast:p09nxx4w",
             "isoDate": "2021-07-10T05:00:00.000Z",
@@ -1108,6 +1562,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09n6wwn.mp3"
             },
+            "entities": [
+                "Nathan Gower",
+                "University of Wollongong",
+                "Producer",
+                "Australia",
+                "Gideon Meyerowitz-Katz",
+                "Ivermectin"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09n6yrd",
             "guid": "urn:bbc:podcast:p09n6yrd",
             "isoDate": "2021-07-03T05:00:00.000Z",
@@ -1129,6 +1591,19 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09mw9qw.mp3"
             },
+            "entities": [
+                "journalist",
+                "Covid",
+                "economist",
+                "his",
+                "Tom Chivers",
+                "UK",
+                "London",
+                "David Chivers",
+                "Scotland",
+                "the next few years",
+                "five"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09mx1lw",
             "guid": "urn:bbc:podcast:p09mx1lw",
             "isoDate": "2021-06-30T08:30:00.000Z",
@@ -1150,6 +1625,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09mkb1g.mp3"
             },
+            "entities": [
+                "Rob Eastaway",
+                "102",
+                "United States",
+                "today",
+                "Tim",
+                "This year",
+                "Misha Ewen",
+                "first"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09mkcl4",
             "guid": "urn:bbc:podcast:p09mkcl4",
             "isoDate": "2021-06-26T05:00:00.000Z",
@@ -1171,6 +1656,24 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09m76gf.mp3"
             },
+            "entities": [
+                "BBC",
+                "35 billion",
+                "19",
+                "96%",
+                "him",
+                "two",
+                "April",
+                "2",
+                "Delta",
+                "UK",
+                "infections",
+                "NHS",
+                "cancer",
+                "Chris Packham",
+                "a year",
+                "diabetes"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09m8lxv",
             "guid": "urn:bbc:podcast:p09m8lxv",
             "isoDate": "2021-06-23T08:30:00.000Z",
@@ -1192,6 +1695,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09lxj3n.mp3"
             },
+            "entities": [
+                "91",
+                "96%",
+                "ecologist",
+                "Marilyn J Roossinck",
+                "Tim Harford"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09lxjcc",
             "guid": "urn:bbc:podcast:p09lxjcc",
             "isoDate": "2021-06-19T05:00:00.000Z",
@@ -1213,6 +1723,21 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09lkpxg.mp3"
             },
+            "entities": [
+                "Europe",
+                "19",
+                "1.88 million",
+                "2020",
+                "Health Secretary",
+                "second",
+                "Steven Johnson",
+                "his",
+                "Matt Hancock",
+                "11th of June",
+                "UK",
+                "this year",
+                "first"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09lkz5p",
             "guid": "urn:bbc:podcast:p09lkz5p",
             "isoDate": "2021-06-16T08:30:00.000Z",
@@ -1234,6 +1759,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09l6xs0.mp3"
             },
+            "entities": [
+                "Steven Johnson",
+                "W.E.B. Du Bois",
+                "author",
+                "London",
+                "1890s",
+                "the last century",
+                "Tim Harford",
+                "17th century",
+                "Philadelphia",
+                "Steven"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09l7ld7",
             "guid": "urn:bbc:podcast:p09l7ld7",
             "isoDate": "2021-06-12T05:00:00.000Z",
@@ -1255,6 +1792,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09kxgbs.mp3"
             },
+            "entities": [
+                "Professor",
+                "David Spiegelhalter",
+                "third",
+                "UK",
+                "Winton",
+                "England",
+                "decades",
+                "Tim Harford",
+                "80%",
+                "University of Cambridge"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09kxjnc",
             "guid": "urn:bbc:podcast:p09kxjnc",
             "isoDate": "2021-06-09T08:30:00.000Z",
@@ -1276,6 +1825,27 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09k7tx4.mp3"
             },
+            "entities": [
+                "Netflix",
+                "47",
+                "recently",
+                "28",
+                "Health Minister",
+                "Scotland",
+                "mathematician",
+                "Humber",
+                "House of Commons",
+                "Katie Steckles",
+                "current",
+                "right now",
+                "Matt Hancock",
+                "SNP",
+                "Yorkshire",
+                "the year 2048",
+                "Bolton",
+                "40",
+                "day"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09k80jj",
             "guid": "urn:bbc:podcast:p09k80jj",
             "isoDate": "2021-06-02T08:30:00.000Z",
@@ -1297,6 +1867,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09jysgp.mp3"
             },
+            "entities": [
+                "Netflix",
+                "current",
+                "recently",
+                "One",
+                "the year 2048"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09jytpx",
             "guid": "urn:bbc:podcast:p09jytpx",
             "isoDate": "2021-05-29T05:00:00.000Z",
@@ -1318,6 +1895,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09jl8lj.mp3"
             },
+            "entities": [
+                "the years",
+                "UK",
+                "Ireland",
+                "Wales",
+                "one",
+                "Northern",
+                "42%",
+                "19",
+                "NHS",
+                "80%"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09jlfpl",
             "guid": "urn:bbc:podcast:p09jlfpl",
             "isoDate": "2021-05-26T08:30:00.000Z",
@@ -1339,6 +1928,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09j8k29.mp3"
             },
+            "entities": [
+                "Professor",
+                "UK",
+                "19",
+                "Oxford University",
+                "the early months",
+                "Martin Landray",
+                "Tim Harford"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09j8lvj",
             "guid": "urn:bbc:podcast:p09j8lvj",
             "isoDate": "2021-05-22T05:00:00.000Z",
@@ -1360,6 +1958,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09hlzh0.mp3"
             },
+            "entities": [
+                "his",
+                "twenties",
+                "Milo",
+                "Tim Harford",
+                "mathematician",
+                "Milo Beckman",
+                "he"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09hlzz3",
             "guid": "urn:bbc:podcast:p09hlzz3",
             "isoDate": "2021-05-15T04:59:00.000Z",
@@ -1381,6 +1988,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09gyx8f.mp3"
             },
+            "entities": [
+                "four",
+                "19",
+                "Mexico",
+                "City",
+                "previous years",
+                "the spring of 2020",
+                "Mario Romero",
+                "two",
+                "Laurianne Despeghel"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09gyy63",
             "guid": "urn:bbc:podcast:p09gyy63",
             "isoDate": "2021-05-08T05:00:00.000Z",
@@ -1402,6 +2020,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09g0y5r.mp3"
             },
+            "entities": [
+                "the Second",
+                "English",
+                "statistician",
+                "the 20th century",
+                "Bayes",
+                "War",
+                "Thomas Bayes",
+                "the 18th century",
+                "World"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09g10xn",
             "guid": "urn:bbc:podcast:p09g10xn",
             "isoDate": "2021-05-02T14:00:00.000Z",
@@ -1423,6 +2052,21 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09flrxg.mp3"
             },
+            "entities": [
+                "Covid",
+                "This week",
+                "1.8 million",
+                "19",
+                "2020",
+                "last year",
+                "India",
+                "currently",
+                "1.2 million",
+                "12,000",
+                "a day",
+                "this year",
+                "Tim Harford"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09fltcq",
             "guid": "urn:bbc:podcast:p09fltcq",
             "isoDate": "2021-04-24T05:00:00.000Z",
@@ -1444,6 +2088,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09dwtyj.mp3"
             },
+            "entities": ["Last week", "Astra Zeneca", "19", "Olympic"],
             "link": "http://www.bbc.co.uk/programmes/p09dwvsh",
             "guid": "urn:bbc:podcast:p09dwvsh",
             "isoDate": "2021-04-17T05:00:00.000Z",
@@ -1465,6 +2110,19 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09d7hx6.mp3"
             },
+            "entities": [
+                "the past few weeks",
+                "Professor",
+                "Netherlands",
+                "Susan Ellenberg",
+                "professor",
+                "University of Leiden",
+                "University of Pennsylvania",
+                "19",
+                "Frits Rosendaal",
+                "Astra Zeneca Covid",
+                "Tim Harford"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09d7jvk",
             "guid": "urn:bbc:podcast:p09d7jvk",
             "isoDate": "2021-04-10T05:00:00.000Z",
@@ -1486,6 +2144,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09ch6mn.mp3"
             },
+            "entities": ["mathematician", "Matt Parker"],
             "link": "http://www.bbc.co.uk/programmes/p09ch7qv",
             "guid": "urn:bbc:podcast:p09ch7qv",
             "isoDate": "2021-04-04T14:00:00.000Z",
@@ -1507,6 +2166,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09byplk.mp3"
             },
+            "entities": [
+                "this week",
+                "UK",
+                "Atlantic Magazine",
+                "Alexis Madrigal",
+                "Clare Griffiths",
+                "US"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09byq4v",
             "guid": "urn:bbc:podcast:p09byq4v",
             "isoDate": "2021-03-27T03:00:00.000Z",
@@ -1528,6 +2195,12 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09b8mnl.mp3"
             },
+            "entities": [
+                "recently",
+                "Tim Harford",
+                "European Medicines Agency",
+                "WHO"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09b8ng3",
             "guid": "urn:bbc:podcast:p09b8ng3",
             "isoDate": "2021-03-20T03:00:00.000Z",
@@ -1549,6 +2222,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p099k4nb.mp3"
             },
+            "entities": ["Mass", "19", "Index", "Body", "90%"],
             "link": "http://www.bbc.co.uk/programmes/p099k5fx",
             "guid": "urn:bbc:podcast:p099k5fx",
             "isoDate": "2021-03-13T03:00:00.000Z",
@@ -1570,6 +2244,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p098tqjf.mp3"
             },
+            "entities": [
+                "detective",
+                "saint",
+                "Europa League Draw",
+                "Tim Harford",
+                "He"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p098tt2y",
             "guid": "urn:bbc:podcast:p098tt2y",
             "isoDate": "2021-03-06T03:00:00.000Z",
@@ -1591,6 +2272,21 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09855bv.mp3"
             },
+            "entities": [
+                "Professor",
+                "early January",
+                "Derek Thompson",
+                "Jennifer Dowd",
+                "19",
+                "300,000",
+                "deputy director",
+                "autumn",
+                "a day",
+                "University of Oxford",
+                "Tim Harford",
+                "Atlantic",
+                "US"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p098579l",
             "guid": "urn:bbc:podcast:p098579l",
             "isoDate": "2021-02-27T03:00:00.000Z",
@@ -1612,6 +2308,20 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p097j2h7.mp3"
             },
+            "entities": [
+                "journalist",
+                "Financial Times",
+                "Covid",
+                "currently",
+                "Belgium",
+                "John Burn Murdoch",
+                "19",
+                "count",
+                "Tim",
+                "Tim Harford",
+                "Peru",
+                "Hannah Ritchie"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p097j30n",
             "guid": "urn:bbc:podcast:p097j30n",
             "isoDate": "2021-02-20T03:00:00.000Z",
@@ -1633,6 +2343,20 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0975z1l.mp3"
             },
+            "entities": [
+                "she",
+                "infection",
+                "her",
+                "UK",
+                "100,000",
+                "one",
+                "Natalie MacDermott",
+                "now",
+                "19",
+                "European",
+                "early last year",
+                "first"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p097618m",
             "guid": "urn:bbc:podcast:p097618m",
             "isoDate": "2021-02-17T09:30:00.000Z",
@@ -1654,6 +2378,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p096v3n2.mp3"
             },
+            "entities": [
+                "currently",
+                "UK",
+                "one",
+                "One",
+                "University of Bath",
+                "Kit Yates",
+                "lecturer",
+                "Matt Parker",
+                "two"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p096v4k2",
             "guid": "urn:bbc:podcast:p096v4k2",
             "isoDate": "2021-02-13T02:30:00.000Z",
@@ -1675,6 +2410,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p096hrz1.mp3"
             },
+            "entities": [
+                "EU",
+                "68%",
+                "UK",
+                "Folkstone",
+                "one",
+                "Brexit",
+                "Dover",
+                "five"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p096htls",
             "guid": "urn:bbc:podcast:p096htls",
             "isoDate": "2021-02-10T09:30:00.000Z",
@@ -1696,6 +2441,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p096658q.mp3"
             },
+            "entities": [
+                "Chloe Hadjimatheou",
+                "Producer",
+                "Christopher Furlong",
+                "Presenter",
+                "Rwanda",
+                "Tim",
+                "Glasgow",
+                "Tim Harford",
+                "Reza"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09665pj",
             "guid": "urn:bbc:podcast:p09665pj",
             "isoDate": "2021-02-06T02:30:00.000Z",
@@ -1717,6 +2473,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0962j9h.mp3"
             },
+            "entities": [
+                "1976",
+                "British",
+                "England",
+                "recent months",
+                "50%",
+                "Prominent Labour"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0962k5t",
             "guid": "urn:bbc:podcast:p0962k5t",
             "isoDate": "2021-02-03T09:30:00.000Z",
@@ -1738,6 +2502,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p095j774.mp3"
             },
+            "entities": ["this week", "minutes", "Tim Harford"],
             "link": "http://www.bbc.co.uk/programmes/p095jclg",
             "guid": "urn:bbc:podcast:p095jclg",
             "isoDate": "2021-01-30T02:55:00.000Z",
@@ -1759,6 +2524,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0964ftg.mp3"
             },
+            "entities": ["David Spiegelhalter", "UK", "Scotland", "a day"],
             "link": "http://www.bbc.co.uk/programmes/p0964g04",
             "guid": "urn:bbc:podcast:p0964g04",
             "isoDate": "2021-01-27T09:30:00.000Z",
@@ -1780,6 +2546,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p095649b.mp3"
             },
+            "entities": ["David Spiegelhalter", "UK", "Scotland", "a day"],
             "link": "http://www.bbc.co.uk/programmes/p09565hd",
             "guid": "urn:bbc:podcast:p09565hd",
             "isoDate": "2021-01-27T09:05:00.000Z",
@@ -1801,6 +2568,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p094vbv4.mp3"
             },
+            "entities": [
+                "Chloe Hadjimatheou",
+                "Nathan Gower",
+                "UK",
+                "Presenter",
+                "help.befrienders.org",
+                "Tim Harford",
+                "Cowley",
+                "Oxford",
+                "Tolga Akmen"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p094vd4x",
             "guid": "urn:bbc:podcast:p094vd4x",
             "isoDate": "2021-01-23T02:50:00.000Z",
@@ -1822,6 +2600,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p094h3dh.mp3"
             },
+            "entities": ["UK", "Brexit", "two"],
             "link": "http://www.bbc.co.uk/programmes/p094h4kl",
             "guid": "urn:bbc:podcast:p094h4kl",
             "isoDate": "2021-01-20T09:30:00.000Z",
@@ -1843,6 +2622,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p093zr4z.mp3"
             },
+            "entities": [
+                "her",
+                "one",
+                "52%",
+                "70%",
+                "first",
+                "90%",
+                "second",
+                "up to 3 months"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p093zrmb",
             "guid": "urn:bbc:podcast:p093zrmb",
             "isoDate": "2021-01-14T10:51:00.000Z",
@@ -1864,6 +2653,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p093hb3m.mp3"
             },
+            "entities": [
+                "David Sumpter",
+                "Rule the World: And How You Can Use Them Too",
+                "Ten",
+                "Tim Harford",
+                "He",
+                "Equations",
+                "YouTube"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p093hcr3",
             "guid": "urn:bbc:podcast:p093hcr3",
             "isoDate": "2021-01-09T19:00:00.000Z",
@@ -1885,6 +2683,29 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p093gb6s.mp3"
             },
+            "entities": [
+                "about 2020",
+                "vice president",
+                "Royal Statistical Society",
+                "BBC",
+                "Afghanistan",
+                "presenter",
+                "one",
+                "Africa",
+                "19",
+                "BBC Pashto TV",
+                "the year",
+                "Sana Safi",
+                "Charlotte McDonald",
+                "Middle East",
+                "Jennifer Rogers",
+                "Standard Chartered",
+                "Producer",
+                "chief economist",
+                "Presenter",
+                "Razia Khan",
+                "Tim Harford"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p093gc62",
             "guid": "urn:bbc:podcast:p093gc62",
             "isoDate": "2021-01-08T12:57:00.000Z",
@@ -1906,6 +2727,24 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p093g987.mp3"
             },
+            "entities": [
+                "about 2020",
+                "Oliver Johnson",
+                "creator",
+                "economist",
+                "University of Bristol",
+                "one",
+                "the year",
+                "Spotify",
+                "CEO",
+                "professor",
+                "UK",
+                "Anne-Marie Imafidon",
+                "University of Minnesota",
+                "Joel Waldfogel",
+                "Tim Harford",
+                "this year"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p093g9vk",
             "guid": "urn:bbc:podcast:p093g9vk",
             "isoDate": "2021-01-08T12:43:00.000Z",
@@ -1927,6 +2766,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p091wwqg.mp3"
             },
+            "entities": [
+                "Covid",
+                "economist",
+                "author",
+                "19",
+                "Joel Waldfogel",
+                "Christmas this year",
+                "Tim Harford",
+                "this year"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p091wxht",
             "guid": "urn:bbc:podcast:p091wxht",
             "isoDate": "2020-12-19T18:50:00.000Z",
@@ -1948,6 +2797,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09166m6.mp3"
             },
+            "entities": [
+                "conspiracy",
+                "Huff Post",
+                "reporter",
+                "Tim Harford",
+                "the past few months",
+                "US",
+                "Michael Hobbes"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09166w4",
             "guid": "urn:bbc:podcast:p09166w4",
             "isoDate": "2020-12-12T18:50:00.000Z",
@@ -1969,6 +2827,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p090hklk.mp3"
             },
+            "entities": [
+                "Stuart McDonald",
+                "UK",
+                "19",
+                "Institute and Faculty of Actuaries",
+                "Tim Harford",
+                "first"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p090hlp7",
             "guid": "urn:bbc:podcast:p090hlp7",
             "isoDate": "2020-12-05T19:00:00.000Z",
@@ -1990,6 +2856,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08zt0rf.mp3"
             },
+            "entities": ["months", "Amy Maxmen", "This year", "reporter"],
             "link": "http://www.bbc.co.uk/programmes/p08zt262",
             "guid": "urn:bbc:podcast:p08zt262",
             "isoDate": "2020-11-28T19:00:00.000Z",
@@ -2011,6 +2878,24 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08z3s90.mp3"
             },
+            "entities": [
+                "Professor",
+                "25",
+                "Christmas",
+                "Diwali",
+                "one",
+                "19",
+                "European",
+                "Thanksgiving",
+                "Joshua Weitz",
+                "Charlotte McDonald",
+                "Georgia Tech",
+                "his",
+                "Producer",
+                "Presenter",
+                "Tim Harford",
+                "US"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08z3srq",
             "guid": "urn:bbc:podcast:p08z3srq",
             "isoDate": "2020-11-21T18:50:00.000Z",
@@ -2032,6 +2917,21 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08ydym3.mp3"
             },
+            "entities": [
+                "vice president",
+                "Royal Statistical Society",
+                "Pfizer",
+                "19",
+                "90%",
+                "Charlotte McDonald",
+                "Jennifer Rogers",
+                "she",
+                "candidate",
+                "Producer",
+                "UK",
+                "Presenter",
+                "Tim Harford"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08ydyvx",
             "guid": "urn:bbc:podcast:p08ydyvx",
             "isoDate": "2020-11-14T16:50:00.000Z",
@@ -2053,6 +2953,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08xmvg0.mp3"
             },
+            "entities": [
+                "University of Leeds",
+                "current",
+                "UK",
+                "19",
+                "University of Oxford",
+                "Tim Harford",
+                "Daniel Howdon",
+                "Hannah Ritchie"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08xmw3c",
             "guid": "urn:bbc:podcast:p08xmw3c",
             "isoDate": "2020-11-07T19:00:00.000Z",
@@ -2074,6 +2984,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08wy7w6.mp3"
             },
+            "entities": ["Covid", "British", "86%"],
             "link": "http://www.bbc.co.uk/programmes/p08wy93c",
             "guid": "urn:bbc:podcast:p08wy93c",
             "isoDate": "2020-10-31T16:50:00.000Z",
@@ -2095,6 +3006,19 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08wqcz2.mp3"
             },
+            "entities": [
+                "Washington Post",
+                "President",
+                "candidate",
+                "his",
+                "New York Times",
+                "Democratic",
+                "Joe Biden",
+                "Glenn Kessler",
+                "Katherine J Wu",
+                "Tim Harford",
+                "Trump"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08wqd9b",
             "guid": "urn:bbc:podcast:p08wqd9b",
             "isoDate": "2020-10-24T15:50:00.000Z",
@@ -2116,6 +3040,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08vhyqd.mp3"
             },
+            "entities": [
+                "Stanford University",
+                "his",
+                "This month",
+                "Nobel",
+                "Robert Wilson",
+                "two",
+                "Paul Milgrom",
+                "years",
+                "tutor"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08vhzkl",
             "guid": "urn:bbc:podcast:p08vhzkl",
             "isoDate": "2020-10-17T18:00:00.000Z",
@@ -2137,6 +3072,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08tw7sp.mp3"
             },
+            "entities": ["Jacob Goldstein", "Tim Harford"],
             "link": "http://www.bbc.co.uk/programmes/p08tw9pl",
             "guid": "urn:bbc:podcast:p08tw9pl",
             "isoDate": "2020-10-10T18:00:00.000Z",
@@ -2158,6 +3094,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08tjq8b.mp3"
             },
+            "entities": ["Covid", "16,000"],
             "link": "http://www.bbc.co.uk/programmes/p08tjykx",
             "guid": "urn:bbc:podcast:p08tjykx",
             "isoDate": "2020-10-07T08:30:00.000Z",
@@ -2179,6 +3116,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08swbk4.mp3"
             },
+            "entities": ["US"],
             "link": "http://www.bbc.co.uk/programmes/p08swk4g",
             "guid": "urn:bbc:podcast:p08swk4g",
             "isoDate": "2020-09-30T08:30:00.000Z",
@@ -2200,6 +3138,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08s7635.mp3"
             },
+            "entities": [
+                "Covid",
+                "Gandhi",
+                "this week",
+                "every seven days",
+                "Queen",
+                "Mao"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08s7b5d",
             "guid": "urn:bbc:podcast:p08s7b5d",
             "isoDate": "2020-09-23T08:30:00.000Z",
@@ -2221,6 +3167,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08rwvvd.mp3"
             },
+            "entities": ["Israeli", "researcher", "Tim Harford", "Tomer Hertz"],
             "link": "http://www.bbc.co.uk/programmes/p08rwy4n",
             "guid": "urn:bbc:podcast:p08rwy4n",
             "isoDate": "2020-09-19T18:00:00.000Z",
@@ -2242,6 +3189,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08rl7h8.mp3"
             },
+            "entities": ["EU", "European Union", "UK", "Operation Moonshot"],
             "link": "http://www.bbc.co.uk/programmes/p08rlmn8",
             "guid": "urn:bbc:podcast:p08rlmn8",
             "isoDate": "2020-09-16T08:30:00.000Z",
@@ -2263,6 +3211,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08qwnk4.mp3"
             },
+            "entities": ["UK", "now", "guide"],
             "link": "http://www.bbc.co.uk/programmes/p08qwygd",
             "guid": "urn:bbc:podcast:p08qwygd",
             "isoDate": "2020-09-09T08:30:00.000Z",
@@ -2284,6 +3233,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08q6q1j.mp3"
             },
+            "entities": ["50,000", "UK", "Wales", "England"],
             "link": "http://www.bbc.co.uk/programmes/p08q807b",
             "guid": "urn:bbc:podcast:p08q807b",
             "isoDate": "2020-09-02T08:30:00.000Z",
@@ -2305,6 +3255,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08pm6z6.mp3"
             },
+            "entities": [
+                "35%",
+                "Donald Trump",
+                "UK",
+                "one",
+                "18th century",
+                "London",
+                "breast cancer",
+                "40",
+                "five"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08pm9nt",
             "guid": "urn:bbc:podcast:p08pm9nt",
             "isoDate": "2020-08-26T08:30:00.000Z",
@@ -2326,6 +3287,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08nzf88.mp3"
             },
+            "entities": ["Covid", "last week", "A-level", "1.3 million"],
             "link": "http://www.bbc.co.uk/programmes/p08nznp9",
             "guid": "urn:bbc:podcast:p08nznp9",
             "isoDate": "2020-08-19T08:30:00.000Z",
@@ -2347,6 +3309,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08nnt0x.mp3"
             },
+            "entities": [
+                "leader",
+                "Brian Klaas",
+                "Alexander Lukashenko",
+                "Autocratic",
+                "analyst",
+                "Tim Harford",
+                "Artyom Shraibman"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08nnvbp",
             "guid": "urn:bbc:podcast:p08nnvbp",
             "isoDate": "2020-08-15T22:59:00.000Z",
@@ -2368,6 +3339,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08ncl6r.mp3"
             },
+            "entities": [
+                "Covid",
+                "UK",
+                "a second",
+                "now",
+                "England",
+                "chef",
+                "Scotland",
+                "a quarter",
+                "autumn",
+                "Jamie Oliver"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08ncr88",
             "guid": "urn:bbc:podcast:p08ncr88",
             "isoDate": "2020-08-12T08:30:00.000Z",
@@ -2389,6 +3372,20 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08n0f05.mp3"
             },
+            "entities": [
+                "the coming years",
+                "1",
+                "King",
+                "George",
+                "Alessandro Dahan",
+                "January 2020",
+                "One",
+                "70",
+                "Antarctica",
+                "Island",
+                "361 billion tonnes",
+                "Gentoo"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08n0mqb",
             "guid": "urn:bbc:podcast:p08n0mqb",
             "isoDate": "2020-08-08T22:59:00.000Z",
@@ -2410,6 +3407,26 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08mdxhp.mp3"
             },
+            "entities": [
+                "Heritage Baptist Church",
+                "researcher",
+                "Johannesburg",
+                "Africa",
+                "Covid-19 Coronavirus",
+                "2020",
+                "weekly",
+                "Nana Kofi Quakyi",
+                "Justin Maeda",
+                "Producer",
+                "Melville",
+                "the 118 day",
+                "KIM LUDBROOK",
+                "EPA",
+                "South Africa",
+                "Jo Casserly",
+                "Africa Centre for Disease Control",
+                "Ghanaian"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08mdyt5",
             "guid": "urn:bbc:podcast:p08mdyt5",
             "isoDate": "2020-08-01T22:59:00.000Z",
@@ -2431,6 +3448,12 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08lrj07.mp3"
             },
+            "entities": [
+                "Steven Johnson",
+                "the 1800s",
+                "William Farr",
+                "Tim Harford"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08lrjw2",
             "guid": "urn:bbc:podcast:p08lrjw2",
             "isoDate": "2020-07-25T22:59:00.000Z",
@@ -2452,6 +3475,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08l3t04.mp3"
             },
+            "entities": [
+                "statistician",
+                "Ola Rosling",
+                "his",
+                "Tim Harford",
+                "US"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08l47d6",
             "guid": "urn:bbc:podcast:p08l47d6",
             "isoDate": "2020-07-18T22:59:00.000Z",
@@ -2473,6 +3503,20 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08kdg9p.mp3"
             },
+            "entities": [
+                "25 June 2020",
+                "Sweden",
+                "statistician",
+                "Ola Rosling",
+                "Stina Stjernkvist",
+                "Producer",
+                "Nordic",
+                "Presenter",
+                "EPA",
+                "Tim Harford",
+                "Jo Casserly",
+                "Stockholm"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08kdnbp",
             "guid": "urn:bbc:podcast:p08kdnbp",
             "isoDate": "2020-07-11T22:59:00.000Z",
@@ -2494,6 +3538,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08jsnns.mp3"
             },
+            "entities": ["Tim", "US"],
             "link": "http://www.bbc.co.uk/programmes/p08jsp8f",
             "guid": "urn:bbc:podcast:p08jsp8f",
             "isoDate": "2020-07-04T22:59:00.000Z",
@@ -2515,6 +3560,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08jgydl.mp3"
             },
+            "entities": ["UK", "one", "the last 14 weeks", "March 2020"],
             "link": "http://www.bbc.co.uk/programmes/p08jh9j7",
             "guid": "urn:bbc:podcast:p08jh9j7",
             "isoDate": "2020-07-01T08:30:00.000Z",
@@ -2536,6 +3582,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08j4flq.mp3"
             },
+            "entities": ["Dexamethasone", "a second"],
             "link": "http://www.bbc.co.uk/programmes/p08j4g7z",
             "guid": "urn:bbc:podcast:p08j4g7z",
             "isoDate": "2020-06-27T18:00:00.000Z",
@@ -2557,6 +3604,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08hsxl0.mp3"
             },
+            "entities": [
+                "Keir Starmer",
+                "UK",
+                "infections",
+                "Boris Johnson",
+                "first",
+                "Stephanie Flanders"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08ht86t",
             "guid": "urn:bbc:podcast:p08ht86t",
             "isoDate": "2020-06-24T08:30:00.000Z",
@@ -2578,6 +3633,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08hgtdj.mp3"
             },
+            "entities": ["infection", "Ruth Alexander", "Tim Harford"],
             "link": "http://www.bbc.co.uk/programmes/p08hhl7d",
             "guid": "urn:bbc:podcast:p08hhl7d",
             "isoDate": "2020-06-20T11:00:00.000Z",
@@ -2599,6 +3655,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08h4lv5.mp3"
             },
+            "entities": [
+                "statistician",
+                "Jen Rogers",
+                "UK",
+                "England",
+                "14 days",
+                "first"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08h4x0b",
             "guid": "urn:bbc:podcast:p08h4x0b",
             "isoDate": "2020-06-17T08:30:00.000Z",
@@ -2620,6 +3684,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08gh8bp.mp3"
             },
+            "entities": [
+                "the start of March",
+                "Patrick Vallance",
+                "four weeks",
+                "disease",
+                "UK",
+                "Italy",
+                "he"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08ghqmm",
             "guid": "urn:bbc:podcast:p08ghqmm",
             "isoDate": "2020-06-10T08:30:00.000Z",
@@ -2641,6 +3714,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08g6m7j.mp3"
             },
+            "entities": [
+                "1",
+                "2",
+                "infection",
+                "six",
+                "UK",
+                "World Health Organisation",
+                "US Centers for Disease Control and Prevention",
+                "Tim Harford"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08g6mt3",
             "guid": "urn:bbc:podcast:p08g6mt3",
             "isoDate": "2020-06-06T18:00:00.000Z",
@@ -2662,6 +3745,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08fvl2l.mp3"
             },
+            "entities": [
+                "disease",
+                "UK Statistics Authority",
+                "a second",
+                "daily",
+                "infections",
+                "Hugh Fearnley Whittingstall",
+                "60",
+                "the end of May",
+                "200,000"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08fvs16",
             "guid": "urn:bbc:podcast:p08fvs16",
             "isoDate": "2020-06-03T08:30:00.000Z",
@@ -2683,6 +3777,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08f72zn.mp3"
             },
+            "entities": [
+                "35,000",
+                "Scottish",
+                "UK",
+                "now",
+                "the first three months of the year"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08f761q",
             "guid": "urn:bbc:podcast:p08f761q",
             "isoDate": "2020-05-27T08:30:00.000Z",
@@ -2704,6 +3805,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08dx6sr.mp3"
             },
+            "entities": ["Earth", "New Zealand", "60", "first"],
             "link": "http://www.bbc.co.uk/programmes/p08dx986",
             "guid": "urn:bbc:podcast:p08dx986",
             "isoDate": "2020-05-23T18:00:00.000Z",
@@ -2725,6 +3827,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08dmb83.mp3"
             },
+            "entities": ["David Spiegelhalter", "UK", "Germany"],
             "link": "http://www.bbc.co.uk/programmes/p08dnd81",
             "guid": "urn:bbc:podcast:p08dnd81",
             "isoDate": "2020-05-20T08:31:00.000Z",
@@ -2746,6 +3849,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08d8r9b.mp3"
             },
+            "entities": [
+                "1",
+                "Canada",
+                "2",
+                "six",
+                "UK",
+                "World Health Organisation"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08d8xgd",
             "guid": "urn:bbc:podcast:p08d8xgd",
             "isoDate": "2020-05-16T18:00:00.000Z",
@@ -2767,6 +3878,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08czbh5.mp3"
             },
+            "entities": ["2", "one"],
             "link": "http://www.bbc.co.uk/programmes/p08czkk7",
             "guid": "urn:bbc:podcast:p08czkk7",
             "isoDate": "2020-05-13T08:30:00.000Z",
@@ -2788,6 +3900,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08ckzwf.mp3"
             },
+            "entities": [],
             "link": "http://www.bbc.co.uk/programmes/p08cl0lb",
             "guid": "urn:bbc:podcast:p08cl0lb",
             "isoDate": "2020-05-09T18:00:00.000Z",
@@ -2809,6 +3922,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08cc309.mp3"
             },
+            "entities": [
+                "Matt Hancock",
+                "UK",
+                "100,000",
+                "the end of April",
+                "Health Minister",
+                "a day",
+                "ten",
+                "He",
+                "he",
+                "Joe Wicks"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08ccb4g",
             "guid": "urn:bbc:podcast:p08ccb4g",
             "isoDate": "2020-05-06T01:30:00.000Z",
@@ -2830,6 +3955,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08c07jj.mp3"
             },
+            "entities": [],
             "link": "http://www.bbc.co.uk/programmes/p08c07xr",
             "guid": "urn:bbc:podcast:p08c07xr",
             "isoDate": "2020-05-02T18:00:00.000Z",
@@ -2851,6 +3977,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08bqd08.mp3"
             },
+            "entities": [
+                "Priti Patel",
+                "weeks",
+                "UK",
+                "home secretary",
+                "daily",
+                "now",
+                "April",
+                "summer"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08bqjmt",
             "guid": "urn:bbc:podcast:p08bqjmt",
             "isoDate": "2020-04-29T08:30:00.000Z",
@@ -2872,6 +4008,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08bf0lx.mp3"
             },
+            "entities": ["one", "Ruth Alexander", "Tim Harford"],
             "link": "http://www.bbc.co.uk/programmes/p08bf1kd",
             "guid": "urn:bbc:podcast:p08bf1kd",
             "isoDate": "2020-04-25T18:00:00.000Z",
@@ -2893,6 +4030,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08b9877.mp3"
             },
+            "entities": [
+                "his",
+                "April this year",
+                "complications",
+                "biographer",
+                "Conway",
+                "82",
+                "mathematician",
+                "Matt Parker",
+                "John Horton Conway",
+                "Siobhan Roberts"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08b9bcq",
             "guid": "urn:bbc:podcast:p08b9bcq",
             "isoDate": "2020-04-23T14:00:00.000Z",
@@ -2914,6 +4063,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08b38rf.mp3"
             },
+            "entities": ["NHS"],
             "link": "http://www.bbc.co.uk/programmes/p08b3jyp",
             "guid": "urn:bbc:podcast:p08b3jyp",
             "isoDate": "2020-04-22T08:30:00.000Z",
@@ -2935,6 +4085,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p089t2z5.mp3"
             },
+            "entities": ["Tim Harford"],
             "link": "http://www.bbc.co.uk/programmes/p089t3yk",
             "guid": "urn:bbc:podcast:p089t3yk",
             "isoDate": "2020-04-18T18:00:00.000Z",
@@ -2956,6 +4107,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0893lmd.mp3"
             },
+            "entities": ["Ruth Alexander", "Tim Harford"],
             "link": "http://www.bbc.co.uk/programmes/p0894jhh",
             "guid": "urn:bbc:podcast:p0894jhh",
             "isoDate": "2020-04-11T18:00:00.000Z",
@@ -2977,6 +4129,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p088xlyz.mp3"
             },
+            "entities": [
+                "Glastonbury",
+                "this week",
+                "Nobel-prize",
+                "count",
+                "London",
+                "nine months",
+                "Earth-like"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p088xyms",
             "guid": "urn:bbc:podcast:p088xyms",
             "isoDate": "2020-04-08T08:30:00.000Z",
@@ -2998,6 +4159,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p088l5bc.mp3"
             },
+            "entities": [
+                "and",
+                "40%",
+                "Ruth Alexander",
+                "50",
+                "Tim Harford",
+                "US",
+                "20"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p088lhjq",
             "guid": "urn:bbc:podcast:p088lhjq",
             "isoDate": "2020-04-04T18:00:00.000Z",
@@ -3019,6 +4189,12 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p088640p.mp3"
             },
+            "entities": [
+                "Adam Kucharski",
+                "This week",
+                "author",
+                "Imperial College"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0886bhr",
             "guid": "urn:bbc:podcast:p0886bhr",
             "isoDate": "2020-03-31T08:30:00.000Z",
@@ -3040,6 +4216,22 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p087x6m5.mp3"
             },
+            "entities": [
+                "Professor",
+                "Corbis",
+                "Getty Images",
+                "guru",
+                "David Spiegelhalter",
+                "disease",
+                "In Pictures Ltd.",
+                "Winton",
+                "a couple of weeks",
+                "Centre",
+                "Mathematician",
+                "He",
+                "a year",
+                "University of Cambridge"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p087x9sf",
             "guid": "urn:bbc:podcast:p087x9sf",
             "isoDate": "2020-03-28T19:00:00.000Z",
@@ -3061,6 +4253,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p087n0k4.mp3"
             },
+            "entities": [
+                "Professor",
+                "Coronavirus",
+                "David Spiegelhalter",
+                "Iran",
+                "UK",
+                "Presenter",
+                "50",
+                "Tim Harford",
+                "US",
+                "illness"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p087n42r",
             "guid": "urn:bbc:podcast:p087n42r",
             "isoDate": "2020-03-25T15:44:00.000Z",
@@ -3082,6 +4286,21 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08764wx.mp3"
             },
+            "entities": [
+                "Last week",
+                "This week",
+                "British",
+                "Europe",
+                "Imperial College London",
+                "Glasgow",
+                "Christl Donnelly",
+                "UK",
+                "future",
+                "EPA",
+                "University of Oxford",
+                "Christl",
+                "Robert Perry"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08766m3",
             "guid": "urn:bbc:podcast:p08766m3",
             "isoDate": "2020-03-21T19:00:00.000Z",
@@ -3103,6 +4322,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p086kn58.mp3"
             },
+            "entities": ["Iran"],
             "link": "http://www.bbc.co.uk/programmes/p086krm0",
             "guid": "urn:bbc:podcast:p086krm0",
             "isoDate": "2020-03-14T17:00:00.000Z",
@@ -3124,6 +4344,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0863k0n.mp3"
             },
+            "entities": [
+                "Lizzy McNeill",
+                "Canada",
+                "Producer",
+                "Presenter",
+                "one",
+                "Every winter",
+                "Leoni Robertson",
+                "Tim Harford"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0863kjs",
             "guid": "urn:bbc:podcast:p0863kjs",
             "isoDate": "2020-03-09T13:07:00.000Z",
@@ -3145,6 +4375,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08547mx.mp3"
             },
+            "entities": ["Netflix", "four", "30 minutes"],
             "link": "http://www.bbc.co.uk/programmes/p085487s",
             "guid": "urn:bbc:podcast:p085487s",
             "isoDate": "2020-02-29T19:00:00.000Z",
@@ -3166,6 +4397,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p085434b.mp3"
             },
+            "entities": ["burner"],
             "link": "http://www.bbc.co.uk/programmes/p085478q",
             "guid": "urn:bbc:podcast:p085478q",
             "isoDate": "2020-02-28T18:00:00.000Z",
@@ -3187,6 +4419,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08479ys.mp3"
             },
+            "entities": [
+                "Janelle Shane",
+                "her",
+                "Alexa",
+                "future",
+                "author",
+                "daily",
+                "Siri",
+                "Tim Harford"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0847dp4",
             "guid": "urn:bbc:podcast:p0847dp4",
             "isoDate": "2020-02-22T19:00:00.000Z",
@@ -3208,6 +4450,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p083d5gm.mp3"
             },
+            "entities": [
+                "This week",
+                "third",
+                "King",
+                "now",
+                "Nathalie MacDermott",
+                "London",
+                "lecturer",
+                "Tim Harford",
+                "20"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p083d5yv",
             "guid": "urn:bbc:podcast:p083d5yv",
             "isoDate": "2020-02-15T16:00:00.000Z",
@@ -3229,6 +4482,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p083d2zc.mp3"
             },
+            "entities": ["James Wong"],
             "link": "http://www.bbc.co.uk/programmes/p083d393",
             "guid": "urn:bbc:podcast:p083d393",
             "isoDate": "2020-02-14T17:14:00.000Z",
@@ -3250,6 +4504,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p082mhw6.mp3"
             },
+            "entities": [
+                "Professor",
+                "editor",
+                "John Hutchinson",
+                "one",
+                "Florida",
+                "Tim Harford",
+                "he"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p082mnv5",
             "guid": "urn:bbc:podcast:p082mnv5",
             "isoDate": "2020-02-08T17:00:00.000Z",
@@ -3271,6 +4534,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p082mh6h.mp3"
             },
+            "entities": ["UK"],
             "link": "http://www.bbc.co.uk/programmes/p082mj4l",
             "guid": "urn:bbc:podcast:p082mj4l",
             "isoDate": "2020-02-07T17:00:00.000Z",
@@ -3292,6 +4556,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p081ylyt.mp3"
             },
+            "entities": ["China"],
             "link": "http://www.bbc.co.uk/programmes/p081yn19",
             "guid": "urn:bbc:podcast:p081yn19",
             "isoDate": "2020-02-01T19:00:00.000Z",
@@ -3313,6 +4578,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p081yht3.mp3"
             },
+            "entities": [],
             "link": "http://www.bbc.co.uk/programmes/p081yl6c",
             "guid": "urn:bbc:podcast:p081yl6c",
             "isoDate": "2020-01-31T16:30:00.000Z",
@@ -3334,6 +4600,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0819t05.mp3"
             },
+            "entities": [
+                "Professor",
+                "Matthew Walker",
+                "his",
+                "this week",
+                "one",
+                "He"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0819trp",
             "guid": "urn:bbc:podcast:p0819trp",
             "isoDate": "2020-01-25T19:00:00.000Z",
@@ -3355,6 +4629,19 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0819mb6.mp3"
             },
+            "entities": [
+                "Netflix",
+                "his",
+                "four",
+                "Now",
+                "one",
+                "30 minutes",
+                "Author",
+                "Bill Bryson",
+                "five",
+                "sepsis",
+                "every week"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0819sc4",
             "guid": "urn:bbc:podcast:p0819sc4",
             "isoDate": "2020-01-24T17:00:00.000Z",
@@ -3376,6 +4663,22 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p080pdpf.mp3"
             },
+            "entities": [
+                "Colin Jones",
+                "Kim Schofield",
+                "boss",
+                "99%",
+                "Kyoto",
+                "Japan",
+                "Doshisha Law School",
+                "Canada",
+                "Tokyo",
+                "Carlos Ghosn",
+                "Toronto",
+                "lawyer",
+                "Nissan",
+                "Prof"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p080pgdy",
             "guid": "urn:bbc:podcast:p080pgdy",
             "isoDate": "2020-01-18T19:00:00.000Z",
@@ -3397,6 +4700,12 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p080pk0v.mp3"
             },
+            "entities": [
+                "Liverpool FC",
+                "Gemma Tetlow",
+                "Brexit",
+                "Institute for Government"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p080ps1t",
             "guid": "urn:bbc:podcast:p080ps1t",
             "isoDate": "2020-01-17T18:08:00.000Z",
@@ -3418,6 +4727,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0802468.mp3"
             },
+            "entities": ["fires", "billion", "Australia"],
             "link": "http://www.bbc.co.uk/programmes/p08027c1",
             "guid": "urn:bbc:podcast:p08027c1",
             "isoDate": "2020-01-11T19:00:00.000Z",
@@ -3439,6 +4749,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08023fk.mp3"
             },
+            "entities": [
+                "decade",
+                "fires",
+                "UK",
+                "Conservative",
+                "40%",
+                "Tim Harford",
+                "Australia"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0802553",
             "guid": "urn:bbc:podcast:p0802553",
             "isoDate": "2020-01-10T17:07:00.000Z",
@@ -3460,6 +4779,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07yrvnj.mp3"
             },
+            "entities": [
+                "12",
+                "an hour",
+                "China",
+                "50%",
+                "11,417",
+                "a year",
+                "Facebook"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p07yrxpv",
             "guid": "urn:bbc:podcast:p07yrxpv",
             "isoDate": "2020-01-04T19:00:00.000Z",
@@ -3481,6 +4809,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07yrpz5.mp3"
             },
+            "entities": [
+                "President",
+                "BBC",
+                "Donald Trump",
+                "Democrat",
+                "recently",
+                "20 percent"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p07yrqh0",
             "guid": "urn:bbc:podcast:p07yrqh0",
             "isoDate": "2019-12-28T19:00:00.000Z",
@@ -3502,6 +4838,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07yjvrg.mp3"
             },
+            "entities": ["30th"],
             "link": "http://www.bbc.co.uk/programmes/p07yjw8t",
             "guid": "urn:bbc:podcast:p07yjw8t",
             "isoDate": "2019-12-20T17:37:00.000Z",
@@ -3523,6 +4860,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07xsxq9.mp3"
             },
+            "entities": [
+                "Koala Hospital",
+                "National Geographic",
+                "University of Queensland",
+                "Christine Hosking",
+                "Natasha Daly",
+                "Safeed Khan",
+                "Australia",
+                "80%",
+                "Port Macquarie"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p07xszk9",
             "guid": "urn:bbc:podcast:p07xszk9",
             "isoDate": "2019-12-13T14:47:00.000Z",
@@ -3544,6 +4892,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07xg63b.mp3"
             },
+            "entities": ["SNP", "Labour"],
             "link": "http://www.bbc.co.uk/programmes/p07xg74w",
             "guid": "urn:bbc:podcast:p07xg74w",
             "isoDate": "2019-12-10T10:16:00.000Z",
@@ -3565,6 +4914,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07x4nwn.mp3"
             },
+            "entities": [
+                "Lizzy McNeill",
+                "2 billion",
+                "Producer",
+                "UK",
+                "Presenter",
+                "one",
+                "General",
+                "Labour Party",
+                "Tim Harford",
+                "2040"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p07x4q52",
             "guid": "urn:bbc:podcast:p07x4q52",
             "isoDate": "2019-12-06T16:09:00.000Z",
@@ -3586,6 +4947,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07wrfnb.mp3"
             },
+            "entities": [
+                "Neal Razzell",
+                "12th December",
+                "his",
+                "General Election",
+                "Producer",
+                "50,000",
+                "Presenter",
+                "40",
+                "Tim Harford"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p07wrgd6",
             "guid": "urn:bbc:podcast:p07wrgd6",
             "isoDate": "2019-12-03T11:24:00.000Z",
@@ -3607,6 +4979,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07wgqhq.mp3"
             },
+            "entities": [],
             "link": "http://www.bbc.co.uk/programmes/p07wgrrp",
             "guid": "urn:bbc:podcast:p07wgrrp",
             "isoDate": "2019-11-29T16:07:00.000Z",
@@ -3628,6 +5001,21 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07vt105.mp3"
             },
+            "entities": [
+                "Getty Images",
+                "researcher",
+                "Thessaloniki",
+                "Darin Graham",
+                "captain",
+                "Richard Vadon",
+                "Jean Tournadre",
+                "Greece",
+                "Producer",
+                "Amrit Singh",
+                "analyst",
+                "Ruth Alexander",
+                "Editor"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p07vtj5w",
             "guid": "urn:bbc:podcast:p07vtj5w",
             "isoDate": "2019-11-23T19:00:00.000Z",
@@ -3649,6 +5037,22 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07v3m36.mp3"
             },
+            "entities": [
+                "Professor",
+                "leader",
+                "weeks",
+                "Evo Morales",
+                "Calla Hummel",
+                "Bolivia",
+                "University of Miami",
+                "University of Chile",
+                "His",
+                "Romulo Chumacero",
+                "last week",
+                "Ruth Alexander",
+                "first",
+                "president"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p07v3pdx",
             "guid": "urn:bbc:podcast:p07v3pdx",
             "isoDate": "2019-11-15T17:36:00.000Z",
@@ -3670,6 +5074,19 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07tf3sc.mp3"
             },
+            "entities": [
+                "nearly a quarter",
+                "Producer",
+                "recently",
+                "Darin Graham",
+                "four-legged",
+                "30%",
+                "Ruth Alexander",
+                "Two",
+                "first",
+                "Gideon Meyerowitz-Katz",
+                "second"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p07tdc37",
             "guid": "urn:bbc:podcast:p07tdc37",
             "isoDate": "2019-11-09T19:00:00.000Z",
@@ -3691,6 +5108,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07sr5zm.mp3"
             },
+            "entities": [
+                "rape",
+                "Producer",
+                "United States",
+                "sexual assault",
+                "Darin Graham",
+                "Presenter",
+                "now",
+                "Ruth Alexander",
+                "Joyful Heart Foundation"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p07sr770",
             "guid": "urn:bbc:podcast:p07sr770",
             "isoDate": "2019-11-01T17:00:00.000Z",
@@ -3712,6 +5140,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07s221v.mp3"
             },
+            "entities": ["economist", "her", "Social worker", "Edith Abbott"],
             "link": "http://www.bbc.co.uk/programmes/p07s22lh",
             "guid": "urn:bbc:podcast:p07s22lh",
             "isoDate": "2019-10-28T14:00:00.000Z",
@@ -3733,6 +5162,12 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07rfbyx.mp3"
             },
+            "entities": [
+                "Nobel Prize",
+                "Esther Duflo",
+                "Abhijit Banerjee",
+                "Michael Kremer"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p07rfd10",
             "guid": "urn:bbc:podcast:p07rfd10",
             "isoDate": "2019-10-18T15:02:00.000Z",
@@ -3754,6 +5189,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07qt8p2.mp3"
             },
+            "entities": ["one", "Scotland", "Wight"],
             "link": "http://www.bbc.co.uk/programmes/p07qt9kp",
             "guid": "urn:bbc:podcast:p07qt9kp",
             "isoDate": "2019-10-11T13:20:00.000Z",
@@ -3775,6 +5211,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07q4gsj.mp3"
             },
+            "entities": [],
             "link": "http://www.bbc.co.uk/programmes/p07q4ngz",
             "guid": "urn:bbc:podcast:p07q4ngz",
             "isoDate": "2019-10-07T15:00:00.000Z",
@@ -3796,6 +5233,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07q4c54.mp3"
             },
+            "entities": ["President", "Ukraine", "Trump"],
             "link": "http://www.bbc.co.uk/programmes/p07q4f0w",
             "guid": "urn:bbc:podcast:p07q4f0w",
             "isoDate": "2019-10-04T16:00:00.000Z",
@@ -3817,6 +5255,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07ppswz.mp3"
             },
+            "entities": ["third", "Britain", "Asian"],
             "link": "http://www.bbc.co.uk/programmes/p07ppw22",
             "guid": "urn:bbc:podcast:p07ppw22",
             "isoDate": "2019-09-30T15:00:00.000Z",
@@ -3838,6 +5277,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07pjclp.mp3"
             },
+            "entities": ["120 thousand", "UK"],
             "link": "http://www.bbc.co.uk/programmes/p07pjdw6",
             "guid": "urn:bbc:podcast:p07pjdw6",
             "isoDate": "2019-09-27T17:00:00.000Z",
@@ -3859,6 +5299,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07nxcnd.mp3"
             },
+            "entities": [],
             "link": "http://www.bbc.co.uk/programmes/p07nxf3m",
             "guid": "urn:bbc:podcast:p07nxf3m",
             "isoDate": "2019-09-23T15:00:00.000Z",
@@ -3880,6 +5321,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07nx9sl.mp3"
             },
+            "entities": [],
             "link": "http://www.bbc.co.uk/programmes/p07nxcc9",
             "guid": "urn:bbc:podcast:p07nxcc9",
             "isoDate": "2019-09-20T16:00:00.000Z",
@@ -3901,6 +5343,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07n8x46.mp3"
             },
+            "entities": ["Cape Town", "a day", "eight"],
             "link": "http://www.bbc.co.uk/programmes/p07n8xpr",
             "guid": "urn:bbc:podcast:p07n8xpr",
             "isoDate": "2019-09-16T13:00:00.000Z",
@@ -3922,6 +5365,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07n8vpp.mp3"
             },
+            "entities": ["childbirth", "five"],
             "link": "http://www.bbc.co.uk/programmes/p07n8x0c",
             "guid": "urn:bbc:podcast:p07n8x0c",
             "isoDate": "2019-09-13T16:07:00.000Z",
@@ -3943,6 +5387,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07mntw5.mp3"
             },
+            "entities": ["President", "January", "Bolsonaro"],
             "link": "http://www.bbc.co.uk/programmes/p07mp3ct",
             "guid": "urn:bbc:podcast:p07mp3ct",
             "isoDate": "2019-09-09T15:00:00.000Z",
@@ -3964,6 +5409,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07mnr85.mp3"
             },
+            "entities": ["six billion"],
             "link": "http://www.bbc.co.uk/programmes/p07mnsmh",
             "guid": "urn:bbc:podcast:p07mnsmh",
             "isoDate": "2019-09-06T15:30:00.000Z",
@@ -3985,6 +5431,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07m7s9b.mp3"
             },
+            "entities": ["85 percent", "last year"],
             "link": "http://www.bbc.co.uk/programmes/p07m7sxm",
             "guid": "urn:bbc:podcast:p07m7sxm",
             "isoDate": "2019-09-02T13:00:00.000Z",
@@ -4006,6 +5453,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07m28g3.mp3"
             },
+            "entities": ["fires", "Brazil"],
             "link": "http://www.bbc.co.uk/programmes/p07m295n",
             "guid": "urn:bbc:podcast:p07m295n",
             "isoDate": "2019-08-30T16:46:00.000Z",
@@ -4027,6 +5475,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07lgzcw.mp3"
             },
+            "entities": ["one day", "Ethiopia"],
             "link": "http://www.bbc.co.uk/programmes/p07lh06y",
             "guid": "urn:bbc:podcast:p07lh06y",
             "isoDate": "2019-08-26T15:00:00.000Z",
@@ -4048,6 +5497,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07lh10f.mp3"
             },
+            "entities": ["350m", "one day", "Ethiopia"],
             "link": "http://www.bbc.co.uk/programmes/p07lh1kk",
             "guid": "urn:bbc:podcast:p07lh1kk",
             "isoDate": "2019-08-23T17:11:00.000Z",
@@ -4069,6 +5519,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07kv92z.mp3"
             },
+            "entities": [],
             "link": "http://www.bbc.co.uk/programmes/p07kv9ns",
             "guid": "urn:bbc:podcast:p07kv9ns",
             "isoDate": "2019-08-16T15:00:00.000Z",
@@ -4090,6 +5541,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07k74wj.mp3"
             },
+            "entities": ["United States", "Americans"],
             "link": "http://www.bbc.co.uk/programmes/p07k7648",
             "guid": "urn:bbc:podcast:p07k7648",
             "isoDate": "2019-08-09T15:00:00.000Z",
@@ -4111,6 +5563,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07jm2jw.mp3"
             },
+            "entities": [],
             "link": "http://www.bbc.co.uk/programmes/p07jm2zy",
             "guid": "urn:bbc:podcast:p07jm2zy",
             "isoDate": "2019-08-02T15:00:00.000Z",
@@ -4132,6 +5585,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07hytxr.mp3"
             },
+            "entities": [],
             "link": "http://www.bbc.co.uk/programmes/p07hyqb1",
             "guid": "urn:bbc:podcast:p07hyqb1",
             "isoDate": "2019-07-26T17:00:00.000Z",
@@ -4153,6 +5607,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07hb7by.mp3"
             },
+            "entities": [],
             "link": "http://www.bbc.co.uk/programmes/p07hb833",
             "guid": "urn:bbc:podcast:p07hb833",
             "isoDate": "2019-07-19T19:00:00.000Z",
@@ -4174,6 +5629,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07hbg0r.mp3"
             },
+            "entities": ["Zimbabwe"],
             "link": "http://www.bbc.co.uk/programmes/p07hbh31",
             "guid": "urn:bbc:podcast:p07hbh31",
             "isoDate": "2019-07-19T14:31:00.000Z",
@@ -4195,6 +5651,19 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07g446r.mp3"
             },
+            "entities": [
+                "Women\u2019s World Cup",
+                "2019",
+                "this week",
+                "Producer",
+                "Gareth Copley-IDI",
+                "World Cup",
+                "Ruth Alexander",
+                "Cricket World Cup",
+                "Richard Vadon",
+                "two",
+                "30"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p07g4d38",
             "guid": "urn:bbc:podcast:p07g4d38",
             "isoDate": "2019-07-05T15:04:00.000Z",
@@ -4216,6 +5685,20 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07fgfl5.mp3"
             },
+            "entities": [
+                "Professor",
+                "Chernobyl",
+                "Portsmouth University",
+                "last week",
+                "15,000",
+                "count",
+                "October 1st 1986",
+                "Jim Smith",
+                "University of Oxford",
+                "Hannah Ritchie",
+                "disaster",
+                "Charlotte McDonald"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p07fgpgy",
             "guid": "urn:bbc:podcast:p07fgpgy",
             "isoDate": "2019-06-28T16:00:00.000Z",
@@ -4237,6 +5720,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07dtdwq.mp3"
             },
+            "entities": [
+                "Getty Images",
+                "explosion",
+                "Chernobyl",
+                "a few weeks",
+                "Ukraine",
+                "Soviet",
+                "disaster"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p07dtfxp",
             "guid": "urn:bbc:podcast:p07dtfxp",
             "isoDate": "2019-06-21T16:02:00.000Z",
@@ -4258,6 +5750,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07d504g.mp3"
             },
+            "entities": ["one", "cancer"],
             "link": "http://www.bbc.co.uk/programmes/p07d5ltx",
             "guid": "urn:bbc:podcast:p07d5ltx",
             "isoDate": "2019-06-14T16:00:00.000Z",
@@ -4279,6 +5772,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07cklbg.mp3"
             },
+            "entities": [],
             "link": "http://www.bbc.co.uk/programmes/p07ckm0x",
             "guid": "urn:bbc:podcast:p07ckm0x",
             "isoDate": "2019-06-10T13:00:00.000Z",
@@ -4300,6 +5794,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07ckkn4.mp3"
             },
+            "entities": ["one", "Scotland", "cancer", "two"],
             "link": "http://www.bbc.co.uk/programmes/p07ckl40",
             "guid": "urn:bbc:podcast:p07ckl40",
             "isoDate": "2019-06-07T16:59:00.000Z",
@@ -4321,6 +5816,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07bx7h3.mp3"
             },
+            "entities": ["Mount Etna"],
             "link": "http://www.bbc.co.uk/programmes/p07bx8mb",
             "guid": "urn:bbc:podcast:p07bx8mb",
             "isoDate": "2019-06-03T13:00:00.000Z",
@@ -4342,6 +5838,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07bx47h.mp3"
             },
+            "entities": ["UK", "fifth"],
             "link": "http://www.bbc.co.uk/programmes/p07bx6xb",
             "guid": "urn:bbc:podcast:p07bx6xb",
             "isoDate": "2019-05-31T16:21:00.000Z",
@@ -4363,6 +5860,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07b8bbf.mp3"
             },
+            "entities": ["nurse"],
             "link": "http://www.bbc.co.uk/programmes/p07b8c95",
             "guid": "urn:bbc:podcast:p07b8c95",
             "isoDate": "2019-05-27T13:00:00.000Z",
@@ -4384,6 +5882,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07b88w2.mp3"
             },
+            "entities": ["Victorian"],
             "link": "http://www.bbc.co.uk/programmes/p07b8b2c",
             "guid": "urn:bbc:podcast:p07b8b2c",
             "isoDate": "2019-05-24T16:00:00.000Z",
@@ -4405,6 +5904,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p079kkp4.mp3"
             },
+            "entities": [
+                "Financial Times",
+                "journalist",
+                "his",
+                "heart attack",
+                "American",
+                "Alan Smith"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p079km1v",
             "guid": "urn:bbc:podcast:p079km1v",
             "isoDate": "2019-05-20T13:00:00.000Z",
@@ -4426,6 +5933,31 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p079kgs7.mp3"
             },
+            "entities": [
+                "cardiovascular disease",
+                "This week",
+                "British Heart Foundation",
+                "heart attack",
+                "£1.7billion",
+                "Caroline Criado-Perez",
+                "war",
+                "natural disasters",
+                "181,000",
+                "NCA",
+                "a century",
+                "British Army",
+                "this week",
+                "World Designed",
+                "her",
+                "heart disease",
+                "UK",
+                "terrorism",
+                "Chinese",
+                "Huawei",
+                "National Crime Agency",
+                "Tim Harford",
+                "first"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p079khwg",
             "guid": "urn:bbc:podcast:p079khwg",
             "isoDate": "2019-05-17T16:44:00.000Z",
@@ -4447,6 +5979,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p078w8wl.mp3"
             },
+            "entities": [
+                "Charlotte",
+                "British",
+                "Princess",
+                "past",
+                "every seven seconds",
+                "years"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p078w9hr",
             "guid": "urn:bbc:podcast:p078w9hr",
             "isoDate": "2019-05-13T08:00:00.000Z",
@@ -4468,6 +6008,25 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p078w8wn.mp3"
             },
+            "entities": [
+                "This week",
+                "British",
+                "two-word",
+                "every 90 seconds",
+                "a decade",
+                "scientist",
+                "one",
+                "One",
+                "Karen Shalev Greene",
+                "him",
+                "the past year",
+                "a week",
+                "this week",
+                "UK",
+                "days",
+                "he",
+                "US"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p078w9zt",
             "guid": "urn:bbc:podcast:p078w9zt",
             "isoDate": "2019-05-10T17:14:00.000Z",
@@ -4489,6 +6048,20 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0788dv4.mp3"
             },
+            "entities": [
+                "anthropologist Professor",
+                "2019",
+                "villain",
+                "his",
+                "4 billion",
+                "Zachary Feinstein",
+                "blogger",
+                "War",
+                "Thanos",
+                "Sharon DeWitte",
+                "Tim Harford",
+                "Avengers"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0788fyl",
             "guid": "urn:bbc:podcast:p0788fyl",
             "isoDate": "2019-05-06T13:00:00.000Z",
@@ -4510,6 +6083,39 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07886nw.mp3"
             },
+            "entities": [
+                "Professor",
+                "Wales",
+                "75%",
+                "England",
+                "y%",
+                "She",
+                "3%",
+                "this week",
+                "27 million",
+                "a year",
+                "75",
+                "Beth Sagar-Fenton",
+                "34",
+                "last seven years",
+                "Darin Graham",
+                "suicide",
+                "18",
+                "x%",
+                "Charlotte McDonald",
+                "the",
+                "she",
+                "4%",
+                "Jennifer Rogers",
+                "each year",
+                "4",
+                "Presenter",
+                "London",
+                "Tim",
+                "University of Oxford",
+                "Tim Harford",
+                "Nurse"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p07887n2",
             "guid": "urn:bbc:podcast:p07887n2",
             "isoDate": "2019-05-03T16:19:00.000Z",
@@ -4531,6 +6137,32 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p077rpgd.mp3"
             },
+            "entities": [
+                "United States",
+                "National Institute for Health and Welfare",
+                "Democratic",
+                "Darin Graham",
+                "one",
+                "Senator",
+                "Twitter",
+                "Sanders",
+                "Charlotte McDonald",
+                "Bernie Sanders",
+                "Carol Sakala",
+                "candidate",
+                "his",
+                "Producer",
+                "Finland",
+                "Getty Images/TongRo Images Inc",
+                "$12,000",
+                "Mika Gissler",
+                "Tim Harford",
+                "He",
+                "he",
+                "$60",
+                "US",
+                "Childbirth"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p077rqh9",
             "guid": "urn:bbc:podcast:p077rqh9",
             "isoDate": "2019-04-29T13:00:00.000Z",
@@ -4552,6 +6184,37 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p077l5ck.mp3"
             },
+            "entities": [
+                "Easter",
+                "Met Office",
+                "Monday",
+                "Wanlockhead",
+                "Scotland",
+                "two",
+                "late in April",
+                "5%",
+                "£150k",
+                "Scottish",
+                "1%",
+                "UK",
+                "100 years",
+                "£150,000",
+                "NHS",
+                "2.5%",
+                "Southern",
+                "a year",
+                "February",
+                "Recently",
+                "Getty Images",
+                "Helen Miller",
+                "Leadhills",
+                "one",
+                "40%",
+                "70%",
+                "once",
+                "Deputy Director",
+                "Institute for Fiscal Studies"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p077l6rn",
             "guid": "urn:bbc:podcast:p077l6rn",
             "isoDate": "2019-04-26T17:28:00.000Z",
@@ -4573,6 +6236,20 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p076wwt7.mp3"
             },
+            "entities": [
+                "this week",
+                "Producer",
+                "World Cup",
+                "Darin Graham",
+                "Presenter",
+                "every four years",
+                "Fang Guangming/Southern Metropolis Daily/VCG",
+                "Editor",
+                "Richard Vadon",
+                "two",
+                "Olympic Games",
+                "Charlotte McDonald"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p076wyn9",
             "guid": "urn:bbc:podcast:p076wyn9",
             "isoDate": "2019-04-19T23:05:00.000Z",
@@ -4594,6 +6271,19 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p076bmsy.mp3"
             },
+            "entities": [
+                "Scottish",
+                "Wanlockhead",
+                "Jan Halfpenny",
+                "Leadhills",
+                "once",
+                "Presenter",
+                "one",
+                "Phoebe Keane",
+                "Scotland",
+                "Southern",
+                "two"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p076bnyx",
             "guid": "urn:bbc:podcast:p076bnyx",
             "isoDate": "2019-04-15T13:00:00.000Z",
@@ -4615,6 +6305,22 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p075mvmf.mp3"
             },
+            "entities": [
+                "David Spiegelhalter",
+                "Darin Graham",
+                "lymphoma",
+                "Toxicologist",
+                "Richard Vadon",
+                "Charlotte McDonald",
+                "41 percent",
+                "Luoping Zhang",
+                "statistician",
+                "Producer",
+                "Presenter",
+                "cancer",
+                "Editor",
+                "Geoffrey Kabat"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p075mwd3",
             "guid": "urn:bbc:podcast:p075mwd3",
             "isoDate": "2019-04-08T13:00:00.000Z",
@@ -4636,6 +6342,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07597rz.mp3"
             },
+            "entities": [
+                "Getty Images",
+                "chess player",
+                "BBC",
+                "this week",
+                "Producer",
+                "Texas",
+                "Presenter",
+                "Darin Graham",
+                "David Edmonds"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p074yx4h",
             "guid": "urn:bbc:podcast:p074yx4h",
             "isoDate": "2019-04-02T13:34:00.000Z",
@@ -4657,6 +6374,35 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p074jv8y.mp3"
             },
+            "entities": [
+                "Bezos",
+                "Jeff Bezos",
+                "Richard Vadon",
+                "Mansa Musa",
+                "Saudi Arabia",
+                "Accra",
+                "Mali",
+                "the 1300s",
+                "today",
+                "He",
+                "train",
+                "60,000",
+                "Getty Images",
+                "king",
+                "founder",
+                "Darin Graham",
+                "one",
+                "the 14th century",
+                "historian",
+                "Emmanuel Ababio Ofosu-Mensah",
+                "Musa",
+                "University of Ghana",
+                "Producer",
+                "Kerry Dolan",
+                "Amazon",
+                "Editor",
+                "he"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p074jvrl",
             "guid": "urn:bbc:podcast:p074jvrl",
             "isoDate": "2019-03-25T14:00:00.000Z",
@@ -4678,6 +6424,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p073pbdm.mp3"
             },
+            "entities": ["an hour", "heart attack"],
             "link": "http://www.bbc.co.uk/programmes/p073pcdb",
             "guid": "urn:bbc:podcast:p073pcdb",
             "isoDate": "2019-03-18T14:00:00.000Z",
@@ -4699,6 +6446,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p072z8ct.mp3"
             },
+            "entities": [
+                "USA",
+                "Presenter",
+                "Phoebe Keane",
+                "Metamorworks / Getty Images",
+                "engineer",
+                "India"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p07302z6",
             "guid": "urn:bbc:podcast:p07302z6",
             "isoDate": "2019-03-09T10:00:00.000Z",
@@ -4720,6 +6475,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p072jf7y.mp3"
             },
+            "entities": [
+                "Presenter",
+                "Darin Graham",
+                "2.5 percent",
+                "Ruth Alexander \nProducer",
+                "one hundred years",
+                "40 percent",
+                "a year",
+                "February"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p072c44x",
             "guid": "urn:bbc:podcast:p072c44x",
             "isoDate": "2019-03-04T10:55:00.000Z",
@@ -4741,6 +6506,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p071pp7c.mp3"
             },
+            "entities": [
+                "BBC",
+                "six",
+                "third",
+                "Producer",
+                "Dave Edmonds",
+                "Presenter",
+                "Darin Graham",
+                "Editor",
+                "Richard Vadon",
+                "day"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p071ppn9",
             "guid": "urn:bbc:podcast:p071ppn9",
             "isoDate": "2019-02-22T15:30:00.000Z",
@@ -4762,6 +6539,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07113db.mp3"
             },
+            "entities": ["Tim Harford", "Matt Parker"],
             "link": "http://www.bbc.co.uk/programmes/p07113q3",
             "guid": "urn:bbc:podcast:p07113q3",
             "isoDate": "2019-02-18T14:00:00.000Z",
@@ -4783,6 +6561,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07112mw.mp3"
             },
+            "entities": ["diseases", "Victorian", "Tim Harford"],
             "link": "http://www.bbc.co.uk/programmes/p071135n",
             "guid": "urn:bbc:podcast:p071135n",
             "isoDate": "2019-02-15T17:59:00.000Z",
@@ -4804,6 +6583,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p070jxc2.mp3"
             },
+            "entities": [
+                "English",
+                "malnutrition",
+                "King",
+                "Edward the III",
+                "UK"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p070jz14",
             "guid": "urn:bbc:podcast:p070jz14",
             "isoDate": "2019-02-12T10:00:00.000Z",
@@ -4825,6 +6611,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p070d39y.mp3"
             },
+            "entities": ["Tim Harford"],
             "link": "http://www.bbc.co.uk/programmes/p070d4xz",
             "guid": "urn:bbc:podcast:p070d4xz",
             "isoDate": "2019-02-08T22:44:00.000Z",
@@ -4846,6 +6633,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06zr3ml.mp3"
             },
+            "entities": ["her"],
             "link": "http://www.bbc.co.uk/programmes/p06zr1dw",
             "guid": "urn:bbc:podcast:p06zr1dw",
             "isoDate": "2019-02-04T14:00:00.000Z",
@@ -4867,6 +6655,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06zqy4z.mp3"
             },
+            "entities": ["Venezuela", "Tim Harford"],
             "link": "http://www.bbc.co.uk/programmes/p06zqz7d",
             "guid": "urn:bbc:podcast:p06zqz7d",
             "isoDate": "2019-02-01T17:24:00.000Z",
@@ -4888,6 +6677,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06z3zqg.mp3"
             },
+            "entities": ["suicide", "the year", "Tim Harford"],
             "link": "http://www.bbc.co.uk/programmes/p06z40hl",
             "guid": "urn:bbc:podcast:p06z40hl",
             "isoDate": "2019-01-26T10:00:00.000Z",
@@ -4909,6 +6699,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06z3zc2.mp3"
             },
+            "entities": ["Easter", "domestic violence", "Tim Harford"],
             "link": "http://www.bbc.co.uk/programmes/p06z40wb",
             "guid": "urn:bbc:podcast:p06z40wb",
             "isoDate": "2019-01-25T17:22:00.000Z",
@@ -4930,6 +6721,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06yhdg7.mp3"
             },
+            "entities": ["Earth"],
             "link": "http://www.bbc.co.uk/programmes/p06yhfbq",
             "guid": "urn:bbc:podcast:p06yhfbq",
             "isoDate": "2019-01-19T10:00:00.000Z",
@@ -4951,6 +6743,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06yhdyn.mp3"
             },
+            "entities": ["Tim Harford", "1.7%"],
             "link": "http://www.bbc.co.uk/programmes/p06yhhjj",
             "guid": "urn:bbc:podcast:p06yhhjj",
             "isoDate": "2019-01-18T17:30:00.000Z",
@@ -4972,6 +6765,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06xq3vv.mp3"
             },
+            "entities": [],
             "link": "http://www.bbc.co.uk/programmes/p06xq55v",
             "guid": "urn:bbc:podcast:p06xq55v",
             "isoDate": "2019-01-12T06:00:00.000Z",
@@ -4993,6 +6787,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06xvj9w.mp3"
             },
+            "entities": ["Tim Harford", "train"],
             "link": "http://www.bbc.co.uk/programmes/p06xvkjc",
             "guid": "urn:bbc:podcast:p06xvkjc",
             "isoDate": "2019-01-11T17:00:00.000Z",
@@ -5014,6 +6809,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06x6k3m.mp3"
             },
+            "entities": ["American", "Helena Merriman"],
             "link": "http://www.bbc.co.uk/programmes/p06x6m23",
             "guid": "urn:bbc:podcast:p06x6m23",
             "isoDate": "2019-01-04T12:29:00.000Z",
@@ -5035,6 +6831,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06w33fy.mp3"
             },
+            "entities": ["2018"],
             "link": "http://www.bbc.co.uk/programmes/p06w33ll",
             "guid": "urn:bbc:podcast:p06w33ll",
             "isoDate": "2018-12-29T14:00:00.000Z",
@@ -5056,6 +6853,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06w32dt.mp3"
             },
+            "entities": ["Christmas Eve"],
             "link": "http://www.bbc.co.uk/programmes/p06w32vy",
             "guid": "urn:bbc:podcast:p06w32vy",
             "isoDate": "2018-12-22T14:00:00.000Z",
@@ -5077,6 +6875,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06vv0q4.mp3"
             },
+            "entities": [],
             "link": "http://www.bbc.co.uk/programmes/p06vv10f",
             "guid": "urn:bbc:podcast:p06vv10f",
             "isoDate": "2018-12-17T12:30:00.000Z",
@@ -5098,6 +6897,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06t9h4v.mp3"
             },
+            "entities": ["heart attack"],
             "link": "http://www.bbc.co.uk/programmes/p06t9hft",
             "guid": "urn:bbc:podcast:p06t9hft",
             "isoDate": "2018-11-30T20:00:00.000Z",
@@ -5119,6 +6919,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06snh64.mp3"
             },
+            "entities": ["war", "Xavier Zapata"],
             "link": "http://www.bbc.co.uk/programmes/p06snhyc",
             "guid": "urn:bbc:podcast:p06snhyc",
             "isoDate": "2018-11-23T20:00:00.000Z",
@@ -5140,6 +6941,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06s0rfz.mp3"
             },
+            "entities": [],
             "link": "http://www.bbc.co.uk/programmes/p06s0shc",
             "guid": "urn:bbc:podcast:p06s0shc",
             "isoDate": "2018-11-16T20:00:00.000Z",
@@ -5161,6 +6963,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06qmfbm.mp3"
             },
+            "entities": ["assassination"],
             "link": "http://www.bbc.co.uk/programmes/p06qmfpp",
             "guid": "urn:bbc:podcast:p06qmfpp",
             "isoDate": "2018-11-09T20:00:00.000Z",
@@ -5182,6 +6985,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06pzkf0.mp3"
             },
+            "entities": ["disease"],
             "link": "http://www.bbc.co.uk/programmes/p06pzl37",
             "guid": "urn:bbc:podcast:p06pzl37",
             "isoDate": "2018-10-28T20:00:00.000Z",
@@ -5203,6 +7007,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06pbpb2.mp3"
             },
+            "entities": [],
             "link": "http://www.bbc.co.uk/programmes/p06pbppg",
             "guid": "urn:bbc:podcast:p06pbppg",
             "isoDate": "2018-10-19T19:00:00.000Z",
@@ -5224,6 +7029,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06npz7r.mp3"
             },
+            "entities": [],
             "link": "http://www.bbc.co.uk/programmes/p06nq0gm",
             "guid": "urn:bbc:podcast:p06nq0gm",
             "isoDate": "2018-10-12T15:19:00.000Z",
@@ -5245,6 +7051,24 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06nckkd.mp3"
             },
+            "entities": [
+                "this may",
+                "economist",
+                "Vancouver School of Economics",
+                "Lucas Schifres",
+                "author",
+                "the",
+                "Canada",
+                "Netherlands",
+                "Sweden",
+                "Marina Ashdade",
+                "Belgium",
+                "Producer",
+                "Norway",
+                "UK",
+                "Ruth Alexander",
+                "Tim Harford"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p06ncndp",
             "guid": "urn:bbc:podcast:p06ncndp",
             "isoDate": "2018-10-09T12:20:00.000Z",
@@ -5266,6 +7090,24 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06n2myt.mp3"
             },
+            "entities": [
+                "this may",
+                "economist",
+                "Vancouver School of Economics",
+                "Lucas Schifres",
+                "author",
+                "the",
+                "Canada",
+                "Ruth Alexander \n\nImage",
+                "Netherlands",
+                "Sweden",
+                "Marina Ashdade",
+                "Belgium",
+                "Producer",
+                "Norway",
+                "UK",
+                "Tim Harford"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p06n2nfl",
             "guid": "urn:bbc:podcast:p06n2nfl",
             "isoDate": "2018-10-07T19:05:00.000Z",
@@ -5287,6 +7129,50 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06n2l5f.mp3"
             },
+            "entities": [
+                "27%",
+                "BBC Radio",
+                "this may",
+                "This week",
+                "BBC",
+                "nine-year",
+                "year",
+                "Aircraft on Battle of",
+                "Nick Gibb",
+                "Wellcome Collection",
+                "German",
+                "BBC Education",
+                "OECD",
+                "Marina Ashdade",
+                "Kevin Abele",
+                "75",
+                "Minister",
+                "Ruth Alexander\n\nImage",
+                "16-24",
+                "Polish",
+                "economist",
+                "University of the West of England",
+                "Vancouver School of Economics",
+                "author",
+                "40%",
+                "Britain",
+                "Sean Coughlan",
+                "60%",
+                "Deirdre Toher",
+                "Today",
+                "4",
+                "last week",
+                "third",
+                "Producer",
+                "Presenter",
+                "65-74",
+                "correspondent",
+                "Tim Harford",
+                "he",
+                "Day",
+                "29%",
+                "Lizzie McNeill"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p06n2lmp",
             "guid": "urn:bbc:podcast:p06n2lmp",
             "isoDate": "2018-10-05T16:32:00.000Z",
@@ -5308,6 +7194,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06mfn08.mp3"
             },
+            "entities": ["four weeks", "War", "World", "Two"],
             "link": "http://www.bbc.co.uk/programmes/p06mfnd2",
             "guid": "urn:bbc:podcast:p06mfnd2",
             "isoDate": "2018-10-01T09:00:00.000Z",
@@ -5329,6 +7216,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06mfk3b.mp3"
             },
+            "entities": ["Spitfire", "Tim Harford", "violence"],
             "link": "http://www.bbc.co.uk/programmes/p06mfmq2",
             "guid": "urn:bbc:podcast:p06mfmq2",
             "isoDate": "2018-09-28T16:00:00.000Z",
@@ -5350,6 +7238,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06ltldd.mp3"
             },
+            "entities": ["natural disaster"],
             "link": "http://www.bbc.co.uk/programmes/p06ltlw4",
             "guid": "urn:bbc:podcast:p06ltlw4",
             "isoDate": "2018-09-24T09:00:00.000Z",
@@ -5371,6 +7260,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06lthql.mp3"
             },
+            "entities": ["Tim Harford"],
             "link": "http://www.bbc.co.uk/programmes/p06ltl7b",
             "guid": "urn:bbc:podcast:p06ltl7b",
             "isoDate": "2018-09-21T16:45:00.000Z",
@@ -5392,6 +7282,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06l689q.mp3"
             },
+            "entities": ["20%", "96%"],
             "link": "http://www.bbc.co.uk/programmes/p06l6bb2",
             "guid": "urn:bbc:podcast:p06l6bb2",
             "isoDate": "2018-09-17T09:00:00.000Z",
@@ -5413,6 +7304,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06l60vy.mp3"
             },
+            "entities": ["suicide", "Tim Harford"],
             "link": "http://www.bbc.co.uk/programmes/p06l680k",
             "guid": "urn:bbc:podcast:p06l680k",
             "isoDate": "2018-09-14T17:10:00.000Z",
@@ -5434,6 +7326,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06klm14.mp3"
             },
+            "entities": ["Volvo", "his"],
             "link": "http://www.bbc.co.uk/programmes/p06klpzt",
             "guid": "urn:bbc:podcast:p06klpzt",
             "isoDate": "2018-09-10T09:00:00.000Z",
@@ -5455,6 +7348,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06klkjq.mp3"
             },
+            "entities": ["Tim Harford"],
             "link": "http://www.bbc.co.uk/programmes/p06kll7d",
             "guid": "urn:bbc:podcast:p06kll7d",
             "isoDate": "2018-09-07T16:33:00.000Z",
@@ -5476,6 +7370,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06jzf3v.mp3"
             },
+            "entities": ["Bobby Duffy", "Tim Harford"],
             "link": "http://www.bbc.co.uk/programmes/p06jzfvx",
             "guid": "urn:bbc:podcast:p06jzfvx",
             "isoDate": "2018-09-03T09:00:00.000Z",
@@ -5497,6 +7392,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06jz62k.mp3"
             },
+            "entities": ["EU", "Africa", "one", "Tim Harford"],
             "link": "http://www.bbc.co.uk/programmes/p06jz6tl",
             "guid": "urn:bbc:podcast:p06jz6tl",
             "isoDate": "2018-08-31T16:21:00.000Z",
@@ -5518,6 +7414,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06gh9yn.mp3"
             },
+            "entities": [
+                "Simon Maybin & Phoebe Keane\n\nPresenters",
+                "Steve",
+                "US Federal Reserve",
+                "Steve Bugeja",
+                "guide",
+                "August"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p06ghbh0",
             "guid": "urn:bbc:podcast:p06ghbh0",
             "isoDate": "2018-08-29T11:30:00.000Z",
@@ -5539,6 +7443,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06jcrsv.mp3"
             },
+            "entities": [],
             "link": "http://www.bbc.co.uk/programmes/p06jcsgr",
             "guid": "urn:bbc:podcast:p06jcsgr",
             "isoDate": "2018-08-27T09:00:00.000Z",
@@ -5560,6 +7465,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06jcm5p.mp3"
             },
+            "entities": [],
             "link": "http://www.bbc.co.uk/programmes/p06jcqp2",
             "guid": "urn:bbc:podcast:p06jcqp2",
             "isoDate": "2018-08-24T16:02:00.000Z",
@@ -5581,6 +7487,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06gh5dv.mp3"
             },
+            "entities": [
+                "Venezuelans",
+                "Simon Maybin & Phoebe Keane\n\nPresenters",
+                "Steve",
+                "Steve Bugeja",
+                "guide",
+                "August"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p06gh9m4",
             "guid": "urn:bbc:podcast:p06gh9m4",
             "isoDate": "2018-08-22T11:30:00.000Z",
@@ -5602,6 +7516,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06hzrlx.mp3"
             },
+            "entities": ["United States", "Southern Europe"],
             "link": "http://www.bbc.co.uk/programmes/p06hzs5c",
             "guid": "urn:bbc:podcast:p06hzs5c",
             "isoDate": "2018-08-20T16:05:00.000Z",
@@ -5623,6 +7538,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06gcj9h.mp3"
             },
+            "entities": [
+                "Simon Maybin & Phoebe Keane\n\nPresenters",
+                "Steve",
+                "her",
+                "Steve Bugeja",
+                "guide",
+                "August"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p06gcjym",
             "guid": "urn:bbc:podcast:p06gcjym",
             "isoDate": "2018-08-15T11:30:00.000Z",
@@ -5644,6 +7567,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06h3tgt.mp3"
             },
+            "entities": [],
             "link": "http://www.bbc.co.uk/programmes/p06h3ttk",
             "guid": "urn:bbc:podcast:p06h3ttk",
             "isoDate": "2018-08-10T15:00:00.000Z",
@@ -5665,6 +7589,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06gcgbk.mp3"
             },
+            "entities": [
+                "Simon Maybin & Phoebe Keane\n\nPresenters",
+                "Steve",
+                "four",
+                "Steve Bugeja",
+                "guide",
+                "August"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p06gch89",
             "guid": "urn:bbc:podcast:p06gch89",
             "isoDate": "2018-08-08T11:30:00.000Z",
@@ -5686,6 +7618,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06ghhsr.mp3"
             },
+            "entities": ["19"],
             "link": "http://www.bbc.co.uk/programmes/p06ghjwn",
             "guid": "urn:bbc:podcast:p06ghjwn",
             "isoDate": "2018-08-03T16:00:00.000Z",
@@ -5707,6 +7640,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06fwqjt.mp3"
             },
+            "entities": [],
             "link": "http://www.bbc.co.uk/programmes/p06fwrp9",
             "guid": "urn:bbc:podcast:p06fwrp9",
             "isoDate": "2018-07-27T16:17:00.000Z",
@@ -5728,6 +7662,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06f8t4d.mp3"
             },
+            "entities": ["one"],
             "link": "http://www.bbc.co.uk/programmes/p06f8v8q",
             "guid": "urn:bbc:podcast:p06f8v8q",
             "isoDate": "2018-07-23T19:00:00.000Z",
@@ -5749,6 +7684,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06f8wj6.mp3"
             },
+            "entities": [],
             "link": "http://www.bbc.co.uk/programmes/p06f8xmb",
             "guid": "urn:bbc:podcast:p06f8xmb",
             "isoDate": "2018-07-20T15:17:00.000Z",
@@ -5770,6 +7706,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06d1wnd.mp3"
             },
+            "entities": ["Earth", "Nasa", "astronomer", "Carl Sagan"],
             "link": "http://www.bbc.co.uk/programmes/p06d1xw0",
             "guid": "urn:bbc:podcast:p06d1xw0",
             "isoDate": "2018-07-06T16:03:00.000Z",
@@ -5791,6 +7728,22 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06cfx2g.mp3"
             },
+            "entities": [
+                "This week",
+                "Russian",
+                "Xin Li",
+                "Richard Vadon",
+                "two",
+                "Charlotte McDonald",
+                "Russia",
+                "Saudi Arabia",
+                "Producer",
+                "World Cup",
+                "Presenter",
+                "Artem Dzyuba",
+                "first",
+                "Germany"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p06cfz4h",
             "guid": "urn:bbc:podcast:p06cfz4h",
             "isoDate": "2018-06-29T16:20:00.000Z",
@@ -5812,6 +7765,26 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06bv2f1.mp3"
             },
+            "entities": [
+                "Professor",
+                "Reporter",
+                "Three years later",
+                "German",
+                "Charlotte McDonald",
+                "new year's",
+                "Lizzy McNeill",
+                "English",
+                "his",
+                "Producer",
+                "Stuart Webb",
+                "Presenter",
+                "David",
+                "Tim",
+                "Tim Harford",
+                "Ein Bier",
+                "he",
+                "Beth Sagar-Fenton"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p06bv4lt",
             "guid": "urn:bbc:podcast:p06bv4lt",
             "isoDate": "2018-06-22T15:03:00.000Z",
@@ -5833,6 +7806,23 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06b63y2.mp3"
             },
+            "entities": [
+                "Opta Sports",
+                "Cruyff",
+                "Maradona",
+                "Paul Gascoigne",
+                "one",
+                "England",
+                "Pele",
+                "statistician",
+                "World Cups",
+                "this week",
+                "World Cup",
+                "Author",
+                "Ben Carter",
+                "Duncan Alexander",
+                "1966"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p06b64sx",
             "guid": "urn:bbc:podcast:p06b64sx",
             "isoDate": "2018-06-15T14:54:00.000Z",
@@ -5854,6 +7844,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p069jjg6.mp3"
             },
+            "entities": [
+                "Meredith Broussard",
+                "she",
+                "Kate Lamble",
+                "09.05",
+                "every day",
+                "author",
+                "one",
+                "reporter",
+                "10-year-old",
+                "Tim Harford"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p069jlny",
             "guid": "urn:bbc:podcast:p069jlny",
             "isoDate": "2018-06-10T23:01:00.000Z",
@@ -5875,6 +7877,24 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p069jbmw.mp3"
             },
+            "entities": [
+                "15.44",
+                "murder",
+                "student",
+                "Wales",
+                "England",
+                "9.45",
+                "two",
+                "18.40",
+                "New York City",
+                "each year",
+                "earlier this year",
+                "billion",
+                "0.24",
+                "now",
+                "London",
+                "he"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p069jd0p",
             "guid": "urn:bbc:podcast:p069jd0p",
             "isoDate": "2018-06-08T16:00:00.000Z",
@@ -5896,6 +7916,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p068w92v.mp3"
             },
+            "entities": ["the autumn of 2017", "4700"],
             "link": "http://www.bbc.co.uk/programmes/p0691r44",
             "guid": "urn:bbc:podcast:p0691r44",
             "isoDate": "2018-06-04T08:04:00.000Z",
@@ -5917,6 +7938,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p068w6xh.mp3"
             },
+            "entities": ["WH Smith", "Harry Potter"],
             "link": "http://www.bbc.co.uk/programmes/p068w7c8",
             "guid": "urn:bbc:podcast:p068w7c8",
             "isoDate": "2018-06-01T17:25:00.000Z",
@@ -5938,6 +7960,21 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0687zrg.mp3"
             },
+            "entities": [
+                "This week",
+                "Getty",
+                "one",
+                "politician",
+                "seven",
+                "Charlotte McDonald",
+                "Australians",
+                "once",
+                "Presenter",
+                "Sachin Croker",
+                "Australia",
+                "Tim Harford",
+                "businessman"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p068805q",
             "guid": "urn:bbc:podcast:p068805q",
             "isoDate": "2018-05-28T09:00:00.000Z",
@@ -5959,6 +7996,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0687z8t.mp3"
             },
+            "entities": [
+                "BBC",
+                "15:46",
+                "20:06",
+                "11:37",
+                "06:55",
+                "University of Oxford Admissions",
+                "00.28"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0688221",
             "guid": "urn:bbc:podcast:p0688221",
             "isoDate": "2018-05-25T16:44:00.000Z",
@@ -5980,6 +8026,27 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p067kz0g.mp3"
             },
+            "entities": [
+                "Richard Fenton-Smith",
+                "scientist",
+                "Director",
+                "FBI",
+                "James Comey",
+                "NBA",
+                "two",
+                "Trump",
+                "President",
+                "Seth Stephens-Davidowitz",
+                "his",
+                "this week",
+                "Producer",
+                "6",
+                "Presenter",
+                "8",
+                "basketball player",
+                "Tim Harford",
+                "He"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p067kzyl",
             "guid": "urn:bbc:podcast:p067kzyl",
             "isoDate": "2018-05-21T09:00:00.000Z",
@@ -6001,6 +8068,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p067kypc.mp3"
             },
+            "entities": [
+                "12.51",
+                "6",
+                "18.03",
+                "0.22",
+                "8",
+                "England",
+                "20.21",
+                "6.50"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p067kzbn",
             "guid": "urn:bbc:podcast:p067kzbn",
             "isoDate": "2018-05-18T16:20:00.000Z",
@@ -6022,6 +8099,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p066x9zk.mp3"
             },
+            "entities": [
+                "Amsterdam",
+                "1630",
+                "Anne Goldgar",
+                "Kings College London",
+                "Tulip craze",
+                "crash"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p066xbxr",
             "guid": "urn:bbc:podcast:p066xbxr",
             "isoDate": "2018-05-14T09:00:00.000Z",
@@ -6043,6 +8128,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p066x7km.mp3"
             },
+            "entities": [
+                "03:49",
+                "09:51",
+                "Phillip Tetlock",
+                "00:26",
+                "UK",
+                "Ireland",
+                "author",
+                "Tim Harford",
+                "17:43"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p066x9fh",
             "guid": "urn:bbc:podcast:p066x9fh",
             "isoDate": "2018-05-11T16:21:00.000Z",
@@ -6064,6 +8160,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0668htp.mp3"
             },
+            "entities": [
+                "statistician",
+                "his",
+                "Ola",
+                "Hans Rosling",
+                "Hans",
+                "Tim Harford",
+                "February last year",
+                "he",
+                "him",
+                "Anna"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0668k2q",
             "guid": "urn:bbc:podcast:p0668k2q",
             "isoDate": "2018-05-07T09:00:00.000Z",
@@ -6085,6 +8193,27 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0668hy2.mp3"
             },
+            "entities": [
+                "breast cancer",
+                "07:26",
+                "Nigel Farage",
+                "Richard Vadon",
+                "Charlotte McDonald",
+                "journalist",
+                "Mona Chalabi",
+                "his",
+                "her",
+                "Producer",
+                "Presenter",
+                "Windrush Generation",
+                "11:15",
+                "18 years",
+                "Tim Harford",
+                "Editor",
+                "450,000",
+                "0:32",
+                "16:32"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0668l1y",
             "guid": "urn:bbc:podcast:p0668l1y",
             "isoDate": "2018-05-04T16:33:00.000Z",
@@ -6106,6 +8235,20 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p065jyny.mp3"
             },
+            "entities": [
+                "La Perla",
+                "Mario Tama",
+                "San Juan",
+                "Kate Lamble",
+                "independent",
+                "Producer",
+                "Rico",
+                "Puerto",
+                "Caribbean",
+                "Hurricane",
+                "last year",
+                "Tim Harford"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p065jzd9",
             "guid": "urn:bbc:podcast:p065jzd9",
             "isoDate": "2018-04-29T09:00:00.000Z",
@@ -6127,6 +8270,24 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p065k183.mp3"
             },
+            "entities": [
+                "11",
+                "\u201933",
+                "Royal Statistical Society",
+                "\u201935",
+                "15",
+                "\u201928",
+                "\u201939",
+                "Executive Director",
+                "0",
+                "100",
+                "Hetan Shah",
+                "4",
+                "UK",
+                "every day",
+                "a year",
+                "8.5 billion"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p065k2v9",
             "guid": "urn:bbc:podcast:p065k2v9",
             "isoDate": "2018-04-27T16:22:00.000Z",
@@ -6148,6 +8309,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p064xwgq.mp3"
             },
+            "entities": [
+                "Dan",
+                "Dan Ariely",
+                "economist",
+                "Tim Harford",
+                "Sean Gallup"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p064xy9k",
             "guid": "urn:bbc:podcast:p064xy9k",
             "isoDate": "2018-04-20T16:12:00.000Z",
@@ -6169,6 +8337,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p064785b.mp3"
             },
+            "entities": [
+                "Kevin Frayer",
+                "14",
+                "China",
+                "World Health Organisation",
+                "95%",
+                "Italy",
+                "Shanxi"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p06478pz",
             "guid": "urn:bbc:podcast:p06478pz",
             "isoDate": "2018-04-13T15:47:00.000Z",
@@ -6190,6 +8367,21 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p063jqqy.mp3"
             },
+            "entities": [
+                "Getty Images",
+                "murder",
+                "New York",
+                "one",
+                "two",
+                "every nine hours",
+                "every thirty seconds",
+                "attack",
+                "Jack Taylor",
+                "London",
+                "South Africa",
+                "Facebook",
+                "first"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p063jr97",
             "guid": "urn:bbc:podcast:p063jr97",
             "isoDate": "2018-04-08T19:30:00.000Z",
@@ -6211,6 +8403,19 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p062q4s6.mp3"
             },
+            "entities": [
+                "1920",
+                "murder",
+                "her",
+                "Fisher",
+                "one",
+                "Miss",
+                "Murder",
+                "Australia",
+                "172",
+                "Melbourne",
+                "Phryne Fisher"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p062q5q0",
             "guid": "urn:bbc:podcast:p062q5q0",
             "isoDate": "2018-03-29T14:10:00.000Z",
@@ -6232,6 +8437,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0623lx4.mp3"
             },
+            "entities": [
+                "76 percent",
+                "Vladimir Putin",
+                "President",
+                "Last week",
+                "Russian",
+                "a second",
+                "67 percent",
+                "fourth",
+                "he",
+                "Russia"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0623rb8",
             "guid": "urn:bbc:podcast:p0623rb8",
             "isoDate": "2018-03-23T15:24:00.000Z",
@@ -6253,6 +8470,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p061ctf7.mp3"
             },
+            "entities": [
+                "President",
+                "Donald Trump",
+                "one",
+                "America",
+                "Washington, DC",
+                "White House",
+                "McNamee",
+                "he",
+                "US",
+                "Trump"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p061cv86",
             "guid": "urn:bbc:podcast:p061cv86",
             "isoDate": "2018-03-16T16:14:00.000Z",
@@ -6274,6 +8503,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p060nfgp.mp3"
             },
+            "entities": ["Roger Bannister", "four minutes"],
             "link": "http://www.bbc.co.uk/programmes/p060nfys",
             "guid": "urn:bbc:podcast:p060nfys",
             "isoDate": "2018-03-09T18:45:00.000Z",
@@ -6295,6 +8525,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06049gv.mp3"
             },
+            "entities": [
+                "Hollywood",
+                "100",
+                "BBC",
+                "Academy Awards",
+                "the 90th year",
+                "three",
+                "two"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p06049q8",
             "guid": "urn:bbc:podcast:p06049q8",
             "isoDate": "2018-03-05T10:52:00.000Z",
@@ -6316,6 +8555,21 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p05z577y.mp3"
             },
+            "entities": [
+                "\u201935",
+                "three minutes",
+                "winter",
+                "3.45",
+                "two-man",
+                "\u201940",
+                "\u201941",
+                "0",
+                "Canada",
+                "6",
+                "8",
+                "Germany",
+                "16.86 seconds"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p05z57wr",
             "guid": "urn:bbc:podcast:p05z57wr",
             "isoDate": "2018-02-25T20:00:00.000Z",

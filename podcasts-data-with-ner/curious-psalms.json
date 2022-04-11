@@ -48,6 +48,15 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/49868651/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-30%2F0c716a1a-f79a-3d37-62d0-85083b9d8445.mp3"
             },
+            "entities": [
+                "Matt",
+                "Psalm",
+                "one",
+                "63",
+                "he",
+                "him",
+                "Dave Roylance"
+            ],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-63-with-Dave-Roylance-e1ggcdb",
             "guid": "c2962379-779c-4c36-b715-78de807ed56a",
@@ -70,6 +79,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/49176850/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-17%2F83711098-f9f9-683e-18ca-e1f5e6bb0227.mp3"
             },
+            "entities": ["Matt", "Aaron", "his", "62", "Aaron Antoon"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-62-with-Aaron-Antoon-e1fr8qi",
             "guid": "3af963c5-5df8-41ff-b8ad-69bd1f1b95b3",
@@ -92,6 +102,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/48456557/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-2%2F9390d8ef-6834-da04-ddec-d7c4bdb90b36.mp3"
             },
+            "entities": ["Diann Kalsbeek", "Matt", "Psalm", "61", "escape"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-61-with-Diann-Kalsbeek-e1f59dd",
             "guid": "e1079156-d3f1-425f-a1d9-9c02ff3dbaaf",
@@ -114,6 +125,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/47769766/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-16%2Fb1265eed-5556-47e3-7282-44ff945d896f.mp3"
             },
+            "entities": ["Matt", "covenant", "60", "Olivia Giles"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-60-with-Olivia-Giles-e1egan6",
             "guid": "30570e71-f82c-4798-8fb6-8c28e6900e42",
@@ -136,6 +148,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/47080554/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-2%2Ff1b3e249-601f-d23c-d2b9-8f6da0377b71.mp3"
             },
+            "entities": ["Matt", "11", "Psalm", "59", "Libby Backfish"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-59-with-Libby-Backfish-e1dr9la",
             "guid": "f5b9f7fc-0916-400a-8433-a224ce1b7a1b",
@@ -158,6 +171,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/46392862/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-19%2F5d70aa1f-2a36-22ea-1222-169f0560e1f4.mp3"
             },
+            "entities": ["Matt", "Psalms", "58", "Nathan Giles"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-58-with-Nathan-Giles-e1d6a2u",
             "guid": "67e5c328-7b66-45b9-a7ac-fb5f59fd688b",
@@ -180,6 +194,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/45637845/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-3%2F95f5fb66-7a1f-a31f-e5ed-4fa8ace2c7a2.mp3"
             },
+            "entities": ["Matt", "57", "Amy Langle"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-57-with-Amy-Langle-e1cf8ol",
             "guid": "5a0c0935-dfa3-437b-a53d-19a51f4b4e78",
@@ -202,6 +217,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/45224733/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-22%2F66b8b462-f177-1598-5450-f4adcdd55c09.mp3"
             },
+            "entities": [
+                "Matt",
+                "56",
+                "Kevin",
+                "about Christmas",
+                "Kevin Adams",
+                "Reverend"
+            ],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-56-with-Kevin-Adams-e1c2lat",
             "guid": "bba5f5a7-56e2-4711-be88-89b193393a0f",
@@ -224,6 +247,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/44576684/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-9%2Fb14c9ac9-f26e-f631-cf59-d6c4275ba854.mp3"
             },
+            "entities": [
+                "Libby Backfish",
+                "Curious Psalms",
+                "William Jessup University"
+            ],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-55-with-Jessup-Students-e1besfc",
             "guid": "a2788763-9864-4acd-afd3-861b18cf44db",
@@ -246,6 +274,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/43848036/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-24%2Ffe5c7b6a-dd4e-2c29-44de-67ab818430e1.mp3"
             },
+            "entities": ["Matt", "Luke Adams", "model", "54"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-54-with-Luke-Adams-e1aokt4",
             "guid": "f9761d1b-a1c9-4d09-8e0b-e6c23990d191",
@@ -268,6 +297,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/43145743/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-10%2Fa1bbca87-f126-72bc-103b-f1d272d6af53.mp3"
             },
+            "entities": [
+                "Matt",
+                "she",
+                "Nabal",
+                "Abigail",
+                "Stirling Marcum",
+                "53"
+            ],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-53-with-Stirling-Marcum-e1a372f",
             "guid": "a7290a2f-630f-45fc-909c-11bea49043dd",
@@ -290,6 +327,15 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/42437966/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-27%2F03c2d947-1aff-e89b-d728-6f717a3b1009.mp3"
             },
+            "entities": [
+                "Matt",
+                "Beginning this week",
+                "Psalm",
+                "Cheryl",
+                "every other week",
+                "Cheryl Maffei",
+                "52"
+            ],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-52-with-Cheryl-Maffei-e19djse",
             "guid": "8f066376-3daf-44a0-9c2f-014a980ffbbc",
@@ -312,6 +358,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/42086712/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-20%2F09f11f63-f9c4-bdae-8e21-7f5e52d5b7a8.mp3"
             },
+            "entities": ["Matt", "Aaron", "his", "51", "Aaron Antoon"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-51-with-Aaron-Antoon-e192sro",
             "guid": "9bdb812d-d811-4fec-89a8-9b51c373532b",
@@ -334,6 +381,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/41749906/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-14%2F3b100560-f33b-7544-86ed-b9fee048334e.mp3"
             },
+            "entities": ["Matt", "Grant", "Creator Judge", "Grant Sork", "50"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-50-with-Grant-Sork-e18ojui",
             "guid": "ee9fba1f-d116-440c-8f1b-d42c4d0a2424",
@@ -356,6 +404,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/41396759/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-6%2F2c6205ac-bd23-1283-3aa6-405d8e7c7d09.mp3"
             },
+            "entities": [
+                "Matt",
+                "Psalm",
+                "49",
+                "one",
+                "Rachel",
+                "Rachel Timms"
+            ],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-49-with-Rachel-Timms-e18dr2n",
             "guid": "83d7e876-7ee3-4767-8930-74632cf9bbc8",
@@ -378,6 +434,16 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/41060406/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-30%2F9f577218-1458-7c9a-2545-133dbd759e82.mp3"
             },
+            "entities": [
+                "Matt",
+                "Psalm",
+                "Church",
+                "48",
+                "Jerusalem",
+                "Kevin Adams",
+                "Reverend",
+                "guide"
+            ],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-48-with-Kevin-Adams-e183ijm",
             "guid": "d8c82538-d345-4621-b977-d8a2367354e9",
@@ -400,6 +466,18 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/40701670/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-22%2F164c82e8-027a-83f8-fd45-9bfd1224043c.mp3"
             },
+            "entities": [
+                "Matt",
+                "47",
+                "his",
+                "Jesus",
+                "Kyu",
+                "one",
+                "Curious Psalms",
+                "model",
+                "Reverend",
+                "Kyu Hahn"
+            ],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-47-with-Kyu-Hahn-e17ok96",
             "guid": "22cd5548-de9d-4a31-83f6-daf80c4bf1c4",
@@ -422,6 +500,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/40351924/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-15%2F0800a9f0-657a-9399-778b-ef3f7cb90324.mp3"
             },
+            "entities": ["Matt", "46", "Psalm", "Amy Langle", "Amy"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-46-with-Amy-Langle-e17dunk",
             "guid": "4e3eecda-1e6f-40cb-ab9d-1d6268b9d0e3",
@@ -444,6 +523,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/39640687/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-1%2F2b2382b9-4637-6d3d-8deb-c9ee32c285fc.mp3"
             },
+            "entities": ["Matt", "45", "Libby Backfish", "Libby"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-45-with-Libby-Backfish-e16o85f",
             "guid": "67249e49-8920-49ba-a2f4-e5b551413ab4",
@@ -466,6 +546,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/39580197/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-30%2F8d7e880a-af27-9a95-3b3d-d1bc1ff87554.mp3"
             },
+            "entities": ["44", "his", "Olivia Giles"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-44-with-Olivia-Giles-e16md35",
             "guid": "8284d1b8-c3ed-4cf7-9a3e-d5e75a5a3d9b",
@@ -488,6 +569,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/39347787/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-25%2F508efed9-230e-3278-588f-3d9344803633.mp3"
             },
+            "entities": ["1", "judge", "Nathan Giles", "42", "43"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-43-with-Nathan-Giles-e16fa4b",
             "guid": "6643b9ae-2f47-4d0c-b8d4-04f79b27f4a8",
@@ -510,6 +592,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/38989039/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-18%2F3d35c75c-b9c8-e9fa-905b-d46f20fb624b.mp3"
             },
+            "entities": [
+                "Psalm",
+                "Sandra McCracken",
+                "Reverend",
+                "42",
+                "Kyu Hahn"
+            ],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-42-with-Kyu-Hahn-e164bpf",
             "guid": "2add60e3-ff5f-4d56-b41b-b74be230f3ba",
@@ -532,6 +621,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/38643841/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-11%2F2c39e52f-1623-a62f-bdc3-92a4d7f3ffec.mp3"
             },
+            "entities": ["Psalms", "41", "Aaron Antoon"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-41-with-Aaron-Antoon-e15pqm1",
             "guid": "3623abb4-e802-4567-ab5d-a4b72ea5a5ae",
@@ -554,6 +644,16 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/38310274/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-4%2F4267ebb4-f070-bc71-fed3-d247363b2379.mp3"
             },
+            "entities": [
+                "Psalms",
+                "past",
+                "future",
+                "Bible",
+                "40",
+                "Heath Langle",
+                "He",
+                "him"
+            ],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-40-with-Heath-Langle-e15fku2",
             "guid": "5b1a68d2-b748-44be-b3a1-66402839529b",
@@ -576,6 +676,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/37973780/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-28%2F4f59dd58-5324-b966-275f-eb3e6ee43807.mp3"
             },
+            "entities": ["Joan Curry", "Joan", "Psalm", "39"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-39-with-Joan-Curry-e155cak",
             "guid": "cabc8338-a8f7-4086-911d-0248e0254c00",
@@ -598,6 +699,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/37623471/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-21%2Facb147e3-4f3d-0836-42e1-a6d0c673e305.mp3"
             },
+            "entities": ["38", "one", "Hannah", "Hannah Dungan", "he"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-38-with-Hannah-Dungan-e14qm7f",
             "guid": "ff17c817-cdde-4f34-b14a-c79e0ebdcd9b",
@@ -620,6 +722,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/37248830/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-14%2F3da7e8a3-20ad-2207-65eb-0e93039820f2.mp3"
             },
+            "entities": ["37", "Reverend", "Kyu Hahn"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-37-with-Kyu-Hahn-e14f8bu",
             "guid": "350044a2-501a-4a5c-84c0-908cef94572d",
@@ -642,6 +745,14 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36869928/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-7%2F203686980-44100-2-280a60447de43.m4a"
             },
+            "entities": [
+                "Amy Langle",
+                "37",
+                "Onycs",
+                "Gerry Adams",
+                "Grant Sork",
+                "Kyu Hahn"
+            ],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-37-A-Reading-e143mb8",
             "guid": "4f074df6-6ef0-45c0-ac8e-0a5a4b112622",
@@ -664,6 +775,7 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36487054/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-1%2F201900363-44100-2-f6c8f4b5288f3.m4a"
             },
+            "entities": ["nine", "Psalm", "36", "Grant Sork"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-36-with-Grant-Sork-e13o0ee",
             "guid": "b823ad4c-95ca-4298-9246-de93513f7b81",
@@ -686,6 +798,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125517/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189067-44100-2-927c55231256e746.mp3"
             },
+            "entities": ["Matt", "35", "one", "Dolly Leedy"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-35-with-Dolly-Leedy-e13cvcd",
             "guid": "http://granitesprings.org?enmse_mid=299",
@@ -708,6 +821,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125529/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189095-44100-2-382a155d7449984a.mp3"
             },
+            "entities": ["34", "Kevin Adams", "Reverend"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-34-with-Kevin-Adams-e13cvcp",
             "guid": "http://granitesprings.org?enmse_mid=298",
@@ -730,6 +844,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125515/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189058-44100-2-829548601d0d69bb.mp3"
             },
+            "entities": ["33", "Luke Adams", "his"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-33-with-Luke-Adams-e13cvcb",
             "guid": "http://granitesprings.org?enmse_mid=297",
@@ -752,6 +867,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125519/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189082-44100-2-e6f6cd175d6bfafd.mp3"
             },
+            "entities": ["Kyu Hahn", "32"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-32-with-Kyu-Hahn-e13cvcf",
             "guid": "http://granitesprings.org?enmse_mid=296",
@@ -774,6 +890,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125550/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189102-44100-2-b1f226942456bf34.mp3"
             },
+            "entities": ["her", "Libby Backfish", "31"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-31-with-Libby-Backfish-e13cvde",
             "guid": "http://granitesprings.org?enmse_mid=295",
@@ -796,6 +913,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125563/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189144-44100-2-062aedff00f67a56.mp3"
             },
+            "entities": ["Aaron Antoon", "30"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-30-with-Aaron-Antoon-e13cvdr",
             "guid": "http://granitesprings.org?enmse_mid=294",
@@ -818,6 +936,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125544/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189122-44100-2-71c59cc3d773ffc1.mp3"
             },
+            "entities": ["29", "Nathan Giles"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-29-with-Nathan-Giles-e13cvd8",
             "guid": "http://granitesprings.org?enmse_mid=293",
@@ -840,6 +959,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125513/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189060-44100-2-188593a5393a7d2f.mp3"
             },
+            "entities": ["28", "David", "Rachel Timms"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-28-with-Rachel-Timms-e13cvc9",
             "guid": "http://granitesprings.org?enmse_mid=292",
@@ -862,6 +982,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125554/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189136-44100-2-c1aa00f941125631.mp3"
             },
+            "entities": ["Amy Langle", "27"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-27-with-Amy-Langle-e13cvdi",
             "guid": "http://granitesprings.org?enmse_mid=291",
@@ -884,6 +1005,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125543/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189118-44100-2-d57f5bc564b202b8.mp3"
             },
+            "entities": ["26", "Madi Trivits"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-26-with-Madi-Trivits-e13cvd7",
             "guid": "http://granitesprings.org?enmse_mid=290",
@@ -906,6 +1028,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125545/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189119-44100-2-611e9f1fcf51d302.mp3"
             },
+            "entities": ["25", "Kyu Hahn"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-25-with-Kyu-Hahn-e13cvd9",
             "guid": "http://granitesprings.org?enmse_mid=289",
@@ -928,6 +1051,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125536/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189109-44100-2-ddfd6309eab9e58e.mp3"
             },
+            "entities": ["Psalms", "24", "Olivia Giles", "first"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-24-with-Olivia-Giles-e13cvd0",
             "guid": "http://granitesprings.org?enmse_mid=288",
@@ -950,6 +1074,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125547/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189125-44100-2-c8c500c74122c509.mp3"
             },
+            "entities": ["23", "Kevin Adams", "Reverend"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-23-with-Kevin-Adams-e13cvdb",
             "guid": "http://granitesprings.org?enmse_mid=287",
@@ -972,6 +1097,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125549/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189057-44100-2-63493fe9b8d0bbb9.mp3"
             },
+            "entities": ["22", "Jesus", "Libby Backfish"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-22-with-Libby-Backfish-e13cvdd",
             "guid": "http://granitesprings.org?enmse_mid=286",
@@ -994,6 +1120,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125540/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189110-44100-2-b2fb0a3f1aefa0e1.mp3"
             },
+            "entities": ["Kyle Trivits", "king", "21"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-21-with-Kyle-Trivits-e13cvd4",
             "guid": "http://granitesprings.org?enmse_mid=285",
@@ -1016,6 +1143,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125542/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189107-44100-2-39cb801e7ca903c1.mp3"
             },
+            "entities": ["Aaron Antoon", "20"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-20-with-Aaron-Antoon-e13cvd6",
             "guid": "http://granitesprings.org?enmse_mid=284",
@@ -1038,6 +1166,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125541/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189111-44100-2-ceedc499c30b9046.mp3"
             },
+            "entities": ["Law", "Madi Trivits", "19", "Curious Psalms"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-19-with-Madi-Trivits-e13cvd5",
             "guid": "http://granitesprings.org?enmse_mid=283",
@@ -1060,6 +1189,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125538/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189116-44100-2-9719fa58dac49f91.mp3"
             },
+            "entities": ["King", "Covenant", "18", "Kevin Adams"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-18-with-Kevin-Adams-e13cvd2",
             "guid": "http://granitesprings.org?enmse_mid=282",
@@ -1082,6 +1212,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125526/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189096-44100-2-e4f0aae2e704bf76.mp3"
             },
+            "entities": [
+                "Amy Langle",
+                "his",
+                "Madi Trivits",
+                "18",
+                "Kevin Adams",
+                "Scott Buckley"
+            ],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-18-A-Reading-e13cvcm",
             "guid": "http://granitesprings.org?enmse_mid=281",
@@ -1104,6 +1242,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125537/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189093-44100-2-73edd4979c7ff090.mp3"
             },
+            "entities": ["Marrissa Sork", "17"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-17-with-Marrissa-Sork-e13cvd1",
             "guid": "http://granitesprings.org?enmse_mid=280",
@@ -1126,6 +1265,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125534/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189108-44100-2-9a647872f9339e9a.mp3"
             },
+            "entities": ["16", "Rev.", "Kyu Hahn"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-16-with-Kyu-Hahn-e13cvcu",
             "guid": "http://granitesprings.org?enmse_mid=279",
@@ -1148,6 +1288,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125518/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189079-44100-2-69b1853e02b7f98c.mp3"
             },
+            "entities": ["15", "one", "Rachel Timms"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-15-with-Rachel-Timms-e13cvce",
             "guid": "http://granitesprings.org?enmse_mid=278",
@@ -1170,6 +1311,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125546/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189062-44100-2-7419e60a8cf8b277.mp3"
             },
+            "entities": ["Luke Adams", "14"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-14-with-Luke-Adams-e13cvda",
             "guid": "http://granitesprings.org?enmse_mid=277",
@@ -1192,6 +1334,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125530/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189098-44100-2-3c3bf6bb075fb57c.mp3"
             },
+            "entities": ["13", "Libby Backfish"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-13-with-Libby-Backfish-e13cvcq",
             "guid": "http://granitesprings.org?enmse_mid=276",
@@ -1214,6 +1357,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125560/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189105-44100-2-eac9fd58ad33efbf.mp3"
             },
+            "entities": ["12", "Madi Trivits"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-12-with-Madi-Trivits-e13cvdo",
             "guid": "http://granitesprings.org?enmse_mid=275",
@@ -1236,6 +1380,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125531/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189099-44100-2-e9ad9186bd7ab1d7.mp3"
             },
+            "entities": ["11", "Grant Sork"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-11-with-Grant-Sork-e13cvcr",
             "guid": "http://granitesprings.org?enmse_mid=274",
@@ -1258,6 +1403,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125556/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189113-44100-2-cc6a6e71cb7ea8ec.mp3"
             },
+            "entities": ["Pastor", "Kyu Hahn", "10"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-10-with-Kyu-Hahn-e13cvdk",
             "guid": "http://granitesprings.org?enmse_mid=273",
@@ -1280,6 +1426,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125520/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189070-44100-2-ad40ee5bba829ac1.mp3"
             },
+            "entities": ["Bethany Kamstra", "9"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-9-with-Bethany-Kamstra-e13cvcg",
             "guid": "http://granitesprings.org?enmse_mid=272",
@@ -1302,6 +1449,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125532/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189101-44100-2-ea8c3808a437fecc.mp3"
             },
+            "entities": ["8", "Aaron Antoon"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-8-with-Aaron-Antoon-e13cvcs",
             "guid": "http://granitesprings.org?enmse_mid=271",
@@ -1324,6 +1472,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125524/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189089-44100-2-0f8f269b1c7e34d8.mp3"
             },
+            "entities": ["King", "7", "Kevin Adams"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-7-with-Kevin-Adams-e13cvck",
             "guid": "http://granitesprings.org?enmse_mid=270",
@@ -1346,6 +1495,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125548/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189104-44100-2-2a804c87f79c5214.mp3"
             },
+            "entities": ["Amy Langle", "his", "6"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-6-with-Amy-Langle-e13cvdc",
             "guid": "http://granitesprings.org?enmse_mid=269",
@@ -1368,6 +1518,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125552/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189112-44100-2-bec9c9907e1a1e59.mp3"
             },
+            "entities": ["5", "Madi Trivits"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-5-with-Madi-Trivits-e13cvdg",
             "guid": "http://granitesprings.org?enmse_mid=268",
@@ -1390,6 +1541,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125521/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189073-44100-2-2c29d0af74ac401f.mp3"
             },
+            "entities": ["4", "Pastor", "Kyu Hahn"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-4-with-Kyu-Hahn-e13cvch",
             "guid": "http://granitesprings.org?enmse_mid=267",
@@ -1412,6 +1564,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125516/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189065-44100-2-46a8ef89ef59b508.mp3"
             },
+            "entities": ["3", "Libby Backfish"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-3-with-Libby-Backfish-e13cvcc",
             "guid": "http://granitesprings.org?enmse_mid=266",
@@ -1434,6 +1587,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125533/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189114-48000-2-b3f1380349dc910c.mp3"
             },
+            "entities": ["2", "his", "Aaron Antoon"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-2-with-Aaron-Antoon-e13cvct",
             "guid": "http://granitesprings.org?enmse_mid=265",
@@ -1456,6 +1610,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/6162efec/podcast/play/36125522/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-24%2F200189092-44100-2-fcaafdecd7e6938e.mp3"
             },
+            "entities": ["1", "Kevin Adams"],
             "dc:creator": "Curious Psalms",
             "link": "https://anchor.fm/curiouspsalms/episodes/Psalm-1-with-Kevin-Adams-e13cvci",
             "guid": "http://granitesprings.org?enmse_mid=264",

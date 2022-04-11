@@ -39,6 +39,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08qz2hj.mp3"
             },
+            "entities": [
+                "7 August 1945",
+                "attack",
+                "Emily Strasser",
+                "Hiroshima",
+                "day",
+                "first"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08qz3ty",
             "guid": "urn:bbc:podcast:p08qz3ty",
             "isoDate": "2020-09-11T23:05:00.000Z",
@@ -60,6 +68,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08qj2wy.mp3"
             },
+            "entities": [
+                "Leo Szilard",
+                "President",
+                "his",
+                "Manhattan Project",
+                "Chicago",
+                "Szilard",
+                "Japanese",
+                "he",
+                "first",
+                "US"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08qj3gy",
             "guid": "urn:bbc:podcast:p08qj3gy",
             "isoDate": "2020-09-04T23:05:00.000Z",
@@ -81,6 +101,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08plrnq.mp3"
             },
+            "entities": [
+                "Leo Szilard",
+                "his",
+                "Manhattan Project",
+                "Japan",
+                "now",
+                "Szilard",
+                "FBI",
+                "he",
+                "first"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08plsq3",
             "guid": "urn:bbc:podcast:p08plsq3",
             "isoDate": "2020-08-28T23:05:00.000Z",
@@ -102,6 +133,19 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08ny95h.mp3"
             },
+            "entities": [
+                "Pearl",
+                "Leo Szilard",
+                "grip",
+                "his",
+                "attack",
+                "Japan",
+                "Harbour",
+                "war",
+                "Japanese",
+                "US",
+                "first"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08ny993",
             "guid": "urn:bbc:podcast:p08ny993",
             "isoDate": "2020-08-21T23:05:00.000Z",
@@ -123,6 +167,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08njrfr.mp3"
             },
+            "entities": [
+                "Leo Szilard",
+                "President",
+                "his",
+                "hour",
+                "Franklin D. Roosevelt",
+                "Nazis",
+                "he",
+                "US",
+                "first",
+                "Albert Einstein"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08njs2h",
             "guid": "urn:bbc:podcast:p08njs2h",
             "isoDate": "2020-08-14T23:05:00.000Z",
@@ -144,6 +200,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08n1kr8.mp3"
             },
+            "entities": [
+                "Leo Szilard",
+                "his",
+                "Winston Churchill",
+                "Nazis",
+                "London",
+                "Frederick Lindemann",
+                "He",
+                "two",
+                "first",
+                "Germany"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08n1lkb",
             "guid": "urn:bbc:podcast:p08n1lkb",
             "isoDate": "2020-08-07T23:05:00.000Z",
@@ -165,6 +233,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09ngczv.mp3"
             },
+            "entities": [
+                "1920s",
+                "Leo Szilard",
+                "scientist",
+                "Berlin",
+                "Nazis",
+                "London",
+                "he",
+                "Albert Einstein",
+                "first"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08mdypb",
             "guid": "urn:bbc:podcast:p08mdypb",
             "isoDate": "2020-07-31T23:05:00.000Z",
@@ -186,6 +265,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08lhs0b.mp3"
             },
+            "entities": ["1", "1 August"],
             "link": "http://www.bbc.co.uk/programmes/p08llwb4",
             "guid": "urn:bbc:podcast:p08llwb4",
             "isoDate": "2020-07-23T09:25:00.000Z",

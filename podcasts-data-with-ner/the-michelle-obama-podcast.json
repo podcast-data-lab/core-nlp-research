@@ -42,6 +42,20 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT7964699067.mp3?updated=1617734514"
             },
+            "entities": [
+                "Barack Obama",
+                "Renegades: Born",
+                "President",
+                "USA",
+                "his",
+                "Commander",
+                "Obama",
+                "America",
+                "now",
+                "Michelle Obama",
+                "Bruce Springsteen",
+                "eight"
+            ],
             "content:encodedSnippet": "So much has happened since the debut of The Michelle Obama Podcast\u2014including President Barack Obama, launching a podcast of his own. Renegades: Born in the USA is a series of conversations between the former Commander in Chief and Bruce Springsteen about their lives, their favorite music, and their enduring love of America, despite all its challenges and contradictions. \nThis episode\u2014about fatherhood\u2014is Mrs. Obama\u2019s favorite. But they\u2019re all terrific. Head to the Renegades: Born in the USA feed here to listen to all eight now. \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "5294e728-96da-11eb-adff-0f56cde813b8",
             "isoDate": "2021-04-07T09:00:00.000Z",
@@ -66,6 +80,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5791507868.mp3"
             },
+            "entities": ["Michelle"],
             "content:encodedSnippet": "Michelle\u2019s mom and brother join to talk all things parenting\u2014from bringing babies home to dropping them off at college. Find the episode transcript here: https://spoti.fi/TMOP_transcripts \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "ea677d94-f9ec-11ea-bb3d-9b5e443f4671",
             "isoDate": "2020-09-30T07:40:00.000Z",
@@ -90,6 +105,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT2956786739.mp3"
             },
+            "entities": ["Michelle", "right now", "her", "two"],
             "content:encodedSnippet": "Part two of our discussion about mentorship features Michelle in conversation with her younger team members, in which they explore the ups and downs of professional life and what it\u2019s like to be a black woman right now. Find the episode transcript here: https://spoti.fi/TMOP_transcripts \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "9d4f60f8-f9ec-11ea-93dd-b3418c80c634",
             "isoDate": "2020-09-30T07:35:00.000Z",
@@ -114,6 +130,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT2121111555.mp3"
             },
+            "entities": ["Michelle", "boss", "her", "one", "Valerie Jarrett"],
             "content:encodedSnippet": "In part one of her discussion about mentorship, Michelle reminisces with her friend and former boss Valerie Jarrett about personal growth in the workplace. Find the episode transcript here: https://spoti.fi/TMOP_transcripts \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "49fc4920-f9ec-11ea-9331-1777f91aaa3f",
             "isoDate": "2020-09-30T07:30:00.000Z",
@@ -138,6 +155,11 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5262457131.mp3"
             },
+            "entities": [
+                "Michelle",
+                "http://spoti.fi/TMOP_transcripts",
+                "Conan O\u2019Brien"
+            ],
             "content:encodedSnippet": "Conan O\u2019Brien video chats with Michelle to discuss the challenges and joys of marriage. Find the episode transcript here: http://spoti.fi/TMOP_transcripts\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "023fd19c-f9ec-11ea-9a3f-33dff377f318",
             "isoDate": "2020-09-30T07:25:00.000Z",
@@ -162,6 +184,16 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT1500598276.mp3"
             },
+            "entities": [
+                "Denielle Pemberton-Heard",
+                "her",
+                "Kelly Dibble",
+                "White House",
+                "Michelle Obama",
+                "three",
+                "years",
+                "Sharon Malone"
+            ],
             "content:encodedSnippet": "Michelle Obama sits down with three of her dearest friends\u2014Denielle Pemberton-Heard, Dr. Sharon Malone, and Kelly Dibble\u2014to talk about women\u2019s friendship and navigating the White House years. Find the episode transcript here: http://spoti.fi/TMOP_transcripts  \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "a3159940-f9eb-11ea-9fe6-0bcbdaa8ecb5",
             "isoDate": "2020-09-30T07:20:00.000Z",
@@ -186,6 +218,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9686873817.mp3"
             },
+            "entities": ["Michelle", "her", "Chicago"],
             "content:encodedSnippet": "Michelle chats with her beloved older brother about their childhood and growing up together on the South Side of Chicago. Find the episode transcript here: http://spoti.fi/TMOP_transcripts  \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "6669d4ca-f9eb-11ea-93dd-a38eed7c8883",
             "isoDate": "2020-09-30T07:15:00.000Z",
@@ -210,6 +243,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9467146268.mp3"
             },
+            "entities": ["Michelle", "OB-GYN", "her", "Sharon Malone"],
             "content:encodedSnippet": "Michelle talks with her friend, Dr. Sharon Malone, an OB-GYN, about women\u2019s health, menopause, and aging. Find the episode transcript here: http://spoti.fi/TMOP_transcripts \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "12781aa2-f9eb-11ea-8d87-fbeceb06f67b",
             "isoDate": "2020-09-30T07:10:00.000Z",
@@ -234,6 +268,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT6223016995.mp3"
             },
+            "entities": ["journalist", "Michelle", "Michele Norris"],
             "content:encodedSnippet": "Award-winning journalist Michele Norris joins Michelle to discuss how we can gain new understandings of ourselves during an international pandemic and national reckoning with race. Find the episode transcript here: http://spoti.fi/TMOP_transcripts  \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "67618a22-f9ea-11ea-90f9-af7d70832585",
             "isoDate": "2020-09-30T07:05:00.000Z",
@@ -258,6 +293,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT1880099390.mp3"
             },
+            "entities": ["Michelle", "current", "her"],
             "content:encodedSnippet": "Michelle talks with her husband about the current moment and our responsibilities to our communities, our country, and each other. Find the episode transcript here: http://spoti.fi/TMOP_transcripts \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "90568474-f9e9-11ea-a493-93e50824adc4",
             "isoDate": "2020-09-30T07:00:00.000Z",

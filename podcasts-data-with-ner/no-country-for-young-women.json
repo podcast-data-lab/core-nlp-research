@@ -44,6 +44,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08v2gky.mp3"
             },
+            "entities": [],
             "link": "http://www.bbc.co.uk/programmes/p08v2gvj",
             "guid": "urn:bbc:podcast:p08v2gvj",
             "isoDate": "2020-10-13T03:00:00.000Z",
@@ -65,6 +66,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08tdp95.mp3"
             },
+            "entities": ["actor", "she", "boss", "Yoruba", "Kelechi Okafor"],
             "link": "http://www.bbc.co.uk/programmes/p08tdx51",
             "guid": "urn:bbc:podcast:p08tdx51",
             "isoDate": "2020-10-06T05:00:00.000Z",
@@ -86,6 +88,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08t58sj.mp3"
             },
+            "entities": [
+                "comedian",
+                "British",
+                "presenter",
+                "her",
+                "LA",
+                "model",
+                "Ayesha",
+                "Athena"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08ssmc9",
             "guid": "urn:bbc:podcast:p08ssmc9",
             "isoDate": "2020-09-29T05:00:00.000Z",
@@ -107,6 +119,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08s3cn9.mp3"
             },
+            "entities": ["Monty", "Bola Sol", "Franklin Asante", "Financier"],
             "link": "http://www.bbc.co.uk/programmes/p08s3dnl",
             "guid": "urn:bbc:podcast:p08s3dnl",
             "isoDate": "2020-09-22T03:00:00.000Z",
@@ -128,6 +141,20 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08rgf0h.mp3"
             },
+            "entities": [
+                "she",
+                "Netherlands",
+                "Christmas",
+                "her",
+                "artist",
+                "Gaidaa",
+                "Black Lives Matter",
+                "Europe",
+                "UK",
+                "Sudan",
+                "Dutch",
+                "Dutch-Sudanese"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08rgfk3",
             "guid": "urn:bbc:podcast:p08rgfk3",
             "isoDate": "2020-09-15T03:00:00.000Z",
@@ -149,6 +176,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08qvzyq.mp3"
             },
+            "entities": ["Samantha Sun", "April"],
             "link": "http://www.bbc.co.uk/programmes/p08qw534",
             "guid": "urn:bbc:podcast:p08qw534",
             "isoDate": "2020-09-08T13:42:00.000Z",
@@ -170,6 +198,24 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08pxjyc.mp3"
             },
+            "entities": [
+                "Samba",
+                "British",
+                "DJ",
+                "weekend",
+                "Notting Hill Carnival",
+                "three",
+                "Portia Clarke",
+                "dancer",
+                "Maxine Marshall",
+                "61 years",
+                "UK",
+                "Britons",
+                "Consultant",
+                "Caribbean",
+                "this year",
+                "first"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08pxtd2",
             "guid": "urn:bbc:podcast:p08pxtd2",
             "isoDate": "2020-09-01T03:00:00.000Z",
@@ -191,6 +237,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08phz09.mp3"
             },
+            "entities": [
+                "Sasha",
+                "Kadeen Corbin",
+                "British",
+                "England",
+                "Netball"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08pj0pk",
             "guid": "urn:bbc:podcast:p08pj0pk",
             "isoDate": "2020-08-25T03:00:00.000Z",
@@ -212,6 +265,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08nw26m.mp3"
             },
+            "entities": [
+                "journalist",
+                "guru",
+                "Jessica Nabongo",
+                "Tolani Shoneye",
+                "195",
+                "first"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08nwd26",
             "guid": "urn:bbc:podcast:p08nwd26",
             "isoDate": "2020-08-18T03:00:00.000Z",
@@ -233,6 +294,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08nbs0z.mp3"
             },
+            "entities": [
+                "journalist",
+                "Nadine",
+                "Nadine Batchelor-Hunt",
+                "Wiley",
+                "recently",
+                "anti-Semitic",
+                "Twitter",
+                "U.K.",
+                "he",
+                "Jewish"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08mz4f4",
             "guid": "urn:bbc:podcast:p08mz4f4",
             "isoDate": "2020-08-11T12:47:00.000Z",
@@ -254,6 +327,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08mpnhp.mp3"
             },
+            "entities": [
+                "journalist",
+                "Kiley Reid",
+                "Natalie",
+                "author",
+                "Melissa of Black Girls Book Club",
+                "Sarah Shaffi"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08mpnx8",
             "guid": "urn:bbc:podcast:p08mpnx8",
             "isoDate": "2020-08-04T08:40:00.000Z",
@@ -275,6 +356,11 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08lz4pb.mp3"
             },
+            "entities": [
+                "Aluna Francis",
+                "her",
+                "Black Music Action Coalition"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08lzlvz",
             "guid": "urn:bbc:podcast:p08lzlvz",
             "isoDate": "2020-07-28T03:00:00.000Z",
@@ -296,6 +382,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08lbn42.mp3"
             },
+            "entities": ["Grace", "Coco Khan", "Coco", "Asian", "therapist"],
             "link": "http://www.bbc.co.uk/programmes/p08lbpm1",
             "guid": "urn:bbc:podcast:p08lbpm1",
             "isoDate": "2020-07-21T03:00:00.000Z",
@@ -317,6 +404,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08knng0.mp3"
             },
+            "entities": [
+                "Chef",
+                "Indian",
+                "Tomi Makanjuola",
+                "Riyadh Khalaf",
+                "Nigerian",
+                "Vegan"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08kntmb",
             "guid": "urn:bbc:podcast:p08kntmb",
             "isoDate": "2020-07-14T03:00:00.000Z",
@@ -338,6 +433,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08k0hpw.mp3"
             },
+            "entities": [
+                "NoCountryForYoungWomen@bbc.co.uk",
+                "third",
+                "sex positive",
+                "one",
+                "Scotty Unfamous",
+                "Nigerian"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08k0jqg",
             "guid": "urn:bbc:podcast:p08k0jqg",
             "isoDate": "2020-07-07T03:00:00.000Z",
@@ -359,6 +462,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08jcftj.mp3"
             },
+            "entities": [
+                "Amelia",
+                "Charlotte",
+                "feminism",
+                "historian",
+                "Karens",
+                "Southampton University",
+                "CEO",
+                "Amelia Dimoldenberg",
+                "Charlotte Riley"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08jchwz",
             "guid": "urn:bbc:podcast:p08jchwz",
             "isoDate": "2020-06-30T03:00:00.000Z",
@@ -380,6 +494,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08hq5nd.mp3"
             },
+            "entities": [
+                "her",
+                "15 year old",
+                "Britain",
+                "the future",
+                "three"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08hq6ns",
             "guid": "urn:bbc:podcast:p08hq6ns",
             "isoDate": "2020-06-23T05:00:00.000Z",
@@ -401,6 +522,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08h1rcj.mp3"
             },
+            "entities": [
+                "BBC Radio",
+                "right now",
+                "presenter",
+                "George Floyd",
+                "Wiley",
+                "feminism",
+                "Dotty",
+                "a few weeks ago before"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08h1sxk",
             "guid": "urn:bbc:podcast:p08h1sxk",
             "isoDate": "2020-06-16T03:00:00.000Z",
@@ -422,6 +553,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08gdm5b.mp3"
             },
+            "entities": [
+                "Sadia",
+                "British",
+                "NoCountryForYoungWomen@bbc.co.uk",
+                "Thanna Alghabban",
+                "first",
+                "Muslim",
+                "Mobeen Azhar"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08gdmf8",
             "guid": "urn:bbc:podcast:p08gdmf8",
             "isoDate": "2020-06-09T03:00:00.000Z",
@@ -443,6 +583,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08fj84m.mp3"
             },
+            "entities": [
+                "she",
+                "her",
+                "Little Mix",
+                "England",
+                "North East",
+                "Arab"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08frbxd",
             "guid": "urn:bbc:podcast:p08frbxd",
             "isoDate": "2020-06-02T03:00:00.000Z",
@@ -464,6 +612,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08dtdqk.mp3"
             },
+            "entities": ["NoCountryForYoungWomen@bbc.co.uk", "4"],
             "link": "http://www.bbc.co.uk/programmes/p08dtf8y",
             "guid": "urn:bbc:podcast:p08dtf8y",
             "isoDate": "2020-05-26T03:00:00.000Z",
@@ -485,6 +634,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07xbl7t.mp3"
             },
+            "entities": ["comedian", "Christmas", "400", "Vir Das"],
             "link": "http://www.bbc.co.uk/programmes/p07xbn6m",
             "guid": "urn:bbc:podcast:p07xbn6m",
             "isoDate": "2019-12-10T04:00:00.000Z",
@@ -506,6 +656,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07wps9d.mp3"
             },
+            "entities": [
+                "Amaarae",
+                "queen",
+                "singer-songwriter",
+                "present",
+                "African"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p07wpqk2",
             "guid": "urn:bbc:podcast:p07wpqk2",
             "isoDate": "2019-12-03T04:00:00.000Z",
@@ -527,6 +684,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07vt19m.mp3"
             },
+            "entities": [
+                "his",
+                "Brixton Soup Kitchen",
+                "founder",
+                "the day",
+                "Solomon Smith",
+                "two",
+                "He"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p07vt56p",
             "guid": "urn:bbc:podcast:p07vt56p",
             "isoDate": "2019-11-26T04:00:00.000Z",
@@ -548,6 +714,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07txwdm.mp3"
             },
+            "entities": ["Jay", "his", "T.I.", "Kym", "YouTube"],
             "link": "http://www.bbc.co.uk/programmes/p07txx7s",
             "guid": "urn:bbc:podcast:p07txx7s",
             "isoDate": "2019-11-19T04:00:00.000Z",
@@ -569,6 +736,12 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07tc15x.mp3"
             },
+            "entities": [
+                "she",
+                "Joy Crookes",
+                "NoCountryForYoungWomen@bbc.co.uk",
+                "singer-songwriter"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p07tc536",
             "guid": "urn:bbc:podcast:p07tc536",
             "isoDate": "2019-11-12T04:00:00.000Z",
@@ -590,6 +763,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07sxh61.mp3"
             },
+            "entities": ["French", "yellow fever", "France", "Paris"],
             "link": "http://www.bbc.co.uk/programmes/p07sxl37",
             "guid": "urn:bbc:podcast:p07sxl37",
             "isoDate": "2019-11-05T04:00:00.000Z",
@@ -611,6 +785,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07s9cbm.mp3"
             },
+            "entities": [
+                "comedian",
+                "she",
+                "presenter",
+                "her",
+                "Ahir Shah",
+                "Emily Lloyd-Saini",
+                "Asian"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p07s9d25",
             "guid": "urn:bbc:podcast:p07s9d25",
             "isoDate": "2019-10-29T04:00:00.000Z",
@@ -632,6 +815,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07rd4h8.mp3"
             },
+            "entities": [
+                "Hollywood",
+                "her",
+                "drug trafficking",
+                "South",
+                "London",
+                "Ashley",
+                "Britain",
+                "therapist"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p07rd781",
             "guid": "urn:bbc:podcast:p07rd781",
             "isoDate": "2019-10-22T03:00:00.000Z",
@@ -653,6 +846,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07qq1g6.mp3"
             },
+            "entities": [
+                "Ready Steady Cook",
+                "NoCountryForYoungWomen@bbc.co.uk",
+                "one",
+                "Ainsley Harriott",
+                "first"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p07qq5mq",
             "guid": "urn:bbc:podcast:p07qq5mq",
             "isoDate": "2019-10-15T03:00:00.000Z",
@@ -674,6 +874,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07q0np6.mp3"
             },
+            "entities": [
+                "She",
+                "she",
+                "NoCountryForYoungWomen@bbc.co.uk",
+                "her",
+                "Phoebe Robinson",
+                "Michelle Obama",
+                "harassment"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p07q0q68",
             "guid": "urn:bbc:podcast:p07q0q68",
             "isoDate": "2019-10-08T03:00:00.000Z",
@@ -695,6 +904,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07pthjc.mp3"
             },
+            "entities": [
+                "his",
+                "NoCountryForYoungWomen@bbc.co.uk",
+                "Wiley",
+                "Ed\u2026",
+                "Wang",
+                "Phil"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p07ptj11",
             "guid": "urn:bbc:podcast:p07ptj11",
             "isoDate": "2019-10-01T16:18:00.000Z",
@@ -716,6 +933,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07p2mv0.mp3"
             },
+            "entities": [
+                "Hollywood",
+                "BBC",
+                "NoCountryForYoungWomen@bbc.co.uk",
+                "third",
+                "breaker",
+                "cult",
+                "Rose McGowan",
+                "Rose"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p07p2qnf",
             "guid": "urn:bbc:podcast:p07p2qnf",
             "isoDate": "2019-09-24T03:00:00.000Z",
@@ -737,6 +964,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07myltf.mp3"
             },
+            "entities": ["2", "BBC", "Darren Harriott", "Charlie George"],
             "link": "http://www.bbc.co.uk/programmes/p07mymwb",
             "guid": "urn:bbc:podcast:p07mymwb",
             "isoDate": "2019-09-17T03:00:00.000Z",
@@ -758,6 +986,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07myjm5.mp3"
             },
+            "entities": [
+                "Michael Odewale",
+                "1",
+                "Loyiso Gola",
+                "BBC",
+                "Aditi Mittal"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p07mylmq",
             "guid": "urn:bbc:podcast:p07mylmq",
             "isoDate": "2019-09-17T03:00:00.000Z",
@@ -779,6 +1014,12 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07jxpzm.mp3"
             },
+            "entities": [
+                "www.bbc.co.uk/edinburghtickets",
+                "one",
+                "night",
+                "Edinburgh"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p07jxrny",
             "guid": "urn:bbc:podcast:p07jxrny",
             "isoDate": "2019-08-06T16:57:00.000Z",
@@ -800,6 +1041,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0792pxr.mp3"
             },
+            "entities": [],
             "link": "http://www.bbc.co.uk/programmes/p0792r6r",
             "guid": "urn:bbc:podcast:p0792r6r",
             "isoDate": "2019-05-14T03:00:00.000Z",
@@ -821,6 +1063,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07885v5.mp3"
             },
+            "entities": ["Monty"],
             "link": "http://www.bbc.co.uk/programmes/p078873r",
             "guid": "urn:bbc:podcast:p078873r",
             "isoDate": "2019-05-07T03:00:00.000Z",
@@ -842,6 +1085,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p077s5pw.mp3"
             },
+            "entities": ["Sadia", "Nigeria"],
             "link": "http://www.bbc.co.uk/programmes/p077sfsm",
             "guid": "urn:bbc:podcast:p077sfsm",
             "isoDate": "2019-04-30T03:00:00.000Z",
@@ -863,6 +1107,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p076x5rw.mp3"
             },
+            "entities": ["comedian", "USA", "UK", "Desiree"],
             "link": "http://www.bbc.co.uk/programmes/p076x600",
             "guid": "urn:bbc:podcast:p076x600",
             "isoDate": "2019-04-23T03:00:00.000Z",
@@ -884,6 +1129,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p076ktt2.mp3"
             },
+            "entities": ["actor", "Martial artist", "Shaina"],
             "link": "http://www.bbc.co.uk/programmes/p076kvhr",
             "guid": "urn:bbc:podcast:p076kvhr",
             "isoDate": "2019-04-16T03:00:00.000Z",
@@ -905,6 +1151,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p075wh49.mp3"
             },
+            "entities": [
+                "activist",
+                "his",
+                "Nan",
+                "He",
+                "Riyadh",
+                "Muslim-Catholic"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p075whv2",
             "guid": "urn:bbc:podcast:p075whv2",
             "isoDate": "2019-04-09T03:00:00.000Z",
@@ -926,6 +1180,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0755w45.mp3"
             },
+            "entities": ["her", "Freddie"],
             "link": "http://www.bbc.co.uk/programmes/p0755xw8",
             "guid": "urn:bbc:podcast:p0755xw8",
             "isoDate": "2019-04-02T03:00:00.000Z",
@@ -947,6 +1202,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p074kc72.mp3"
             },
+            "entities": ["Nish Kumar"],
             "link": "http://www.bbc.co.uk/programmes/p074kcjb",
             "guid": "urn:bbc:podcast:p074kcjb",
             "isoDate": "2019-03-26T00:30:00.000Z",
@@ -968,6 +1224,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p073xfxp.mp3"
             },
+            "entities": ["Candice", "author", "Queenie"],
             "link": "http://www.bbc.co.uk/programmes/p073xg5w",
             "guid": "urn:bbc:podcast:p073xg5w",
             "isoDate": "2019-03-19T00:30:00.000Z",
@@ -989,6 +1246,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0736wvz.mp3"
             },
+            "entities": [
+                "Monty",
+                "British",
+                "Charlie Brinkhurst-Cuff",
+                "host",
+                "BAME"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p07389rn",
             "guid": "urn:bbc:podcast:p07389rn",
             "isoDate": "2019-03-12T04:00:00.000Z",
@@ -1010,6 +1274,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p072mj9x.mp3"
             },
+            "entities": ["Benjamina", "Shamima Begum", "Bake Off"],
             "link": "http://www.bbc.co.uk/programmes/p072k4j9",
             "guid": "urn:bbc:podcast:p072k4j9",
             "isoDate": "2019-03-05T09:50:00.000Z",
@@ -1031,6 +1296,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p071z85s.mp3"
             },
+            "entities": ["Grace Carter", "this week", "singer"],
             "link": "http://www.bbc.co.uk/programmes/p071z8jq",
             "guid": "urn:bbc:podcast:p071z8jq",
             "isoDate": "2019-02-26T11:08:00.000Z",
@@ -1052,6 +1318,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0717tww.mp3"
             },
+            "entities": ["Nicole Krystal Crentsil", "founder", "model"],
             "link": "http://www.bbc.co.uk/programmes/p0717w4q",
             "guid": "urn:bbc:podcast:p0717w4q",
             "isoDate": "2019-02-19T04:00:00.000Z",
@@ -1073,6 +1340,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p070lgn1.mp3"
             },
+            "entities": [
+                "Saudi Arabia",
+                "queen",
+                "Basma Khalifa",
+                "one",
+                "Valentine"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p070lhxz",
             "guid": "urn:bbc:podcast:p070lhxz",
             "isoDate": "2019-02-12T04:00:00.000Z",
@@ -1094,6 +1368,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06zxjww.mp3"
             },
+            "entities": ["Stephanie Yeboah", "R Kelly"],
             "link": "http://www.bbc.co.uk/programmes/p06zxkgj",
             "guid": "urn:bbc:podcast:p06zxkgj",
             "isoDate": "2019-02-05T04:00:00.000Z",
@@ -1115,6 +1390,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06z9v0f.mp3"
             },
+            "entities": ["Amrou Al-Kadhi aka Glamrou"],
             "link": "http://www.bbc.co.uk/programmes/p06z9vv7",
             "guid": "urn:bbc:podcast:p06z9vv7",
             "isoDate": "2019-01-29T04:00:00.000Z",
@@ -1136,6 +1412,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06yhff6.mp3"
             },
+            "entities": ["Coco Khan", "Writer"],
             "link": "http://www.bbc.co.uk/programmes/p06yhhkq",
             "guid": "urn:bbc:podcast:p06yhhkq",
             "isoDate": "2019-01-22T04:00:00.000Z",
@@ -1157,6 +1434,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06y2g3q.mp3"
             },
+            "entities": ["she", "founder", "Jay-Ann Lopez"],
             "link": "http://www.bbc.co.uk/programmes/p06y2h38",
             "guid": "urn:bbc:podcast:p06y2h38",
             "isoDate": "2019-01-15T04:00:00.000Z",
@@ -1178,6 +1456,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06vhr5s.mp3"
             },
+            "entities": ["New Year", "Idris Elba"],
             "link": "http://www.bbc.co.uk/programmes/p06vhtl5",
             "guid": "urn:bbc:podcast:p06vhtl5",
             "isoDate": "2018-12-13T18:03:00.000Z",
@@ -1199,6 +1478,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06crm1k.mp3"
             },
+            "entities": ["nocountryforyoungwomen@bbc.co.uk", "second"],
             "link": "http://www.bbc.co.uk/programmes/p06crmy5",
             "guid": "urn:bbc:podcast:p06crmy5",
             "isoDate": "2018-07-03T13:42:00.000Z",
@@ -1220,6 +1500,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06c4tnt.mp3"
             },
+            "entities": ["London Hughes"],
             "link": "http://www.bbc.co.uk/programmes/p06c4vp4",
             "guid": "urn:bbc:podcast:p06c4vp4",
             "isoDate": "2018-06-26T14:47:00.000Z",
@@ -1241,6 +1522,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06bjqt5.mp3"
             },
+            "entities": ["comedian", "Alfie Brown"],
             "link": "http://www.bbc.co.uk/programmes/p06bjs3d",
             "guid": "urn:bbc:podcast:p06bjs3d",
             "isoDate": "2018-06-19T13:15:00.000Z",
@@ -1262,6 +1544,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p069w6sw.mp3"
             },
+            "entities": [
+                "Laura",
+                "author",
+                "poet",
+                "nocountryforyoungwomen@bbc.co.uk",
+                "Salma El-Wardany"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p069w9s2",
             "guid": "urn:bbc:podcast:p069w9s2",
             "isoDate": "2018-06-12T15:59:00.000Z",
@@ -1283,6 +1572,12 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0693fdx.mp3"
             },
+            "entities": [
+                "activist",
+                "model",
+                "nocountryforyoungwomen@bbc.co.uk",
+                "Munroe Bergdorf"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0693fw3",
             "guid": "urn:bbc:podcast:p0693fw3",
             "isoDate": "2018-06-05T04:00:00.000Z",
@@ -1304,6 +1599,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p068jz0t.mp3"
             },
+            "entities": ["scientist", "Florence Adepoju"],
             "link": "http://www.bbc.co.uk/programmes/p068k06r",
             "guid": "urn:bbc:podcast:p068k06r",
             "isoDate": "2018-05-29T12:57:00.000Z",
@@ -1325,6 +1621,11 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p067ttv3.mp3"
             },
+            "entities": [
+                "creator",
+                "blogger",
+                "nocountryforyoungwomen@bbc.co.uk"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p067tw6v",
             "guid": "urn:bbc:podcast:p067tw6v",
             "isoDate": "2018-05-22T04:00:00.000Z",
@@ -1346,6 +1647,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06774q1.mp3"
             },
+            "entities": [
+                "comedian",
+                "Bilal Zafar",
+                "Jack Grattan",
+                "Asian",
+                "coach"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p067779j",
             "guid": "urn:bbc:podcast:p067779j",
             "isoDate": "2018-05-15T08:46:00.000Z",
@@ -1367,6 +1675,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0668lry.mp3"
             },
+            "entities": ["Yoni", "Vivienne Acheampong"],
             "link": "http://www.bbc.co.uk/programmes/p0668mlw",
             "guid": "urn:bbc:podcast:p0668mlw",
             "isoDate": "2018-05-08T04:00:00.000Z",
@@ -1388,6 +1697,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p065tnhn.mp3"
             },
+            "entities": ["performer", "Lina Bembe", "feminism"],
             "link": "http://www.bbc.co.uk/programmes/p065tpz1",
             "guid": "urn:bbc:podcast:p065tpz1",
             "isoDate": "2018-05-01T04:00:00.000Z",
@@ -1409,6 +1719,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0655c78.mp3"
             },
+            "entities": ["comedian", "BBC", "Danish", "Sofie Hagen"],
             "link": "http://www.bbc.co.uk/programmes/p0655qdb",
             "guid": "urn:bbc:podcast:p0655qdb",
             "isoDate": "2018-04-24T04:00:00.000Z",
@@ -1430,6 +1741,12 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p064hk4c.mp3"
             },
+            "entities": [
+                "Muslim activist",
+                "mechanical engineer",
+                "Yassmin Abdel-Magied",
+                "British Asian"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p064hphr",
             "guid": "urn:bbc:podcast:p064hphr",
             "isoDate": "2018-04-17T04:00:00.000Z",
@@ -1451,6 +1768,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p063z2ds.mp3"
             },
+            "entities": ["Monty", "Sadia", "April 17", "first"],
             "link": "http://www.bbc.co.uk/programmes/p063zzg0",
             "guid": "urn:bbc:podcast:p063zzg0",
             "isoDate": "2018-04-11T16:11:00.000Z",

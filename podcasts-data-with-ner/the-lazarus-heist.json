@@ -37,6 +37,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bccgn8.mp3"
             },
+            "entities": ["Lazarus Heist", "2022"],
             "link": "http://www.bbc.co.uk/programmes/p0bccj5c",
             "guid": "urn:bbc:podcast:p0bccj5c",
             "isoDate": "2021-12-22T00:05:00.000Z",
@@ -58,6 +59,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09m14fg.mp3"
             },
+            "entities": [
+                "WannaCry",
+                "attack",
+                "Marcus Hutchins",
+                "billions of dollars",
+                "150"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09m14pt",
             "guid": "urn:bbc:podcast:p09m14pt",
             "isoDate": "2021-06-20T23:30:00.000Z",
@@ -79,6 +87,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09lbl0l.mp3"
             },
+            "entities": ["Kim Jong-nam", "2017", "2015", "past", "one"],
             "link": "http://www.bbc.co.uk/programmes/p09lbl4f",
             "guid": "urn:bbc:podcast:p09lbl4f",
             "isoDate": "2021-06-13T23:30:00.000Z",
@@ -100,6 +109,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09km5s5.mp3"
             },
+            "entities": ["Japan", "$20 million"],
             "link": "http://www.bbc.co.uk/programmes/p09km60g",
             "guid": "urn:bbc:podcast:p09km60g",
             "isoDate": "2021-06-06T23:15:00.000Z",
@@ -121,6 +131,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09jymzr.mp3"
             },
+            "entities": ["billion dollar", "Philippines"],
             "link": "http://www.bbc.co.uk/programmes/p09jynr0",
             "guid": "urn:bbc:podcast:p09jynr0",
             "isoDate": "2021-05-30T23:15:00.000Z",
@@ -142,6 +153,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09j8flg.mp3"
             },
+            "entities": ["hacker"],
             "link": "http://www.bbc.co.uk/programmes/p09j8h3k",
             "guid": "urn:bbc:podcast:p09j8h3k",
             "isoDate": "2021-05-23T23:15:00.000Z",
@@ -163,6 +175,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09hlvqc.mp3"
             },
+            "entities": [
+                "Lazarus",
+                "executions",
+                "hacker",
+                "FBI",
+                "Park Jin Hyok"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09hlxf1",
             "guid": "urn:bbc:podcast:p09hlxf1",
             "isoDate": "2021-05-16T23:15:00.000Z",
@@ -184,6 +203,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09sg2t7.mp3"
             },
+            "entities": ["Bangladesh Bank", "printer", "theft"],
             "link": "http://www.bbc.co.uk/programmes/p09gy7jm",
             "guid": "urn:bbc:podcast:p09gy7jm",
             "isoDate": "2021-05-09T23:15:00.000Z",
@@ -205,6 +225,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09g8nlt.mp3"
             },
+            "entities": ["Smoking"],
             "link": "http://www.bbc.co.uk/programmes/p09g8p4n",
             "guid": "urn:bbc:podcast:p09g8p4n",
             "isoDate": "2021-05-02T23:15:00.000Z",
@@ -226,6 +247,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fktd1.mp3"
             },
+            "entities": [
+                "Sony",
+                "Hollywood",
+                "President",
+                "Obama",
+                "he",
+                "North Korea"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09fktyl",
             "guid": "urn:bbc:podcast:p09fktyl",
             "isoDate": "2021-04-25T23:15:00.000Z",
@@ -247,6 +276,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09dx323.mp3"
             },
+            "entities": [
+                "Sony",
+                "Hollywood",
+                "attack",
+                "Kim Jong-un",
+                "Lazarus Group",
+                "Sony Pictures Entertainment"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09dx4p1",
             "guid": "urn:bbc:podcast:p09dx4p1",
             "isoDate": "2021-04-18T23:15:00.000Z",
@@ -268,6 +305,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09d3tlx.mp3"
             },
+            "entities": [
+                "Hollywood",
+                "billion-dollar",
+                "Jean Lee",
+                "United States",
+                "Geoff White",
+                "19 April 2021",
+                "theft",
+                "North Korea"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09d3v9s",
             "guid": "urn:bbc:podcast:p09d3v9s",
             "isoDate": "2021-04-08T17:00:00.000Z",

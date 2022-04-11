@@ -47,6 +47,18 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/04/07-70076-20220408TIFbucha.mp3"
             },
+            "entities": [
+                "Daniel Boffey",
+                "Bucha",
+                "Russian",
+                "this week",
+                "independent",
+                "one",
+                "Kyiv",
+                "Guardian",
+                "first",
+                "war crimes"
+            ],
             "guid": "624ee0138f083703c7bd7a64",
             "isoDate": "2022-04-08T02:00:09.000Z",
             "title": "The week the world woke up to Russian war crimes in Ukraine",
@@ -68,6 +80,19 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/04/06-68681-20220407TIFmacron.mp3"
             },
+            "entities": [
+                "French",
+                "his",
+                "independent",
+                "a second",
+                "Angelique Chrisafis",
+                "Emmanuel Macron",
+                "correspondent",
+                "he",
+                "first",
+                "Paris",
+                "this Sunday"
+            ],
             "guid": "624d61fa8f081f653cd8a0cf",
             "isoDate": "2022-04-07T02:00:00.000Z",
             "title": "Can Emmanuel Macron hold off France\u2019s far-right surge?",
@@ -89,6 +114,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/04/05-76175-20220406tifrussiaboycotts.mp3"
             },
+            "entities": [
+                "McDonald",
+                "Russian",
+                "independent",
+                "Tchaikovsky",
+                "Ikea",
+                "Moscow"
+            ],
             "guid": "624c45498f0887d7b40d4452",
             "isoDate": "2022-04-06T02:00:11.000Z",
             "title": "How boycotts against Russia work \u2013 and how they don\u2019t ",
@@ -110,6 +143,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/04/04-57664-20220405tifsurrogatesbunkers.mp3"
             },
+            "entities": ["independent", "Ukraine", "Sirin Kale"],
             "guid": "624707ef8f08df8dc5563087",
             "isoDate": "2022-04-05T02:00:02.000Z",
             "title": "Babies in bunkers: the surrogate mothers and infants trapped in Ukraine",
@@ -131,6 +165,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/04/06-52401-20220404tiffentanyl2.mp3"
             },
+            "entities": [
+                "Black Americans",
+                "independent",
+                "America",
+                "Erin McCormick",
+                "drug overdose",
+                "Indigenous Americans"
+            ],
             "guid": "6246d39f8f08df8dc5562dc4",
             "isoDate": "2022-04-04T02:00:35.000Z",
             "title": "How fentanyl flooded the US and sent opioid deaths soaring",
@@ -152,6 +194,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/03/31-61578-20220401TIFmyanmar2.mp3"
             },
+            "entities": [
+                "Myanmar",
+                "Emily Fishbein",
+                "independent",
+                "February 2021",
+                "second year",
+                "reporter"
+            ],
             "guid": "6245bb718f08df8dc55624ca",
             "isoDate": "2022-04-01T02:00:09.000Z",
             "title": "Myanmar: the reporters risking everything to cover a forgotten conflict",
@@ -173,6 +223,15 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/03/30-78885-20220330tifkharkivstrategy.mp3"
             },
+            "entities": [
+                "Ukrainian",
+                "independent",
+                "Ukraine",
+                "Emma Graham-Harrison",
+                "Tuesday",
+                "Kharkiv",
+                "Russia"
+            ],
             "guid": "6244adc08f083888e9f49ea1",
             "isoDate": "2022-03-31T02:00:35.000Z",
             "title": "Is Russia\u2019s military strategy in Ukraine changing?",
@@ -194,6 +253,20 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/03/29-69757-2022031TIFkadyrov.mp3"
             },
+            "entities": [
+                "leader",
+                "Ramzan Kadyrov",
+                "Russian",
+                "his",
+                "independent",
+                "Chechnya",
+                "Julius Strauss",
+                "Ukraine",
+                "Chechen",
+                "war",
+                "Putin",
+                "Russia"
+            ],
             "guid": "6242f74d8f0854ee3eb797d0",
             "isoDate": "2022-03-30T02:00:02.000Z",
             "title": "Ramzan Kadyrov: Putin\u2019s \u2018attack dog\u2019 and Ukraine",
@@ -215,6 +288,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/03/28-79163-20220329TIFpando.mp3"
             },
+            "entities": ["independent", "UK", "800", "Joanna Partridge"],
             "guid": "62417eb38f08118734a73d30",
             "isoDate": "2022-03-29T02:00:10.000Z",
             "title": "Can P&O be forced to reverse its mass sacking of workers?",
@@ -236,6 +310,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/03/25-73496-20220328TIFdeepsea.mp3"
             },
+            "entities": [
+                "Earth",
+                "editor",
+                "independent",
+                "future",
+                "One",
+                "Jonathan Watts"
+            ],
             "guid": "623dc86a8f08118734a72596",
             "isoDate": "2022-03-28T02:00:00.000Z",
             "title": "The race to mine the deep sea",
@@ -257,6 +339,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/03/25-21173-TIF_ChildQ_.mp3"
             },
+            "entities": ["her", "independent", "15-year-old", "London"],
             "guid": "623c8a048f08d422c5d5ca76",
             "isoDate": "2022-03-25T03:00:15.000Z",
             "title": "The shameful strip-search of Child Q",
@@ -278,6 +361,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/03/23-71765-202203241TIFmariupol.mp3"
             },
+            "entities": [
+                "Ukrainian",
+                "weeks",
+                "Russian",
+                "independent",
+                "now",
+                "Mariupol"
+            ],
             "guid": "623b4c3b8f08d422c5d5bf53",
             "isoDate": "2022-03-24T03:00:46.000Z",
             "title": "The siege of Mariupol \u2013 podcast",
@@ -299,6 +390,16 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/03/22-74979-20220323tifspinney.mp3"
             },
+            "entities": [
+                "the years",
+                "independent",
+                "Two years",
+                "UK",
+                "1918",
+                "Laura Spinney",
+                "first",
+                "Spanish flu"
+            ],
             "guid": "6239aa4e8f0867da3721658f",
             "isoDate": "2022-03-23T03:00:17.000Z",
             "title": "How pandemics end and what they leave behind",
@@ -320,6 +421,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/03/21-76348-20220322tifchinarussia.mp3"
             },
+            "entities": [
+                "Xi Jinping",
+                "Vladimir Putin",
+                "independent",
+                "Tania Branigan",
+                "Ukraine",
+                "Russia"
+            ],
             "guid": "6238ab3f8f08ee17b5373e90",
             "isoDate": "2022-03-22T03:00:42.000Z",
             "title": "Can China broker an end to Russia\u2019s war in Ukraine?",
@@ -341,6 +450,13 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/03/20-52948-20220321TIFvoting.mp3"
             },
+            "entities": [
+                "six years",
+                "independent",
+                "Pamela Moses",
+                "Black Lives Matter",
+                "Sam Levine"
+            ],
             "guid": "62348a348f08ee17b5371f79",
             "isoDate": "2022-03-21T03:00:13.000Z",
             "title": "The woman jailed for a voting mistake",
@@ -362,6 +478,12 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/03/17-76827-20220317tifukrainedaily.mp3"
             },
+            "entities": [
+                "journalist",
+                "independent",
+                "Ukraine",
+                "Nataliya Gumenyuk"
+            ],
             "guid": "62338c358f081efd3276e580",
             "isoDate": "2022-03-18T03:46:19.000Z",
             "title": "How daily life in Ukraine has become an act of defiance",
@@ -383,6 +505,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/03/16-77948-20220317TIFrefugees.mp3"
             },
+            "entities": ["independent", "war", "Britain", "Amelia Gentleman"],
             "guid": "6231c7058f0810b64b1b624b",
             "isoDate": "2022-03-17T03:00:16.000Z",
             "title": "Has the Ukraine crisis transformed Britain\u2019s approach to refugees?",
@@ -404,6 +527,18 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/03/15-78561-20220316TIFabramovich.mp3"
             },
+            "entities": [
+                "last week",
+                "independent",
+                "2003",
+                "Roman Abramovich",
+                "Chelsea",
+                "David Conn",
+                "Premier League",
+                "he",
+                "him",
+                "years"
+            ],
             "guid": "62307c428f08d87b477dd96d",
             "isoDate": "2022-03-16T03:00:19.000Z",
             "title": "How the UK finally turned on Roman Abramovich",
@@ -425,6 +560,16 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/03/15-29442-20220315tifwagner3.mp3"
             },
+            "entities": [
+                "Pjotr Sauer",
+                "Russian",
+                "independent",
+                "recently",
+                "Africa",
+                "one",
+                "reporter",
+                "Syria"
+            ],
             "guid": "622f4f058f08963051184852",
             "isoDate": "2022-03-15T03:00:39.000Z",
             "title": "The Wagner Group\u2019s shadow mission in Ukraine",
@@ -446,6 +591,15 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/03/11-57959-20220314tifkbj.mp3"
             },
+            "entities": [
+                "professor",
+                "Melissa Murray",
+                "independent",
+                "New York University",
+                "Jackson",
+                "US Senate",
+                "first"
+            ],
             "guid": "622603f28f08ddf97a83ea6e",
             "isoDate": "2022-03-14T03:00:46.000Z",
             "title": "How Ketanji Brown Jackson became Biden\u2019s supreme court nominee",
@@ -467,6 +621,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/03/10-80494-tif20220311tifputin2.mp3"
             },
+            "entities": [
+                "Sam Greene",
+                "independent",
+                "Putin",
+                "president",
+                "Russia",
+                "1999"
+            ],
             "guid": "6229edca8f08d64fa95e9ac3",
             "isoDate": "2022-03-11T03:00:19.000Z",
             "title": "What\u2019s driving Vladimir Putin and his assault on Ukraine?",
@@ -487,6 +649,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/03/09-70701-20220310TIFnato.mp3"
             },
+            "entities": [
+                "independent",
+                "Ukraine",
+                "now",
+                "war",
+                "Nato",
+                "Dan Sabbagh"
+            ],
             "guid": "622891238f087f6d099f41d2",
             "isoDate": "2022-03-10T03:00:01.000Z",
             "title": "Could Nato do more to stop the war in Ukraine?",
@@ -508,6 +678,17 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/03/08-80075-20220309TIFnorthsouth.mp3"
             },
+            "entities": [
+                "Shaun Walker",
+                "independent",
+                "Odesa",
+                "Russian-speaking",
+                "Kyiv",
+                "war",
+                "Moscow",
+                "he",
+                "the first fortnight"
+            ],
             "guid": "6220c6958f0851056ae56e66",
             "isoDate": "2022-03-09T03:00:21.000Z",
             "title": "From north to south: how Putin united Ukrainians against Russia",
@@ -529,6 +710,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/03/07-75553-20220308tifrefugees.mp3"
             },
+            "entities": [
+                "million",
+                "Hungary",
+                "independent",
+                "Ukraine",
+                "Lorenzo Tondo",
+                "Annie Kelly"
+            ],
             "guid": "622600368f088ef5ffd5322e",
             "isoDate": "2022-03-08T03:00:59.000Z",
             "title": "The Ukrainian refugees pouring into Europe",
@@ -550,6 +739,16 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/03/06-77987-20220307TIFghostflights2.mp3"
             },
+            "entities": [
+                "editor",
+                "independent",
+                "15,000",
+                "UK",
+                "10%",
+                "Guardian",
+                "Damian Carrington",
+                "March 2020"
+            ],
             "guid": "621f82088f08c1dd5f658e79",
             "isoDate": "2022-03-07T03:00:32.000Z",
             "title": "The scandal of Britain\u2019s \u2018ghost\u2019 flights",
@@ -571,6 +770,13 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/03/03-79495-20220304TIFrussiamedia.mp3"
             },
+            "entities": [
+                "independent",
+                "Andrew Roth",
+                "Ukraine",
+                "Moscow",
+                "Russia"
+            ],
             "guid": "6220d3808f0851056ae56f1c",
             "isoDate": "2022-03-04T03:00:25.000Z",
             "title": "What Russians are being told about the war in Ukraine",
@@ -592,6 +798,17 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/03/02-84379-20220303TIFVOLUNTEER.mp3"
             },
+            "entities": [
+                "22",
+                "Russian",
+                "his",
+                "last week",
+                "independent",
+                "Volodymyr Ksienich",
+                "Michael Safi",
+                "Ukraine",
+                "He"
+            ],
             "guid": "621f9e1a8f08c1dd5f65904b",
             "isoDate": "2022-03-03T03:00:02.000Z",
             "title": "The volunteer fighter: \u2018Life will never be the same\u2019",
@@ -613,6 +830,13 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/03/01-72841-20220302bulloughsanctions.mp3"
             },
+            "entities": [
+                "British",
+                "Russian",
+                "independent",
+                "Oliver Bullough",
+                "decades"
+            ],
             "guid": "621e4a5e8f08f3a866fe82c5",
             "isoDate": "2022-03-02T03:00:27.000Z",
             "title": "How to end Britain\u2019s love affair with Russian money",
@@ -634,6 +858,18 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/02/28-80643-20220301TIFzelensky.mp3"
             },
+            "entities": [
+                "actor",
+                "2019",
+                "Ukrainian",
+                "Lviv",
+                "independent",
+                "Now",
+                "Ukraine",
+                "Volodymyr Zelenskiy",
+                "Luke Harding",
+                "he"
+            ],
             "guid": "621cc3cc8f0881b4f170795e",
             "isoDate": "2022-03-01T03:00:07.000Z",
             "title": "Comedian, president, warrior: the transformation of Volodymyr Zelenskiy",
@@ -655,6 +891,13 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/02/27-81468-20220228tiffleeingkyiv.mp3"
             },
+            "entities": [
+                "Russian",
+                "independent",
+                "attack",
+                "Emma Graham-Harrison",
+                "Ukrainians"
+            ],
             "guid": "621b8df08f08219c41a742d8",
             "isoDate": "2022-02-28T03:00:30.000Z",
             "title": "A family flees Kyiv",
@@ -676,6 +919,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/02/24-80907-2022025TIFUKRAINE.mp3"
             },
+            "entities": [
+                "independent",
+                "Europe",
+                "Ukraine",
+                "war",
+                "Russia",
+                "second"
+            ],
             "guid": "6217786a8f08380538544fe2",
             "isoDate": "2022-02-25T03:00:00.000Z",
             "title": "The day Putin invaded Ukraine",
@@ -697,6 +948,13 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/02/23-80088-20220224TIFrestrictions1.mp3"
             },
+            "entities": [
+                "Today",
+                "independent",
+                "the first day",
+                "England",
+                "nearly two years"
+            ],
             "guid": "621636118f081cd2f4a7fb83",
             "isoDate": "2022-02-24T03:00:10.000Z",
             "title": "Freedom or folly? The end of England\u2019s Covid restrictions",
@@ -718,6 +976,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/02/22-77035-20220223tifukraineinvasion.mp3"
             },
+            "entities": [
+                "Shaun Walker",
+                "weeks",
+                "independent",
+                "Ukraine",
+                "Putin",
+                "Patrick Wintour"
+            ],
             "guid": "6214fbab8f08686473d3ded5",
             "isoDate": "2022-02-23T03:00:26.000Z",
             "title": "Putin orders troops into Ukraine. Now what?",
@@ -739,6 +1005,13 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/02/21-72933-2022tifcrimedems.mp3"
             },
+            "entities": [
+                "Democrats",
+                "Republicans",
+                "independent",
+                "Lauren Gambino",
+                "US"
+            ],
             "guid": "6213978b8f08ff3666cfb8e1",
             "isoDate": "2022-02-22T03:00:33.000Z",
             "title": "Democrats\u2019 crime conundrum",
@@ -760,6 +1033,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/02/20-79760-20220221TIFCS.mp3"
             },
+            "entities": [
+                "Credit Suisse",
+                "Kalyeena Makortoff",
+                "independent",
+                "David Pegg",
+                "decades",
+                "Swiss"
+            ],
             "guid": "620f9a638f08fc958652948e",
             "isoDate": "2022-02-21T03:00:20.000Z",
             "title": "Credit Suisse: a bank for dictators, drug lords and criminals",
@@ -781,6 +1062,11 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/02/17-65713-20220218tifnetzero.mp3"
             },
+            "entities": [
+                "independent",
+                "Helena Horton",
+                "Net Zero Scrutiny Group"
+            ],
             "guid": "620e82738f086f7273b87379",
             "isoDate": "2022-02-18T03:00:01.000Z",
             "title": "The Tories attacking the UK\u2019s net zero plans",
@@ -802,6 +1088,15 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/02/16-76344-20220216TIFandrew.mp3"
             },
+            "entities": [
+                "Caroline Davies",
+                "his",
+                "independent",
+                "sexual assault",
+                "reporter",
+                "Virginia Giuffre",
+                "Duke of York"
+            ],
             "guid": "620cd1fc8f08d2c32d5a72ef",
             "isoDate": "2022-02-17T03:00:24.000Z",
             "title": "The fall of Prince Andrew",
@@ -823,6 +1118,16 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/02/15-82111-20220215tifchagos.mp3"
             },
+            "entities": [
+                "Philippe Sands",
+                "independent",
+                "UK",
+                "Africa",
+                "Britain",
+                "Lawyer",
+                "Mauritian",
+                "50 years"
+            ],
             "guid": "620c1a4f8f08d2c32d5a6adc",
             "isoDate": "2022-02-16T03:00:03.000Z",
             "title": "The displaced Chagos Islanders yearning for home",
@@ -844,6 +1149,13 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/02/14-79967-20220215TIFukraine.mp3"
             },
+            "entities": [
+                "Ukrainian",
+                "Shaun Walker",
+                "Russian",
+                "independent",
+                "US"
+            ],
             "guid": "620a2f8d8f0874f036fc3b57",
             "isoDate": "2022-02-15T03:00:00.000Z",
             "title": "How the Ukraine crisis looks from Kyiv",
@@ -864,6 +1176,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/02/13-61380-20220214TIFsingles.mp3"
             },
+            "entities": ["independent"],
             "guid": "62068bdb8f0822338491937a",
             "isoDate": "2022-02-14T03:00:05.000Z",
             "title": "The joys (and pressures) of being single",
@@ -885,6 +1198,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/02/10-67464-20220211tifwitches.mp3"
             },
+            "entities": ["300 years ago", "independent", "Libby Brooks"],
             "guid": "6205151b8f08b0eb1f62c874",
             "isoDate": "2022-02-11T03:00:37.000Z",
             "title": "Scotland reckons with the violent witch hunts of its past ",
@@ -905,6 +1219,18 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/02/09-74452-20220210TIFgavin.mp3"
             },
+            "entities": [
+                "Nosheen Iqbal",
+                "boss",
+                "his",
+                "independent",
+                "Now",
+                "Theresa May",
+                "Boris Johnson",
+                "he",
+                "Gavin Barwell",
+                "10"
+            ],
             "guid": "6203a3b58f08d831178254a3",
             "isoDate": "2022-02-10T03:00:08.000Z",
             "title": "What a leadership crisis looks like from inside Downing Street",
@@ -925,6 +1251,13 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/02/08-76305-20220209tifclause9.mp3"
             },
+            "entities": [
+                "the",
+                "British",
+                "independent",
+                "UK",
+                "past 20 years"
+            ],
             "guid": "6202b9ad8f08142faaa8f643",
             "isoDate": "2022-02-09T03:00:40.000Z",
             "title": "Clause 9 and the erosion of citizenship rights",
@@ -945,6 +1278,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/02/08-35321-20220208tifcrypto2.mp3"
             },
+            "entities": ["independent", "Rob Davies"],
             "guid": "620125a48f08a14fffd0136b",
             "isoDate": "2022-02-08T03:00:11.000Z",
             "title": "Is the cryptocurrency trading boom creating a new generation of addicts?",
@@ -966,6 +1300,13 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/02/04-81226-20220206tifromance3.mp3"
             },
+            "entities": [
+                "£100m",
+                "independent",
+                "Britain",
+                "last year",
+                "Lizzie Cernik"
+            ],
             "guid": "61fd5b438f08df1d7f0910d5",
             "isoDate": "2022-02-07T03:00:42.000Z",
             "title": "The scammers getting rich on lockdown loneliness ",
@@ -987,6 +1328,25 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/02/04-67285-gdn.weekend.220205.ds.Episode1bonus.mp3"
             },
+            "entities": [
+                "week",
+                "the weekend",
+                "singer",
+                "independent",
+                "Joe Rogan",
+                "the week",
+                "Laura Snapes",
+                "Apple",
+                "Alex Moshakis",
+                "18m30s",
+                "Guardian",
+                "Edward Helmore",
+                "Boris Johnson",
+                "George Ezra",
+                "first",
+                "Weekend",
+                "Marina Hyde"
+            ],
             "guid": "61fcf5f28f08df1d7f09083a",
             "isoDate": "2022-02-05T05:00:03.000Z",
             "title": "Weekend: episode one of a new podcast ",
@@ -1008,6 +1368,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/02/03-75487-20220204tifrogan.mp3"
             },
+            "entities": ["Rogan", "independent", "Covid pandemic"],
             "guid": "61fbff728f0817decd958153",
             "isoDate": "2022-02-04T03:00:15.000Z",
             "title": "Can Joe Rogan change? ",
@@ -1029,6 +1390,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/02/03-26689-20220203TIFmetpolice2.mp3"
             },
+            "entities": ["independent", "one", "Danny Shaw", "a year"],
             "guid": "61faac7f8f08ed69ff280dee",
             "isoDate": "2022-02-03T03:00:40.000Z",
             "title": "Cressida Dick and the crisis of trust in the Metropolitan police",
@@ -1050,6 +1412,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/02/01-76794-20220202TIFislamicstate.mp3"
             },
+            "entities": ["independent", "Martin Chulov"],
             "guid": "61f9204c8f0854a991e03d40",
             "isoDate": "2022-02-02T03:00:12.000Z",
             "title": "\u2018A ticking time bomb\u2019: what a prison break reveals about the threat from Islamic State",
@@ -1071,6 +1434,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/02/01-01290-20220201TIFgray.mp3"
             },
+            "entities": [
+                "Downing Street",
+                "independent",
+                "future",
+                "Sue Gray",
+                "Boris Johnson",
+                "Jessica Elgot"
+            ],
             "guid": "61f7bfd18f08d9429c09281e",
             "isoDate": "2022-02-01T03:00:07.000Z",
             "title": "Sue Gray\u2019s verdict: \u2018Failures of leadership\u2019 ",
@@ -1092,6 +1463,12 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/01/30-58899-20220131TIFgrenfell.mp3"
             },
+            "entities": [
+                "independent",
+                "fire",
+                "correspondent",
+                "Robert Booth"
+            ],
             "guid": "61f3cb598f08f876e6754c8c",
             "isoDate": "2022-01-31T03:00:37.000Z",
             "title": "Grenfell inquiry final phase: will politicians be held accountable?",
@@ -1113,6 +1490,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/01/27-64003-20220128TIFzerocovid.mp3"
             },
+            "entities": ["independent", "China", "Omicron"],
             "guid": "61f271578f08f876e67539cc",
             "isoDate": "2022-01-28T03:00:48.000Z",
             "title": "Has China fallen into a Covid-zero trap?",
@@ -1134,6 +1512,13 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/01/26-74796-20220127tifrussia.mp3"
             },
+            "entities": [
+                "Vladimir Putin",
+                "independent",
+                "Andrew Roth",
+                "war",
+                "Moscow"
+            ],
             "guid": "61f163938f080c18a34fb87d",
             "isoDate": "2022-01-27T03:00:19.000Z",
             "title": "What happens if Russia invades Ukraine?",
@@ -1155,6 +1540,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/01/25-79084-20220126TIFpolice.mp3"
             },
+            "entities": ["weeks", "independent", "now", "Boris Johnson"],
             "guid": "61f01de98f080c18a34fa87b",
             "isoDate": "2022-01-26T03:00:00.000Z",
             "title": "Will the police have the final word on \u2018partygate\u2019?",
@@ -1176,6 +1562,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/01/24-79091-20220125TIFjohnson.mp3"
             },
+            "entities": [
+                "Downing Street",
+                "Covid",
+                "his",
+                "independent",
+                "Conservative",
+                "Boris Johnson"
+            ],
             "guid": "61ee93718f085a8aa7adfe19",
             "isoDate": "2022-01-25T03:00:33.000Z",
             "title": "Boris Johnson clings on, the scandals keep coming",
@@ -1197,6 +1591,15 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/01/24-31098-20220124tiflapdv2.mp3"
             },
+            "entities": [
+                "his",
+                "independent",
+                "LA",
+                "one",
+                "Los Angeles",
+                "He",
+                "he"
+            ],
             "guid": "61eaddfe8f08046acb501da3",
             "isoDate": "2022-01-24T03:00:39.000Z",
             "title": "Rapper Nipsey Hussle and the problem of predictive policing",
@@ -1218,6 +1621,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/01/20-73089-20220121tifbbcfee.mp3"
             },
+            "entities": ["BBC", "independent", "days"],
             "guid": "61e999c08f08114e2cd33ca3",
             "isoDate": "2022-01-21T03:00:18.000Z",
             "title": "The fight for the future of the BBC",
@@ -1239,6 +1643,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/01/19-64703-20210119TIFmi5.mp3"
             },
+            "entities": [
+                "British",
+                "independent",
+                "Chinese",
+                "Britain",
+                "Christine Lee",
+                "Dan Sabbagh"
+            ],
             "guid": "61e7f17d8f08d4a2252dce89",
             "isoDate": "2022-01-20T03:00:09.000Z",
             "title": "How MI5 uncovered a Chinese \u2018agent\u2019 in parliament",
@@ -1260,6 +1672,13 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/01/18-72096-2022tifcostofliving.mp3"
             },
+            "entities": [
+                "editor",
+                "independent",
+                "UK",
+                "Hilary Osborne",
+                "the year"
+            ],
             "guid": "61e586d28f0856426bba1ef8",
             "isoDate": "2022-01-19T03:00:08.000Z",
             "title": "On the frontline of the cost of living crisis",
@@ -1281,6 +1700,15 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/01/17-73226-20210116TIFliztruss.mp3"
             },
+            "entities": [
+                "his",
+                "independent",
+                "future",
+                "Conservative",
+                "one",
+                "Boris Johnson",
+                "him"
+            ],
             "guid": "61e5677e8f08cd5ab32b1404",
             "isoDate": "2022-01-18T03:00:43.000Z",
             "title": "The rise and rise of Liz Truss",
@@ -1301,6 +1729,15 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/01/16-74266-20220117tifafghanmps.mp3"
             },
+            "entities": [
+                "Greece",
+                "Taliban",
+                "Afghanistan",
+                "independent",
+                "Afghan",
+                "Amie Ferris-Rotman",
+                "escape"
+            ],
             "guid": "61e1ab588f0846d1f1b71311",
             "isoDate": "2022-01-17T03:00:08.000Z",
             "title": "Afghan female MPs fight for their country in exile",
@@ -1322,6 +1759,15 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/01/13-74285-20220114tifandrew.mp3"
             },
+            "entities": [
+                "New York",
+                "his",
+                "independent",
+                "sexual assault",
+                "Ed Helmore",
+                "Duke of York",
+                "prince"
+            ],
             "guid": "61e011e98f085adc21a85026",
             "isoDate": "2022-01-14T03:00:03.000Z",
             "title": "A royal mess: Prince Andrew faces a US trial",
@@ -1343,6 +1789,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/01/12-81856-20210113TIFborisjohnson.mp3"
             },
+            "entities": ["independent", "Boris Johnson", "he", "first"],
             "guid": "61debfb28f0841d0f6ca76e6",
             "isoDate": "2022-01-13T03:00:04.000Z",
             "title": "Will Boris Johnson\u2019s apology be enough to save him?",
@@ -1364,6 +1811,12 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/01/11-68511-20210112TIFnhs.mp3"
             },
+            "entities": [
+                "Denis Campbell Coronavirus",
+                "independent",
+                "England",
+                "NHS"
+            ],
             "guid": "61dd91b48f0841d0f6ca680a",
             "isoDate": "2022-01-12T03:00:35.000Z",
             "title": "What does the Omicron winter crisis mean for the NHS?",
@@ -1385,6 +1838,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/01/10-80313-20210111TIFguantanamo.mp3"
             },
+            "entities": [
+                "Cuba",
+                "torture",
+                "independent",
+                "20 years ago",
+                "Julian Borger",
+                "US"
+            ],
             "guid": "61dc07e28f08ed5dbdaf5fd0",
             "isoDate": "2022-01-11T03:00:04.000Z",
             "title": "Guantánamo Bay at 20: why have attempts to close the prison failed?",
@@ -1406,6 +1867,17 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/01/07-82152-20210110TIFcolston.mp3"
             },
+            "entities": [
+                "Edward Colston",
+                "Last week",
+                "independent",
+                "four",
+                "future",
+                "one",
+                "Sage Willoughby",
+                "trader",
+                "Damien Gayle"
+            ],
             "guid": "61d80f8c8f08b1b302045c52",
             "isoDate": "2022-01-10T03:00:37.000Z",
             "title": "A moral victory: what the acquittal of the Colston Four means for future protests",
@@ -1427,6 +1899,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/01/06-62592-20210107TIFculture.mp3"
             },
+            "entities": [
+                "Charlotte Northedge",
+                "Simran Hans",
+                "independent",
+                "Guardian",
+                "the year",
+                "Ben Beaumont-Thomas"
+            ],
             "guid": "61d6c9438f085b0834373c61",
             "isoDate": "2022-01-07T03:00:27.000Z",
             "title": "Culture 2022: what to watch, read and listen to this year",
@@ -1448,6 +1928,16 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/01/05-70165-20210106TIFjan6.mp3"
             },
+            "entities": [
+                "Congress",
+                "Washington DC",
+                "his",
+                "Donald Trump",
+                "independent",
+                "A year ago today",
+                "Capitol",
+                "march"
+            ],
             "guid": "61d572298f0879d9e781f9a2",
             "isoDate": "2022-01-06T03:00:50.000Z",
             "title": "How the Capitol attack still divides the United States",
@@ -1469,6 +1959,13 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/01/04-80393-20210104TIFomicron.mp3"
             },
+            "entities": [
+                "The year",
+                "independent",
+                "UK",
+                "correspondent",
+                "Nicola Davis"
+            ],
             "guid": "61d42d5e8f082feb30260440",
             "isoDate": "2022-01-05T03:00:29.000Z",
             "title": "Can the UK cope with the Omicron surge?",
@@ -1490,6 +1987,12 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2022/01/03-72223-20210104TIF4000weeks.mp3"
             },
+            "entities": [
+                "independent",
+                "writer",
+                "Oliver Burkeman",
+                "about 4,000 weeks"
+            ],
             "guid": "61d2d68f8f08b7d6158baa73",
             "isoDate": "2022-01-04T03:00:04.000Z",
             "title": "The joy of missing out: how to manage your time in 2022",
@@ -1510,6 +2013,15 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/12/22-76411-20220103tiffullstoryhikers.mp3"
             },
+            "entities": [
+                "nine",
+                "Conspiracy",
+                "independent",
+                "1959",
+                "Frozen",
+                "years",
+                "Russia"
+            ],
             "guid": "61ba71638f0848fb65d9668f",
             "isoDate": "2022-01-03T03:00:34.000Z",
             "title": "Revisited: how a Disney movie helped solve a decades-old adventure mystery",
@@ -1531,6 +2043,17 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/12/19-79105-20211231TIFchineseseamen2.mp3"
             },
+            "entities": [
+                "British",
+                "Liverpool",
+                "independent",
+                "UK",
+                "Now",
+                "war",
+                "Chinese",
+                "merchant",
+                "second"
+            ],
             "guid": "61ba70148f083aad704769b4",
             "isoDate": "2021-12-31T03:00:07.000Z",
             "title": "Revisited: the secret deportations of Chinese merchant sailors",
@@ -1551,6 +2074,12 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/12/22-77951-20211230tifjoshcrerun.mp3"
             },
+            "entities": [
+                "his",
+                "independent",
+                "Josh Cavallo",
+                "Adelaide United"
+            ],
             "guid": "61ba6eab8f084998b5485775",
             "isoDate": "2021-12-30T03:00:38.000Z",
             "title": "Revisited: Josh Cavallo, the only openly gay top-tier men\u2019s footballer",
@@ -1572,6 +2101,18 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/12/16-52167-20211229TIFemily.mp3"
             },
+            "entities": [
+                "actor",
+                "assault",
+                "she",
+                "her",
+                "Ratajkowski",
+                "independent",
+                "2013",
+                "Robin Thicke",
+                "model",
+                "writer"
+            ],
             "guid": "61ba6cf48f0848fb65d9665d",
             "isoDate": "2021-12-29T03:00:09.000Z",
             "title": "Revisited: Emily Ratajkowski\u2019s body \u2013 and what she wants to make of it",
@@ -1593,6 +2134,17 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/12/22-77186-20211228tifalqaida.mp3"
             },
+            "entities": [
+                "his",
+                "a decade",
+                "independent",
+                "Jason Burke",
+                "Aimen Dean",
+                "attacks",
+                "September 11",
+                "more than a few years",
+                "Al-Qaida"
+            ],
             "guid": "61ba6b928f0848fb65d96653",
             "isoDate": "2021-12-28T03:00:08.000Z",
             "title": "Revisited: An Al-Qaida recruit-turned-spy and the road to 9/11 podcast",
@@ -1614,6 +2166,16 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/12/16-33800-20211227TIFblackliterature.mp3"
             },
+            "entities": [
+                "Caleb Azumah Nelson",
+                "the past",
+                "Month",
+                "Candice Carty-Williams",
+                "independent",
+                "future",
+                "Ben Okri",
+                "present"
+            ],
             "guid": "61ba68e98f083aad70476963",
             "isoDate": "2021-12-27T03:00:39.000Z",
             "title": "Revisited: Britain\u2019s rich history of black literature",
@@ -1635,6 +2197,13 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/12/23-73444-20211224tifkathvineryear.mp3"
             },
+            "entities": [
+                "Editor-in-chief",
+                "independent",
+                "Katharine Viner",
+                "2021",
+                "two centuries ago"
+            ],
             "guid": "61c3abb38f086332f3d0bc75",
             "isoDate": "2021-12-24T03:00:13.000Z",
             "title": "Looking back on the Guardian\u2019s 200th year",
@@ -1656,6 +2225,15 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/12/22-73707-20211223tifukfrance.mp3"
             },
+            "entities": [
+                "editor",
+                "independent",
+                "Angelique Chrisafis",
+                "Brexit",
+                "correspondent",
+                "Patrick Wintour",
+                "Paris"
+            ],
             "guid": "61c373328f08d3319b5d9522",
             "isoDate": "2021-12-23T03:00:44.000Z",
             "title": "How did things get so bad between France and Britain? ",
@@ -1677,6 +2255,13 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/12/21-72708-20211222tifcraceyear.mp3"
             },
+            "entities": [
+                "John Crace",
+                "Peppa Pig",
+                "independent",
+                "writer",
+                "this year"
+            ],
             "guid": "61c0f9aa8f083c2aa26e4945",
             "isoDate": "2021-12-22T03:00:14.000Z",
             "title": "2021: a year in wine, cheese and sleaze",
@@ -1698,6 +2283,12 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/12/20-81173-20211221tifomicrimbo.mp3"
             },
+            "entities": [
+                "Christmas",
+                "independent",
+                "correspondent",
+                "Nicola Davis"
+            ],
             "guid": "61c0ed4c8f08d89d380f7646",
             "isoDate": "2021-12-21T03:00:01.000Z",
             "title": "Is it going to be another Covid Christmas? ",
@@ -1718,6 +2309,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/12/17-74825-20211220TIFnuclearbiscuit.mp3"
             },
+            "entities": ["editor", "independent", "Julian Borger"],
             "guid": "61bceca38f088faae41c6c43",
             "isoDate": "2021-12-20T03:00:43.000Z",
             "title": "Countdown to attack: inside a simulation that mimics nuclear conflict",
@@ -1739,6 +2331,13 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/12/16-73969-20211217TIFpanto.mp3"
             },
+            "entities": [
+                "independent",
+                "year",
+                "Northamptonshire",
+                "now",
+                "Corby"
+            ],
             "guid": "61bb10298f088faae41c4dff",
             "isoDate": "2021-12-17T03:00:16.000Z",
             "title": "Can theatres survive another Christmas of covid cancellations?",
@@ -1760,6 +2359,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/12/15-64653-20211216TIFukraine.mp3"
             },
+            "entities": [
+                "President",
+                "Ukrainian",
+                "Russian",
+                "independent",
+                "Putin",
+                "Luke Harding"
+            ],
             "guid": "61b27b918f0819fcb698cc32",
             "isoDate": "2021-12-16T03:00:32.000Z",
             "title": "Is Vladimir Putin preparing to invade Ukraine?",
@@ -1781,6 +2388,13 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/12/14-76625-20211215tifvaxmandates.mp3"
             },
+            "entities": [
+                "independent",
+                "Australia",
+                "Nicola Davis",
+                "two",
+                "months ago"
+            ],
             "guid": "61b8bcb78f083aad704750b1",
             "isoDate": "2021-12-15T03:00:03.000Z",
             "title": "Do Covid vaccine mandates work?",
@@ -1802,6 +2416,12 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/12/13-80608-20211214tifborislabour.mp3"
             },
+            "entities": [
+                "leader writer",
+                "independent",
+                "Sonia Sodha",
+                "Observer"
+            ],
             "guid": "61b771a08f0855065bfbc026",
             "isoDate": "2021-12-14T03:00:36.000Z",
             "title": "The Tories are in turmoil: can Labour capitalise? ",
@@ -1823,6 +2443,16 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/12/10-78252-20211213tifchess.mp3"
             },
+            "entities": [
+                "editor",
+                "grip",
+                "deputy",
+                "independent",
+                "Bryan Graham",
+                "Norwegian",
+                "Dubai",
+                "US"
+            ],
             "guid": "61b35fa38f0819fcb698d8f1",
             "isoDate": "2021-12-13T03:00:02.000Z",
             "title": "How Magnus Carlsen won chess back from the machines",
@@ -1844,6 +2474,12 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/12/09-79292-20211210TIFparties.mp3"
             },
+            "entities": [
+                "Johnson",
+                "independent",
+                "correspondent",
+                "Peter Walker"
+            ],
             "guid": "61b2269e8f0819fcb698c623",
             "isoDate": "2021-12-10T03:00:28.000Z",
             "title": "Christmas parties, sleaze and plan B: how Boris Johnson is running out of allies",
@@ -1865,6 +2501,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/12/08-81605-20211208TIFafghanistan.mp3"
             },
+            "entities": [
+                "Taliban",
+                "British",
+                "Afghanistan",
+                "independent",
+                "Emma Graham-Harrison",
+                "August"
+            ],
             "guid": "61b0db098f0819fcb698b39b",
             "isoDate": "2021-12-09T03:00:02.000Z",
             "title": "Failure, fear and the threat of famine in Afghanistan",
@@ -1886,6 +2530,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/12/07-78529-20211207TIFlabinjohuges.mp3"
             },
+            "entities": [
+                "editor",
+                "independent",
+                "West",
+                "six-year-old",
+                "Patrick Butler",
+                "Midlands"
+            ],
             "guid": "61af99918f08cfef2cf60d74",
             "isoDate": "2021-12-08T03:00:30.000Z",
             "title": "The death of Arthur Labinjo-Hughes and the crisis in social work",
@@ -1907,6 +2559,12 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/12/06-77639-20211207TIFmi6.mp3"
             },
+            "entities": [
+                "independent",
+                "Britain",
+                "Dan Sabbagh",
+                "Richard Moore"
+            ],
             "guid": "61add6b38f087dc3fe3f220d",
             "isoDate": "2021-12-07T03:00:15.000Z",
             "title": "Is MI6 fit for the future?",
@@ -1928,6 +2586,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/12/05-66900-20211206TIFHippos.mp3"
             },
+            "entities": ["Colombia", "independent", "now"],
             "guid": "61a8a0d18f0855615ac9a73c",
             "isoDate": "2021-12-06T03:00:11.000Z",
             "title": "How Pablo Escobar\u2019s \u2018cocaine hippos\u2019 became a biodiversity nightmare",
@@ -1949,6 +2608,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/12/02-60394-20211203tifabloh.mp3"
             },
+            "entities": ["independent", "designer"],
             "guid": "61a8e07d8f08647bc42ba52f",
             "isoDate": "2021-12-03T03:00:29.000Z",
             "title": "How designer Virgil Abloh transformed fashion ",
@@ -1970,6 +2630,13 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/12/01-74580-20211202TIFomicron.mp3"
             },
+            "entities": [
+                "independent",
+                "South Africa",
+                "correspondent",
+                "Nicola Davis",
+                "first"
+            ],
             "guid": "61a732a98f08ad7893e728fa",
             "isoDate": "2021-12-02T03:00:13.000Z",
             "title": "Will the Omicron Covid variant cancel Christmas? ",
@@ -1991,6 +2658,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/11/30-68691-20211130TIFabortionscotus.mp3"
             },
+            "entities": ["American", "independent", "Roe v Wade"],
             "guid": "61a110a38f08a201d9c7ca3d",
             "isoDate": "2021-12-01T03:00:48.000Z",
             "title": "The Mississippi and Texas laws threatening US abortion rights",
@@ -2012,6 +2680,17 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/11/30-03992-TIF_barbados.mp3"
             },
+            "entities": [
+                "Bridgetown",
+                "Barbados",
+                "Sandra Mason",
+                "independent",
+                "Michael Safi",
+                "Queen Elizabeth II",
+                "Tuesday",
+                "Britain",
+                "president"
+            ],
             "guid": "61a511a48f08ccaa41319ef0",
             "isoDate": "2021-11-30T03:00:04.000Z",
             "title": "Barbados becomes a republic \u2013 and Britain faces a reckoning",
@@ -2033,6 +2712,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/11/28-66715-TIF_inflation.mp3"
             },
+            "entities": ["independent"],
             "guid": "61a0fe898f08a201d9c7c880",
             "isoDate": "2021-11-29T03:00:43.000Z",
             "title": "Inflation\u2019s back \u2013 but is it here to stay?",
@@ -2054,6 +2734,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/11/25-74521-20211126TIFchannel.mp3"
             },
+            "entities": ["independent", "27", "UK", "Diane Taylor"],
             "guid": "619f78678f08cd11dbaf74df",
             "isoDate": "2021-11-26T03:00:16.000Z",
             "title": "A tragedy in the Channel",
@@ -2075,6 +2756,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/11/25-30843-20211125TIFpeng3.mp3"
             },
+            "entities": [
+                "tennis player",
+                "Peng Shuai",
+                "Her",
+                "independent",
+                "sexual assault",
+                "Chinese"
+            ],
             "guid": "619562ae8f08d09d4ebd9a67",
             "isoDate": "2021-11-25T03:00:48.000Z",
             "title": "The disappearance of Chinese tennis star Peng Shuai",
@@ -2096,6 +2785,16 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/11/23-74082-TIF_autisticwomen.mp3"
             },
+            "entities": [
+                "presenter",
+                "her",
+                "independent",
+                "one",
+                "model",
+                "thirties",
+                "Melanie Sykes",
+                "Christine McGuinness"
+            ],
             "guid": "619cb0e28f081cbfdcd0f18c",
             "isoDate": "2021-11-24T03:00:33.000Z",
             "title": "The autistic women denied a diagnosis for decades",
@@ -2117,6 +2816,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/11/22-75545-20211123TIFqatar.mp3"
             },
+            "entities": ["Pete Pattisson", "independent", "Qatar", "World Cup"],
             "guid": "619b9c258f0812dc63d034cf",
             "isoDate": "2021-11-23T03:00:07.000Z",
             "title": "The human cost of Qatar\u2019s 2022 World Cup dream",
@@ -2138,6 +2838,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/11/19-64875-TIF_huma.mp3"
             },
+            "entities": [
+                "she",
+                "Hillary Clinton",
+                "her",
+                "independent",
+                "Anthony Weiner",
+                "Huma Abedin"
+            ],
             "guid": "6197a8468f0812dc63d00960",
             "isoDate": "2021-11-22T03:00:13.000Z",
             "title": "After a lifetime in the background, Huma Abedin steps forward | Podcast",
@@ -2159,6 +2867,17 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/11/18-66805-TIF_COVIDCHRISTMAS.mp3"
             },
+            "entities": [
+                "Christmas",
+                "independent",
+                "Europe",
+                "UK",
+                "Now",
+                "winter",
+                "2020",
+                "last year",
+                "the days"
+            ],
             "guid": "61963cff8f085ed4b8c1c2f4",
             "isoDate": "2021-11-19T03:00:23.000Z",
             "title": "Covid is surging in Europe. What does it mean for the UK?",
@@ -2180,6 +2899,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/11/17-72948-20211118TIFbelarus.mp3"
             },
+            "entities": [
+                "President",
+                "independent",
+                "Lukashenko",
+                "European Union",
+                "Poland",
+                "Belarus"
+            ],
             "guid": "61950bb58f08d09d4ebd948e",
             "isoDate": "2021-11-18T03:00:07.000Z",
             "title": "The EU border where refugees are treated as human weapons",
@@ -2201,6 +2928,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/11/16-77414-20211117TIFtrump3.mp3"
             },
+            "entities": ["independent", "2024", "2020", "US", "Trump"],
             "guid": "6193ba608f08d09d4ebd82f1",
             "isoDate": "2021-11-17T03:00:24.000Z",
             "title": "Is Donald Trump plotting to steal the 2024 election?",
@@ -2222,6 +2950,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/11/15-77872-TIF_Yorkshire.mp3"
             },
+            "entities": [
+                "his",
+                "independent",
+                "Yorkshire",
+                "now",
+                "Azeem Rafiq",
+                "he"
+            ],
             "guid": "61925e378f08f6be4a850f4f",
             "isoDate": "2021-11-16T03:00:19.000Z",
             "title": "Azeem Rafiq\u2019s long battle to expose racism at Yorkshire cricket club",
@@ -2243,6 +2979,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/11/14-79760-20211115TIFcop26deal.mp3"
             },
+            "entities": ["Fiona Harvey", "independent", "correspondent"],
             "guid": "619102dd8f08b698cb951975",
             "isoDate": "2021-11-15T03:00:17.000Z",
             "title": "Cop26: where does the world go from here? ",
@@ -2264,6 +3001,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/11/12-33249-TIF_ambulancesNEW.mp3"
             },
+            "entities": ["independent", "minutes", "one", "999"],
             "guid": "618d28448f08b200bdb8d829",
             "isoDate": "2021-11-12T02:00:22.000Z",
             "title": "A day with the paramedics on the frontline of the UK\u2019s ambulance crisis",
@@ -2285,6 +3023,17 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/11/10-70936-20211111TIFchinese.mp3"
             },
+            "entities": [
+                "British",
+                "Liverpool",
+                "independent",
+                "UK",
+                "Now",
+                "war",
+                "Chinese",
+                "merchant",
+                "second"
+            ],
             "guid": "618bc7358f08b698cb94d6f5",
             "isoDate": "2021-11-11T03:00:21.000Z",
             "title": "A British betrayal: the secret deportations of Chinese merchant sailors",
@@ -2306,6 +3055,15 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/11/09-68391-TIF_Ratajkowski.mp3"
             },
+            "entities": [
+                "assault",
+                "she",
+                "her",
+                "independent",
+                "2013",
+                "Robin Thicke",
+                "model"
+            ],
             "guid": "618a87ec8f08b698cb94c5f0",
             "isoDate": "2021-11-10T03:00:25.000Z",
             "title": "Emily Ratajkowski\u2019s body \u2013 and what she wants to make of it",
@@ -2327,6 +3085,12 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/11/09-09184-20211108TIFsleaze2.mp3"
             },
+            "entities": [
+                "minister",
+                "independent",
+                "Conservative",
+                "Owen Paterson"
+            ],
             "guid": "6188e7a38f08d02528cc09cc",
             "isoDate": "2021-11-09T03:00:46.000Z",
             "title": "\u2018Politically corrupt\u2019: the sleaze allegations engulfing the Tories",
@@ -2348,6 +3112,12 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/11/07-57778-20211108TIFjoshc.mp3"
             },
+            "entities": [
+                "his",
+                "independent",
+                "Josh Cavallo",
+                "Adelaide United"
+            ],
             "guid": "618534908f0833c57fc5783b",
             "isoDate": "2021-11-08T03:00:19.000Z",
             "title": "Josh Cavallo: the world\u2019s only openly gay top-tier men\u2019s footballer",
@@ -2369,6 +3139,13 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/11/04-78373-20211105TIFcop26w1.mp3"
             },
+            "entities": [
+                "editor",
+                "independent",
+                "UN",
+                "Glasgow",
+                "Jonathan Watts"
+            ],
             "guid": "6183d9cf8f0833c57fc56424",
             "isoDate": "2021-11-05T03:00:09.000Z",
             "title": "Cop26: what are the chances of keeping the 1.5C target alive?",
@@ -2390,6 +3167,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/11/04-38059-TIF_metaverse2.mp3"
             },
+            "entities": [
+                "his",
+                "last week",
+                "independent",
+                "Mark Zuckerberg",
+                "Facebook",
+                "he"
+            ],
             "guid": "6182a2288f08acc2f87ba695",
             "isoDate": "2021-11-04T03:00:23.000Z",
             "title": "Enter the metaverse!",
@@ -2411,6 +3196,18 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/11/02-83304-TIF_Taiwan.mp3"
             },
+            "entities": [
+                "the past few weeks",
+                "Beijing",
+                "October",
+                "independent",
+                "attack",
+                "Taiwan",
+                "Chinese",
+                "decades",
+                "1949",
+                "US"
+            ],
             "guid": "618169b98f08f41c7ee2f0d9",
             "isoDate": "2021-11-03T03:00:32.000Z",
             "title": "Could China ever invade Taiwan \u2013 and what would happen next?",
@@ -2432,6 +3229,16 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/11/01-70621-20211102TIFactivists.mp3"
             },
+            "entities": [
+                "Canada",
+                "independent",
+                "Ridhima Pandey",
+                "Michael Safi",
+                "Iris Duquesne",
+                "Raina Ivanova",
+                "Germany",
+                "India"
+            ],
             "guid": "617fd3eb8f080b0ce21932b4",
             "isoDate": "2021-11-02T03:00:01.000Z",
             "title": "Cop26: how three young activists are trying to change the world",
@@ -2453,6 +3260,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/10/29-58424-20211101TIFunvaccinated2.mp3"
             },
+            "entities": ["independent", "UK", "US"],
             "guid": "617bc00f8f0825ebbe9e0d07",
             "isoDate": "2021-11-01T03:00:44.000Z",
             "title": "The regrets of the unvaccinated: why Covid-bereaved families are speaking out",
@@ -2474,6 +3282,13 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/10/28-67036-20211029TIFcop26.mp3"
             },
+            "entities": [
+                "Mohamed Nasheed",
+                "Maldives",
+                "independent",
+                "future",
+                "president"
+            ],
             "guid": "617a971b8f08ea671ec0c484",
             "isoDate": "2021-10-29T02:00:16.000Z",
             "title": "Cop26: what would success look like for a country vanishing under water?",
@@ -2495,6 +3310,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/10/27-75687-TIF_spiking.mp3"
             },
+            "entities": ["Night", "independent", "Now"],
             "guid": "6179762f8f08fe3ad9f4114a",
             "isoDate": "2021-10-28T02:00:47.000Z",
             "title": "The scourge of spiking: the students fighting for a safe night out",
@@ -2516,6 +3332,18 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/10/27-27117-20211027tifbudget.mp3"
             },
+            "entities": [
+                "prime minister",
+                "chancellor",
+                "his",
+                "independent",
+                "UK",
+                "now",
+                "Rishi Sunak",
+                "Oxford",
+                "He",
+                "he"
+            ],
             "guid": "617806f88f08ea671ec0a196",
             "isoDate": "2021-10-27T02:00:18.000Z",
             "title": "The day that could define Rishi Sunak",
@@ -2537,6 +3365,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/10/26-13904-tif_20211026police.mp3"
             },
+            "entities": [
+                "activist",
+                "she",
+                "independent",
+                "progressive",
+                "Lowri Davies",
+                "Swansea"
+            ],
             "guid": "61769e3b8f08037de28e28ff",
             "isoDate": "2021-10-26T02:00:02.000Z",
             "title": "How British police tried to recruit an informant in Black Lives Matter",
@@ -2558,6 +3394,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/10/22-61110-TIF_netzero.mp3"
             },
+            "entities": ["zero", "leader", "independent"],
             "guid": "617286118f08ba99659de72c",
             "isoDate": "2021-10-25T02:00:26.000Z",
             "title": "What a net zero world will look like \u2013 and how to get there",
@@ -2579,6 +3416,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/10/21-62206-TIF_squid.mp3"
             },
+            "entities": ["Netflix", "independent", "Korea"],
             "guid": "617169278f08e6050e69bd13",
             "isoDate": "2021-10-22T02:00:22.000Z",
             "title": "The Korean debt crisis that inspired Squid Game\u2019s dark dystopia",
@@ -2600,6 +3438,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/10/20-70259-20211021TIFgps.mp3"
             },
+            "entities": ["independent"],
             "guid": "617027318f0822f7fae2ea2c",
             "isoDate": "2021-10-21T02:00:06.000Z",
             "title": "Face off: the government versus GPs",
@@ -2621,6 +3460,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/10/19-69362-20211020TIF2degrees.mp3"
             },
+            "entities": ["independent", "1.5", "Jonathan Watts"],
             "guid": "616e9e988f08953dfa1a6b15",
             "isoDate": "2021-10-20T02:00:02.000Z",
             "title": "Cop 26: a question of degrees \u2013 what a hotter planet means for all of us",
@@ -2642,6 +3482,15 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/10/18-74363-20211019TFamess.mp3"
             },
+            "entities": [
+                "British",
+                "Gaby Hinsliff",
+                "independent",
+                "David Amess",
+                "attack",
+                "Conservative",
+                "democracy"
+            ],
             "guid": "616d51c58f08a7f186b2bd82",
             "isoDate": "2021-10-19T02:00:12.000Z",
             "title": "The killing of MP David Amess",
@@ -2663,6 +3512,16 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/10/16-73922-20211018TFblacklit.mp3"
             },
+            "entities": [
+                "Caleb Azumah Nelson",
+                "the past",
+                "Month",
+                "Candice Carty-Williams",
+                "independent",
+                "future",
+                "Ben Okri",
+                "present"
+            ],
             "guid": "616952558f08a1558fa015b2",
             "isoDate": "2021-10-18T02:00:02.000Z",
             "title": "Britain\u2019s rich history of black literature",
@@ -2684,6 +3543,12 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/10/14-68694-20211015TIFNUFC.mp3"
             },
+            "entities": [
+                "Saudi Arabia",
+                "independent",
+                "Newcastle United",
+                "Tyneside"
+            ],
             "guid": "61670dc08f086e1689384be3",
             "isoDate": "2021-10-15T02:00:16.000Z",
             "title": "Newcastle fans think they\u2019ve got their club back. But at what cost?",
@@ -2705,6 +3570,13 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/10/13-62904-20211011TIFoffice.mp3"
             },
+            "entities": [
+                "a week",
+                "independent",
+                "England",
+                "Joanna Partridge",
+                "a few days"
+            ],
             "guid": "6166b12f8f086e168938453a",
             "isoDate": "2021-10-14T02:00:37.000Z",
             "title": "Has England gone back to the office?",
@@ -2726,6 +3598,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/10/12-71358-20211013TIFreport.mp3"
             },
+            "entities": ["independent", "UK", "one", "the future"],
             "guid": "61658f148f08bca32656fef4",
             "isoDate": "2021-10-13T02:00:08.000Z",
             "title": "What went wrong with the UK\u2019s handling of the Covid pandemic?",
@@ -2746,6 +3619,16 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/10/11-66703-20211012TIFpegasus.mp3"
             },
+            "entities": [
+                "Haya",
+                "his",
+                "Mohammed bin Rashid al-Maktoum",
+                "Princess",
+                "independent",
+                "Pegasus",
+                "judge",
+                "Sheikh"
+            ],
             "guid": "6163edb78f08b8251d6246dd",
             "isoDate": "2021-10-12T02:00:04.000Z",
             "title": "Dubai\u2019s ruler and the Pegasus phone hacking exposed in a UK court",
@@ -2767,6 +3650,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/10/08-74523-20211011TIFcop26.mp3"
             },
+            "entities": ["independent", "Three weeks from today", "Glasgow"],
             "guid": "61601a608f086e6f3eb2eda8",
             "isoDate": "2021-10-11T02:00:18.000Z",
             "title": "The countdown to Cop26: can world leaders save the planet?",
@@ -2788,6 +3672,17 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/10/07-67915-20211008TIFfacebook.mp3"
             },
+            "entities": [
+                "21st century",
+                "American",
+                "her",
+                "independent",
+                "last month",
+                "Now",
+                "Facebook",
+                "Frances Haugen",
+                "US"
+            ],
             "guid": "615ef9228f08de9fa7784d5f",
             "isoDate": "2021-10-08T02:00:50.000Z",
             "title": "The whistleblower who plunged Facebook into crisis",
@@ -2809,6 +3704,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/10/06-64666-20211006TIFwomen_police.mp3"
             },
+            "entities": ["British", "independent", "Sarah Everard"],
             "guid": "615dcb098f080acb00c0fe4e",
             "isoDate": "2021-10-07T02:00:40.000Z",
             "title": "Can women trust the police?",
@@ -2830,6 +3726,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/10/05-77480-TIF_panicbuying.mp3"
             },
+            "entities": [
+                "social psychologist",
+                "recent weeks",
+                "independent",
+                "UK",
+                "one",
+                "Clifford Stott"
+            ],
             "guid": "615c65c28f086bfecba0c8dc",
             "isoDate": "2021-10-06T02:00:12.000Z",
             "title": "Why everything you\u2019ve heard about panic buying might be wrong",
@@ -2851,6 +3755,13 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/10/05-39216-051021_TIF_pandoaep2.mp3"
             },
+            "entities": [
+                "Pandora",
+                "independent",
+                "Conservative",
+                "today",
+                "one"
+            ],
             "guid": "615ad1de8f0893cd25c39ca0",
             "isoDate": "2021-10-05T02:00:37.000Z",
             "title": "The Pandora papers: who\u2019s giving money to the Conservatives?",
@@ -2872,6 +3783,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/10/03-74587-20211004TIFpandora.mp3"
             },
+            "entities": ["current", "independent"],
             "guid": "615991538f089420bc41badf",
             "isoDate": "2021-10-04T02:00:44.000Z",
             "title": "Inside the Pandora papers \u2013 financial secrets of the rich and powerful",
@@ -2893,6 +3805,17 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/09/30-76792-TIF_johnsonNEW.mp3"
             },
+            "entities": [
+                "prime minister",
+                "editor",
+                "his",
+                "independent",
+                "Brexit",
+                "Guardian",
+                "he",
+                "him",
+                "Heather Stewart"
+            ],
             "guid": "6155ad318f083dd418e940c4",
             "isoDate": "2021-10-01T02:00:17.000Z",
             "title": "Boris Johnson wants a conference reset. Will reality ruin it?",
@@ -2914,6 +3837,18 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/09/29-75164-TIF_kelly.mp3"
             },
+            "entities": [
+                "independent",
+                "More than 20 years",
+                "racketeering",
+                "decades",
+                "R Kelly",
+                "he",
+                "him",
+                "first",
+                "US",
+                "violence"
+            ],
             "guid": "615457d08f0830319de584d9",
             "isoDate": "2021-09-30T02:00:48.000Z",
             "title": "The conviction of R Kelly",
@@ -2935,6 +3870,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/09/28-77914-TIF_coal.mp3"
             },
+            "entities": [
+                "Beijing",
+                "editor",
+                "independent",
+                "China",
+                "Guardian",
+                "Jonathan Watts"
+            ],
             "guid": "6153300b8f0805345f1e10ef",
             "isoDate": "2021-09-29T02:00:38.000Z",
             "title": "Can China help end the world\u2019s addiction to coal?",
@@ -2955,6 +3898,18 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/09/27-76386-TIF_bondfinal.mp3"
             },
+            "entities": [
+                "editor",
+                "conservative",
+                "independent",
+                "Catherine Shoard",
+                "Now",
+                "007",
+                "Guardian",
+                "He",
+                "$8.5bn",
+                "Daniel Craig"
+            ],
             "guid": "6151b1288f08c14a66759f49",
             "isoDate": "2021-09-28T02:00:53.000Z",
             "title": "Bond is back. Where\u2019s he going next?",
@@ -2976,6 +3931,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/09/24-59208-TIF_pegasuslondon.mp3"
             },
+            "entities": ["independent", "once", "Alaa Al-Siddiq", "Pegasus"],
             "guid": "614c6f448f084a3056b46484",
             "isoDate": "2021-09-27T02:00:28.000Z",
             "title": "The Pegasus project: hacked in London",
@@ -2997,6 +3953,18 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/09/24-24714-20210924TIFlabour.mp3"
             },
+            "entities": [
+                "Keir Starmer",
+                "his",
+                "Labour party",
+                "Brighton",
+                "independent",
+                "future",
+                "annual",
+                "Jessica Elgot",
+                "first",
+                "this weekend"
+            ],
             "guid": "614c56448f080231c3d3cd9b",
             "isoDate": "2021-09-24T02:00:04.000Z",
             "title": "Keir Starmer\u2019s make-or-break conference week",
@@ -3018,6 +3986,15 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/09/22-68421-TIF_energycrisis.mp3"
             },
+            "entities": [
+                "independent",
+                "UK",
+                "Jillian Ambrose",
+                "winter",
+                "Guardian",
+                "correspondent",
+                "summer"
+            ],
             "guid": "614aff378f087b5c6fb4ab2f",
             "isoDate": "2021-09-23T02:00:35.000Z",
             "title": "The energy crisis no one saw coming",
@@ -3039,6 +4016,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/09/21-68888-20210922TIFgermany.mp3"
             },
+            "entities": [
+                "Angela Merkel",
+                "chancellor",
+                "independent",
+                "16 years on Sunday",
+                "German",
+                "first"
+            ],
             "guid": "614996e28f0887fe13f5897f",
             "isoDate": "2021-09-22T02:00:29.000Z",
             "title": "Germany decides: who will follow Angela Merkel?",
@@ -3060,6 +4045,17 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/09/20-62523-TIF_nuclearsubs.mp3"
             },
+            "entities": [
+                "Beijing",
+                "editor",
+                "independent",
+                "UK",
+                "Guardian",
+                "Dan Sabbagh",
+                "Australia",
+                "US",
+                "Aukus"
+            ],
             "guid": "614881f78f0887fe13f57cc9",
             "isoDate": "2021-09-21T02:00:28.000Z",
             "title": "Going nuclear: the secret submarine deal to challenge China ",
@@ -3081,6 +4077,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/09/19-53943-tif_culture.mp3"
             },
+            "entities": ["independent", "this autumn"],
             "guid": "614480b08f08001fa2d1cad3",
             "isoDate": "2021-09-20T02:00:52.000Z",
             "title": "Finally! Get ready for a new season of culture",
@@ -3102,6 +4099,15 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/09/16-63546-20210917TIFdefenders.mp3"
             },
+            "entities": [
+                "she",
+                "her",
+                "Her",
+                "independent",
+                "Fikile Ntshangase",
+                "Rachel Humphreys",
+                "Malungelo Xhakaza"
+            ],
             "guid": "6143432b8f08001fa2d1b976",
             "isoDate": "2021-09-17T02:00:32.000Z",
             "title": "The murder of Fikile: the woman who took on a coal mine",
@@ -3123,6 +4129,12 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/09/15-70833-TIF_onlyfans.mp3"
             },
+            "entities": [
+                "billion-dollar",
+                "independent",
+                "the future",
+                "second"
+            ],
             "guid": "6141e3658f08762d276320a2",
             "isoDate": "2021-09-16T02:00:03.000Z",
             "title": "The problem with OnlyFans\u2019 mainstream dream",
@@ -3144,6 +4156,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/09/14-69280-20210015TIFcare.mp3"
             },
+            "entities": ["this week", "independent"],
             "guid": "614079588f08001fa2d1923c",
             "isoDate": "2021-09-15T02:00:34.000Z",
             "title": "Who\u2019s paying for the government\u2019s plan to fix social care?",
@@ -3165,6 +4178,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/09/13-62635-20210014TIFsupply.mp3"
             },
+            "entities": ["post-Brexit", "storm", "independent", "Britain"],
             "guid": "613f0d098f08c56a6ed024ff",
             "isoDate": "2021-09-14T02:00:00.000Z",
             "title": "Is Brexit the reason McDonald's is running out of milkshakes?",
@@ -3186,6 +4200,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/09/10-61340-20210013TIFpsychedelics.mp3"
             },
+            "entities": ["independent", "drugs"],
             "guid": "613b47be8f08c56a6ecffaf5",
             "isoDate": "2021-09-13T02:00:08.000Z",
             "title": "Ecstasy, LSD and magic mushrooms: are these drugs the future of therapy?",
@@ -3207,6 +4222,22 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/09/10-41471-20210010TIF911islamophobia2.mp3"
             },
+            "entities": [
+                "Nosheen Iqbal",
+                "Muslims",
+                "2000s",
+                "independent",
+                "Nabil Abdul Rashid",
+                "Poet",
+                "Britain",
+                "9/11",
+                "Muslim",
+                "comedian",
+                "the",
+                "Suhaiymah Manzoor-Khan",
+                "past two decades",
+                "the future"
+            ],
             "guid": "6139fa828f08d78b49871a6a",
             "isoDate": "2021-09-10T02:00:15.000Z",
             "title": "A conversation about Islamophobia in the UK since 9/11",
@@ -3228,6 +4259,17 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/09/09-56144-TIF_alqaidanew.mp3"
             },
+            "entities": [
+                "his",
+                "independent",
+                "Jason Burke",
+                "Aimen Dean",
+                "attacks",
+                "September 11",
+                "more than a few years",
+                "Al-Qaida",
+                "more than a decade"
+            ],
             "guid": "6138b21b8f08ef08a327a2e3",
             "isoDate": "2021-09-09T02:00:46.000Z",
             "title": "Inside Al-Qaida: a recruit-turned-spy, a journalist and the road to 9/11",
@@ -3249,6 +4291,15 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/09/07-66623-TIF_children911.mp3"
             },
+            "entities": [
+                "3,051",
+                "September 11 2001",
+                "independent",
+                "attacks",
+                "three",
+                "20 years",
+                "first"
+            ],
             "guid": "613756c98f08d33de3b07c5e",
             "isoDate": "2021-09-08T02:00:24.000Z",
             "title": "The children of 9/11",
@@ -3270,6 +4321,15 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/09/06-70026-TIF_wildfires.mp3"
             },
+            "entities": [
+                "his",
+                "independent",
+                "40,000",
+                "Llew",
+                "this year",
+                "20 years",
+                "US"
+            ],
             "guid": "61360e8a8f08bf4765a47667",
             "isoDate": "2021-09-07T02:00:18.000Z",
             "title": "Burnout in the US battle against wildfires",
@@ -3291,6 +4351,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/09/03-63710-TiF_gazatower.mp3"
             },
+            "entities": ["independent", "al-Jalaa"],
             "guid": "6132158c8f08bf4765a44820",
             "isoDate": "2021-09-06T02:00:08.000Z",
             "title": "One hour to escape: the race to get out of a Gaza tower before an Israeli airstrike",
@@ -3312,6 +4373,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/09/06-63035-TIF_electric2.mp3"
             },
+            "entities": ["independent", "UK", "the future", "2030"],
             "guid": "6130cf678f08bf4765a436c3",
             "isoDate": "2021-09-03T02:00:15.000Z",
             "title": "One man\u2019s epic electric test drive \u2013 from Land\u2019s End to John o\u2019Groats",
@@ -3333,6 +4395,12 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/09/01-68164-TIF_schoolscoronavirus.mp3"
             },
+            "entities": [
+                "teacher",
+                "independent",
+                "Jules White",
+                "Nicola Davis"
+            ],
             "guid": "612f72038f0830dd895fca00",
             "isoDate": "2021-09-02T02:00:11.000Z",
             "title": "The big coronavirus questions as a new school term begins",
@@ -3354,6 +4422,18 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/08/31-65468-TIF_leftbehindkabul.mp3"
             },
+            "entities": [
+                "British",
+                "Afghanistan",
+                "his",
+                "independent",
+                "future",
+                "Now",
+                "Day",
+                "day",
+                "Ahmad",
+                "he"
+            ],
             "guid": "612e1ca98f0830dd895fb876",
             "isoDate": "2021-09-01T02:00:17.000Z",
             "title": "The British citizens stranded in Kabul",
@@ -3375,6 +4455,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/08/31-36359-TIF_theknock.mp3"
             },
+            "entities": [
+                "she",
+                "her",
+                "independent",
+                "Sunday",
+                "evening",
+                "Emma"
+            ],
             "guid": "612cbe038f0879c830c0a0ea",
             "isoDate": "2021-08-31T02:00:02.000Z",
             "title": "The knock: the families torn apart by an arrest over child abuse images",
@@ -3396,6 +4484,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/08/27-49317-TIF_nftsrevisited.mp3"
             },
+            "entities": ["Alex Hern", "independent", "Sirin Kale"],
             "guid": "611fb5b38f08cc0d8b004752",
             "isoDate": "2021-08-30T02:00:22.000Z",
             "title": "Revisited: how meme stars of the early internet struck it rich with NFTs",
@@ -3417,6 +4506,16 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/08/20-57899-20210827TIFrerunssex.mp3"
             },
+            "entities": [
+                "columnist",
+                "editor",
+                "deputy",
+                "independent",
+                "Hannah J Davies",
+                "today",
+                "Guardian",
+                "Hadley Freeman"
+            ],
             "guid": "611fb92b8f08cc0d8b004793",
             "isoDate": "2021-08-27T02:00:04.000Z",
             "title": "Revisited: Why is Sex and the City coming back to our screens?",
@@ -3438,6 +4537,15 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/08/25-53665-TIF_ultrarunningrevisited.mp3"
             },
+            "entities": [
+                "Gansu",
+                "100",
+                "earlier this year",
+                "province",
+                "independent",
+                "Chinese",
+                "21"
+            ],
             "guid": "611fa6158f08f7d07c058d01",
             "isoDate": "2021-08-26T02:00:35.000Z",
             "title": "Revisited: the danger \u2013 and beauty \u2013 of ultrarunning",
@@ -3459,6 +4567,16 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/08/20-58955-20210825TIFrerunmafia.mp3"
             },
+            "entities": [
+                "boss",
+                "Emanuele Mancuso",
+                "independent",
+                "Luni Mancuso",
+                "Guardian",
+                "three decades",
+                "Lorenzo Tondo",
+                "Clare Longrigg"
+            ],
             "guid": "611f8d7f8f08f7d07c058b1f",
             "isoDate": "2021-08-25T02:00:06.000Z",
             "title": "Revisited: Inside the \u2019Ndrangheta trial",
@@ -3480,6 +4598,15 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/08/20-57283-20210824TIFrerunscams1.mp3"
             },
+            "entities": [
+                "she",
+                "editor",
+                "her",
+                "independent",
+                "Hilary Osborne",
+                "Rose",
+                "Guardian"
+            ],
             "guid": "611d6b088f0865f6db860e1c",
             "isoDate": "2021-08-24T02:00:20.000Z",
             "title": "Revisited: The pandemic scam artists making millions during lockdown",
@@ -3501,6 +4628,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/08/20-58229-TIF_buttliftrevisited.mp3"
             },
+            "entities": ["independent", "Brazilian", "surgery"],
             "guid": "611f9fa78f08f7d07c058c8c",
             "isoDate": "2021-08-23T02:00:51.000Z",
             "title": "Revisited: why has the Brazilian butt lift become so popular?",
@@ -3522,6 +4650,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/08/19-62074-TIF_paralympics.mp3"
             },
+            "entities": [
+                "she",
+                "independent",
+                "Sophie Carrigill",
+                "Japan",
+                "Now",
+                "2012"
+            ],
             "guid": "611e889a8f08cc0d8b003954",
             "isoDate": "2021-08-20T02:00:22.000Z",
             "title": "A Paralympian\u2019s long journey to Tokyo",
@@ -3543,6 +4679,14 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/08/18-65795-TIF_incels.mp3"
             },
+            "entities": [
+                "his",
+                "last week",
+                "independent",
+                "England",
+                "five",
+                "violence"
+            ],
             "guid": "611cf1558f08cca92b9e3823",
             "isoDate": "2021-08-19T02:00:32.000Z",
             "title": "The Plymouth attack and misogynist \u2018incel\u2019 culture",
@@ -3564,6 +4708,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/08/17-73522-20210818TIFcare.mp3"
             },
+            "entities": ["storm", "independent"],
             "guid": "611b96e38f08729d9f06b181",
             "isoDate": "2021-08-18T02:00:41.000Z",
             "title": "How the pandemic exposed the crisis in children\u2019s social care",
@@ -3585,6 +4730,15 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/08/16-71730-20210817TIFafghanistan.mp3"
             },
+            "entities": [
+                "Taliban",
+                "Afghanistan",
+                "independent",
+                "Now",
+                "Afghan",
+                "20 years",
+                "US"
+            ],
             "guid": "611a643f8f08d30d15503258",
             "isoDate": "2021-08-17T02:00:05.000Z",
             "title": "How the Taliban took Afghanistan ",
@@ -3606,6 +4760,17 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/08/13-61006-20210816TIFICU2.mp3"
             },
+            "entities": [
+                "his",
+                "minister",
+                "consultant",
+                "independent",
+                "Karl Gray",
+                "Salvation Army",
+                "London",
+                "60-year-old",
+                "Susan Jain"
+            ],
             "guid": "6116520f8f0869e9fc5d2acf",
             "isoDate": "2021-08-16T02:00:23.000Z",
             "title": "After ICU: a Covid patient meets one of the doctors who saved his life",
@@ -3627,6 +4792,17 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/08/12-68891-20210813TIFcuomo2.mp3"
             },
+            "entities": [
+                "11",
+                "New York",
+                "this week",
+                "independent",
+                "one",
+                "governor",
+                "Andrew Cuomo",
+                "harassment",
+                "US"
+            ],
             "guid": "6114fb4d8f0892081f6d41dc",
             "isoDate": "2021-08-13T02:00:17.000Z",
             "title": "The fall of Andrew Cuomo",
@@ -3648,6 +4824,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/08/11-61104-20210813TIFaustralia.mp3"
             },
+            "entities": ["independent", "Delta", "model", "Australia"],
             "guid": "6113a5a18f0811859fec44c6",
             "isoDate": "2021-08-12T02:00:05.000Z",
             "title": "Has the Delta variant derailed Australia\u2019s zero-Covid strategy?",
@@ -3669,6 +4846,7 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/08/10-62991-20210812TIFclimate.mp3"
             },
+            "entities": ["independent", "now", "UN"],
             "guid": "61124ed68f0811859fec3403",
             "isoDate": "2021-08-11T02:00:35.000Z",
             "title": "Scientists issue a climate code red",
@@ -3690,6 +4868,16 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/08/09-61820-20210811TIFshadowwar.mp3"
             },
+            "entities": [
+                "Iran",
+                "independent",
+                "attacks",
+                "one",
+                "Guardian",
+                "correspondent",
+                "Israel",
+                "Martin Chulov"
+            ],
             "guid": "6110fbdf8f0811859fec245d",
             "isoDate": "2021-08-10T02:00:06.000Z",
             "title": "Israel\u2019s shadow war with Iran ",
@@ -3711,6 +4899,13 @@
                 "type": "audio/mpeg",
                 "url": "https://flex.acast.com/audio.guim.co.uk/2021/08/08-77064-20210810TIFmiscarriage2.mp3"
             },
+            "entities": [
+                "journalist",
+                "she",
+                "independent",
+                "four",
+                "Jennie Agg"
+            ],
             "guid": "610c02ea8f0811859febec73",
             "isoDate": "2021-08-09T02:00:37.000Z",
             "title": "In search of answers about miscarriage",

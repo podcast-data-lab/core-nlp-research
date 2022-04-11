@@ -38,6 +38,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ9219846518.mp3?updated=1649462391"
             },
+            "entities": ["analyst", "Twitter", "Warren Buffett"],
             "content:encodedSnippet": "A top airline analyst weighs in on dealmaking and stocks to buy, and Jack talks Twitter, Warren Buffett and more.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "47414a0e-b797-11ec-a13a-cbe2f932df47",
             "isoDate": "2022-04-08T23:45:00.000Z",
@@ -59,6 +60,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ1857195413.mp3?updated=1648859218"
             },
+            "entities": ["strategist", "manager"],
             "content:encodedSnippet": "Yields on fixed income and dividend stocks have plumped up. A top strategist and money manager talk about where to find deals.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "e8936496-b21a-11ec-81fc-53baab8fb57b",
             "isoDate": "2022-04-02T00:07:00.000Z",
@@ -80,6 +82,12 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ4013656227.mp3?updated=1648476705"
             },
+            "entities": [
+                "Doug Leggate",
+                "Denton Cinquegrana",
+                "BofA",
+                "summer"
+            ],
             "content:encodedSnippet": "The key to profits in the gasoline business is natural gas, not just crude. BofA's Doug Leggate explains. And Denton Cinquegrana at OPIS talks summer pump prices.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "34a6b65c-ac86-11ec-974d-c77b98178ef1",
             "isoDate": "2022-03-25T21:43:00.000Z",
@@ -101,6 +109,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ8381360363.mp3?updated=1647636996"
             },
+            "entities": ["Nikesh Arora", "Palo Alto Networks", "CEO", "Russia"],
             "content:encodedSnippet": "Palo Alto Networks CEO Nikesh Arora talks Russia, artificial intelligence, and why the network security industry is poised for consolidation.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "338422f2-a6fd-11ec-94b1-2be31793e8b3",
             "isoDate": "2022-03-18T20:46:00.000Z",
@@ -122,6 +131,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ9225010804.mp3?updated=1647041066"
             },
+            "entities": ["Kristin Peck", "Jack", "CEO", "Zoetis"],
             "content:encodedSnippet": "Jack hears from a crypto skepti-bull, and catches up with Kristin Peck, CEO of Zoetis.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "b1a71eee-a191-11ec-bd15-efd9a2c15e91",
             "isoDate": "2022-03-11T23:09:00.000Z",
@@ -143,6 +153,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ8603980566.mp3?updated=1646844361"
             },
+            "entities": ["retailer"],
             "content:encodedSnippet": "Nickel, wheat, and oil are spiking--but dividend stocks might be better for fighting inflation. Also, a retailer's shares go vertical, as a listener looks for baby stocks.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "b3ef3cfc-9fc7-11ec-87e6-175b4655df99",
             "isoDate": "2022-03-09T15:43:00.000Z",
@@ -164,6 +175,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ6378212900.mp3?updated=1646436791"
             },
+            "entities": ["strategist", "his", "CEO"],
             "content:encodedSnippet": "A top commodities strategist lays out the prospects for new supply--and demand destruction. And an oil CEO doubles down on his pledge to limit new drilling.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "c113df9a-9c12-11ec-a63b-b716b7a5d745",
             "isoDate": "2022-03-04T23:14:00.000Z",
@@ -185,6 +197,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ6516766641.mp3?updated=1646229713"
             },
+            "entities": ["Jack", "two"],
             "content:encodedSnippet": "Jack launches a midweek edition with a look at a double-upgrade for two homebuilder stocks, plus tailwinds for home improvement chains.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "9cab9370-9a30-11ec-bf87-f30f58b3c9da",
             "isoDate": "2022-03-02T13:28:00.000Z",
@@ -206,6 +219,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ2647666129.mp3?updated=1645839513"
             },
+            "entities": ["strategist", "one"],
             "content:encodedSnippet": "Jack talks with one market strategist who's worried about stagflation, and another who says that stocks tend to shake off geopolitical shocks.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "1c3dd3fe-96a4-11ec-b129-df1a569e27b8",
             "isoDate": "2022-02-26T01:27:00.000Z",
@@ -227,6 +241,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ1742693081.mp3?updated=1645227075"
             },
+            "entities": ["Bob Bakish", "Yellowstone", "Paramount", "CEO"],
             "content:encodedSnippet": "Jack talks Jackass, Yellowstone, theater windows and subscribers with Paramount CEO Bob Bakish. Plus, why so many earnings-day blowups?\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "2aa7dd1e-9112-11ec-b82c-0fc4d1d402af",
             "isoDate": "2022-02-18T23:05:00.000Z",
@@ -248,6 +263,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ6894356810.mp3?updated=1644633144"
             },
+            "entities": ["Mette", "Jack"],
             "content:encodedSnippet": "Jack answers listener questions, including ones on electric vehicles and inflation. Plus, Mette stops by.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "500f8294-8bab-11ec-8ea3-13344d058579",
             "isoDate": "2022-02-12T00:54:00.000Z",
@@ -269,6 +285,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ9022744268.mp3?updated=1644024071"
             },
+            "entities": ["she", "her", "Tesla", "Spotify"],
             "content:encodedSnippet": "The stock-picker talks about her recent declines, why she's sticking with companies like Tesla, Zoom, and Spotify, and why her rivals are overloaded on the FAANGs.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "7e5a87a2-861f-11ec-a6ee-bfd4ec186f73",
             "isoDate": "2022-02-05T01:28:23.000Z",
@@ -290,6 +307,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ9650535061.mp3?updated=1643420658"
             },
+            "entities": [],
             "content:encodedSnippet": "Jack talks with a pair of Wall Street analysts making bold calls, and hears from a tiny focus group.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "45d896a6-80a4-11ec-8b43-a739e19281b1",
             "isoDate": "2022-01-29T01:20:00.000Z",
@@ -311,6 +329,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ6051227125.mp3?updated=1642808833"
             },
+            "entities": ["Devon Energy", "CEO"],
             "content:encodedSnippet": "Jack talks with the CEO of Devon Energy and a pair of Wall Street analysts to see if energy stocks have more upside.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "c1e220dc-7b13-11ec-98b5-b74a617ea1b6",
             "isoDate": "2022-01-21T23:33:00.000Z",
@@ -332,6 +351,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ3576704135.mp3?updated=1642213130"
             },
+            "entities": ["CEO", "brewer"],
             "content:encodedSnippet": "Jack talks with a pair of top Wall Street strategists and the CEO of the world\u2019s largest brewer.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "c77923f8-75a8-11ec-812b-63c001cae0fd",
             "isoDate": "2022-01-15T02:01:00.000Z",
@@ -353,6 +373,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ9258707464.mp3?updated=1641605628"
             },
+            "entities": ["his", "Jackson", "Jack"],
             "content:encodedSnippet": "Jack examines the bull and bear arguments. And Jackson gets mud on his jeans.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "53e470c2-7022-11ec-b98f-130ff967a521",
             "isoDate": "2022-01-08T01:17:00.000Z",
@@ -374,6 +395,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ8568278453.mp3?updated=1640911935"
             },
+            "entities": ["Pernod Ricard"],
             "content:encodedSnippet": "Hard seltzer drinkers are turning to pre-mixed spirits, says Pernod Ricard. Plus Wells Fargo\u2019s investment outlook.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "9907dfc6-69cf-11ec-bb22-e326b5a9c9f3",
             "isoDate": "2021-12-31T00:15:00.000Z",
@@ -395,6 +417,15 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ4110366709.mp3?updated=1640305154"
             },
+            "entities": [
+                "Citizens",
+                "chef",
+                "analyst",
+                "Guy Fieri",
+                "CEO",
+                "Jack",
+                "Bruce Van Saun"
+            ],
             "content:encodedSnippet": "Hear from Citizens CEO Bruce Van Saun and a Wall Street bank analyst. Plus, Jack has a pitch for chef Guy Fieri.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "6d026512-644e-11ec-b8b4-834475c1388f",
             "isoDate": "2021-12-24T00:14:00.000Z",
@@ -416,6 +447,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ1932591652.mp3?updated=1639793323"
             },
+            "entities": ["landlord", "America", "analyst"],
             "content:encodedSnippet": "Jack talks with America\u2019s biggest single-family landlord and a top Wall Street property analyst.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "b9947232-5fa6-11ec-9623-5b77381c01f0",
             "isoDate": "2021-12-18T01:06:00.000Z",
@@ -437,6 +469,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ5805958536.mp3?updated=1639413763"
             },
+            "entities": ["Eurasia Group", "China", "Michael Hirson", "Alibaba"],
             "content:encodedSnippet": "Plus, Michael Hirson at The Eurasia Group explains why China\u2019s US-listed companies like Alibaba are a target for regulators.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "27771d3e-5a27-11ec-8e40-03d2846b9694",
             "isoDate": "2021-12-11T01:55:00.000Z",
@@ -458,6 +491,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ3654188683.mp3?updated=1638575397"
             },
+            "entities": ["Google", "a decade", "the future", "Eric Schmidt"],
             "content:encodedSnippet": "Eric Schmidt, who led Google for a decade, talks automated warfare, stock-picking computers and the future of humanity. Plus, we let a robot take over the podcast.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "05736c7c-5493-11ec-964f-6b46606414c2",
             "isoDate": "2021-12-03T23:44:13.000Z",
@@ -479,6 +513,10 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ2438713129.mp3?updated=1637963754"
             },
+            "entities": [
+                "CIO of Northern Trust Wealth Management",
+                "Katie Nixon"
+            ],
             "content:encodedSnippet": "Careful loading up on narrow bets on rising prices. Stocks offer better protection than you might think. Jack talks with Katie Nixon, CIO of Northern Trust Wealth Management.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "ee01e23e-4f02-11ec-89aa-7fc8c1847342",
             "isoDate": "2021-11-26T21:50:10.000Z",
@@ -500,6 +538,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ9405377575.mp3?updated=1637366814"
             },
+            "entities": ["Cristiano Amon"],
             "content:encodedSnippet": "Cristiano Amon talks about selling chips for more than just iPhones, including cars, factories and smart glasses.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "11dbeb82-4995-11ec-beaa-6f08b1a3b517",
             "isoDate": "2021-11-20T00:01:13.000Z",
@@ -521,6 +560,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ4834888986.mp3?updated=1637102704"
             },
+            "entities": ["Ynon Kreiz", "Mattel", "CEO"],
             "content:encodedSnippet": "CEO Ynon Kreiz is turning Mattel around. Plus, meet a Hot Wheels millionaire.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "9663e26c-4416-11ec-83a9-a3b06eacdf0f",
             "isoDate": "2021-11-13T00:13:29.000Z",
@@ -542,6 +582,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ8736599036.mp3?updated=1636149894"
             },
+            "entities": [],
             "content:encodedSnippet": "There is a bubble of bubbles across NFTs, meme stocks and crypto. How to dabble safely.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "b5056184-3e83-11ec-a43a-d3b6672c5863",
             "isoDate": "2021-11-05T21:59:03.000Z",
@@ -563,6 +604,13 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ5043293656.mp3?updated=1635548754"
             },
+            "entities": [
+                "Richard Fain",
+                "Grey Poupon",
+                "1%",
+                "CEO",
+                "Royal Caribbean"
+            ],
             "content:encodedSnippet": "Bookings are strong, says Royal Caribbean CEO Richard Fain. Plus, predicting Grey Poupon demand within 1%.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "11b5ec78-390c-11ec-ac49-bfcaa87b866e",
             "isoDate": "2021-10-29T23:00:02.000Z",
@@ -584,6 +632,18 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ2225573069.mp3?updated=1641858210"
             },
+            "entities": [
+                "creator",
+                "economist",
+                "his",
+                "fund manager",
+                "Jackson Cantrell",
+                "now",
+                "Bitcoin",
+                "American Airlines",
+                "MIT",
+                "two-year-old"
+            ],
             "content:encodedSnippet": "The creator of a two-year-old currency that's now worth more than American Airlines weighs in. Plus, a hedge fund manager on how to trade Bitcoin, and an MIT economist on whether it belongs in your portfolio. Jackson Cantrell tries his luck at hosting the podcast.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "9b207a9e-338c-11ec-97f6-87dc82befaf9",
             "isoDate": "2021-10-22T23:05:00.000Z",
@@ -605,6 +665,14 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ3321071163.mp3?updated=1634335014"
             },
+            "entities": [
+                "editor",
+                "This week",
+                "Jeremy Olshan",
+                "economist",
+                "Stephanie Kelton",
+                "MarketWatch"
+            ],
             "content:encodedSnippet": "This week, the Streetwise team takes a break to bring you a new episode of Best New Ideas in Money. It's a new show hosted by MarketWatch editor Jeremy Olshan and economist Stephanie Kelton.\n\nInnovations in behavioral biometrics will make it harder for fraudsters to impersonate you online, but these detailed profiles of our behaviors could get a little creepy.\n\nFor more episodes, find Best New Ideas in Money wherever you get your podcasts.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "1c0dd218-2e02-11ec-a136-cb823b065c67",
             "isoDate": "2021-10-15T21:51:13.000Z",
@@ -626,6 +694,14 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ4076105410.mp3?updated=1633717253"
             },
+            "entities": [
+                "Jefferies",
+                "5",
+                "He-Man",
+                "Jack",
+                "He",
+                "Wedbush Securities"
+            ],
             "content:encodedSnippet": "Analysts from Jefferies and Wedbush Securities discuss stock picks, hit toys, and how to score a Playstation 5. Jack isn't sure about a He-Man comeback.   \n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "c622fe4e-2863-11ec-8805-d371d26bd92d",
             "isoDate": "2021-10-08T18:15:07.000Z",
@@ -647,6 +723,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ8066027656.mp3?updated=1634136432"
             },
+            "entities": ["Christmas", "Jackson"],
             "content:encodedSnippet": "Christmas shortage fears are mostly overblown. Port, trucking, and toy chiefs weigh in. And Jackson gets thrown out of a mall.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "043bc024-2311-11ec-a366-3fa1ae9d4953",
             "isoDate": "2021-10-01T23:39:48.000Z",
@@ -668,6 +745,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ4712022752.mp3?updated=1632535316"
             },
+            "entities": ["Vizio", "Roku", "Amazon"],
             "content:encodedSnippet": "Power is shifting to TV makers. Vizio's plan to take on Roku and Amazon.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "dc3ecbe2-1da3-11ec-a346-17588ad6aa0e",
             "isoDate": "2021-09-25T01:56:32.000Z",
@@ -689,6 +767,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ5938416159.mp3?updated=1631915513"
             },
+            "entities": ["one", "this year"],
             "content:encodedSnippet": "Default is unlikely this year, but \"stupid things seem a lot more possible,\" says one budget expert.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "c534d8a4-1800-11ec-9741-dfcf6c721890",
             "isoDate": "2021-09-17T21:46:43.000Z",
@@ -710,6 +789,13 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ4858494276.mp3?updated=1631331430"
             },
+            "entities": [
+                "Lisa Shalett",
+                "500",
+                "Ed Yardeni",
+                "S&P",
+                "Morgan Stanley"
+            ],
             "content:encodedSnippet": "Lisa Shalett at Morgan Stanley predicts an S&P 500 correction, but sees good deals elsewhere. Ed Yardeni talks inflation and babies.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "7ac440fe-1286-11ec-9eb5-6f90aae8480a",
             "isoDate": "2021-09-10T22:28:07.000Z",
@@ -731,6 +817,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ7265438261.mp3?updated=1630703814"
             },
+            "entities": ["Dan Rosensweig", "CEO", "he"],
             "content:encodedSnippet": "Chegg CEO Dan Rosensweig talks about online tutoring, fixing college, and what he learned from Guitar Hero.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "904c4416-0cfb-11ec-9f42-cbd0c25b0e8a",
             "isoDate": "2021-09-03T21:11:19.000Z",
@@ -752,6 +839,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ8654486529.mp3?updated=1630090312"
             },
+            "entities": [],
             "content:encodedSnippet": "Jack tackles bored apes and CryptoPunks to explain what's behind the mania in non-fungible tokens.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "24d08984-0767-11ec-9ef8-5f7bdbcb564d",
             "isoDate": "2021-08-27T18:46:08.000Z",
@@ -773,6 +861,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ7242421505.mp3?updated=1629476214"
             },
+            "entities": [],
             "content:encodedSnippet": "Jack tackles listener questions, including whether investing has fundamentally changed.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "55c5a524-01d1-11ec-8cb1-ef7ac4bc82a5",
             "isoDate": "2021-08-20T16:11:11.000Z",
@@ -794,6 +883,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ3092734833.mp3?updated=1628895976"
             },
+            "entities": ["his", "Subaru", "Jackson", "CEO", "Ernie Garcia"],
             "content:encodedSnippet": "Carvana CEO Ernie Garcia weighs in on what's next for the market. Jackson tries to sell his Subaru.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "251a020e-fc85-11eb-b053-cbdae407bbe8",
             "isoDate": "2021-08-13T22:22:56.000Z",
@@ -815,6 +905,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ2597291215.mp3?updated=1628290981"
             },
+            "entities": ["LyondellBasell", "CEO"],
             "content:encodedSnippet": "Profits in polymers are piling up. But so are tossed-out bottles. LyondellBasell's CEO talks about demand, shortages, and recycling.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "bb9a5e80-f709-11eb-b411-0b381aa99d38",
             "isoDate": "2021-08-06T22:57:38.000Z",
@@ -836,6 +927,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ9281496445.mp3?updated=1627685872"
             },
+            "entities": ["his", "Pat Gelsinger", "2025", "Jack", "he"],
             "content:encodedSnippet": "Pat Gelsinger says he can return the chipmaker to glory by 2025. Jack examines his plan.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "dee8671e-f188-11eb-a47c-63030cad7737",
             "isoDate": "2021-07-30T22:51:59.000Z",
@@ -857,6 +949,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ8933666911.mp3?updated=1628027408"
             },
+            "entities": ["Lynn Good", "Duke Energy", "the future"],
             "content:encodedSnippet": "Duke Energy chief Lynn Good discusses the future of power distribution -and why breaking up is a bad idea.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "61aef264-ebf1-11eb-97a5-63fd830cc082",
             "isoDate": "2021-07-23T20:05:47.000Z",
@@ -878,6 +971,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ5478821539.mp3?updated=1626533646"
             },
+            "entities": ["CEO"],
             "content:encodedSnippet": "Jack talks with the incoming CEO of Stitch Fix. Also, why your favorite fashion brands might not make great stocks.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "ad5a0c50-e67c-11eb-893d-3732eb3e7acd",
             "isoDate": "2021-07-16T21:27:17.000Z",
@@ -899,6 +993,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ6313571159.mp3?updated=1626211555"
             },
+            "entities": ["Tesla", "the past 12 months"],
             "content:encodedSnippet": "Over the past 12 months, shares of the home generator company have shot up twice as fast as Tesla's.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "33c580da-e420-11eb-809c-8fd106d96266",
             "isoDate": "2021-07-13T21:19:53.000Z",
@@ -920,6 +1015,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ7210130548.mp3?updated=1625814327"
             },
+            "entities": ["GE"],
             "content:encodedSnippet": "GE's long-awaited turnaround is gathering momentum. Jack talks with the man at the helm.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "56bb0a42-e083-11eb-a602-bb71470e25c8",
             "isoDate": "2021-07-09T07:00:01.000Z",
@@ -941,6 +1037,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ3253330729.mp3?updated=1625606633"
             },
+            "entities": ["Brian Moynihan", "BofA", "Robinhood", "Venmo", "he"],
             "content:encodedSnippet": "Interest rates might rise sooner than you think, says BofA's Brian Moynihan. Plus, why he's not too worried about digital challengers like Robinhood and Venmo.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "c3b63e04-de9f-11eb-92dc-e742edb0856a",
             "isoDate": "2021-07-06T21:18:20.000Z",
@@ -962,6 +1059,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ4989168881.mp3?updated=1625209602"
             },
+            "entities": ["Jack"],
             "content:encodedSnippet": "The oil and gas chief talks with Jack about the production outlook, and turning dairy farms into gas plants.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "5164566e-db03-11eb-ba78-2328360530de",
             "isoDate": "2021-07-02T07:00:01.000Z",
@@ -983,6 +1081,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ5015093438.mp3?updated=1624979754"
             },
+            "entities": [],
             "content:encodedSnippet": "The home improvement chief talks inflation, shortages and whether the remodeling boom will continue as workers return to their offices.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "3267a6bc-d8ec-11eb-a40e-c70b891db543",
             "isoDate": "2021-06-29T15:10:29.000Z",
@@ -1004,6 +1103,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ2270725670.mp3?updated=1624647113"
             },
+            "entities": ["cancer"],
             "content:encodedSnippet": "The pharma chief talks vaccines, cancer treatments, rising drug prices and more.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "b5284462-d5e5-11eb-b28f-dba99dded2a2",
             "isoDate": "2021-06-25T18:45:50.000Z",
@@ -1025,6 +1125,15 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ9668698659.mp3?updated=1644337745"
             },
+            "entities": [
+                "SEC",
+                "Hester Peirce",
+                "the",
+                "Brown University",
+                "economist",
+                "her",
+                "Mark Blyth"
+            ],
             "content:encodedSnippet": "Plus, a Brown University economist, Mark Blyth, on why chat room trading might not be so dumb.\n\n\nNote: The views expressed by SEC Commissioner Hester Peirce are her own views, not necessarily those of the SEC or her fellow commissioners.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "eecfe9aa-d080-11eb-b4bd-db37f29e55eb",
             "isoDate": "2021-06-18T22:01:00.000Z",
@@ -1046,6 +1155,15 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ8081983359.mp3?updated=1623451795"
             },
+            "entities": [
+                "Lightning",
+                "Tesla",
+                "Sunrun",
+                "Ford",
+                "F-150",
+                "50-year",
+                "co-founder"
+            ],
             "content:encodedSnippet": "Demand is soaring, and it's not just tree huggers. Sunrun's co-founder talks about Tesla, Ford's F-150 Lightning pickup, and a 50-year growth opportunity.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "a35d487a-cb06-11eb-b0ab-73c4b4fdecdf",
             "isoDate": "2021-06-11T22:44:14.000Z",
@@ -1067,6 +1185,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ4544007842.mp3?updated=1622848194"
             },
+            "entities": ["founder"],
             "content:encodedSnippet": "The genomics company's founder has big ambitions. Plus the bull and bear case for Special Purpose Acquisition Companies.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "4603cb54-c589-11eb-95a6-b7cb9691ffd5",
             "isoDate": "2021-06-04T23:04:16.000Z",
@@ -1088,6 +1207,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ9614562517.mp3?updated=1622238413"
             },
+            "entities": ["Jack"],
             "content:encodedSnippet": "From pickles to pool chlorine, Jack looks into why so many goods are in short supply.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "8469029c-bffd-11eb-8a1d-7fb023bfcbec",
             "isoDate": "2021-05-28T21:41:32.000Z",
@@ -1109,6 +1229,16 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ4739600133.mp3"
             },
+            "entities": [
+                "his",
+                "Dave Boennighausen",
+                "Chianti",
+                "Nino",
+                "Noodles & Company",
+                "CEO",
+                "Southwestern",
+                "Pennsylvania"
+            ],
             "content:encodedSnippet": "Noodles & Company CEO Dave Boennighausen talks about his turnaround and tortelloni, and keeping workers. Plus, Nino's in Southwestern Pennsylvania is short on staff and Chianti.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "e36a1540-ba78-11eb-a86b-5b35656a78b2",
             "isoDate": "2021-05-21T21:09:05.000Z",
@@ -1130,6 +1260,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ9317841482.mp3"
             },
+            "entities": ["Jim Loree", "CEO", "Stanley Black & Decker"],
             "content:encodedSnippet": "Jim Loree, CEO of Stanley Black & Decker, talks about the recent surge in consumer prices, the hot housing market, and what's next for power tools.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "4f13cf8e-b4f7-11eb-a2f1-f3f9e43d6302",
             "isoDate": "2021-05-14T16:03:40.000Z",
@@ -1151,6 +1282,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ6360639236.mp3"
             },
+            "entities": ["strategist", "UBS", "Hubert Joly", "Evan Brown"],
             "content:encodedSnippet": "How Hubert Joly brought the electronics chain back from the brink. Plus, UBS strategist Evan Brown on rising inflation.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "c6c4d9aa-af62-11eb-a7cd-c755fe12acf8",
             "isoDate": "2021-05-07T18:33:39.000Z",
@@ -1172,6 +1304,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ4738299685.mp3"
             },
+            "entities": ["50%", "Jeremy Grantham", "First", "01.15.2021"],
             "content:encodedSnippet": "Renowned value investor Jeremy Grantham weighs in on \"unbearable levels of ecstasy\"--and why stocks could lose 50%. (First published 01.15.2021).\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "77e776e8-a9e6-11eb-babc-33777d66ac07",
             "isoDate": "2021-04-30T19:00:44.000Z",
@@ -1193,6 +1326,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ1226692864.mp3"
             },
+            "entities": ["two-by-four", "analyst"],
             "content:encodedSnippet": "A top timber analyst on two-by-four mania. And the head of iShares says the ETF pile-in is only beginning.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "9a29a120-a48e-11eb-b1cf-4394f40455b6",
             "isoDate": "2021-04-23T23:49:31.000Z",
@@ -1214,6 +1348,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ1207924593.mp3"
             },
+            "entities": ["Netflix", "Disney", "Jack"],
             "content:encodedSnippet": "Jack speculates on when Disney will pass Netflix in streaming--and speaks up for Country Bears Jamboree.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "4fb3f9de-9ee8-11eb-a854-3777ced39b7f",
             "isoDate": "2021-04-16T19:16:20.000Z",
@@ -1235,6 +1370,13 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ8736099069.mp3"
             },
+            "entities": [
+                "BorgWarner",
+                "U.S.",
+                "Europe",
+                "CEO",
+                "Frédéric Lissalde"
+            ],
             "content:encodedSnippet": "Plug-in cars have taken off in Europe. The U.S. is next, says BorgWarner CEO Frédéric Lissalde.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "1cf8f732-9976-11eb-8807-7ba0bc6bc3e1",
             "isoDate": "2021-04-09T20:56:27.000Z",
@@ -1256,6 +1398,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ8416513613.mp3"
             },
+            "entities": ["strategist", "U.S.", "BofA", "Savita Subramanian"],
             "content:encodedSnippet": "BofA stock strategist Savita Subramanian makes the case for looking beyond U.S. large caps.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "4c43f5ec-93f3-11eb-bc42-833138a85886",
             "isoDate": "2021-04-02T20:36:55.000Z",
@@ -1277,6 +1420,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ4578562557.mp3"
             },
+            "entities": ["strategist", "Charles Schwab", "Edward Jones", "CEO"],
             "content:encodedSnippet": "Jack talks with the top investment strategist at Charles Schwab and the CEO of Edward Jones. \n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "aac00a12-8e48-11eb-b2bd-7bf068dbb308",
             "isoDate": "2021-03-26T15:32:56.000Z",
@@ -1298,6 +1442,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ3631230189.mp3"
             },
+            "entities": ["Jack"],
             "content:encodedSnippet": "Jack answers listener questions on dividends, employee stock, and how to prepare for inflation.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "613c099c-88e7-11eb-ac70-6b635bbc9d1b",
             "isoDate": "2021-03-19T19:14:38.000Z",
@@ -1319,6 +1464,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ7307967283.mp3?updated=1615580523"
             },
+            "entities": ["the future"],
             "content:encodedSnippet": "The showbusiness chief talks about the future of TV and movies, and the sneaky success of PlutoTV.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "9aff3280-836f-11eb-8a22-0fba8cb020db",
             "isoDate": "2021-03-12T20:14:42.000Z",
@@ -1340,6 +1486,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ5050906006.mp3"
             },
+            "entities": ["she", "Bitcoin"],
             "content:encodedSnippet": "The world-beating stock-picker says pricey growth stocks have plenty of upside left. Bitcoin, too. Is she right?\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "4490788c-7da2-11eb-858b-2b769160cfcc",
             "isoDate": "2021-03-05T11:01:32.000Z",
@@ -1361,6 +1508,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ1080281371.mp3"
             },
+            "entities": ["three"],
             "content:encodedSnippet": "Jack talks with three real estate pros about valuations and interest rates. Plus, beware fighting squirrels.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "28983628-787b-11eb-9ffa-cb66db140b05",
             "isoDate": "2021-02-26T21:39:14.000Z",
@@ -1382,6 +1530,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ9440578285.mp3"
             },
+            "entities": ["strategist", "U.S.", "David Kostin", "Goldman Sachs"],
             "content:encodedSnippet": "Goldman Sachs chief U.S. stock strategist David Kostin on why stocks have room to run.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "55a5194a-7305-11eb-842d-93871bf0cd09",
             "isoDate": "2021-02-19T22:52:47.000Z",
@@ -1403,6 +1552,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ9970269775.mp3"
             },
+            "entities": ["fund manager"],
             "content:encodedSnippet": "Cannabis shares are soaring. A flourishing fund manager explains how to find profits amid the puffery.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "57ba5ffa-6d6b-11eb-96ca-1716b6e3b836",
             "isoDate": "2021-02-12T19:48:22.000Z",
@@ -1424,6 +1574,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ8566621049.mp3"
             },
+            "entities": ["owner", "Scott Watterson", "CEO"],
             "content:encodedSnippet": "Scott Watterson, CEO of NordicTrack owner ICON, on the boom in home training. Plus, investing in lab-grown meat.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "8799bf14-67e8-11eb-8a06-efc21a5ef997",
             "isoDate": "2021-02-05T19:29:30.000Z",
@@ -1445,6 +1596,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ8753958745.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "Chatroom speculators are turning their meme fluency into fast profits. Where does it lead?\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "9c832258-6257-11eb-86a6-4fb43398e07f",
             "isoDate": "2021-01-29T17:29:48.000Z",
@@ -1466,6 +1618,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ1009269415.mp3"
             },
+            "entities": ["Mette", "Strauss Zelnick", "Take-Two", "CEO", "Jack"],
             "content:encodedSnippet": "Take-Two CEO Strauss Zelnick on the boom in interactive entertainment. Plus, Jack and Mette become Roblox noobs.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "e40e0d4e-5cef-11eb-885c-536116d4b275",
             "isoDate": "2021-01-22T20:24:15.000Z",
@@ -1487,6 +1640,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ4559835273.mp3"
             },
+            "entities": ["50%", "Jeremy Grantham"],
             "content:encodedSnippet": "Renowned value investor Jeremy Grantham weighs in on \"unbearable levels of ecstasy\"--and why stocks could lose 50%.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "db629474-5756-11eb-a8f6-832b559fdaff",
             "isoDate": "2021-01-15T17:25:56.000Z",
@@ -1508,6 +1662,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ8154388750.mp3"
             },
+            "entities": ["founder", "China", "Alibaba"],
             "content:encodedSnippet": "What the Alibaba founder's sudden absence says about investing in China. Plus, here comes inflation.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "aa112fe4-51d8-11eb-b1f3-67377a2288d5",
             "isoDate": "2021-01-08T17:40:23.000Z",
@@ -1529,6 +1684,14 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ3549109844.mp3"
             },
+            "entities": [
+                "07/17/20",
+                "Economist",
+                "she",
+                "her",
+                "Stephanie Kelton",
+                "First"
+            ],
             "content:encodedSnippet": "Economist Stephanie Kelton says soaring deficits aren't a problem. Has she converted her critics? (First published 07/17/20.)\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "d52f5b78-4c20-11eb-93a3-733a32bcffba",
             "isoDate": "2021-01-01T11:01:30.000Z",
@@ -1550,6 +1713,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ7054263162.mp3"
             },
+            "entities": ["Jack"],
             "content:encodedSnippet": "Jack answers your questions in this special holiday episode. Plus, the dark side of elves.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "1650fa06-46a1-11eb-818c-93102334022f",
             "isoDate": "2020-12-25T11:04:57.000Z",
@@ -1571,6 +1735,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ6921956442.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "The online gambling company's plan for growth. Plus, how to (not) buy insurance.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "839f5854-4120-11eb-9d1d-1f034e3c55a0",
             "isoDate": "2020-12-18T11:01:56.000Z",
@@ -1592,6 +1757,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ2559133800.mp3"
             },
+            "entities": ["Amrita Ahuja", "Airbnb", "CFO"],
             "content:encodedSnippet": "Square CFO Amrita Ahuja on Cash App's viral growth. And Jack talks DoorDash, Airbnb, and bubble tea.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "5a8f375c-3ba0-11eb-8e87-8b58a4637eb6",
             "isoDate": "2020-12-11T11:01:54.000Z",
@@ -1613,6 +1779,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ3406818180.mp3"
             },
+            "entities": ["strategist", "economist", "Richard Thaler"],
             "content:encodedSnippet": "Behavioral economist Richard Thaler on investor overconfidence. Plus, a Wall Street strategist says vaccines could bring a peak for stocks.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "c0dea310-3620-11eb-8e20-5fb56aefa394",
             "isoDate": "2020-12-04T11:05:55.000Z",
@@ -1634,6 +1801,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ7477504509.mp3"
             },
+            "entities": ["Apple", "Elon Musk"],
             "content:encodedSnippet": "Elon Musk's company looks more like Apple than a car maker. Plus, the outlook for restaurants is changing.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "27986236-30fd-11eb-a112-6fadc8ed1d3d",
             "isoDate": "2020-11-27T22:08:39.000Z",
@@ -1655,6 +1823,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ7093906305.mp3"
             },
+            "entities": ["professor", "Monet", "CEO"],
             "content:encodedSnippet": "Masterworks CEO on Monet for the masses. Plus, a finance professor sees selection bias in art.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "bc6b472c-2b1f-11eb-93f2-8bb73d482b6b",
             "isoDate": "2020-11-20T11:01:14.000Z",
@@ -1676,6 +1845,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ6846616093.mp3"
             },
+            "entities": ["Jack"],
             "content:encodedSnippet": "Also, Jack has thoughts on stocks, vaccines, tech antitrust, leaf blowers, and Smurfs. \n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "b64fef94-259f-11eb-a52c-b34d3d156088",
             "isoDate": "2020-11-13T11:01:53.000Z",
@@ -1697,6 +1867,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ5653991017.mp3"
             },
+            "entities": ["Jack"],
             "content:encodedSnippet": "The podcast is on vacation, but Jack answers questions and sings some low notes.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "46df3d70-201f-11eb-af99-bb5e0dee245e",
             "isoDate": "2020-11-06T11:00:18.000Z",
@@ -1718,6 +1889,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ1571818709.mp3"
             },
+            "entities": ["owner", "Christmas", "Adena Friedman", "CEO", "Jack"],
             "content:encodedSnippet": "Adena Friedman, CEO of the stock exchange owner, talks about fast growth in non-trading revenue. Plus, Jack peeks at a Christmas shopping forecast. \n\n\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "02793ccc-1a97-11eb-84cf-a3d9dc853022",
             "isoDate": "2020-10-30T10:01:31.000Z",
@@ -1739,6 +1911,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ7757741858.mp3"
             },
+            "entities": ["strategist", "forecaster"],
             "content:encodedSnippet": "Jack talks with a market strategist and an economic forecaster about whether prices will surge, and what it means for stock returns.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "b7026bae-1516-11eb-b973-471c02034759",
             "isoDate": "2020-10-23T10:00:52.000Z",
@@ -1760,6 +1933,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ5674139197.mp3"
             },
+            "entities": ["owner", "Shark Tank", "Dallas Mavericks"],
             "content:encodedSnippet": "Jack talks with the Shark Tank star and Dallas Mavericks owner about entertainment and investing.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "b1b30aa8-0f96-11eb-8247-5fd6e86944ff",
             "isoDate": "2020-10-16T10:02:06.000Z",
@@ -1781,6 +1955,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ1792669913.mp3"
             },
+            "entities": ["Whole Foods", "founder", "Airbnb", "Jack"],
             "content:encodedSnippet": "Plus, the founder of Whole Foods on pandemic shortages and obesity. And Jack eyes Airbnb's IPO.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "63b86be8-0a16-11eb-876b-7b6d54ff59af",
             "isoDate": "2020-10-09T10:00:33.000Z",
@@ -1802,6 +1977,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ3955672735.mp3"
             },
+            "entities": ["Barron", "Nintendo", "Readback", "Microsoft"],
             "content:encodedSnippet": "The Readback from Barron's brings you a new season featuring stories about Nintendo, Microsoft, 3D printing and more -- exploring why some companies, ideas, and industries thrive, while others fail to meet their promise. Subscribe to The Readback wherever you listen to podcasts.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "f1b4c218-0933-11eb-bad0-938b933fd132",
             "isoDate": "2020-10-08T07:00:01.000Z",
@@ -1823,6 +1999,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ3479964132.mp3"
             },
+            "entities": ["Carson Block", "Muddy Waters Research", "Jack"],
             "content:encodedSnippet": "Carson Block at Muddy Waters Research on betting against stocks. Plus, Jack discusses the outlook for value stocks.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "732082b6-0514-11eb-9e5f-5ff72dc71fc2",
             "isoDate": "2020-10-03T01:04:21.000Z",
@@ -1844,6 +2021,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ2780337022.mp3"
             },
+            "entities": ["Stephen Schwarzman", "Blackstone", "CEO"],
             "content:encodedSnippet": "Blackstone CEO Stephen Schwarzman on the appeal of alternative investments, as new rules open access. Plus, factor investing.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "136b16dc-ff16-11ea-a766-578faec8b3f2",
             "isoDate": "2020-09-25T10:00:50.000Z",
@@ -1865,6 +2043,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ4690931579.mp3?updated=1600704791"
             },
+            "entities": ["Jack"],
             "content:encodedSnippet": "Plus, Jack talks cars and small cap stocks.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "71ac27ba-f97e-11ea-98cb-43d14def4155",
             "isoDate": "2020-09-18T10:12:00.000Z",
@@ -1886,6 +2065,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ6610669140.mp3"
             },
+            "entities": ["Trevor Milton", "GM", "Jack", "Founder"],
             "content:encodedSnippet": "Founder Trevor Milton talks with Jack about hydrogen trucks and a new GM deal, while a short-seller dents the stock.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "9273994a-f480-11ea-8573-5bd4996c62a8",
             "isoDate": "2020-09-11T22:45:36.000Z",
@@ -1907,6 +2087,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ3545988035.mp3"
             },
+            "entities": ["Jack"],
             "content:encodedSnippet": "What's the best way to size up drug stocks? Does solar's outlook remain bright? Is a frank on a bun a sandwich? Jack has thoughts.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "50d0c79c-ee7c-11ea-9300-c30b00436d47",
             "isoDate": "2020-09-04T07:00:01.000Z",
@@ -1928,6 +2109,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ3600305903.mp3?updated=1598653689"
             },
+            "entities": ["Jack", "CEO", "Richard Gelfond"],
             "content:encodedSnippet": "Why Jack is cutting stock risk. And IMAX CEO Richard Gelfond talks about the return to the big screen.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "d45e5038-e955-11ea-8b5c-df830b669035",
             "isoDate": "2020-08-28T17:41:07.000Z",
@@ -1949,6 +2131,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ4878834273.mp3?updated=1598017455"
             },
+            "entities": ["Tesla", "NYU", "Amazon", "Aswath Damodaran"],
             "content:encodedSnippet": "NYU's Aswath Damodaran weighs in on how much investors should pay for Tesla and Amazon, and says the price of a college degree could crash.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "20781dda-e37c-11ea-b178-f3ec6965bf52",
             "isoDate": "2020-08-21T07:01:17.000Z",
@@ -1970,6 +2153,14 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ9165676215.mp3"
             },
+            "entities": [
+                "strategist",
+                "Kristin Peck",
+                "Credit Suisse",
+                "CEO",
+                "Jack",
+                "Jonathan Golub"
+            ],
             "content:encodedSnippet": "Zoetis CEO Kristin Peck and Credit Suisse strategist Jonathan Golub weigh in. Also, Jack on SPACs.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "1c0bbf8e-ddfc-11ea-aefb-cb3e74d869eb",
             "isoDate": "2020-08-14T07:01:29.000Z",
@@ -1991,6 +2182,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ9307732280.mp3"
             },
+            "entities": ["professor", "Scott Galloway", "Microsoft", "NYU"],
             "content:encodedSnippet": "With other tech giants facing antitrust scorn, Microsoft could walk away with a social media gem. Is that a good thing? NYU professor Scott Galloway weighs in.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "f24bcade-d87b-11ea-9286-bb4094775808",
             "isoDate": "2020-08-07T07:01:59.000Z",
@@ -2012,6 +2204,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ2828963194.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "Is the greenback's recent slide the start of a bigger move, and what should investors make of gains for cryptocurrencies and precious metals?\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "6ca38b52-d348-11ea-9d0c-bf9e8f964c31",
             "isoDate": "2020-07-31T16:10:41.000Z",
@@ -2033,6 +2226,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ9368327697.mp3?updated=1595631125"
             },
+            "entities": ["Philip Morris"],
             "content:encodedSnippet": "As cash pours into do-good investments, Philip Morris is trying to clean up its image. Can a cigarette maker go ESG?\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "7cab776c-cd7b-11ea-affe-0718a3a602f9",
             "isoDate": "2020-07-24T07:01:12.000Z",
@@ -2054,6 +2248,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ6829348375.mp3"
             },
+            "entities": ["Economist", "she", "her", "Stephanie Kelton"],
             "content:encodedSnippet": "Economist Stephanie Kelton says soaring deficits aren't a problem. Has she converted her critics?\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "a920bd8e-c835-11ea-ba2a-eb33e49c4990",
             "isoDate": "2020-07-17T13:58:30.000Z",
@@ -2075,6 +2270,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ1337547268.mp3"
             },
+            "entities": ["executive chairman", "Disney", "4/10/20", "First"],
             "content:encodedSnippet": "Disney executive chairman on how the coronavirus will change theme parks, movies, and streaming. (First published 4/10/20.)\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "2b2d7760-c27b-11ea-adb6-97f95bd8e425",
             "isoDate": "2020-07-10T07:01:06.000Z",
@@ -2096,6 +2292,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ5578986141.mp3"
             },
+            "entities": ["CEO", "Jack"],
             "content:encodedSnippet": "The burrito chain's CEO on culinary changes, the pandemic response, and growth potential. Also, Jack takes on real estate. \n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "e39d6508-bcd1-11ea-aa91-c751c894677e",
             "isoDate": "2020-07-03T02:05:16.000Z",
@@ -2117,6 +2314,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ9215559386.mp3"
             },
+            "entities": ["Nvidia", "Jensen Huang", "CEO", "Autonomous"],
             "content:encodedSnippet": "Nvidia CEO Jensen Huang on how the chipmaker has parlayed video game success into supercomputing dominance. Next up: Autonomous driving.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "a79010ec-b7b3-11ea-9abb-37923c715783",
             "isoDate": "2020-06-26T13:47:23.000Z",
@@ -2138,6 +2336,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ7123801701.mp3"
             },
+            "entities": ["Daniel O'Day", "CEO", "Gilead Sciences"],
             "content:encodedSnippet": "Jack talks with Gilead Sciences CEO Daniel O'Day, and weighs in on a day-trading celebrity.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "c5589e1e-b1fa-11ea-bcf3-5388b49efe8d",
             "isoDate": "2020-06-19T07:01:10.000Z",
@@ -2159,6 +2358,15 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ9885873083.mp3"
             },
+            "entities": [
+                "Redfin",
+                "economist",
+                "Yale",
+                "Robert Shiller",
+                "Taylor Morrison",
+                "broker",
+                "Jack"
+            ],
             "content:encodedSnippet": "Yale economist Robert Shiller and the CEOs of broker Redfin and homebuilder Taylor Morrison. Plus, Jack rants about gold.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "9cdb92b4-ac7a-11ea-8b86-4fd04daeb605",
             "isoDate": "2020-06-12T07:00:31.000Z",
@@ -2180,6 +2388,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ1155077719.mp3?updated=1595446352"
             },
+            "entities": ["economist", "Fed"],
             "content:encodedSnippet": "Good news: The economy is reopening. Bad news: A top economist says Fed overreach could produce scary results.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "73a781b2-a6fa-11ea-a114-7b6141334790",
             "isoDate": "2020-06-05T07:01:05.000Z",
@@ -2201,6 +2410,14 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ5915151416.mp3?updated=1595444310"
             },
+            "entities": [
+                "Southwest Airlines",
+                "one",
+                "analyst",
+                "Booking Holdings",
+                "CEO",
+                "two"
+            ],
             "content:encodedSnippet": "An analyst upgrades Southwest Airlines, and the CEO of Booking Holdings talks hotels. Also, post-Covid bowling is two comeback stories in one.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "4b296096-a17a-11ea-aa1f-c32dc7a32a43",
             "isoDate": "2020-05-29T07:01:03.000Z",
@@ -2222,6 +2439,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ7516161599.mp3?updated=1595440892"
             },
+            "entities": ["Uber", "Barron", "Jack Hough"],
             "content:encodedSnippet": "Questions about airlines, Uber, a stock market bubble, and globalization on this special edition of Barron's Streetwise hosted by Jack Hough.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "45a5312a-9bfa-11ea-914c-6ffc099a0db6",
             "isoDate": "2020-05-22T07:01:26.000Z",
@@ -2243,6 +2461,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ5718660815.mp3?updated=1595443088"
             },
+            "entities": ["Bob Bakish", "CEO", "Pluto"],
             "content:encodedSnippet": "ViacomCBS CEO Bob Bakish on soaring demand for streaming; why advertising will come back; and what makes Pluto TV the company's secret weapon.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "f98b216c-9679-11ea-a815-f79719ee3619",
             "isoDate": "2020-05-15T07:01:00.000Z",
@@ -2264,6 +2483,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ9561448809.mp3?updated=1595442385"
             },
+            "entities": ["Rob Lynch", "John", "CEO"],
             "content:encodedSnippet": "How the lockdown is affecting booze and takeout. Plus, a conversation with Rob Lynch, CEO of Papa John's.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "e09708fa-912f-11ea-8a70-3bba4b624c37",
             "isoDate": "2020-05-08T13:27:24.000Z",
@@ -2285,6 +2505,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ6780870976.mp3?updated=1588458910"
             },
+            "entities": [],
             "content:encodedSnippet": "The CEOs of Slack and Okta talk about what the Covid-19 pandemic means for cloud business software. \n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "cb28b6a0-8b79-11ea-9496-375730caa7af",
             "isoDate": "2020-05-01T07:01:53.000Z",
@@ -2306,6 +2527,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ1151582139.mp3?updated=1587758834"
             },
+            "entities": [],
             "content:encodedSnippet": "Chaotic trading in crude oil, what it means for the energy sector, and why tankers are sitting pretty. \n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "7ea0ee9a-85f9-11ea-bccf-676344a4e736",
             "isoDate": "2020-04-24T07:01:00.000Z",
@@ -2327,6 +2549,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ9606397699.mp3"
             },
+            "entities": ["Ford", "CEO", "Jim Hackett"],
             "content:encodedSnippet": "Ford CEO Jim Hackett and Wall Street analysts discuss how the pandemic will change the car industry.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "70a2a858-80a7-11ea-9463-df1e7f88203f",
             "isoDate": "2020-04-17T12:30:56.000Z",
@@ -2348,6 +2571,13 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ8083280100.mp3?updated=1586522595"
             },
+            "entities": [
+                "Disney World",
+                "Barron",
+                "executive chairman",
+                "Disney",
+                "Bob Iger"
+            ],
             "content:encodedSnippet": "A temperature check before entering Disney World? In the Barron's Streetwise podcast, Disney executive chairman Bob Iger on how the coronavirus will change theme parks, movies, and streaming.\r\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "0a61a570-7af9-11ea-85a6-a32fc9904ad6",
             "isoDate": "2020-04-10T07:00:00.000Z",
@@ -2369,6 +2599,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ8903893313.mp3?updated=1585955592"
             },
+            "entities": ["CVS", "Larry Merlo", "America", "CEO"],
             "content:encodedSnippet": "How the coronavirus will accelerate a reckoning for America's stores. Plus, CVS CEO Larry Merlo on testing and telehealth.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "79ac20ba-75fc-11ea-94c6-c38b6d6f6761",
             "isoDate": "2020-04-03T22:42:39.000Z",
@@ -2390,6 +2621,17 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ7935343788.mp3?updated=1585596370"
             },
+            "entities": [
+                "Leonard Schleifer",
+                "Mette Lützhøft",
+                "Regeneron",
+                "Barron",
+                "Jack Hough",
+                "analyst",
+                "CEO",
+                "weekly",
+                "Yaron Werber"
+            ],
             "content:encodedSnippet": "Jack Hough speaks with Regeneron CEO Dr. Leonard Schleifer and Wall Street biotech analyst Dr. Yaron Werber. Plus, a bagel store selling toilet paper. Barron's Streetwise is a weekly podcast from Barron's. Produced by Mette Lützhøft.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "06baab6e-7037-11ea-8b99-d780e5e91d32",
             "isoDate": "2020-03-27T14:26:01.000Z",
@@ -2411,6 +2653,17 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ1940282733.mp3?updated=1585324956"
             },
+            "entities": [
+                "Leonard Schleifer",
+                "Barron",
+                "Regeneron",
+                "Jack Hough",
+                "Jack",
+                "CEO",
+                "the days",
+                "weekly",
+                "first"
+            ],
             "content:encodedSnippet": "In Barron's Streetwise, a new weekly podcast from Barron's, Jack Hough talks with business leaders, influencers, market experts -- to provide insights and context around trends we should be watching. In the first episode, Jack interviews Leonard Schleifer, CEO of biotech company Regeneron, who says we could have a treatment for Covid-19 \"quickly.\" Watch this feed for the full episode in the days ahead.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "guid": "d0f03932-6dce-11ea-826c-07cc2a86fb62",
             "isoDate": "2020-03-25T12:00:00.000Z",

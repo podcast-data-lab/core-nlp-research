@@ -55,6 +55,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/2f42c02b-f514-4d58-9dba-9c912710c44c/episodes/c072ace0-089c-43e0-9c88-b6b659631d0e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2f42c02b-f514-4d58-9dba-9c912710c44c&awEpisodeId=c072ace0-089c-43e0-9c88-b6b659631d0e&feed=oCXij9l2"
             },
+            "entities": ["One"],
             "content:encodedSnippet": "One QAnon believer\u2019s journey through faith and loss \u2014 and what becomes of reality as we move online.",
             "guid": "gid://art19-episode-locator/V0/eZdcXAMjVYmpitGDd6s3EOvlgM4G4u9Uy0H-gPfR4JU",
             "isoDate": "2020-06-04T20:00:21.000Z",
@@ -83,6 +84,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/2f42c02b-f514-4d58-9dba-9c912710c44c/episodes/1f13b0a8-88af-46f9-b9c6-0135bdacc6a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2f42c02b-f514-4d58-9dba-9c912710c44c&awEpisodeId=1f13b0a8-88af-46f9-b9c6-0135bdacc6a1&feed=oCXij9l2"
             },
+            "entities": [],
             "content:encodedSnippet": "QAnon believers, united in a battle against what they see as dark forces of the world, reveal where the internet is headed.",
             "guid": "gid://art19-episode-locator/V0/eWRXh_ej5nlRUnIPdCQoZ1te1GxnfL9z41pJ-k3PKgQ",
             "isoDate": "2020-05-28T20:00:00.000Z",
@@ -111,6 +113,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/2f42c02b-f514-4d58-9dba-9c912710c44c/episodes/1916526d-ff07-4c0d-94ce-e2500ca902fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=2f42c02b-f514-4d58-9dba-9c912710c44c&awEpisodeId=1916526d-ff07-4c0d-94ce-e2500ca902fe&feed=oCXij9l2"
             },
+            "entities": ["PewDiePie", "his", "he"],
             "content:encodedSnippet": "An interview with PewDiePie, as he comes to grips with his influence.",
             "guid": "gid://art19-episode-locator/V0/QSnquz7doezfRfNxfmIivoMOTDmN-ttm76tEAW9p7Jc",
             "isoDate": "2020-05-21T20:00:00.000Z",
@@ -139,6 +142,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/2f42c02b-f514-4d58-9dba-9c912710c44c/episodes/67e1738b-1f55-4685-b2b3-79b6bb621f1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=2f42c02b-f514-4d58-9dba-9c912710c44c&awEpisodeId=67e1738b-1f55-4685-b2b3-79b6bb621f1c&feed=oCXij9l2"
             },
+            "entities": ["one"],
             "content:encodedSnippet": "How one outsider came to rule the internet \u2014 and eventually embody its battle with mainstream culture.",
             "guid": "gid://art19-episode-locator/V0/ht5hzIPSnvz2xfqNXNNwEJQEADvM5rry6lYBEtjcBrE",
             "isoDate": "2020-05-14T20:00:00.000Z",
@@ -167,6 +171,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/2f42c02b-f514-4d58-9dba-9c912710c44c/episodes/c4d99535-4159-446e-8ae4-be787f2a386a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2f42c02b-f514-4d58-9dba-9c912710c44c&awEpisodeId=c4d99535-4159-446e-8ae4-be787f2a386a&feed=oCXij9l2"
             },
+            "entities": ["YouTube"],
             "content:encodedSnippet": "A trip to YouTube for a conversation with the woman trying to change it.",
             "guid": "gid://art19-episode-locator/V0/m19lYCBylzHA_yTDO2IhWgxp1pSas0_-me9Ya5_vvX8",
             "isoDate": "2020-05-07T20:00:00.000Z",
@@ -195,6 +200,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/2f42c02b-f514-4d58-9dba-9c912710c44c/episodes/c3f96b26-39fe-408a-9860-909cbc683b07/audio/128/default.mp3?aid=rss_feed&awCollectionId=2f42c02b-f514-4d58-9dba-9c912710c44c&awEpisodeId=c3f96b26-39fe-408a-9860-909cbc683b07&feed=oCXij9l2"
             },
+            "entities": ["Five years", "Caleb", "one"],
             "content:encodedSnippet": "Five years into a rabbit hole, Caleb goes from one side of the screen to the other.",
             "guid": "gid://art19-episode-locator/V0/Cxw-kt3XoDitJOVlN75XcogEJu5Jjj-msrdwodtGnBI",
             "isoDate": "2020-04-30T20:00:00.000Z",
@@ -223,6 +229,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/2f42c02b-f514-4d58-9dba-9c912710c44c/episodes/c9f6b9f9-1549-4060-acbc-aede164c935e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2f42c02b-f514-4d58-9dba-9c912710c44c&awEpisodeId=c9f6b9f9-1549-4060-acbc-aede164c935e&feed=oCXij9l2"
             },
+            "entities": ["Caleb"],
             "content:encodedSnippet": "\u201cThe truth is down there, and you\u2019ve got to go down and dig for it.\u201d We trace Caleb\u2019s descent into YouTube, inch by inch.",
             "guid": "gid://art19-episode-locator/V0/c5ctOVf7lIncAmSCS3u2_RFeo-X6xclYwmCBGvt9Ycg",
             "isoDate": "2020-04-23T20:00:37.000Z",
@@ -251,6 +258,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/2f42c02b-f514-4d58-9dba-9c912710c44c/episodes/b0e1d378-e1b0-40e8-9bf6-e5822b4d46ba/audio/128/default.mp3?aid=rss_feed&awCollectionId=2f42c02b-f514-4d58-9dba-9c912710c44c&awEpisodeId=b0e1d378-e1b0-40e8-9bf6-e5822b4d46ba&feed=oCXij9l2"
             },
+            "entities": ["escape", "He", "him"],
             "content:encodedSnippet": "A young man finds escape on the internet. He doesn\u2019t realize that on the other side of the screen, a force is pulling him in.",
             "guid": "gid://art19-episode-locator/V0/P36DzbeywoQyTxJIZezPG7jsPKU2-kBIVpn66gNzuE8",
             "isoDate": "2020-04-16T19:30:00.000Z",
@@ -278,6 +286,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/2f42c02b-f514-4d58-9dba-9c912710c44c/episodes/64781bd4-e9f5-4f1c-96b9-0d6cd7a62717/audio/128/default.mp3?aid=rss_feed&awCollectionId=2f42c02b-f514-4d58-9dba-9c912710c44c&awEpisodeId=64781bd4-e9f5-4f1c-96b9-0d6cd7a62717&feed=oCXij9l2"
             },
+            "entities": ["columnist", "Kevin Roose", "Times"],
             "content:encodedSnippet": "What is the internet doing to us? The Times tech columnist Kevin Roose discovers what happens when our lives move online.",
             "guid": "gid://art19-episode-locator/V0/SjpJ9uEbZqbIBJeVKzD-uzloU1jNGtD7HjPJZgphrMs",
             "isoDate": "2020-04-10T17:31:36.000Z",

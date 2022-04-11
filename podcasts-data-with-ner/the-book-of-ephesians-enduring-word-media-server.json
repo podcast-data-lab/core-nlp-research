@@ -58,6 +58,9 @@
                 "type": "audio/mpeg",
                 "url": "https://storage.googleapis.com/enduring-word-media/audio/Eph0600_00.mp3"
             },
+            "entities": [
+                "https://storage.googleapis.com/enduring-word-media/audio/Eph0600_00.mp3"
+            ],
             "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Eph0600_00.mp3",
             "guid": "https://media.enduringword.com/ephesians-6-the-two-essentials-in-spiritual-warfare/",
             "categories": [
@@ -91,6 +94,9 @@
                 "type": "audio/mpeg",
                 "url": "https://storage.googleapis.com/enduring-word-media/audio/Eph0522_33.mp3"
             },
+            "entities": [
+                "https://storage.googleapis.com/enduring-word-media/audio/Eph0522_33.mp3"
+            ],
             "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Eph0522_33.mp3",
             "guid": "https://media.enduringword.com/ephesians-522-33-the-christian-marriage/",
             "categories": [
@@ -124,6 +130,9 @@
                 "type": "audio/mpeg",
                 "url": "https://storage.googleapis.com/enduring-word-media/audio/Eph0425_0521.mp3"
             },
+            "entities": [
+                "https://storage.googleapis.com/enduring-word-media/audio/Eph0425_0521.mp3"
+            ],
             "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Eph0425_0521.mp3",
             "guid": "https://media.enduringword.com/ephesians-425-521-the-new-man-and-walking-in-the-light/",
             "categories": [
@@ -157,6 +166,9 @@
                 "type": "audio/mpeg",
                 "url": "https://storage.googleapis.com/enduring-word-media/audio/Eph0401_24.mp3"
             },
+            "entities": [
+                "https://storage.googleapis.com/enduring-word-media/audio/Eph0401_24.mp3"
+            ],
             "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Eph0401_24.mp3",
             "guid": "https://media.enduringword.com/ephesians-41-24-the-walk-worthy-of-the-call/",
             "categories": [
@@ -190,6 +202,9 @@
                 "type": "audio/mpeg",
                 "url": "https://storage.googleapis.com/enduring-word-media/audio/Eph0300_00.mp3"
             },
+            "entities": [
+                "https://storage.googleapis.com/enduring-word-media/audio/Eph0300_00.mp3"
+            ],
             "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Eph0300_00.mp3",
             "guid": "https://media.enduringword.com/ephesians-3-the-fellowship-of-the-mystery/",
             "categories": [
@@ -223,6 +238,9 @@
                 "type": "audio/mpeg",
                 "url": "https://storage.googleapis.com/enduring-word-media/audio/Eph0200_00.mp3"
             },
+            "entities": [
+                "https://storage.googleapis.com/enduring-word-media/audio/Eph0200_00.mp3"
+            ],
             "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Eph0200_00.mp3",
             "guid": "https://media.enduringword.com/ephesians-2-gods-work-of-reconciliation/",
             "categories": [
@@ -256,6 +274,9 @@
                 "type": "audio/mpeg",
                 "url": "https://storage.googleapis.com/enduring-word-media/audio/Eph0100_00.mp3"
             },
+            "entities": [
+                "https://storage.googleapis.com/enduring-word-media/audio/Eph0100_00.mp3"
+            ],
             "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Eph0100_00.mp3",
             "guid": "https://media.enduringword.com/ephesians-1-the-work-of-the-father-son-and-holy-spirit-in-gods-eternal-plan/",
             "categories": [

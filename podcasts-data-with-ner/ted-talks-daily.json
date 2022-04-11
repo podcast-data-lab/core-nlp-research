@@ -62,6 +62,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/ElizabethStrickler_2021X.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/558ff94f-587e-468c-bd70-b978b9f4b386/ElizabethStrickler_2021X_VO_Intro.mp3"
             },
+            "entities": ["Elizabeth Strickler"],
             "link": "https://www.ted.com/talks/elizabeth_strickler_nfts_the_metaverse_and_the_future_of_digital_art?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:90008",
             "categories": ["Higher Education"],
@@ -86,6 +87,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/GabrielKra_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/aa6727a1-c411-42f2-bef9-1f295181d690/GabrielKra_2021T_VO_Intro.mp3"
             },
+            "entities": ["Gabriel Kra", "future", "five", "He"],
             "link": "https://www.ted.com/talks/gabriel_kra_5_promising_factors_propelling_climate_action?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:89043",
             "categories": ["Higher Education"],
@@ -110,6 +112,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/SamAfoullouss_2021X.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/aa4d2d1b-7516-4f29-9fde-40b63e21e074/SamAfoullouss_2021X_VO_Intro.mp3"
             },
+            "entities": ["Chemist", "future", "Sam Afoullouss", "marine"],
             "link": "https://www.ted.com/talks/sam_afoullouss_the_deep_sea_s_medicinal_secrets?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:89768",
             "categories": ["Higher Education"],
@@ -134,6 +137,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/JarrettKrosoczka_2021.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/353d3baf-ffd9-4abe-9764-f1a7b9880ab8/JarrettKrosoczka_2021_VO_Intro.mp3"
             },
+            "entities": ["author", "Jarrett J. Krosoczka", "illustrator"],
             "link": "https://www.ted.com/talks/jarrett_j_krosoczka_live_drawings_of_the_human_experience?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:88427",
             "categories": ["Higher Education"],
@@ -158,6 +162,16 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/ZarlashtHalaimzai_2021W.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/8b15a2e6-8763-4ca6-866d-a45b3af145c1/ZarlashtHalaimzai_2021W_VO_Intro.mp3"
             },
+            "entities": [
+                "Zarlasht Halaimzai",
+                "she",
+                "Halaimzai",
+                "One",
+                "now",
+                "war",
+                "writer",
+                "violence"
+            ],
             "link": "https://www.ted.com/talks/zarlasht_halaimzai_what_it_s_like_to_be_a_war_refugee?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:89264",
             "categories": ["Higher Education"],
@@ -182,6 +196,20 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/MarciaBelsky_2021W.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/056aac45-bce0-4701-8526-2693a4c43d29/MarciaBelsky_2021W_VO_Intro.mp3"
             },
+            "entities": [
+                "comedian",
+                "Instagram-stalking",
+                "astronaut",
+                "1983",
+                "her",
+                "NASA",
+                "Marcia Belsky",
+                "writer",
+                "six-day",
+                "Sally Ride",
+                "two",
+                "musician"
+            ],
             "link": "https://www.ted.com/talks/marcia_belsky_the_100_tampons_nasa_almost_sent_to_space_and_other_absurd_songs?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:89394",
             "categories": ["Higher Education"],
@@ -206,6 +234,13 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/PaulaStoneWilliams_2017X.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/c72821f5-4859-42cd-a30b-365cbcdeadf9/PaulaStoneWilliams_2017X_VO_Intro.mp3"
             },
+            "entities": [
+                "Williams",
+                "her",
+                "Paula Stone Williams",
+                "once",
+                "pastor"
+            ],
             "link": "https://www.ted.com/talks/paula_stone_williams_what_my_gender_transition_taught_me_about_womanhood?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:88835",
             "categories": ["Higher Education"],
@@ -230,6 +265,13 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/HyeonmiKim_2022S.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/1af8eebf-2290-420d-a50c-4cd40222ab5d/HyeonmiKim_2022S_VO_Intro.mp3"
             },
+            "entities": [
+                "strategist",
+                "Netflix",
+                "five to 10 minutes",
+                "Hyeonmi Kim",
+                "Kim"
+            ],
             "link": "https://www.ted.com/talks/hyeonmi_kim_how_webtoons_are_changing_movies_and_tv?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:89709",
             "categories": ["Higher Education"],
@@ -254,6 +296,18 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/WajahatAli_2022H.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/1d17c440-fc85-4ca6-91b0-9cab41151a6b/WajahatAli_2022H_VO_Intro.mp3"
             },
+            "entities": [
+                "COVID-19 pandemic",
+                "current",
+                "curator",
+                "his",
+                "Whitney Pennington Rodgers",
+                "cancer",
+                "writer",
+                "Wajahat Ali",
+                "three",
+                "he"
+            ],
             "link": "https://www.ted.com/talks/wajahat_ali_3_ways_to_find_hope_in_hopeless_times?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:88843",
             "categories": ["Higher Education"],
@@ -278,6 +332,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/FarielSalahuddin_2021W.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/4f192cb5-2152-4b63-82a7-8ea3ede05090/FarielSalahuddin_2021W_VO_Intro.mp3"
             },
+            "entities": ["She", "Fariel Salahuddin", "Pakistan"],
             "link": "https://www.ted.com/talks/fariel_salahuddin_goats_blockchain_and_the_future_of_money?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:89893",
             "categories": ["Higher Education"],
@@ -302,6 +357,16 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/YourUndividedAttention_KimStanleyRobinson_2022V.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/b5f79c48-1511-4f82-b813-f99e17c53a75/YourUndividedAttention_KimStanleyRobinson_2022V_VO_Intro.mp3"
             },
+            "entities": [
+                "His",
+                "near future",
+                "future",
+                "One",
+                "one",
+                "Kim Stanley Robinson",
+                "Your Undivided Attention",
+                "the Future"
+            ],
             "link": "https://www.ted.com/talks/your_undivided_attention_how_science_fiction_can_shape_our_reality?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:89845",
             "categories": ["Higher Education"],
@@ -326,6 +391,16 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/CeciliaAragon_2021W.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/f628fe1e-8dcf-470e-ae17-52f95ac8ec86/CeciliaAragon_2021W_VO_Intro.mp3"
             },
+            "entities": [
+                "professor",
+                "Harry Potter",
+                "her",
+                "Author",
+                "Cecilia Aragon",
+                "Aragon",
+                "the future",
+                "writer"
+            ],
             "link": "https://www.ted.com/talks/cecilia_aragon_the_creativity_and_community_behind_fanfiction?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:88120",
             "categories": ["Higher Education"],
@@ -350,6 +425,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/DamienRiehl_2019X.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/84dda831-6011-4d67-8f13-fae3676938f8/DamienRiehl_2019X_VO_Intro.mp3"
             },
+            "entities": ["Damien Riehl", "technologist", "Lawyer"],
             "link": "https://www.ted.com/talks/damien_riehl_why_all_melodies_should_be_free_for_musicians_to_use?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:89909",
             "categories": ["Higher Education"],
@@ -374,6 +450,16 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/VeraSongwe_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/b21d1279-a49d-4acc-a84d-94bf85db9f1d/VeraSongwe_2021T_VO_Intro.mp3"
             },
+            "entities": [
+                "Economist",
+                "Songwe",
+                "Basin",
+                "Africa",
+                "one",
+                "Vera Songwe",
+                "Congo",
+                "African"
+            ],
             "link": "https://www.ted.com/talks/vera_songwe_the_african_swamp_protecting_earth_s_environment?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:89562",
             "categories": ["Higher Education"],
@@ -398,6 +484,14 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/KevinKelly_2021.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/f740932d-5d38-4628-a5e6-0c8d0d377070/KevinKelly_2021_VO_Intro.mp3"
             },
+            "entities": [
+                "editor",
+                "author",
+                "future",
+                "Kevin Kelly",
+                "he",
+                "three"
+            ],
             "link": "https://www.ted.com/talks/kevin_kelly_the_future_will_be_shaped_by_optimists?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:88884",
             "categories": ["Higher Education"],
@@ -422,6 +516,14 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/SusanCain_2019T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/934177ac-7343-40ee-8837-351ef69e11b1/SusanCain_2019T_VO_Intro.mp3"
             },
+            "entities": [
+                "Susan Cain",
+                "violinist",
+                "author",
+                "days",
+                "Min Kym",
+                "Cain"
+            ],
             "link": "https://www.ted.com/talks/susan_cain_and_min_kym_the_hidden_power_of_sad_songs_and_rainy_days?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:55143",
             "categories": ["Higher Education"],
@@ -446,6 +548,13 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/SmitaSharma_2021W.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/a3b05331-f79b-4148-83f2-6029f006b23f/SmitaSharma_2021W_VO_Intro.mp3"
             },
+            "entities": [
+                "Photojournalist",
+                "Smita Sharma",
+                "her",
+                "Her",
+                "first"
+            ],
             "link": "https://www.ted.com/talks/smita_sharma_powerful_photos_that_honor_the_lives_of_overlooked_women?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:89044",
             "categories": ["Higher Education"],
@@ -470,6 +579,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/OritTykocinski_2021X.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/93eff4ec-dbd5-4e60-b0fb-0828149b6746/OritTykocinski_2021X_VO_Intro.mp3"
             },
+            "entities": ["psychologist", "Orit Tykocinski"],
             "link": "https://www.ted.com/talks/orit_tykocinski_the_counterintuitive_psychology_of_insurance?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:88842",
             "categories": ["Higher Education"],
@@ -494,6 +604,13 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/XiaoweiRWang_2021.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/b12f75e5-c454-4f73-9d3f-66c597a5fbb4/XiaoweiRWang_2021_VO_Intro.mp3"
             },
+            "entities": [
+                "artist",
+                "future",
+                "organizer",
+                "Xiaowei R. Wang",
+                "Chinese"
+            ],
             "link": "https://www.ted.com/talks/xiaowei_r_wang_why_entrepreneurship_flourishes_in_the_countryside?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:88516",
             "categories": ["Higher Education"],
@@ -518,6 +635,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/AshleyMGrice_2022S.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/813efa00-c1e3-4d0a-aac8-93e16cc5289b/AshleyMGrice_2022S_VO_Intro.mp3"
             },
+            "entities": ["Strategist", "Ashley M. Grice"],
             "link": "https://www.ted.com/talks/ashley_m_grice_the_power_of_purpose_in_business?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:89599",
             "categories": ["Higher Education"],
@@ -542,6 +660,13 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/SelinaNeirokLeem_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/b048c393-fc1a-4d54-9a11-9b136a99eac5/SelinaNeirokLeem_2021T_VO_Intro.mp3"
             },
+            "entities": [
+                "Marshall Islands",
+                "Pacific",
+                "Leem",
+                "Selina Neirok Leem",
+                "Every year"
+            ],
             "link": "https://www.ted.com/talks/selina_neirok_leem_climate_change_isn_t_a_distant_threat_it_s_our_reality?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:89265",
             "categories": ["Higher Education"],
@@ -566,6 +691,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/JimmieBriggs_2021W.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/04fd5c19-ce36-4322-a6a3-4adbddc75fc7/JimmieBriggs_2021W_VO_Intro.mp3"
             },
+            "entities": ["Jimmie Briggs", "three", "he"],
             "link": "https://www.ted.com/talks/jimmie_briggs_3_things_men_can_do_to_promote_gender_equity?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:88883",
             "categories": ["Higher Education"],
@@ -590,6 +716,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/EmmaHart_2021W.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/53877a73-874a-417e-9be6-e2643e294fb8/EmmaHart_2021W_VO_Intro.mp3"
             },
+            "entities": ["She", "Computer scientist", "Emma Hart", "three"],
             "link": "https://www.ted.com/talks/emma_hart_self_assembling_robots_and_the_potential_of_artificial_evolution?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:88952",
             "categories": ["Higher Education"],
@@ -614,6 +741,13 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/CameronWebb_2019X.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/05f2a5f9-0142-46e8-aef6-c3be85732384/CameronWebb_2019X_VO_Intro.mp3"
             },
+            "entities": [
+                "general",
+                "disease",
+                "Researcher",
+                "Cameron Webb",
+                "future"
+            ],
             "link": "https://www.ted.com/talks/cameron_webb_how_to_design_mosquitoes_out_of_cities?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:88834",
             "categories": ["Higher Education"],
@@ -638,6 +772,20 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/IanBremmer_2022H.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/e18eb52b-2d60-4261-a10e-87dadda120b0/IanBremmer_2022H_VO_Intro.mp3"
             },
+            "entities": [
+                "overnight",
+                "EU",
+                "curator",
+                "previously",
+                "Ian Bremmer",
+                "Bruno Giussani",
+                "Ukraine",
+                "analyst",
+                "war",
+                "NATO",
+                "March 10, 2022",
+                "Russia"
+            ],
             "link": "https://www.ted.com/talks/ian_bremmer_war_in_ukraine_and_what_it_means_for_the_world_order?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:89707",
             "categories": ["Higher Education"],
@@ -662,6 +810,15 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/AnnaMalaikaTubbs_2022H.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/ea0081a7-67f7-4903-bc3b-41f72ad231f5/AnnaMalaikaTubbs_2022H_VO_Intro.mp3"
             },
+            "entities": [
+                "she",
+                "current",
+                "curator",
+                "Whitney Pennington Rodgers",
+                "US",
+                "Anna Malaika Tubbs",
+                "Sociologist"
+            ],
             "link": "https://www.ted.com/talks/anna_malaika_tubbs_the_critical_role_of_black_mothers_and_how_to_support_all_moms?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:89514",
             "categories": ["Higher Education"],
@@ -686,6 +843,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/MajaBosnic_2021W.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/c7d91320-efea-48e0-847b-a34052e29792/MajaBosnic_2021W_VO_Intro.mp3"
             },
+            "entities": ["she", "economist", "One", "80", "Maja Bosnic"],
             "link": "https://www.ted.com/talks/maja_bosnic_how_to_share_public_money_fairly?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:88598",
             "categories": ["Higher Education"],
@@ -710,6 +868,16 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/LillySingh_2021W.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/61bfdd38-4db3-4135-ad95-09d9e9402cc1/LillySingh_2021W_VO_Intro.mp3"
             },
+            "entities": [
+                "actress",
+                "her",
+                "author",
+                "four",
+                "Lilly Singh",
+                "host",
+                "Singh",
+                "Creator"
+            ],
             "link": "https://www.ted.com/talks/lilly_singh_a_seat_at_the_table_isn_t_the_solution_for_gender_equity?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:88795",
             "categories": ["Higher Education"],
@@ -734,6 +902,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/MassimoRusso_2021S.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/20e28d37-cf5b-4b1c-bd4b-4a95309cd148/MassimoRusso_2021S_VO_Intro.mp3"
             },
+            "entities": ["three", "Massimo Russo"],
             "link": "https://www.ted.com/talks/massimo_russo_3_ways_your_company_s_data_can_jump_start_climate_action?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:89110",
             "categories": ["Higher Education"],
@@ -758,6 +927,12 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/NkosilathiNyathi_2021S.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/b840d109-4674-44f9-ad8e-791ec500db5a/NkosilathiNyathi_2021S_VO_Intro.mp3"
             },
+            "entities": [
+                "activist",
+                "Zimbabwean",
+                "Nkosilathi Nyathi",
+                "Nyathi"
+            ],
             "link": "https://www.ted.com/talks/nkosilathi_nyathi_a_next_generation_solution_to_the_climate_crisis?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:84368",
             "categories": ["Higher Education"],
@@ -782,6 +957,14 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/DianaAdams_2021W.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/91045779-98e8-4d14-ae75-419b919966f8/DianaAdams_2021W_VO_Intro.mp3"
             },
+            "entities": [
+                "model",
+                "Lawyer",
+                "Diana Adams",
+                "present",
+                "US",
+                "LBGTQIA"
+            ],
             "link": "https://www.ted.com/talks/diana_adams_why_us_laws_must_expand_beyond_the_nuclear_family?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:88741",
             "categories": ["Higher Education"],
@@ -806,6 +989,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/ErmiasKebreab_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/e2086380-f6d9-4426-9aab-3ef2fc26d044/ErmiasKebreab_2021T_VO_Intro.mp3"
             },
+            "entities": ["four percent", "Ermias Kebreab", "Animal scientist"],
             "link": "https://www.ted.com/talks/ermias_kebreab_what_seaweed_and_cow_burps_have_to_do_with_climate_change?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:88119",
             "categories": ["Higher Education"],
@@ -830,6 +1014,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/YuvalNoahHarari_2022H.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/ed5ed675-2a67-4de8-a298-e50fe51d27af/YuvalNoahHarari_2022H_VO_Intro.mp3"
             },
+            "entities": [
+                "curator",
+                "Yuval Noah Harari",
+                "Russian",
+                "his",
+                "Bruno Giussani",
+                "Ukraine",
+                "war",
+                "Putin",
+                "Historian",
+                "March 1, 2022",
+                "he"
+            ],
             "link": "https://www.ted.com/talks/yuval_noah_harari_the_war_in_ukraine_could_change_everything?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:89319",
             "categories": ["Higher Education"],
@@ -854,6 +1051,13 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/ChristinaTosi_2021W.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/8effa893-46a5-43ff-833a-55f8487fa101/ChristinaTosi_2021W_VO_Intro.mp3"
             },
+            "entities": [
+                "her",
+                "founder",
+                "Milk Bar",
+                "Christina Tosi",
+                "first"
+            ],
             "link": "https://www.ted.com/talks/christina_tosi_my_secret_to_creating_real_magic?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:88515",
             "categories": ["Higher Education"],
@@ -878,6 +1082,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/MariaGallucci_2021.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/5198fbc4-6204-4c78-9d73-7d0483413ae6/MariaGallucci_2021_VO_Intro.mp3"
             },
+            "entities": ["Maria Gallucci", "she", "Every day", "reporter"],
             "link": "https://www.ted.com/talks/maria_gallucci_the_carbonless_fuel_that_could_change_how_we_ship_goods?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:88121",
             "categories": ["Higher Education"],
@@ -902,6 +1107,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/ConversationswithPeopleWhoHateMe_Salvation_2022V.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/bf48f6fd-d4f4-41a9-a8f7-d0c8c1e767d2/ConversationswithPeopleWhoHateMe_Salvation_2022V_VO_Intro.mp3"
             },
+            "entities": ["his", "her", "audiocollective.ted.com"],
             "link": "https://www.ted.com/talks/conversations_with_people_who_hate_me_salvation?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:88882",
             "categories": ["Higher Education"],
@@ -926,6 +1132,13 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/SolitaireTownsend_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/014badca-0de9-4d3a-b40d-9ed9cdfc2af7/SolitaireTownsend_2021T_VO_Intro.mp3"
             },
+            "entities": [
+                "she",
+                "PR",
+                "Solitaire Townsend",
+                "two trillion dollars",
+                "a year"
+            ],
             "link": "https://www.ted.com/talks/solitaire_townsend_are_ad_agencies_pr_firms_and_lobbyists_destroying_the_climate?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:88220",
             "categories": ["Higher Education"],
@@ -950,6 +1163,15 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/SathyaRaghu_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/d5bf91ab-fb44-4ce7-bbbf-14376372828f/SathyaRaghu_2021T_VO_Intro.mp3"
             },
+            "entities": [
+                "Sathya Raghu Mokkapati",
+                "summers",
+                "disease",
+                "one",
+                "now",
+                "monthly",
+                "India"
+            ],
             "link": "https://www.ted.com/talks/sathya_raghu_mokkapati_the_greenhouse_in_a_box_empowering_farmers_in_india?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:82056",
             "categories": ["Higher Education"],
@@ -974,6 +1196,15 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/LisaGenova_2017.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/6e10e9b6-b374-47c7-8074-14c63fd0d6ff/LisaGenova_2017_VO_Intro.mp3"
             },
+            "entities": [
+                "She",
+                "Daily",
+                "disease",
+                "author",
+                "Alice",
+                "Lisa Genova",
+                "Alzheimer's"
+            ],
             "link": "https://www.ted.com/talks/lisa_genova_what_you_can_do_to_prevent_alzheimer_s?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:2771",
             "categories": ["Higher Education"],
@@ -998,6 +1229,15 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/TEDRadioHour_JacobCollier_2022V.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/5f0ac468-60f6-448d-9714-6844b860c946/TEDRadioHour_JacobCollier_2022V_VO_Intro.mp3"
             },
+            "entities": [
+                "TED",
+                "three-part",
+                "Hour",
+                "This hour",
+                "host",
+                "Jacob Collier",
+                "Manoush Zomorodi"
+            ],
             "link": "https://www.ted.com/talks/ted_radio_hour_a_playful_approach_to_creating_music?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:88676",
             "categories": ["Higher Education"],
@@ -1022,6 +1262,14 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/OzawaBineshiAlbert_2021W.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/397888a3-6060-4c66-8a6d-8dd3586409c0/OzawaBineshiAlbert_2021W_VO_Intro.mp3"
             },
+            "entities": [
+                "she",
+                "organizer",
+                "Minnesota",
+                "Ozawa Bineshi Albert",
+                "US",
+                "Arizona"
+            ],
             "link": "https://www.ted.com/talks/ozawa_bineshi_albert_climate_action_needs_new_frontline_leadership?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:88219",
             "categories": ["Higher Education"],
@@ -1046,6 +1294,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/MartinReeves_2021S.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/8fbb0e1d-8737-4c5d-84f8-5646751a566e/MartinReeves_2021S_VO_Intro.mp3"
             },
+            "entities": ["Strategist", "today", "Martin Reeves", "he"],
             "link": "https://www.ted.com/talks/martin_reeves_why_play_is_essential_for_business?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:88608",
             "categories": ["Higher Education"],
@@ -1070,6 +1319,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/JamesKThornton_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/9d0b1c3b-99b8-45d4-b403-ce971645125c/JamesKThornton_2021T_VO_Intro.mp3"
             },
+            "entities": ["James Thornton", "China"],
             "link": "https://www.ted.com/talks/james_k_thornton_why_is_china_appointing_judges_to_combat_climate_change?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:87933",
             "categories": ["Higher Education"],
@@ -1094,6 +1344,16 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/RosamundAdooKissiDebrah_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/68f89917-85a9-48e5-811d-e01d9c74b0bc/RosamundAdooKissiDebrah_2021T_VO_Intro.mp3"
             },
+            "entities": [
+                "she",
+                "Ella Roberta",
+                "her",
+                "Adoo-Kissi-Debrah",
+                "Rosamund Adoo-Kissi-Debrah",
+                "Now",
+                "asthma",
+                "seven-year-old"
+            ],
             "link": "https://www.ted.com/talks/rosamund_adoo_kissi_debrah_the_tragedy_of_air_pollution_and_an_urgent_demand_for_clean_air?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:86764",
             "categories": ["Higher Education"],
@@ -1118,6 +1378,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/GayGordonByrne_2021.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/913a7309-6348-4cf2-9de8-3350776c0c20/GayGordonBryrne_2021_VO_Intro.mp3"
             },
+            "entities": ["Gay Gordon-Byrne", "She"],
             "link": "https://www.ted.com/talks/gay_gordon_byrne_you_deserve_the_right_to_repair_your_stuff?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:88261",
             "categories": ["Higher Education"],
@@ -1142,6 +1403,14 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/DesignMatters_EstherPerel_2020V.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/218deb07-bd6d-4738-97e4-620898d438cc/DesignMatters_EstherPerel_2020V_VO_Intro.mp3"
             },
+            "entities": [
+                "Esther Perel",
+                "adultery",
+                "Debbie Millman",
+                "author",
+                "audiocollective.ted.com",
+                "therapist"
+            ],
             "link": "https://www.ted.com/talks/design_matters_with_debbie_millman_the_evolution_of_marriage_with_esther_perel?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:88606",
             "categories": ["Higher Education"],
@@ -1166,6 +1435,17 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/MouniaAkl_2021W.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/f1d5b4d2-fe6e-45af-8dcb-0a452d85bc7f/MouniaAkl_2021W_VO_Intro.mp3"
             },
+            "entities": [
+                "Lebanon",
+                "explosion",
+                "she",
+                "Akl",
+                "her",
+                "Mounia Akl",
+                "Beirut",
+                "filmmaker",
+                "disaster"
+            ],
             "link": "https://www.ted.com/talks/mounia_akl_how_film_captures_the_space_between_hope_and_despair?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:87806",
             "categories": ["Higher Education"],
@@ -1190,6 +1470,20 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/DanielHPink_2022H.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/a0c43444-3190-41c3-82ea-921899bc115e/DanielHPink_2022H_VO_Intro.mp3"
             },
+            "entities": [
+                "16,000",
+                "current",
+                "curator",
+                "the past two years",
+                "author",
+                "105",
+                "four",
+                "Whitney Pennington Rodgers",
+                "one",
+                "Daniel H. Pink",
+                "He",
+                "he"
+            ],
             "link": "https://www.ted.com/talks/daniel_h_pink_4_kinds_of_regret_and_what_they_teach_you_about_yourself?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:88259",
             "categories": ["Higher Education"],
@@ -1214,6 +1508,18 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/LucasJoppa_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/d1a48013-3a10-4b9e-885c-ddd67363a0eb/LucasJoppa_2021T_VO_Intro.mp3"
             },
+            "entities": [
+                "zero",
+                "current",
+                "Lucas Joppa",
+                "Microsoft",
+                "Joppa",
+                "he",
+                "three",
+                "first",
+                "2050",
+                "four-point"
+            ],
             "link": "https://www.ted.com/talks/lucas_joppa_how_to_fix_the_bugs_in_the_net_zero_code?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:87379",
             "categories": ["Higher Education"],
@@ -1238,6 +1544,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/SusanRuffo_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/a4f913b4-f0a0-4c86-a5e8-f762d05f77cf/SusanRuffo_2021T_VO_Intro.mp3"
             },
+            "entities": ["eighty percent", "Susan Ruffo", "Ruffo"],
             "link": "https://www.ted.com/talks/susan_ruffo_the_ocean_s_ingenious_climate_solutions?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:87265",
             "categories": ["Higher Education"],
@@ -1262,6 +1569,13 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/RosanneCash_2021W.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/207e8ae9-2a83-4abd-b857-dea7ea1a8d75/RosanneCash_2021W_VO_Intro.mp3"
             },
+            "entities": [
+                "Particle And Wave",
+                "she",
+                "Sunken Lands",
+                "musician",
+                "Rosanne Cash"
+            ],
             "link": "https://www.ted.com/talks/rosanne_cash_the_rhythm_and_rhyme_of_memory_solitude_and_community?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:89568",
             "categories": ["Higher Education"],
@@ -1286,6 +1600,13 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/DwanReece_2019X.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/d9ac6747-69a7-4871-9e9a-3e5537b348d7/DwanReece_2019X_VO_Intro.mp3"
             },
+            "entities": [
+                "curator",
+                "American",
+                "National Museum of African American History",
+                "Dwan Reece",
+                "African"
+            ],
             "link": "https://www.ted.com/talks/dwan_reece_the_origins_of_blackface_and_black_stereotypes?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:78169",
             "categories": ["Higher Education"],
@@ -1310,6 +1631,13 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/ZoeKarlWaithaka_2021S.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/f90f7c1c-d358-4955-9b40-599614add39e/ZoeKarlWaithaka_2021S_VO_Intro.mp3"
             },
+            "entities": [
+                "Africa",
+                "Mexico",
+                "Zoë Karl-Waithaka",
+                "three",
+                "African"
+            ],
             "link": "https://www.ted.com/talks/zoe_karl_waithaka_got_millet_how_marketing_could_improve_the_lives_of_african_farmers?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:87879",
             "categories": ["Higher Education"],
@@ -1334,6 +1662,18 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/DanJorgensen_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/9bef80ab-0be9-4c98-8cef-361c9ecc226d/DanJorgensen_2021T_VO_Intro.mp3"
             },
+            "entities": [
+                "the",
+                "his",
+                "last two decades",
+                "minister",
+                "future",
+                "one",
+                "Denmark",
+                "Dan Jørgensen",
+                "1,400",
+                "2050"
+            ],
             "link": "https://www.ted.com/talks/dan_jorgensen_how_wind_energy_could_power_earth_18_times_over?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:87645",
             "categories": ["Higher Education"],
@@ -1358,6 +1698,14 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/NickTurner_2021S.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/bf6fec5d-8926-4fca-bb8b-8cb448679494/NickTurner_2021S_VO_Intro.mp3"
             },
+            "entities": [
+                "Nick Turner",
+                "current",
+                "curator",
+                "Whitney Pennington Rodgers",
+                "He",
+                "US"
+            ],
             "link": "https://www.ted.com/talks/nick_turner_and_whitney_pennington_rodgers_how_to_fix_two_of_the_most_broken_systems_in_the_us?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:87807",
             "categories": ["Higher Education"],
@@ -1382,6 +1730,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/Kaz_2021W.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/51b6cca1-8bd7-4526-a3a9-d1cb987504e6/Kaz_2021W_VO_Intro.mp3"
             },
+            "entities": ["Kaz"],
             "link": "https://www.ted.com/talks/kaz_sex_education_should_start_with_consent?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:87584",
             "categories": ["Higher Education"],
@@ -1406,6 +1755,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/RachelKyte_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/07ef38a3-5ab4-4df3-a0d4-596a015c315e/RachelKyte_2021T_VO_Intro.mp3"
             },
+            "entities": ["She", "four", "Rachel Kyte"],
             "link": "https://www.ted.com/talks/rachel_kyte_sustainable_cooling_that_doesn_t_warm_the_planet?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:87482",
             "categories": ["Higher Education"],
@@ -1430,6 +1780,16 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/KatiePaterson_2021W.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/3b0a423e-cd7a-4b64-8331-c6bbab92bbe8/KatiePaterson_2021W_VO_Intro.mp3"
             },
+            "entities": [
+                "Earth",
+                "she",
+                "her",
+                "artist",
+                "the year 2114",
+                "millions of years",
+                "Katie Paterson",
+                "the Future"
+            ],
             "link": "https://www.ted.com/talks/katie_paterson_the_mind_bending_art_of_deep_time?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:86285",
             "categories": ["Higher Education"],
@@ -1454,6 +1814,20 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/DevalPatrick_2021X.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/051c6610-5ea9-4cc3-82dc-ac708e4b304b/DevalPatrick_2021X_VO_Intro.mp3"
             },
+            "entities": [
+                "Harvard",
+                "professor",
+                "Patrick",
+                "American",
+                "Deval Patrick",
+                "Massachusetts",
+                "patriotism",
+                "governor",
+                "he",
+                "democracy",
+                "lawyer",
+                "US"
+            ],
             "link": "https://www.ted.com/talks/deval_patrick_a_different_understanding_of_american_patriotism?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:87246",
             "categories": ["Higher Education"],
@@ -1478,6 +1852,13 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/RhaGoddessandDeepaPurushothaman_2021W.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/8c8b6efc-7afd-43fb-ba8f-641a01bc0867/RhaGoddessandDeepaPurushothaman_2021W_VO_Intro.mp3"
             },
+            "entities": [
+                "Deepa Purushothaman",
+                "four",
+                "Rha Goddess",
+                "one",
+                "coach"
+            ],
             "link": "https://www.ted.com/talks/rha_goddess_and_deepa_purushothaman_4_ways_to_redefine_power_at_work_to_include_women_of_color?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:87481",
             "categories": ["Higher Education"],
@@ -1502,6 +1883,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/GalaMarijaVrbanic_2021W.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/797bf497-c19f-4d33-8d1c-920b08cf16e7/GalaMarijaVrbanic_2021W_VO_Intro.mp3"
             },
+            "entities": ["leader", "Gala Marija Vrbanic", "Instagram"],
             "link": "https://www.ted.com/talks/gala_marija_vrbanic_the_new_reality_of_fashion_is_digital?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:86619",
             "categories": ["Higher Education"],
@@ -1526,6 +1908,15 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/LiHueiTsai_2021.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/486e99b5-2fe9-4112-99df-616b17cc829c/LiHueiTsai_2021_VO_Intro.mp3"
             },
+            "entities": [
+                "Professor",
+                "disease",
+                "future",
+                "now",
+                "Chris Anderson",
+                "Alzheimer's",
+                "Li-Huei Tsai"
+            ],
             "link": "https://www.ted.com/talks/li_huei_tsai_could_we_treat_alzheimer_s_with_light_and_sound?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:82946",
             "categories": ["Higher Education"],
@@ -1550,6 +1941,16 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/DesignMatters_NickOfferman_2021V.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/cadf4de1-fdab-4c55-8d5a-3d0f3916568a/DesignMatters_NickOfferman_2021V_VO_Intro.mp3"
             },
+            "entities": [
+                "Every week",
+                "current",
+                "his",
+                "Ron Swanson",
+                "Recreation",
+                "Debbie Millman",
+                "Debbie",
+                "Nick Offerman"
+            ],
             "link": "https://www.ted.com/talks/design_matters_with_debbie_millman_nick_offerman?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:87411",
             "categories": ["Higher Education"],
@@ -1574,6 +1975,12 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/DustinBurke_2021S.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/1475234d-088a-4954-bb3e-667cd7929dd9/DustinBurke_2021S_VO_Intro.mp3"
             },
+            "entities": [
+                "Burke",
+                "Dustin Burke",
+                "tomorrow",
+                "natural disasters"
+            ],
             "link": "https://www.ted.com/talks/dustin_burke_how_to_fix_broken_supply_chains?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:86722",
             "categories": ["Higher Education"],
@@ -1598,6 +2005,14 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/EmilyPillotonLam_2021W.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/279c22b9-0f47-4840-818a-61eceb9e86d9/EmilyPillotonLam_2021W_VO_Intro.mp3"
             },
+            "entities": [
+                "She",
+                "four percent",
+                "her",
+                "Pilloton-Lam",
+                "Emily Pilloton-Lam",
+                "builder"
+            ],
             "link": "https://www.ted.com/talks/emily_pilloton_lam_what_if_women_built_the_world_they_want_to_see?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:87043",
             "categories": ["Higher Education"],
@@ -1622,6 +2037,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/GabrielleWalker_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/15f49c14-b380-4036-ac7d-e3cf2fc9f0a0/GabrielleWalker_2021T_VO_Intro.mp3"
             },
+            "entities": ["Gabrielle Walker", "she", "now"],
             "link": "https://www.ted.com/talks/gabrielle_walker_what_you_need_to_know_about_carbon_removal?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:84183",
             "categories": ["Higher Education"],
@@ -1646,6 +2062,14 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/ReubenJonathanMiller_2021S.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/8d65fa3f-04df-4b84-965e-a15c12eccee3/ReubenJonathanMiller_2021S_VO_Intro.mp3"
             },
+            "entities": [
+                "20 million",
+                "Americans",
+                "felony",
+                "Reuben Jonathan Miller",
+                "US",
+                "Sociologist"
+            ],
             "link": "https://www.ted.com/talks/reuben_jonathan_miller_how_radical_hospitality_can_change_the_lives_of_the_formerly_incarcerated?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:86167",
             "categories": ["Higher Education"],
@@ -1670,6 +2094,14 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/CarlosMDuarte_2021.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/4d62c647-f18d-4fb7-8901-378cf3227a6b/CarlosMDuarte_2021_VO_Intro.mp3"
             },
+            "entities": [
+                "his",
+                "Once",
+                "marine scientist",
+                "Carlos M. Duarte",
+                "he",
+                "marine"
+            ],
             "link": "https://www.ted.com/talks/carlos_m_duarte_the_unexpected_underwater_plant_fighting_climate_change?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:86534",
             "categories": ["Higher Education"],
@@ -1694,6 +2126,22 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/AnnaMalaikaTubbs_2021W.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/15e5a4f1-84ee-4d7d-9ad1-8416400e799f/AnnaMalaikaTubbs_2021W_VO_Intro.mp3"
             },
+            "entities": [
+                "sociologist",
+                "Alberta",
+                "Tubbs",
+                "author",
+                "James Baldwin",
+                "Martin Luther King Jr.",
+                "Louise Little",
+                "she",
+                "Berdis Baldwin",
+                "King",
+                "today",
+                "Malcolm X",
+                "Anna Malaika Tubbs",
+                "first"
+            ],
             "link": "https://www.ted.com/talks/anna_malaika_tubbs_how_moms_shape_the_world?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:85658",
             "categories": ["Higher Education"],
@@ -1718,6 +2166,16 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/CandaceParker_2021W.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/b46e856a-c295-4b81-9515-4fc69314a2eb/CandaceParker_2021W_VO_Intro.mp3"
             },
+            "entities": [
+                "NCAA",
+                "she",
+                "her",
+                "two-time",
+                "Parker",
+                "Candace Parker",
+                "Olympic",
+                "WNBA"
+            ],
             "link": "https://www.ted.com/talks/candace_parker_how_to_break_down_barriers_and_not_accept_limits?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:86532",
             "categories": ["Higher Education"],
@@ -1742,6 +2200,15 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/JenniferAakerandNaomiBagdonas_2021.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/4692e92b-bb37-4e92-9ab6-a9c699d188b8/JenniferAakerandNaomiBagdonas_2021_VO_Intro.mp3"
             },
+            "entities": [
+                "strategist",
+                "Stanford",
+                "scientist",
+                "today",
+                "Jennifer Aaker",
+                "Naomi Bagdonas",
+                "Graduate School of Business"
+            ],
             "link": "https://www.ted.com/talks/jennifer_aaker_and_naomi_bagdonas_why_great_leaders_take_humor_seriously?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:83756",
             "categories": ["Higher Education"],
@@ -1766,6 +2233,14 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/SamHester_2021X.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/232acbab-c9e7-4a93-bfa9-aeeb5090a722/SamHester_2021X_VO_Intro.mp3"
             },
+            "entities": [
+                "she",
+                "creator",
+                "her",
+                "Hester",
+                "dementia",
+                "Sam Hester"
+            ],
             "link": "https://www.ted.com/talks/sam_hester_how_visual_storytelling_creates_better_health_care?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:86567",
             "categories": ["Higher Education"],
@@ -1790,6 +2265,14 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/BjornOttoSverdrup_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/82fc5abf-680a-4071-9c53-c7ee06206789/BjornOttoSverdrup_2021T_VO_Intro.mp3"
             },
+            "entities": [
+                "twelve",
+                "one",
+                "Lindsay Levin",
+                "Bjørn Otto Sverdrup",
+                "He",
+                "he"
+            ],
             "link": "https://www.ted.com/talks/bjorn_otto_sverdrup_how_to_realistically_decarbonize_the_oil_and_gas_industry?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:86387",
             "categories": ["Higher Education"],
@@ -1814,6 +2297,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/AxelReinaud_2021S.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/1dd2d8b9-9b5c-4545-a497-153456d4a7d4/AxelReinaud_2021S_VO_Intro.mp3"
             },
+            "entities": ["Axel Reinaud", "now", "Entrepreneur", "three"],
             "link": "https://www.ted.com/talks/axel_reinaud_how_biochar_removes_co2_from_the_air_and_helps_farmers_thrive?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:83177",
             "categories": ["Higher Education"],
@@ -1838,6 +2322,14 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/LiuThaiKer_2021X.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/2b83b6de-9512-4666-b26b-7221bdd93e52/LiuThaiKer_2021X_VO_Intro.mp3"
             },
+            "entities": [
+                "Singapore",
+                "his",
+                "humanist",
+                "architect",
+                "Liu",
+                "Liu Thai Ker"
+            ],
             "link": "https://www.ted.com/talks/liu_thai_ker_the_architectural_mastermind_behind_modern_singapore?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:84108",
             "categories": ["Higher Education"],
@@ -1862,6 +2354,13 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/BrittanyKBarnett_2021S.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/d0291006-88d7-4b50-a651-09201527f01b/BrittanyKBarnett_2021S_VO_Intro.mp3"
             },
+            "entities": [
+                "She",
+                "Brittany K. Barnett",
+                "America",
+                "Attorney",
+                "entrepreneur"
+            ],
             "link": "https://www.ted.com/talks/brittany_k_barnett_the_creativity_innovation_and_ingenuity_languishing_in_us_prisons?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:85568",
             "categories": ["Higher Education"],
@@ -1886,6 +2385,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/WarrenValdmanis_2021S.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/b7266f07-4f59-41a9-b427-a4132a305774/WarrenValdmanis_2021S_VO_Intro.mp3"
             },
+            "entities": ["Warren Valdmanis", "he"],
             "link": "https://www.ted.com/talks/warren_valdmanis_what_makes_a_job_good_and_the_case_for_investing_in_people?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:84670",
             "categories": ["Higher Education"],
@@ -1910,6 +2410,15 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/SophiaKianni_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/c348bba7-e740-4e6e-87fc-758d3167a295/SophiaKianni_2021T_VO_Intro.mp3"
             },
+            "entities": [
+                "activist",
+                "English",
+                "100",
+                "75 percent",
+                "the future",
+                "Sophia Kianni",
+                "entrepreneur"
+            ],
             "link": "https://www.ted.com/talks/sophia_kianni_language_shouldn_t_be_a_barrier_to_climate_action?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:85425",
             "categories": ["Higher Education"],
@@ -1934,6 +2443,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/PeachyLiv_2021S.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/fc504b70-08ae-4f2f-97c1-91d9497a3e09/PeachyLiv_2021S_VO_Intro.mp3"
             },
+            "entities": ["creator", "million", "her", "one", "Liv"],
             "link": "https://www.ted.com/talks/peachy_liv_how_to_protect_your_mental_well_being_online_from_a_gen_zer?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:84652",
             "categories": ["Higher Education"],
@@ -1958,6 +2468,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/BodyStuffS001E008_Podcast_2021V.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/ecd47828-2be5-44da-95bb-22b6414ba56b/BodyStuffS001E008_Podcast_2021V_VO_Intro.mp3"
             },
+            "entities": ["Jen Gunter", "She", "Alan Levinovitz", "Kaveh Hoda"],
             "link": "https://www.ted.com/talks/body_stuff_with_dr_jen_gunter_do_you_need_to_do_a_detox?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:81663",
             "categories": ["Higher Education"],
@@ -1982,6 +2493,21 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/MollyWright_2021.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/7c2425d8-b0c3-4886-a723-1dca8f2d434b/MollyWright_2021_VO_Intro.mp3"
             },
+            "entities": [
+                "one",
+                "Wright",
+                "one-year-old",
+                "Minderoo Foundation",
+                "UNICEF",
+                "She",
+                "Amarjot",
+                "his",
+                "her",
+                "Ari",
+                "seven-year-old",
+                "Molly Wright",
+                "five"
+            ],
             "link": "https://www.ted.com/talks/molly_wright_how_every_child_can_thrive_by_five?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:79408",
             "categories": ["Higher Education"],
@@ -2006,6 +2532,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/JaneVelkovski_2021S.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/27760be6-6781-4226-95df-b42c9b6bce7c/JaneVelkovski_2021S_VO_Intro.mp3"
             },
+            "entities": ["his", "Jane Velkovski", "he", "him", "first"],
             "link": "https://www.ted.com/talks/jane_velkovski_the_life_changing_power_of_assistive_technologies?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:84669",
             "categories": ["Higher Education"],
@@ -2030,6 +2557,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/EnricSala_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/43664ee3-af32-4a49-91f3-db2e20cc9b47/EnricSala_2021T_VO_Intro.mp3"
             },
+            "entities": [
+                "Earth",
+                "Enric Sala",
+                "marine ecologist",
+                "Sala",
+                "30 percent",
+                "the 1970s",
+                "diver",
+                "2030",
+                "he",
+                "marine",
+                "30x30"
+            ],
             "link": "https://www.ted.com/talks/enric_sala_a_bold_plan_to_protect_30_percent_of_the_earth_s_surface_and_ocean_floor?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:82093",
             "categories": ["Higher Education"],
@@ -2054,6 +2594,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/GowriShankar_2020F.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/7f608596-3dc9-4115-97b4-7858375ae978/GowriShankar_2020F_VO_Intro.mp3"
             },
+            "entities": ["his", "king", "one", "he", "10", "Gowri Shankar"],
             "link": "https://www.ted.com/talks/gowri_shankar_a_king_cobra_bite_and_a_scientific_discovery?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:76220",
             "categories": ["Higher Education"],
@@ -2078,6 +2619,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/ElizabethZion_2021S.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/966344e2-f6b2-41a5-82ec-a6e50b964e94/ElizabethZion_2021S_VO_Intro.mp3"
             },
+            "entities": ["Elizabeth Zion", "her", "student", "poet", "writer"],
             "link": "https://www.ted.com/talks/elizabeth_zion_the_need_for_family_reunification_to_make_families_whole_again?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:84369",
             "categories": ["Higher Education"],
@@ -2102,6 +2644,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/DerekSarno_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/6df1221d-8a95-4831-9bb8-ce38a032a17f/DerekSarno_2021T_VO_Intro.mp3"
             },
+            "entities": ["Derek Sarno", "his", "chef", "He", "him"],
             "link": "https://www.ted.com/talks/derek_sarno_the_many_reasons_to_eat_a_plant_based_diet?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:83530",
             "categories": ["Higher Education"],
@@ -2126,6 +2669,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/NaimaPenniman_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/3c8327aa-0c4a-4fc1-b33d-2bc9b11ae6f1/NaimaPenniman_2021T_VO_Intro.mp3"
             },
+            "entities": ["she", "Naima Penniman", "mornings", "poet"],
             "link": "https://www.ted.com/talks/naima_penniman_being_human?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:82299",
             "categories": ["Higher Education"],
@@ -2150,6 +2694,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/PriscillaChombaKinywa_2021X.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/979f1bce-7c2b-4234-be7f-4e1aa8c36384/PriscillaChombaKinywa_2021X_VO_Intro.mp3"
             },
+            "entities": ["strategist", "Priscilla Chomba-Kinywa"],
             "link": "https://www.ted.com/talks/priscilla_chomba_kinywa_why_a_free_and_fair_internet_is_more_vital_than_ever?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:85786",
             "categories": ["Higher Education"],
@@ -2174,6 +2719,13 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/JimHagemannSnabe_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/23d4df53-a2a3-4ec9-a934-4c917078dc0b/JimHagemannSnabe_2021T_VO_Intro.mp3"
             },
+            "entities": [
+                "future",
+                "chairman",
+                "Jim Hagemann Snabe",
+                "he",
+                "2050"
+            ],
             "link": "https://www.ted.com/talks/jim_hagemann_snabe_dreams_and_details_for_a_decarbonized_future?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:83757",
             "categories": ["Higher Education"],
@@ -2198,6 +2750,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/JamilZaki_2021.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/d73ecb73-d438-4727-9d7d-203b5bdd92ee/JamilZaki_2021_VO_Intro.mp3"
             },
+            "entities": ["Jamil Zaki", "days", "psychologist", "Zaki"],
             "link": "https://www.ted.com/talks/jamil_zaki_how_to_escape_the_cynicism_trap?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:85259",
             "categories": ["Higher Education"],
@@ -2222,6 +2775,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/HallaTomasdottir_2021W.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/8a37863b-32d4-4bcd-ae7a-7d34eb8769e3/HallaTomasdottir_2021W_VO_Intro.mp3"
             },
+            "entities": [
+                "Recently",
+                "she",
+                "candidate",
+                "curator",
+                "Icelandic",
+                "Halla Tómasdóttir",
+                "Tómasdóttir",
+                "UN",
+                "Scotland",
+                "Pat Mitchell",
+                "the next few years"
+            ],
             "link": "https://www.ted.com/talks/halla_tomasdottir_use_your_voice_vote_and_wallet_for_climate_action?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:85424",
             "categories": ["Higher Education"],
@@ -2246,6 +2812,14 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/AdrianKHaugabrook_2021.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/086fdcba-bc8c-40ad-9922-25651a925db0/AdrianKHaugabrook_2021_VO_Intro.mp3"
             },
+            "entities": [
+                "executive",
+                "bachelor",
+                "seven percent",
+                "Adrian K. Haugabrook",
+                "three",
+                "he"
+            ],
             "link": "https://www.ted.com/talks/adrian_k_haugabrook_3_ways_to_lower_the_barriers_to_higher_education?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:84187",
             "categories": ["Higher Education"],
@@ -2270,6 +2844,13 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/VirginiaSmith_2021X.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/89022ad7-0575-49f9-bbef-ca8572c54518/VirginiaSmith_2021X_VO_Intro.mp3"
             },
+            "entities": [
+                "she",
+                "storm",
+                "Virginia Smith",
+                "future",
+                "engineer"
+            ],
             "link": "https://www.ted.com/talks/virginia_smith_how_we_could_better_predict_and_stop_floods?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:84107",
             "categories": ["Higher Education"],
@@ -2294,6 +2875,14 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/KarenLelloucheTordjman_2021S.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/89f8f112-b51e-41a4-a096-7f42734332fa/KarenLelloucheTordjman_2021S_VO_Intro.mp3"
             },
+            "entities": [
+                "Google",
+                "Alexa",
+                "Siri",
+                "Karen Lellouche Tordjman",
+                "new age",
+                "two"
+            ],
             "link": "https://www.ted.com/talks/karen_lellouche_tordjman_siri_alexa_google_what_comes_next?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:85220",
             "categories": ["Higher Education"],
@@ -2318,6 +2907,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/TomOsborn_2021.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/dfd2e5e6-8873-4a8b-84da-8d004c929748/TomOsborn_2021_VO_Intro.mp3"
             },
+            "entities": [
+                "his",
+                "million",
+                "independent",
+                "Tom Osborn",
+                "18-",
+                "22-year-olds",
+                "Shamiri Institute",
+                "model",
+                "Kenya",
+                "two",
+                "he"
+            ],
             "link": "https://www.ted.com/talks/tom_osborn_a_new_way_to_help_young_people_with_their_mental_health?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:84955",
             "categories": ["Higher Education"],
@@ -2342,6 +2944,15 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/VishaanChakrabarti_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/6492c0b7-22aa-49b0-a999-ce0bea1286ee/VishaanChakrabarti_2021T_VO_Intro.mp3"
             },
+            "entities": [
+                "11 billion",
+                "Architect",
+                "Chakrabarti",
+                "Goldilocks",
+                "2100",
+                "UN",
+                "Vishaan Chakrabarti"
+            ],
             "link": "https://www.ted.com/talks/vishaan_chakrabarti_a_vision_of_sustainable_housing_for_all_of_humanity?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:84954",
             "categories": ["Higher Education"],
@@ -2366,6 +2977,15 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/JenniferBNuzzo_2021W.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/e3b37418-2a49-4c57-8582-7da5eada680a/JenniferBNuzzo_2021W_VO_Intro.mp3"
             },
+            "entities": [
+                "She",
+                "fires",
+                "infectious disease",
+                "future",
+                "Fire",
+                "Jennifer B. Nuzzo",
+                "1904"
+            ],
             "link": "https://www.ted.com/talks/jennifer_b_nuzzo_3_ways_to_prepare_society_for_the_next_pandemic?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:84913",
             "categories": ["Higher Education"],
@@ -2390,6 +3010,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/NyraJordan_2021S.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/cc5b14a9-9600-474e-8fb8-b049431a504e/NyraJordan_2021S_VO_Intro.mp3"
             },
+            "entities": ["Nyra Jordan", "four", "one"],
             "link": "https://www.ted.com/talks/nyra_jordan_4_steps_to_hiring_fairly_and_supporting_criminal_justice_reform?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:84766",
             "categories": ["Higher Education"],
@@ -2414,6 +3035,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/SisterTrueDedication_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/95be28e3-2101-4e6a-a6c7-9c9f82d476fe/SisterTrueDedication_2021T_VO_Intro.mp3"
             },
+            "entities": ["she", "nun", "Zen Buddhist", "three"],
             "link": "https://www.ted.com/talks/sister_true_dedication_3_questions_to_build_resilience_and_change_the_world?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:84765",
             "categories": ["Higher Education"],
@@ -2438,6 +3060,14 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/MakhtoumAbdalla_2021S.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/944a8279-2ef4-4d54-a42e-9a328470ed0b/MakhtoumAbdalla_2021S_VO_Intro.mp3"
             },
+            "entities": [
+                "his",
+                "Makhtoum Abdalla",
+                "Sudan",
+                "now",
+                "Darfur",
+                "Otash"
+            ],
             "link": "https://www.ted.com/talks/makhtoum_abdalla_education_is_a_fundamental_right_for_every_child?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:84651",
             "categories": ["Higher Education"],
@@ -2462,6 +3092,12 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/EricHinterman_2020X.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/e69d1a26-00f1-4310-9271-271627f77bd0/EricHinterman_2020X_VO_Intro.mp3"
             },
+            "entities": [
+                "Earth",
+                "Mars",
+                "Eric Hinterman",
+                "Aerospace engineer"
+            ],
             "link": "https://www.ted.com/talks/eric_hinterman_how_going_to_mars_improves_life_on_earth?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:84223",
             "categories": ["Higher Education"],
@@ -2486,6 +3122,22 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/KathrynKolbert_2021W.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/a356369f-fef9-4b5a-bb51-257c81efe09a/KathrynKolbert_2021W_VO_Intro.mp3"
             },
+            "entities": [
+                "Wade",
+                "United States",
+                "Supreme Court",
+                "Roe",
+                "she",
+                "1973",
+                "attorney",
+                "attack",
+                "post-Roe",
+                "First",
+                "social justice",
+                "a year",
+                "Kathryn Kolbert",
+                "US"
+            ],
             "link": "https://www.ted.com/talks/kathryn_kolbert_the_end_of_roe_v_wade_and_what_comes_next_for_reproductive_freedom?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:84912",
             "categories": ["Higher Education"],
@@ -2510,6 +3162,18 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/MariaVanKerkhove_2021W.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/87e69868-8218-4483-8915-2000073b7df5/MariaVanKerkhove_2021W_VO_Intro.mp3"
             },
+            "entities": [
+                "the",
+                "current",
+                "curator",
+                "World Health Organization",
+                "December 3, 2021",
+                "Whitney Pennington Rodgers",
+                "Maria Van Kerkhove",
+                "Van Kerkhove",
+                "past two years",
+                "WHO"
+            ],
             "link": "https://www.ted.com/talks/maria_van_kerkhove_how_to_end_the_pandemic_and_prepare_for_the_next?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:84885",
             "categories": ["Higher Education"],
@@ -2534,6 +3198,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/DawnLippert_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/d2bc3058-d001-4072-aac6-795654b9b287/DawnLippert_2021T_VO_Intro.mp3"
             },
+            "entities": ["She", "she", "Dawn Lippert"],
             "link": "https://www.ted.com/talks/dawn_lippert_community_investment_is_the_missing_piece_of_climate_action?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:84571",
             "categories": ["Higher Education"],
@@ -2558,6 +3223,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/ShabanaBasijRasikh_2021W.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/ae7aa1fb-09a4-4777-a92d-bddc3fd3e44a/ShabanaBasijRasikh_2021W_VO_Intro.mp3"
             },
+            "entities": [
+                "School of Leadership",
+                "Taliban",
+                "Afghanistan",
+                "future",
+                "SOLA",
+                "Rwanda",
+                "2021",
+                "Shabana Basij-Rasikh",
+                "Afghan",
+                "250",
+                "first"
+            ],
             "link": "https://www.ted.com/talks/shabana_basij_rasikh_the_dream_of_educating_afghan_girls_lives_on?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:84818",
             "categories": ["Higher Education"],
@@ -2582,6 +3260,14 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/ChristinaCosta_2021X.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/8ea39b7a-7e29-4c74-88c2-32f551a6765c/ChristinaCosta_2021X_VO_Intro.mp3"
             },
+            "entities": [
+                "she",
+                "her",
+                "brain tumor",
+                "cancer",
+                "psychologist",
+                "Christina Costa"
+            ],
             "link": "https://www.ted.com/talks/christina_costa_how_gratitude_rewires_your_brain?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:84216",
             "categories": ["Higher Education"],
@@ -2606,6 +3292,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/JamesRhee_2021S.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/e85723b2-ef68-4cce-aa58-098fc576bc53/JamesRhee_2021S_VO_Intro.mp3"
             },
+            "entities": ["James Rhee", "entrepreneur"],
             "link": "https://www.ted.com/talks/james_rhee_the_value_of_kindness_at_work?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:84182",
             "categories": ["Higher Education"],
@@ -2630,6 +3317,15 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/FarwizaFarhan_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/4b4f1f31-8818-4e2a-927e-849ade1ee26d/FarwizaFarhan_2021T_VO_Intro.mp3"
             },
+            "entities": [
+                "Earth",
+                "TED Fellow",
+                "Farwiza Farhan",
+                "her",
+                "Sumatran",
+                "Leseur",
+                "Indonesia"
+            ],
             "link": "https://www.ted.com/talks/farwiza_farhan_the_powerful_women_on_the_front_lines_of_climate_action?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:82058",
             "categories": ["Higher Education"],
@@ -2654,6 +3350,13 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/ShwetaNarayan_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/8520a489-8bfe-4ea3-bd31-5a3b26f60f0d/ShwetaNarayan_2021T_VO_Intro.mp3"
             },
+            "entities": [
+                "she",
+                "Hippocratic Oath",
+                "one",
+                "Shweta Narayan",
+                "first"
+            ],
             "link": "https://www.ted.com/talks/shweta_narayan_it_s_impossible_to_have_healthy_people_on_a_sick_planet?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:81962",
             "categories": ["Higher Education"],
@@ -2678,6 +3381,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/RuchiSinhaWWW_2021V.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/2f8fe7c6-edb4-413d-ad16-ca81bfcc3fe3/RuchiSinhaWWW_2021V_VO_Intro.mp3"
             },
+            "entities": ["Her", "psychologist", "Ruchi Sinha", "three"],
             "link": "https://www.ted.com/talks/ruchi_sinha_3_steps_to_getting_what_you_want_in_a_negotiation?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:81733",
             "categories": ["Higher Education"],
@@ -2702,6 +3406,23 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/NemonteNenquimo_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/11f3f245-6723-40f1-bdd5-ebb7e3132e37/NemonteNenquimo_2021T_VO_Intro.mp3"
             },
+            "entities": [
+                "leader",
+                "Ecuador",
+                "director",
+                "thousands of years",
+                "Earth",
+                "she",
+                "teacher",
+                "Amazon Frontlines",
+                "Emily Wright",
+                "Tom Laffay",
+                "producer",
+                "Waorani",
+                "Spanish",
+                "Amazon",
+                "Nemonte Nenquimo"
+            ],
             "link": "https://www.ted.com/talks/nemonte_nenquimo_the_forest_is_our_teacher_it_s_time_to_respect_it?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:81757",
             "categories": ["Higher Education"],
@@ -2726,6 +3447,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/AngelaGarbesWWW_2021V.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/f866f03c-06bc-4131-86ab-c1b822c72cb1/AngelaGarbesWWW_2021V_VO_Intro.mp3"
             },
+            "entities": ["host", "Angela Garbes", "CEO"],
             "link": "https://www.ted.com/talks/angela_garbes_what_working_parents_really_need_from_workplaces?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:81731",
             "categories": ["Higher Education"],
@@ -2750,6 +3472,15 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/JohnDoerrandRyanPanchadsaram_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/083bfc73-9b5e-461c-b5db-8288291e76b3/JohnDoerrandRyanPanchadsaram_2021T_VO_Intro.mp3"
             },
+            "entities": [
+                "six",
+                "Doerr",
+                "Lindsay Levin",
+                "engineer",
+                "Ryan Panchadsaram",
+                "John Doerr",
+                "2050"
+            ],
             "link": "https://www.ted.com/talks/john_doerr_and_ryan_panchadsaram_an_action_plan_for_solving_the_climate_crisis?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:83767",
             "categories": ["Higher Education"],
@@ -2774,6 +3505,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/JoshuaChuTan_2019X.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/c046c97e-add3-48ea-a109-d9d441d4823d/JoshuaChuTan_2019X_VO_Intro.mp3"
             },
+            "entities": ["disease", "researcher", "RNA", "Joshua Chu-Tan"],
             "link": "https://www.ted.com/talks/joshua_chu_tan_the_science_of_preserving_sight?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:83879",
             "categories": ["Higher Education"],
@@ -2798,6 +3530,13 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/AichaEvans_2021.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/4cc65a0c-7d81-4be5-b04b-5467f8d3446d/AichaEvans_2021_VO_Intro.mp3"
             },
+            "entities": [
+                "she",
+                "Aicha Evans",
+                "future",
+                "years",
+                "entrepreneur"
+            ],
             "link": "https://www.ted.com/talks/aicha_evans_your_self_driving_robotaxi_is_almost_here?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:83263",
             "categories": ["Higher Education"],
@@ -2822,6 +3561,17 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/LarryIrvin_2021S.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/42363cc5-63d1-499d-b07b-5f568ad145d9/LarryIrvin_2021S_VO_Intro.mp3"
             },
+            "entities": [
+                "TED Fellow",
+                "his",
+                "currently",
+                "Brothers Empowered to Teach",
+                "Irvin",
+                "Larry Irvin",
+                "three percent",
+                "He",
+                "US"
+            ],
             "link": "https://www.ted.com/talks/larry_irvin_a_program_to_empower_black_teachers_in_the_us?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:83539",
             "categories": ["Higher Education"],
@@ -2846,6 +3596,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/JackDangermond_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/55f526a7-62dd-4afd-a11e-ffee9e0d26f8/JackDangermond_2021T_VO_Intro.mp3"
             },
+            "entities": ["Earth", "Jack Dangermond", "future"],
             "link": "https://www.ted.com/talks/jack_dangermond_an_ever_evolving_map_of_everything_on_earth?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:82057",
             "categories": ["Higher Education"],
@@ -2870,6 +3621,16 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/NiliGilbert_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/0fe3858d-5716-4998-ad28-dcce9c0ca6e2/NiliGilbert_2021T_VO_Intro.mp3"
             },
+            "entities": [
+                "Nili Gilbert",
+                "she",
+                "year",
+                "five trillion dollars",
+                "and",
+                "now",
+                "three",
+                "2050"
+            ],
             "link": "https://www.ted.com/talks/nili_gilbert_the_crucial_intersection_of_climate_and_capital?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:83420",
             "categories": ["Higher Education"],
@@ -2894,6 +3655,15 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/JulissaPradoWWW_2021V.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/b204771f-ad4e-4bc8-a060-7b04e0cabb42/JulissaPradoWWW_2021V_VO_Intro.mp3"
             },
+            "entities": [
+                "Rizos Curls",
+                "she",
+                "3",
+                "her",
+                "founder",
+                "Julissa Prado",
+                "CEO"
+            ],
             "link": "https://www.ted.com/talks/julissa_prado_3_rules_to_help_you_build_a_successful_business?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:81732",
             "categories": ["Higher Education"],
@@ -2918,6 +3688,13 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/JoshGiegel_2021.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/c272bb41-668a-4f4c-b8c7-d6507e9f0768/JoshGiegel_2021_VO_Intro.mp3"
             },
+            "entities": [
+                "Josh Giegel",
+                "minutes",
+                "future",
+                "cleaner",
+                "first"
+            ],
             "link": "https://www.ted.com/talks/josh_giegel_super_speed_magnetic_levitation_and_the_vision_behind_the_hyperloop?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:83413",
             "categories": ["Higher Education"],
@@ -2942,6 +3719,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/GavinMcCormick_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/4698c962-a46e-4b44-80bb-33af3709eb35/GavinMcCormick_2021T_VO_Intro.mp3"
             },
+            "entities": ["activist", "Gavin McCormick", "today"],
             "link": "https://www.ted.com/talks/gavin_mccormick_tracking_the_whole_world_s_carbon_emissions_with_satellites_and_ai?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:83178",
             "categories": ["Higher Education"],
@@ -2966,6 +3744,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/JaneWalsh_2021X.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/af87c6ea-fda1-41a4-bad4-464fef75e71b/JaneWalsh_2021X_VO_Intro.mp3"
             },
+            "entities": ["Walsh", "Jane Walsh", "lawyer"],
             "link": "https://www.ted.com/talks/jane_walsh_the_rise_of_predatory_scams_and_how_to_prevent_them?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:83538",
             "categories": ["Higher Education"],
@@ -2990,6 +3769,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/AnilSeth_2021H.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/00b37d4b-6375-4753-9f7d-3bb0eaffd96f/AnilSeth_2021H_VO_Intro.mp3"
             },
+            "entities": ["Seth", "curator", "Anil Seth", "his", "David Biello"],
             "link": "https://www.ted.com/talks/anil_seth_how_your_brain_invents_your_self?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:83540",
             "categories": ["Higher Education"],
@@ -3014,6 +3794,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/NicolaSturgeon_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/13cdbd23-74cc-4ff9-9306-975436a008fe/NicolaSturgeon_2021T_VO_Intro.mp3"
             },
+            "entities": [
+                "she",
+                "Bhutan",
+                "TED",
+                "curator",
+                "Fiji",
+                "her",
+                "Bruno Giussani",
+                "Scotland",
+                "First",
+                "Nicola Sturgeon",
+                "Minister"
+            ],
             "link": "https://www.ted.com/talks/nicola_sturgeon_how_small_countries_can_make_a_big_impact_on_climate_change?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:83359",
             "categories": ["Higher Education"],
@@ -3038,6 +3831,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/TrierBryantandKimScottWWW_2021V.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/5442b75a-f4e2-4d80-8656-0a17ff8c9ad7/TrierBryantandKimScottWWW_2021V_VO_Intro.mp3"
             },
+            "entities": ["Kim Scott", "Trier Bryant", "harassment", "three"],
             "link": "https://www.ted.com/talks/kim_scott_and_trier_bryant_how_to_reduce_bias_in_your_workplace?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:81728",
             "categories": ["Higher Education"],
@@ -3062,6 +3856,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/NithyaRamanathan_2021.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/d30cd514-1d4c-46c6-a26e-46fe87f1775f/NithyaRamanathan_2021_VO_Intro.mp3"
             },
+            "entities": ["Nithya Ramanathan", "technologist"],
             "link": "https://www.ted.com/talks/nithya_ramanathan_the_problem_of_vaccine_spoilage_and_a_smart_sensor_to_help?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:83026",
             "categories": ["Higher Education"],
@@ -3086,6 +3881,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/BozomaSaintJohn_2021.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/c4148a16-b2c2-4854-8393-00d3f66e3a28/BozomaSaintJohn_2021_VO_Intro.mp3"
             },
+            "entities": ["Bozoma Saint John", "Netflix"],
             "link": "https://www.ted.com/talks/bozoma_saint_john_the_creative_power_of_your_intuition?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:83205",
             "categories": ["Higher Education"],
@@ -3110,6 +3906,13 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/RichardThompsonFord_2021S.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/c8abc3fa-df7f-47b0-807c-a2e0191e5df1/RichardThompsonFord_2021S_VO_Intro.mp3"
             },
+            "entities": [
+                "professor",
+                "author",
+                "today",
+                "Richard Thompson Ford",
+                "He"
+            ],
             "link": "https://www.ted.com/talks/richard_thompson_ford_a_tailored_history_of_who_wears_what_and_why?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:83167",
             "categories": ["Higher Education"],
@@ -3134,6 +3937,14 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/ShuMatsuoPostWWW_2021V.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/cba6e978-0644-4be0-b64f-f4e753deaf33/ShuMatsuoPostWWW_2021V_VO_Intro.mp3"
             },
+            "entities": [
+                "months",
+                "his",
+                "Shu Matsuo Post",
+                "author",
+                "seven",
+                "he"
+            ],
             "link": "https://www.ted.com/talks/shu_matsuo_post_why_paternity_leave_benefits_everyone?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:81727",
             "categories": ["Higher Education"],
@@ -3158,6 +3969,17 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/AlGore_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/1b875425-2dec-43ed-b4cc-d0dd7c03bb6b/AlGore_2021T_VO_Intro.mp3"
             },
+            "entities": [
+                "floods",
+                "current",
+                "fires",
+                "Al Gore",
+                "future",
+                "Nobel laureate",
+                "Gore",
+                "he",
+                "first"
+            ],
             "link": "https://www.ted.com/talks/al_gore_how_to_make_radical_climate_action_the_new_normal?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:83223",
             "categories": ["Higher Education"],
@@ -3182,6 +4004,14 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/IlissaOcko_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/fe00d9dd-33e9-434b-9b1f-edf339e1cc69/IlissaOcko_2021T_VO_Intro.mp3"
             },
+            "entities": [
+                "scientist",
+                "decades",
+                "Ilissa Ocko",
+                "Ocko",
+                "three",
+                "years"
+            ],
             "link": "https://www.ted.com/talks/ilissa_ocko_the_fastest_way_to_slow_climate_change_now?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:83110",
             "categories": ["Higher Education"],
@@ -3206,6 +4036,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/CoyaPazBrownrigg_2021X.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/2df4faa9-5ea8-4bb6-9b21-440a1f6cd9a6/CoyaPazBrownrigg_2021X_VO_Intro.mp3"
             },
+            "entities": ["Coya Paz Brownrigg", "three"],
             "link": "https://www.ted.com/talks/coya_paz_brownrigg_the_haunting_truth_of_ghost_stories?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:83111",
             "categories": ["Higher Education"],
@@ -3230,6 +4061,13 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/AminaJMohammed_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/f0378db8-50e8-4a2f-8f3b-85c2a0963a78/AminaJMohammed_2021T_VO_Intro.mp3"
             },
+            "entities": [
+                "she",
+                "17",
+                "Amina J. Mohammed",
+                "UN",
+                "Deputy Secretary-General"
+            ],
             "link": "https://www.ted.com/talks/amina_j_mohammed_a_new_perspective_on_the_journey_to_net_zero?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:83031",
             "categories": ["Higher Education"],
@@ -3254,6 +4092,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/JeffDean_2021.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/083c670b-033d-4263-8715-d4b85408709b/JeffDean_2021_VO_Intro.mp3"
             },
+            "entities": ["Google", "disease", "Chris Anderson", "Jeff Dean"],
             "link": "https://www.ted.com/talks/jeff_dean_ai_isn_t_as_smart_as_you_think_but_it_could_be?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:82797",
             "categories": ["Higher Education"],
@@ -3278,6 +4117,16 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/IrmaLOlguinJr_2021.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/ed0cf52d-e3de-48d8-a0a7-3e5a749ed744/IrmaLOlguinJr_2021_VO_Intro.mp3"
             },
+            "entities": [
+                "she",
+                "Irma L. Olguin Jr",
+                "Fresno",
+                "Olguin Jr.",
+                "her",
+                "model",
+                "California",
+                "entrepreneur"
+            ],
             "link": "https://www.ted.com/talks/irma_l_olguin_jr_how_to_turn_around_a_city?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:82218",
             "categories": ["Higher Education"],
@@ -3302,6 +4151,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/TreborScholz_2021.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/d8039616-eeba-4917-88b7-11c225b5a30c/TreborScholz_2021_VO_Intro.mp3"
             },
+            "entities": ["Trebor Scholz", "democratic", "model", "200 years"],
             "link": "https://www.ted.com/talks/trebor_scholz_stuck_in_the_gig_economy_try_platform_co_ops_instead?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:82558",
             "categories": ["Higher Education"],
@@ -3326,6 +4176,17 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/HongQiaoLiu_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/2a07911c-637d-47ca-81e1-ddbbd3cb45a6/HongQiaoLiu_2021T_VO_Intro.mp3"
             },
+            "entities": [
+                "Xi Jinping",
+                "journalist",
+                "President",
+                "Hongqiao Liu",
+                "China",
+                "analyst",
+                "2020",
+                "2030",
+                "2060"
+            ],
             "link": "https://www.ted.com/talks/hongqiao_liu_can_china_achieve_its_ambitious_climate_pledges?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:82956",
             "categories": ["Higher Education"],
@@ -3350,6 +4211,18 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/KaiFuLeeandChenQiufan_2021H.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/02e0f719-0ea8-4c40-8c4e-964757fb9161/KaiFuLeeandChenQiufan_2021H_VO_Intro.mp3"
             },
+            "entities": [
+                "curator",
+                "Simone Ross",
+                "Stanley Chan",
+                "Chen Qiufan",
+                "writer",
+                "Kai-Fu Lee",
+                "2041",
+                "Ten",
+                "the Future",
+                "Google China"
+            ],
             "link": "https://www.ted.com/talks/kai_fu_lee_and_chen_qiufan_visions_for_the_future?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:82732",
             "categories": ["Higher Education"],
@@ -3374,6 +4247,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/TanyaBergerWolf_2021X.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/d3618016-ee8f-46fa-83f3-2388951cde9b/TanyaBergerWolf_2021X_VO_Intro.mp3"
             },
+            "entities": ["biologist", "one", "Tanya Berger-Wolf"],
             "link": "https://www.ted.com/talks/tanya_berger_wolf_how_your_nature_photos_can_help_protect_wild_animals?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:81896",
             "categories": ["Higher Education"],
@@ -3398,6 +4272,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/DebbieLovich_2021S.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/c9123ca8-e654-40bb-a4e5-6bc97181e81c/DebbieLovich_2021S_VO_Intro.mp3"
             },
+            "entities": ["Lovich", "three", "Debbie Lovich"],
             "link": "https://www.ted.com/talks/debbie_lovich_3_tips_for_leaders_to_get_the_future_of_work_right?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:82559",
             "categories": ["Higher Education"],
@@ -3422,6 +4297,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/ChrisBennett_2021.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/f138ecbf-5634-4600-a935-1f2993ae59c4/ChrisBennett_2021_VO_Intro.mp3"
             },
+            "entities": ["Entrepreneur", "Chris Bennett"],
             "link": "https://www.ted.com/talks/chris_bennett_a_close_to_home_solution_for_accessible_childcare?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:82557",
             "categories": ["Higher Education"],
@@ -3446,6 +4322,16 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/SolomonGoldsteinRose_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/63651744-4145-41b5-a3aa-82d9f9d7af4d/SolomonGoldsteinRose_2021T_VO_Intro.mp3"
             },
+            "entities": [
+                "12",
+                "author",
+                "four",
+                "today",
+                "he",
+                "He",
+                "first",
+                "Solomon Goldstein-Rose"
+            ],
             "link": "https://www.ted.com/talks/solomon_goldstein_rose_how_much_clean_electricity_do_we_really_need?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:82733",
             "categories": ["Higher Education"],
@@ -3470,6 +4356,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/IshaDatar_2021.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/fcaeb582-6916-4936-91aa-befb1d6548e3/IshaDatar_2021_VO_Intro.mp3"
             },
+            "entities": ["she", "Isha Datar", "a second"],
             "link": "https://www.ted.com/talks/isha_datar_how_we_could_eat_real_meat_without_harming_animals?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:82095",
             "categories": ["Higher Education"],
@@ -3494,6 +4381,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/AmINormalTrailer_Podcast_2021V.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/db331e74-3b4d-454d-96f7-701a16efd0c2/AmINormalTrailer_Podcast_2021V_VO_Intro.mp3"
             },
+            "entities": ["journalist", "Mona Chalabi", "she", "her"],
             "link": "https://www.ted.com/talks/ted_audio_collective_introducing_am_i_normal_with_mona_chalabi?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:82318",
             "categories": ["Higher Education"],
@@ -3518,6 +4406,12 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/TzeporahBerman_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/4ec6e0f8-014b-41a9-bab8-68cd5d0698f7/TzeporahBerman_2021T_VO_Intro.mp3"
             },
+            "entities": [
+                "Nobel Prize",
+                "currently",
+                "Tzeporah Berman",
+                "Berman"
+            ],
             "link": "https://www.ted.com/talks/tzeporah_berman_the_bad_math_of_the_fossil_fuel_industry?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:82549",
             "categories": ["Higher Education"],
@@ -3542,6 +4436,15 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/JennaCLester_2021.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/b6f1d677-9f63-4ca7-a07a-4ebab609f271/JennaCLester_2021_VO_Intro.mp3"
             },
+            "entities": [
+                "current",
+                "TED Fellow",
+                "Jenna C. Lester",
+                "her",
+                "dermatologist",
+                "one",
+                "diseases"
+            ],
             "link": "https://www.ted.com/talks/jenna_c_lester_why_skin_disease_is_often_misdiagnosed_in_darker_skin_tones?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:81574",
             "categories": ["Higher Education"],
@@ -3566,6 +4469,20 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/MonicaAraya_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/c104b46d-3d85-492c-9334-86aea42e9258/MonicaAraya_2021T_VO_Intro.mp3"
             },
+            "entities": [
+                "Araya",
+                "she",
+                "billion-dollar",
+                "TED",
+                "Drive Electric",
+                "future",
+                "Chris Anderson",
+                "70",
+                "Monica Araya",
+                "disaster",
+                "the next five years",
+                "zero-emission"
+            ],
             "link": "https://www.ted.com/talks/monica_araya_the_billion_dollar_campaign_to_electrify_transport?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:82289",
             "categories": ["Higher Education"],
@@ -3590,6 +4507,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/HrishikeshHirway_2021.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/01b6daed-9b36-430e-b46e-ad6799c23fbc/HrishikeshHirway_2021_VO_Intro.mp3"
             },
+            "entities": ["his", "Hrishikesh Hirway", "musician", "he", "guide"],
             "link": "https://www.ted.com/talks/hrishikesh_hirway_what_you_discover_when_you_really_listen?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:81988",
             "categories": ["Higher Education"],
@@ -3614,6 +4532,17 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/MelatiWijsen_2021T.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/ba7a84eb-3a6e-410f-bfcb-02548d048876/MelatiWijsen_2021T_VO_Intro.mp3"
             },
+            "entities": [
+                "activist",
+                "Melati Wijsen",
+                "12",
+                "Bali",
+                "her",
+                "ten years",
+                "Wijsen",
+                "three",
+                "Indonesia"
+            ],
             "link": "https://www.ted.com/talks/melati_wijsen_a_roadmap_for_young_changemakers?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:82094",
             "categories": ["Higher Education"],
@@ -3638,6 +4567,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/CindySolomonWWW_2021V.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/46b74ff5-cde6-4e13-af4a-990d73be5a9f/CindySolomonWWW_2021V_VO_Intro.mp3"
             },
+            "entities": ["her", "Cindy Solomon", "days", "five"],
             "link": "https://www.ted.com/talks/cindy_solomon_5_tips_for_dealing_with_meeting_overload?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:81718",
             "categories": ["Higher Education"],
@@ -3662,6 +4592,13 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/StevenJohnson_2021.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/f70a4f29-25a9-456e-a699-1c7da725049c/StevenJohnson_2021_VO_Intro.mp3"
             },
+            "entities": [
+                "Steven Johnson",
+                "author",
+                "three",
+                "he",
+                "a century"
+            ],
             "link": "https://www.ted.com/talks/steven_johnson_how_humanity_doubled_life_expectancy_in_a_century?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:80827",
             "categories": ["Higher Education"],
@@ -3686,6 +4623,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/CharlotteDegot_2021S.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/78ebd582-441b-4645-b7a5-18a93e32ff21/CharlotteDegot_2021S_VO_Intro.mp3"
             },
+            "entities": ["she", "Charlotte Degot", "one", "technologist"],
             "link": "https://www.ted.com/talks/charlotte_degot_a_more_accurate_way_to_calculate_emissions?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:81963",
             "categories": ["Higher Education"],
@@ -3710,6 +4648,12 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/MadsTangChristensen_2021S.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/01cc613f-25ba-439a-b372-080cec25626c/MadsTangChristensen_2021S_VO_Intro.mp3"
             },
+            "entities": [
+                "Mads Tang-Christensen",
+                "researcher",
+                "disease",
+                "he"
+            ],
             "link": "https://www.ted.com/talks/mads_tang_christensen_the_brain_science_of_obesity?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:81580",
             "categories": ["Higher Education"],
@@ -3734,6 +4678,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/KayvonTehranian_2021.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/4a243320-0728-4f7d-be54-f0507d85721b/KayvonTehranian_2021_VO_Intro.mp3"
             },
+            "entities": ["technologist", "Kayvon Tehranian"],
             "link": "https://www.ted.com/talks/kayvon_tehranian_how_nfts_are_building_the_internet_of_the_future?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:81961",
             "categories": ["Higher Education"],
@@ -3758,6 +4703,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/AmberHikesWWW_2021V.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/3273feb0-4e81-47f2-a0bf-b2af4006678a/AmberHikesWWW_2021V_VO_Intro.mp3"
             },
+            "entities": ["She", "ACLU", "three"],
             "link": "https://www.ted.com/talks/amber_hikes_want_to_truly_succeed_lift_others_up_while_you_climb?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:81706",
             "categories": ["Higher Education"],
@@ -3782,6 +4728,12 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/WendyMacNaughton_2021.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/f503c28c-7783-4d3d-85e6-4ea833b8ddf0/WendyMacNaughton_2021_VO_Intro.mp3"
             },
+            "entities": [
+                "journalist",
+                "Wendy MacNaughton",
+                "she",
+                "MacNaughton"
+            ],
             "link": "https://www.ted.com/talks/wendy_macnaughton_the_art_of_paying_attention?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:81681",
             "categories": ["Higher Education"],
@@ -3806,6 +4758,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/OliviaAffuso_2021S.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/ba758c59-df5c-4ddd-bebc-0b3f77fc71d8/OliviaAffuso_2021S_VO_Intro.mp3"
             },
+            "entities": ["she", "Olivia Affuso"],
             "link": "https://www.ted.com/talks/olivia_affuso_3_ways_community_creates_a_healthy_life?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:81396",
             "categories": ["Higher Education"],
@@ -3830,6 +4783,16 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/Lizzo_2021.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/863f6003-6027-464a-bbbf-8651c52a35ed/Lizzo_2021_VO_Intro.mp3"
             },
+            "entities": [
+                "she",
+                "Lizzo",
+                "Superstar",
+                "her",
+                "West",
+                "now",
+                "Black",
+                "African"
+            ],
             "link": "https://www.ted.com/talks/lizzo_the_black_history_of_twerking_and_how_it_taught_me_self_love?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:81405",
             "categories": ["Higher Education"],
@@ -3854,6 +4817,14 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/KaroliHindriks_2021.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/326f3791-8ef0-4c8d-89d5-c3b54ce69e99/KaroliHindriks_2021_VO_Intro.mp3"
             },
+            "entities": [
+                "she",
+                "her",
+                "future",
+                "entrepreneur",
+                "Karoli Hindriks",
+                "Estonia"
+            ],
             "link": "https://www.ted.com/talks/karoli_hindriks_why_the_passport_needs_an_upgrade?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:81573",
             "categories": ["Higher Education"],
@@ -3878,6 +4849,13 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/RebeccaGalemba_2021X.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/885b2366-233a-47a7-bd6a-29c80b478b87/RebeccaGalemba_2021X_VO_Intro.mp3"
             },
+            "entities": [
+                "Rebecca Galemba",
+                "multibillion-dollar",
+                "Americans",
+                "Anthropologist",
+                "theft"
+            ],
             "link": "https://www.ted.com/talks/rebecca_galemba_how_employers_steal_from_workers_and_get_away_with_it_jan_2021?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:81821",
             "categories": ["Higher Education"],
@@ -3902,6 +4880,15 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/download.ted.com/talks/AshleyWhillansWWW_2021V.mp3?apikey=172BB350-0207&prx_url=https://dovetail.prxu.org/70/44afe67b-81bc-4686-bd69-e0af4770884e/AshleyWhillansWWW_2021V_VO_Intro.mp3"
             },
+            "entities": [
+                "She",
+                "professor",
+                "boss",
+                "Harvard Business School",
+                "scientist",
+                "Ashley Whillans",
+                "three"
+            ],
             "link": "https://www.ted.com/talks/ashley_whillans_3_rules_for_better_work_life_balance?rss=172BB350-0207",
             "guid": "en.audio.talk.ted.com:81576",
             "categories": ["Higher Education"],

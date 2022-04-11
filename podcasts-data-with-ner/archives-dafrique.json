@@ -38,6 +38,7 @@
                 "type": "audio/mpeg",
                 "url": "https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&p=WB1069-RFI-FR-20090914&l3=En%20Afrique%20du%20Sud%2C%20la%20prise%20de%20pouvoir%20de%20Frederik%20De%20Klerk%20%283%264%29&l4=WBMZ156338-RFI-FR-20220407&media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmagazines%2Fr267%2Farchives_d_afrique_20220409.mp3"
             },
+            "entities": ["National Party", "Frederik Willem De Klerk"],
             "link": "https://www.rfi.fr/fr/podcasts/archives-d-afrique/20220408-en-afrique-du-sud-la-prise-de-pouvoir-de-frederik-de-klerk-3-4",
             "guid": "2fcda3bc-b653-11ec-8419-005056a97652",
             "categories": [""],
@@ -60,6 +61,13 @@
                 "type": "audio/mpeg",
                 "url": "https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&p=WB1069-RFI-FR-20090914&l3=Afrique%20du%20Sud%3A%20Frederik%20De%20Klerk%20et%20la%20fin%20de%20l%27Apartheid%20%281%262%29&l4=WBMZ153719-RFI-FR-20220331&media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmagazines%2Fr267%2Farchives_d_afrique_20220402.mp3"
             },
+            "entities": [
+                "2",
+                "Nelson Mandela",
+                "1990",
+                "Cette",
+                "Frederik De Klerk"
+            ],
             "link": "https://www.rfi.fr/fr/podcasts/archives-d-afrique/20220401-afrique-du-sud-frederik-de-klerk-et-la-fin-de-l-apartheid",
             "guid": "6c889d8a-b0f8-11ec-9e0a-005056bf762b",
             "categories": [""],
@@ -82,6 +90,13 @@
                 "type": "audio/mpeg",
                 "url": "https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&p=WB1069-RFI-FR-20090914&l3=Mathieu%20K%C3%A9r%C3%A9kou%3A%20au%20B%C3%A9nin%2C%20la%20fin%20d%E2%80%99une%20%C3%A8re%20%2813%2614%29&l4=WBMZ150618-RFI-FR-20220323&media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmagazines%2Fr266%2Farchives_d_afrique_20220326.mp3"
             },
+            "entities": [
+                "Premier",
+                "Adrien Houngbédji",
+                "Mathieu Kérékou",
+                "Tous",
+                "1999"
+            ],
             "link": "https://www.rfi.fr/fr/podcasts/archives-d-afrique/20220325-mathieu-k%C3%A9r%C3%A9kou-au-b%C3%A9nin-la-fin-d-une-%C3%A8re-13-14",
             "guid": "f7040c56-aaa9-11ec-9c01-005056a97652",
             "categories": [""],
@@ -104,6 +119,14 @@
                 "type": "audio/mpeg",
                 "url": "https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&p=WB1069-RFI-FR-20090914&l3=Au%20B%C3%A9nin%2C%20Mathieu%20K%C3%A9r%C3%A9kou%20le%20d%C3%A9mocrate%20%2811%2612%29&l4=WBMZ147857-RFI-FR-20220316&media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmagazines%2Fr266%2Farchives_d_afrique_20220319.mp3"
             },
+            "entities": [
+                "Premier",
+                "1996",
+                "Dans",
+                "Adrien Houngbédji",
+                "Mathieu Kérékou",
+                "Cette"
+            ],
             "link": "https://www.rfi.fr/fr/podcasts/archives-d-afrique/20220318-au-b%C3%A9nin-mathieu-k%C3%A9r%C3%A9kou-le-d%C3%A9mocrate-11-12",
             "guid": "ee509d42-a525-11ec-80fc-005056bf762b",
             "categories": [""],
@@ -126,6 +149,7 @@
                 "type": "audio/mpeg",
                 "url": "https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&p=WB1069-RFI-FR-20090914&l3=Mathieu%20K%C3%A9r%C3%A9kou%2C%20le%20retour%20dans%20le%20jeu%20politique%20%289%2610%29&l4=WBMZ142780-RFI-FR-20220302&media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmagazines%2Fr266%2Farchives_d_afrique_20220312.mp3"
             },
+            "entities": ["11", "Elle", "1990"],
             "link": "https://www.rfi.fr/fr/podcasts/archives-d-afrique/20220311-mathieu-k%C3%A9r%C3%A9kou-le-retour-dans-le-jeu-politique-9-10",
             "guid": "e03c9254-9a28-11ec-9b44-005056a97652",
             "categories": [""],
@@ -148,6 +172,7 @@
                 "type": "audio/mpeg",
                 "url": "https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&p=WB1069-RFI-FR-20090914&l3=La%20repentance%20de%20Mathieu%20K%C3%A9r%C3%A9kou%20%287%268%29&l4=WBMZ142757-RFI-FR-20220302&media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmagazines%2Fr266%2Farchives_d_afrique_20220305.mp3"
             },
+            "entities": ["18", "1990", "Mathieu Kérékou"],
             "link": "https://www.rfi.fr/fr/podcasts/archives-d-afrique/20220304-la-repentance-de-mathieu-k%C3%A9r%C3%A9kou-7-8",
             "guid": "f846fb3e-9a1c-11ec-868c-005056a97652",
             "categories": [""],
@@ -170,6 +195,7 @@
                 "type": "audio/mpeg",
                 "url": "https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&p=WB1069-RFI-FR-20090914&l3=Mathieu%20K%C3%A9r%C3%A9kou%20et%20la%20conf%C3%A9rence%20nationale%20%285%266%29&l4=WBMZ137510-RFI-FR-20220216&media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmagazines%2Fr265%2Farchives_d_afrique_20220226.mp3"
             },
+            "entities": ["000", "Banque Commerciale", "50", "42", "1988"],
             "link": "https://www.rfi.fr/fr/podcasts/archives-d-afrique/20220225-mathieu-k%C3%A9r%C3%A9kou-et-la-conf%C3%A9rence-nationale-5-6",
             "guid": "42a3e24c-8f2c-11ec-a4a1-005056bf762b",
             "categories": [""],
@@ -192,6 +218,14 @@
                 "type": "audio/mpeg",
                 "url": "https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&p=WB1069-RFI-FR-20090914&l3=Mathieu%20K%C3%A9r%C3%A9kou%2C%20la%20r%C3%A9volution%20%283%264%29&l4=WBMZ137500-RFI-FR-20220216&media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmagazines%2Fr265%2Farchives_d_afrique_20220219.mp3"
             },
+            "entities": [
+                "1975",
+                "commandant",
+                "Dahomey",
+                "Le",
+                "Mathieu Kérékou",
+                "30"
+            ],
             "link": "https://www.rfi.fr/fr/podcasts/archives-d-afrique/20220218-mathieu-k%C3%A9r%C3%A9kou-la-r%C3%A9volution-3-4",
             "guid": "4b20c286-8f28-11ec-a574-005056a97652",
             "categories": [""],
@@ -214,6 +248,7 @@
                 "type": "audio/mpeg",
                 "url": "https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&p=WB1069-RFI-FR-20090914&l3=Mathieu%20K%C3%A9r%C3%A9kou%2C%20le%20putsch%20de%201972%20%281%262%29&l4=WBMZ134482-RFI-FR-20220211&media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmagazines%2Fr265%2Farchives_d_afrique_20220212.mp3"
             },
+            "entities": ["1990", "Mathieu Kérékou"],
             "link": "https://www.rfi.fr/fr/podcasts/archives-d-afrique/20220211-mathieu-k%C3%A9r%C3%A9kou-le-putsch-de-1972-1-2",
             "guid": "2c4a74c8-8b1e-11ec-b847-005056a97652",
             "categories": [""],
@@ -236,6 +271,7 @@
                 "type": "audio/mpeg",
                 "url": "https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&p=WB1069-RFI-FR-20090914&l3=En%20Afrique%20du%20Sud%2C%20l%E2%80%99infatigable%20Desmond%20Tutu%20%2811%2612%29&l4=WBMZ131058-RFI-FR-20220202&media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmagazines%2Fr265%2Farchives_d_afrique_20220205.mp3"
             },
+            "entities": ["Desmond Tutu", "Nobel de la paix"],
             "link": "https://www.rfi.fr/fr/podcasts/archives-d-afrique/20220204-en-afrique-du-sud-l-infatigable-desmond-tutu-11-12",
             "guid": "ff38341c-840a-11ec-9303-005056bf762b",
             "categories": [""],
@@ -258,6 +294,18 @@
                 "type": "audio/mpeg",
                 "url": "https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&p=WB1069-RFI-FR-20090914&l3=L%E2%80%99Archev%C3%AAque%20Desmond%20Tutu%20face%20au%20d%C3%A9fi%20de%20la%20nation%20arc-en-ciel%20%289%2610%29&l4=WBMZ128680-RFI-FR-20220126&media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmagazines%2Fr264%2Farchives_d_afrique_20220129.mp3"
             },
+            "entities": [
+                "35",
+                "Desmond Tutu",
+                "3",
+                "La",
+                "Noirs",
+                "6",
+                "Nelson Mandela",
+                "millions",
+                "Nobel de la Paix",
+                "Wouter Basson"
+            ],
             "link": "https://www.rfi.fr/fr/podcasts/archives-d-afrique/20220128-l-archev%C3%AAque-desmond-tutu-face-au-d%C3%A9fi-de-la-nation-arc-en-ciel-9-10",
             "guid": "b266595e-7ecc-11ec-98c1-005056bf762b",
             "categories": [""],
@@ -280,6 +328,13 @@
                 "type": "audio/mpeg",
                 "url": "https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&p=WB1069-RFI-FR-20090914&l3=Afrique%20du%20Sud%3A%20Desmond%20Tutu%20et%20la%20lib%C3%A9ration%20de%20Nelson%20Mandela%20%287%268%29&l4=WBMZ125887-RFI-FR-20220119&media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmagazines%2Fr264%2Farchives_d_afrique_20220122.mp3"
             },
+            "entities": [
+                "27",
+                "La",
+                "Nelson Mandela",
+                "1990",
+                "Afrique du Sud"
+            ],
             "link": "https://www.rfi.fr/fr/podcasts/archives-d-afrique/20220121-afrique-du-sud-desmond-tutu-et-la-lib%C3%A9ration-de-nelson-mandela-7-8",
             "guid": "c5f3ba0e-790c-11ec-b3af-005056bf762b",
             "categories": [""],
@@ -302,6 +357,7 @@
                 "type": "audio/mpeg",
                 "url": "https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&p=WB1069-RFI-FR-20090914&l3=Au%20Biafra%2C%20Odumegwu%20Emeka%20Ojukwu%20dans%20l%E2%80%99impasse%20%285%266%29&l4=WBMZ107286-RFI-FR-20211125&media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmagazines%2Fr264%2Farchives_d_afrique_20220115.mp3"
             },
+            "entities": ["Ojukwu", "La", "Lagos"],
             "link": "https://www.rfi.fr/fr/podcasts/archives-d-afrique/20220114-au-biafra-odumegwu-emeka-ojukwu-dans-l-impasse-5-6",
             "guid": "e6890954-4e0a-11ec-b9f2-005056bf762b",
             "categories": [""],
@@ -324,6 +380,13 @@
                 "type": "audio/mpeg",
                 "url": "https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&p=WB1069-RFI-FR-20090914&l3=Desmond%20Tutu%2C%20ap%C3%B4tre%20de%20la%20non-violence%20%283%264%29&l4=WBMZ107289-RFI-FR-20211125&media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmagazines%2Fr264%2Farchives_d_afrique_20220108.mp3"
             },
+            "entities": [
+                "Desmond Tutu",
+                "John Allen",
+                "Malgré",
+                "Pretoria",
+                "Afrique du Sud"
+            ],
             "link": "https://www.rfi.fr/fr/podcasts/archives-d-afrique/20220107-desmond-tutu-ap%C3%B4tre-de-la-non-violence-3-4",
             "guid": "75fb6b9e-4e0c-11ec-8825-005056a97652",
             "categories": [""],
@@ -346,6 +409,15 @@
                 "type": "audio/mpeg",
                 "url": "https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&p=WB1069-RFI-FR-20090914&l3=Afrique%20du%20Sud%20%3A%20Desmond%20Tutu%20et%20l%27instauration%20de%20l%27apartheid%20%281%262%29&l4=WBMZ118942-RFI-FR-20211230&media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmagazines%2Fr264%2Farchives_d_afrique_20220101.mp3"
             },
+            "entities": [
+                "Desmond Tutu",
+                "1984",
+                "non-Blancs",
+                "Celui qui",
+                "Afrique du Sud",
+                "anglican",
+                "Nobel de la Paix"
+            ],
             "link": "https://www.rfi.fr/fr/podcasts/archives-d-afrique/20211231-afrique-du-sud-desmond-tutu-et-l-instauration-de-l-apartheid-1-2",
             "guid": "42c5325c-6980-11ec-a7e8-005056bf762b",
             "categories": [""],
@@ -368,6 +440,7 @@
                 "type": "audio/mpeg",
                 "url": "https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&p=WB1069-RFI-FR-20090914&l3=Burundi%20%3A%20Pierre%20Buyoya%20et%20les%20accords%20d%E2%80%99Arusha%20%287%268%29&l4=WBMZ111744-RFI-FR-20211208&media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmagazines%2Fr263%2Farchives_d_afrique_20211225.mp3"
             },
+            "entities": ["1996", "Burundi", "25", "installer", "Pierre Buyoya"],
             "link": "https://www.rfi.fr/fr/podcasts/archives-d-afrique/20211224-burundi-pierre-buyoya-et-les-accords-d-arusha-7-8",
             "guid": "7d4789cc-5835-11ec-800e-005056bf762b",
             "categories": [""],
@@ -390,6 +463,14 @@
                 "type": "audio/mpeg",
                 "url": "https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&p=WB1069-RFI-FR-20090914&l3=Avec%20la%20guerre%20civile%20burundaise%2C%20le%20retour%20de%20Pierre%20Buyoya%20%285%266%29&l4=WBMZ106642-RFI-FR-20211123&media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmagazines%2Fr263%2Farchives_d_afrique_20211218.mp3"
             },
+            "entities": [
+                "Burundi",
+                "Tutsis",
+                "Pierre Buyoya",
+                "Hutus",
+                "Le",
+                "Melchior Ndadaye"
+            ],
             "link": "https://www.rfi.fr/fr/podcasts/archives-d-afrique/20211217-avec-la-guerre-civile-burundaise-le-retour-de-pierre-buyoya-5-6",
             "guid": "a75e6bbc-4c74-11ec-b5db-005056a97652",
             "categories": [""],
@@ -412,6 +493,17 @@
                 "type": "audio/mpeg",
                 "url": "https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&p=WB1069-RFI-FR-20090914&l3=Burundi%3A%20Pierre%20Buyoya%20entre%20violences%20ethniques%20et%20ouverture%20d%C3%A9mocratique%20%283%264%29&l4=WBMZ106636-RFI-FR-20211123&media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmagazines%2Fr263%2Farchives_d_afrique_20211211.mp3"
             },
+            "entities": [
+                "Dans",
+                "Burundi",
+                "14",
+                "15",
+                "Pierre Buyoya",
+                "Rwanda",
+                "Hutus",
+                "1988",
+                "Tutsi"
+            ],
             "link": "https://www.rfi.fr/fr/podcasts/archives-d-afrique/20211210-burundi-pierre-buyoya-entre-violences-ethniques-et-ouverture-d%C3%A9mocratique-3-4",
             "guid": "152f9910-4c73-11ec-ad64-005056a97652",
             "categories": [""],
@@ -434,6 +526,15 @@
                 "type": "audio/mpeg",
                 "url": "https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&p=WB1069-RFI-FR-20090914&l3=Au%20Burundi%2C%20l%E2%80%99ascension%20de%20Pierre%20Buyoya%20%281%262%29&l4=WBMZ106619-RFI-FR-20211123&media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmagazines%2Fr263%2Farchives_d_afrique_20211204.mp3"
             },
+            "entities": [
+                "1987",
+                "Burundi",
+                "3",
+                "48",
+                "Bujumbura",
+                "Pierre Buyoya",
+                "Jean-Baptiste Bagaza"
+            ],
             "link": "https://www.rfi.fr/fr/podcasts/archives-d-afrique/20211203-au-burundi-l-ascension-de-pierre-buyoya-1-2",
             "guid": "caf6fc24-4c6a-11ec-ae90-005056a97652",
             "categories": [""],
@@ -456,6 +557,15 @@
                 "type": "audio/mpeg",
                 "url": "https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&p=WB1069-RFI-FR-20090914&l3=Au%20Mali%2C%20la%20r%C3%A9habilitation%20de%20Modibo%20Ke%C3%AFta%20%287%268%29&l4=WBMZ106577-RFI-FR-20211123&media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmagazines%2Fr262%2Farchives_d_afrique_20211127.mp3"
             },
+            "entities": [
+                "Grand",
+                "Mali",
+                "7",
+                "19",
+                "Modibo Keïta",
+                "1968",
+                "Bamako"
+            ],
             "link": "https://www.rfi.fr/fr/podcasts/archives-d-afrique/20211126-au-mali-la-r%C3%A9habilitation-de-modibo-keita-7-8",
             "guid": "2aaa8b06-4c50-11ec-8085-005056a97652",
             "categories": [""],
@@ -478,6 +588,13 @@
                 "type": "audio/mpeg",
                 "url": "https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&p=WB1069-RFI-FR-20090914&l3=Mali%3A%20Modibo%20Ke%C3%AFta%20en%20qu%C3%AAte%20de%20l%E2%80%99unit%C3%A9%20africaine%20%285%266%29&l4=WBMZ104332-RFI-FR-20211116&media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmagazines%2Fr262%2Farchives_d_afrique_20211120.mp3"
             },
+            "entities": [
+                "Mali",
+                "Modibo Keïta",
+                "Côte d'Ivoire",
+                "Kwamé Nkrumah",
+                "Ghana"
+            ],
             "link": "https://www.rfi.fr/fr/podcasts/archives-d-afrique/20211119-mali-modibo-ke%C3%AFta-en-qu%C3%AAte-de-l-unit%C3%A9-africaine-5-6",
             "guid": "0ce669ba-46eb-11ec-a357-005056a97652",
             "categories": [""],
@@ -500,6 +617,14 @@
                 "type": "audio/mpeg",
                 "url": "https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&p=WB1069-RFI-FR-20090914&l3=Modibo%20Ke%C3%AFta%20et%20l%E2%80%99%C3%A9clatement%20de%20la%20f%C3%A9d%C3%A9ration%20du%20Mali%20%283%264%29&l4=WBMZ101702-RFI-FR-20211108&media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmagazines%2Fr262%2Farchives_d_afrique_20211113.mp3"
             },
+            "entities": [
+                "Mali",
+                "Bakary Kamian",
+                "Modibo Keïta",
+                "Côte d'Ivoire",
+                "Kwamé Nkrumah",
+                "Ghana"
+            ],
             "link": "https://www.rfi.fr/fr/podcasts/archives-d-afrique/20211112-modibo-ke%C3%AFta-et-l-%C3%A9clatement-de-la-f%C3%A9d%C3%A9ration-du-mali-3-4",
             "guid": "29490162-407e-11ec-a64f-005056a9d413",
             "categories": [""],
@@ -522,6 +647,7 @@
                 "type": "audio/mpeg",
                 "url": "https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&p=WB1069-RFI-FR-20090914&l3=Modibo%20Ke%C3%AFta%3A%20la%20naissance%20de%20la%20R%C3%A9publique%20soudanaise%20%281%262%29&l4=WBMZ98285-RFI-FR-20211028&media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmagazines%2Fr262%2Farchives_d_afrique_20211106.mp3"
             },
+            "entities": ["Premier", "leader", "Mali", "Modibo Keïta"],
             "link": "https://www.rfi.fr/fr/podcasts/archives-d-afrique/20211105-modibo-ke%C3%AFta-la-naissance-de-la-r%C3%A9publique-soudanaise-1-2",
             "guid": "0f065770-37fd-11ec-98c3-005056bf762b",
             "categories": [""],
@@ -544,6 +670,7 @@
                 "type": "audio/mpeg",
                 "url": "https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&p=WB1069-RFI-FR-20090914&l3=Liberia%3A%20la%20descente%20aux%20enfers%20de%20Charles%20Taylor%20%287%268%29&l4=WBMZ95162-RFI-FR-20211018&media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmagazines%2Fr261%2Farchives_d_afrique_20211030.mp3"
             },
+            "entities": ["Liberia", "Charles Taylor", "La", "Sierra Leone"],
             "link": "https://www.rfi.fr/fr/podcasts/archives-d-afrique/20211029-liberia-la-descente-aux-enfers-de-charles-taylor-7-8",
             "guid": "27841dfc-3017-11ec-bfaf-005056a9d413",
             "categories": [""],

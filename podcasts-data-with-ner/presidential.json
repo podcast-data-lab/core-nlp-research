@@ -59,6 +59,16 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20220221/6213a2b152faff0008f7ead8/6213a2b752faff0011349a76_1351620000001-300040_t_1645454010380_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=6213a2b152faff0008f7ead8"
             },
+            "entities": [
+                "teacher",
+                "Clint Smith",
+                "author",
+                "today",
+                "Julian Zelizer",
+                "Barbara Perry",
+                "Michael Martirone",
+                "AP"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/bonus--happy-presidents-day-or--not-/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "6213a2b152faff0008f7ead8",
@@ -82,6 +92,14 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20201112/5fa77a47cff47e0008c6f1f0/t_1605191897508_name_t_1605191308511_name_5fa77a47c9e77c000722377b_1351620000001_300040_t_1604811341459_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=5fa77a47cff47e0008c6f1f0"
             },
+            "entities": [
+                "American",
+                "Four years later",
+                "Joe Biden",
+                "New Yorker",
+                "White House",
+                "Evan Osnos"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/joe-biden-triumph-tragedy-and-the-fate-of-the-center/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "5fa77a47cff47e0008c6f1f0",
@@ -105,6 +123,15 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20201022/5f920190cff47e0007b6b553/t_1603404482821_name_t_1603403927037_name_Carlos_v4.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=5f920190cff47e0007b6b553"
             },
+            "entities": [
+                "critic",
+                "American",
+                "Carlos Lozada",
+                "today",
+                "150",
+                "he",
+                "Trump"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/bonus--what-books-about-trump-say-about-america/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "5f920190cff47e0007b6b553",
@@ -128,6 +155,15 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20200923/5f6bb61a46e0fb00073b899b/t_1600894795801_name_t_1600894101337_name_Pandemic_Propaganda_Presidency.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=5f6bb61a46e0fb00073b899b"
             },
+            "entities": [
+                "influenza",
+                "President",
+                "675,000",
+                "Woodrow Wilson",
+                "Americans",
+                "1918",
+                "patriotism"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/pandemic-propaganda-and-the-presidency/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "5f6bb61a46e0fb00073b899b",
@@ -151,6 +187,32 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20200807/5f2dcab74cedfd000779c773/5f2dcbcbc9e77c000727b0aa_1351620000001-300040_t_1596836814687_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=5f2dcab74cedfd000779c773"
             },
+            "entities": [
+                "44",
+                "vice president",
+                "Pulitzer Prize-winning",
+                "George Washington",
+                "American",
+                "Mondale",
+                "Democratic",
+                "Geraldine Ferraro",
+                "historian",
+                "White House",
+                "Joel Goldstein",
+                "press secretary",
+                "Washington Post",
+                "journalist",
+                "she",
+                "candidate",
+                "1984",
+                "Walter Mondale",
+                "future",
+                "Associated Press",
+                "Maxine Isaacs",
+                "Lillian Cunningham",
+                "first",
+                "president"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/when-a-vp-pick-changes-history/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "5f2dcab74cedfd000779c773",
@@ -174,6 +236,31 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20200629/5eecf201c9e77c0007e28af6/5efa31cec9e77c00073bf7f7_1351620000001-300040_t_1593455057529_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=5eecf201c9e77c0007e28af6"
             },
+            "entities": [
+                "44",
+                "African American Studies Department",
+                "Pulitzer Prize-winning",
+                "George Washington",
+                "singer",
+                "American",
+                "author",
+                "Americans",
+                "Temple University",
+                "Abraham Lincoln",
+                "Washington Post",
+                "journalist",
+                "she",
+                "She",
+                "Philip Kennicott",
+                "Marian Anderson",
+                "critic",
+                "Doris Kearns Goodwin",
+                "Molefi Kete Asante",
+                "Lincoln Memorial",
+                "1939",
+                "Lillian Cunningham",
+                "president"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/binding-up-the-nations-wounds/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "5eecf201c9e77c0007e28af6",
@@ -197,6 +284,16 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20200306/5e626d4a46e0fb00082574ba/5e626e5446e0fb00099ea6cb_1351620000001-300040_t_1583509078959_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=5e626d4a46e0fb00082574ba"
             },
+            "entities": [
+                "Donald Trump",
+                "Four years",
+                "host",
+                "Julian Zelizer",
+                "Alexis Coe",
+                "Lillian Cunningham",
+                "Drew Gilpin Faust",
+                "Boston"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/bonus-unprecedented-presidents-live-from-wbur-cityspace/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "5e626d4a46e0fb00082574ba",
@@ -220,6 +317,15 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181015/5822f32ae4b0d2a060fd34e0/5bc4a5d3e4b0a7b220f6cded_1351620000001-300040_t_1539614169043_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=5822f32ae4b0d2a060fd34e0"
             },
+            "entities": [
+                "Washington Post",
+                "journalist",
+                "Michelle Krowl",
+                "American",
+                "Julie Miller",
+                "Library of Congress",
+                "Dan Balz"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/donald-trump-division-and-union/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "5822f32ae4b0d2a060fd34e0",
@@ -243,6 +349,14 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181015/5816747ae4b0d2a060fd3458/5bc4a738e4b06c96e32f0a9e_1351620000001-300040_t_1539614524998_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=5816747ae4b0d2a060fd3458"
             },
+            "entities": [
+                "strategist",
+                "Barack Obama",
+                "biographer",
+                "America",
+                "David Axelrod",
+                "David Maraniss"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/barack-obama-the-pursuit-of-identity/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "5816747ae4b0d2a060fd3458",
@@ -266,6 +380,18 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181015/580d3dade4b0d2a060fd33fd/5bc4a568e4b078f0fafdfbbd_1351620000001-300040_t_1539614060850_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=580d3dade4b0d2a060fd33fd"
             },
+            "entities": [
+                "journalist",
+                "George W. Bush",
+                "American",
+                "New York Times",
+                "Mark Updegrove",
+                "author",
+                "Days",
+                "Fire",
+                "historian",
+                "Peter Baker"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/george-w-bush-changing-course/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "580d3dade4b0d2a060fd33fd",
@@ -289,6 +415,16 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181015/58028d7fe4b0d2a060fd33b1/5bc4a611e4b0a7b220f6cdee_1351620000001-300040_t_1539614227623_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=58028d7fe4b0d2a060fd33b1"
             },
+            "entities": [
+                "his",
+                "Post",
+                "reporter",
+                "Jim Tankersley",
+                "David Maraniss",
+                "Clinton",
+                "Pulitzer Prize",
+                "Bill Clinton"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/bill-clinton-the-good-and-the-bad/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "58028d7fe4b0d2a060fd33b1",
@@ -312,6 +448,14 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181015/57fa52c6e4b0d2a060fd3317/5bc4a65fe4b0a7b220f6cdef_1351620000001-300040_t_1539614307199_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=57fa52c6e4b0d2a060fd3317"
             },
+            "entities": [
+                "President",
+                "his",
+                "Jeffrey Engel",
+                "Bush",
+                "conservatism",
+                "Jon Meacham"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/george-h-w-bush-restraint/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "57fa52c6e4b0d2a060fd3317",
@@ -335,6 +479,16 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181015/57f17861e4b0d2a060fd32ae/5bc4a68ce4b06c96e32f0a9a_1351620000001-300040_t_1539614352461_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=57f17861e4b0d2a060fd32ae"
             },
+            "entities": [
+                "Washington Post",
+                "President",
+                "Lou Cannon",
+                "Ronald Reagan",
+                "biographer",
+                "White House",
+                "correspondent",
+                "Reagan"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/ronald-reagan-myths-and-truths/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "57f17861e4b0d2a060fd32ae",
@@ -358,6 +512,19 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181015/57e7f807e4b0d2a060fd31c9/5bc4a6b9e4b06c96e32f0a9b_1351620000001-300040_t_1539614397409_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=57e7f807e4b0d2a060fd31c9"
             },
+            "entities": [
+                "Washington Post",
+                "Pat Caddell",
+                "Robert Costa",
+                "his",
+                "biographer",
+                "Jimmy Carter",
+                "theologian",
+                "reporter",
+                "White House",
+                "Carter",
+                "Randall Balmer"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/jimmy-carter-keeping-the-faith/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "57e7f807e4b0d2a060fd31c9",
@@ -381,6 +548,19 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181015/57df071de4b0d41f2b3a0d79/5bc4a6efe4b06c96e32f0a9c_1351620000001-300040_t_1539614451659_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=57df071de4b0d41f2b3a0d79"
             },
+            "entities": [
+                "Congress",
+                "professor",
+                "his",
+                "Steven Ford",
+                "Daniel Sargent",
+                "David Hume Kennerly",
+                "Berkeley",
+                "White House",
+                "photographer",
+                "Gerald Ford",
+                "president"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/gerald-ford-its-personal/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "57df071de4b0d41f2b3a0d79",
@@ -404,6 +584,16 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181015/57d5d2bae4b0dcfde8dfc018/5bc4a721e4b06c96e32f0a9d_1351620000001-300040_t_1539614501888_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=57d5d2bae4b0dcfde8dfc018"
             },
+            "entities": [
+                "Washington Post",
+                "current",
+                "Watergate",
+                "Richard Nixon",
+                "one",
+                "Bob Woodward",
+                "Marty Baron",
+                "executive editor"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/richard-nixon-looking-inward/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "57d5d2bae4b0dcfde8dfc018",
@@ -427,6 +617,15 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181015/57cc600ae4b0dcfde8dfbfaf/5bc4a754e4b078f0fafdfbfa_1351620000001-300040_t_1539614552133_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=57cc600ae4b0dcfde8dfbfaf"
             },
+            "entities": [
+                "Congress",
+                "Johnson",
+                "his",
+                "the 20th century",
+                "Mark Updegrove",
+                "director",
+                "LBJ Presidential Library"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/lyndon-b-johnson-power/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "57cc600ae4b0dcfde8dfbfaf",
@@ -450,6 +649,16 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181015/57c37074e4b0dcfde8dfbf3d/5bc4a788e4b06c96e32f0a9f_1351620000001-300040_t_1539614603654_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=57c37074e4b0dcfde8dfbf3d"
             },
+            "entities": [
+                "Robert Dallek",
+                "his",
+                "this week",
+                "Fredrik Logevall",
+                "Michael Beschloss",
+                "assassination",
+                "Kennedy",
+                "JFK"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/john-f-kennedy-we-are-all-mortal/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "57c37074e4b0dcfde8dfbf3d",
@@ -473,6 +682,15 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181015/57b8ebd1e4b0dcfde8dfbee2/5bc4a7bee4b0a7b220f6ce10_1351620000001-300040_t_1539614657633_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=57b8ebd1e4b0dcfde8dfbee2"
             },
+            "entities": [
+                "President",
+                "Stephen Kinzer",
+                "Will Hitchcock",
+                "his",
+                "author",
+                "historian",
+                "Eisenhower"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/dwight-d-eisenhower-covert-action/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "57b8ebd1e4b0dcfde8dfbee2",
@@ -496,6 +714,17 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181015/57b13d6ee4b0dcfde8dfbeae/5bc4a7e7e4b0a7b220f6ce11_1351620000001-300040_t_1539614699478_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=57b13d6ee4b0dcfde8dfbeae"
             },
+            "entities": [
+                "Washington Post",
+                "President",
+                "his",
+                "manager",
+                "David McCullough",
+                "Truman",
+                "White House",
+                "Biographer",
+                "Scott Clement"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/harry-s-truman-trying-to-make-the-right-call/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "57b13d6ee4b0dcfde8dfbeae",
@@ -519,6 +748,19 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181015/57a7d1ece4b0dcfde8dfbe76/5bc4a81ae4b06c96e32f0aaa_1351620000001-300040_t_1539614752146_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=57a7d1ece4b0dcfde8dfbe76"
             },
+            "entities": [
+                "Allida Black",
+                "editor",
+                "Sarada Peri",
+                "Eleanor Roosevelt",
+                "FDR Library",
+                "his",
+                "Paul Sparrow",
+                "lady",
+                "White House",
+                "Franklin Roosevelt",
+                "first"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/franklin-d-roosevelt-through-eleanors-eyes/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "57a7d1ece4b0dcfde8dfbe76",
@@ -542,6 +784,14 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181015/579e55b6e4b0dcfde8dfbdf6/5bc4a846e4b078f0fafdfc19_1351620000001-300040_t_1539614794012_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=579e55b6e4b0dcfde8dfbdf6"
             },
+            "entities": [
+                "his",
+                "Charles Rappleye",
+                "White House",
+                "Herbert Hoover",
+                "Biographer",
+                "disaster"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/herbert-hoover-dealing-with-disaster/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "579e55b6e4b0dcfde8dfbdf6",
@@ -565,6 +815,18 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181015/57958d97e4b0dcfde8dfbdb8/5bc4a86ae4b078f0fafdfc1a_1351620000001-300040_t_1539614829219_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=57958d97e4b0dcfde8dfbdb8"
             },
+            "entities": [
+                "Washington Post",
+                "biographer",
+                "political scientist",
+                "Michael Dukakis",
+                "Amity Shlaes",
+                "politician",
+                "Robert Gilbert",
+                "reporter",
+                "Calvin Coolidge",
+                "Steven Pearlstein"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/calvin-coolidge-a-tale-of-two-coolidges/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "57958d97e4b0dcfde8dfbdb8",
@@ -588,6 +850,7 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181015/578c5408e4b0dcfde8dfbd8a/5bc4a89ae4b078f0fafdfc1b_1351620000001-300040_t_1539614877512_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=578c5408e4b0dcfde8dfbd8a"
             },
+            "entities": ["Nicole Hemmer", "Warren G. Harding", "Historian"],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/warren-g-harding-love-and-scandal/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "578c5408e4b0dcfde8dfbd8a",
@@ -611,6 +874,17 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181015/5783195ce4b0dcfde8dfbd7c/5bc4a8c7e4b0a7b220f6ce3a_1351620000001-300040_t_1539614922439_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=5783195ce4b0dcfde8dfbd7c"
             },
+            "entities": [
+                "Woodrow Wilson",
+                "Robert Enholm",
+                "John Milton Cooper",
+                "Wilson",
+                "historian",
+                "House",
+                "Racism",
+                "executive director",
+                "women's suffrage"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/woodrow-wilson-a-complicated-legacy/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "5783195ce4b0dcfde8dfbd7c",
@@ -634,6 +908,18 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181015/57761069e4b0dcfde8dfbd6e/5bc4a8eee4b078f0fafdfc1c_1351620000001-300040_t_1539614961650_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=57761069e4b0dcfde8dfbd6e"
             },
+            "entities": [
+                "President",
+                "Michelle Krowl",
+                "Doris Kearns Goodwin",
+                "author",
+                "Supreme Court",
+                "historian",
+                "chief justice",
+                "reporter",
+                "Taft",
+                "Robert Barnes"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/william-howard-taft-this-chief-not-that-chief/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "57761069e4b0dcfde8dfbd6e",
@@ -657,6 +943,15 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181015/576ed933e4b0dcfde8dfbd60/5bc4a91ee4b0a7b220f6ce3b_1351620000001-300040_t_1539615009923_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=576ed933e4b0dcfde8dfbd60"
             },
+            "entities": [
+                "Michelle Krowl",
+                "American",
+                "David McCullough",
+                "historian",
+                "Biographer",
+                "Teddy Roosevelt",
+                "president"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/theodore-roosevelt-exuberance/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "576ed933e4b0dcfde8dfbd60",
@@ -680,6 +975,19 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181015/576732d9e4b0dcfde8dfbd44/5bc4a949e4b078f0fafdfc1d_1351620000001-300040_t_1539615054170_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=576732d9e4b0dcfde8dfbd44"
             },
+            "entities": [
+                "strategist",
+                "Washington Post",
+                "1896",
+                "his",
+                "Carol Leonnig",
+                "Karl Rove",
+                "Secret Service",
+                "assassination",
+                "Republican",
+                "William McKinley",
+                "reporter"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/william-mckinley-the-modern-campaign/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "576732d9e4b0dcfde8dfbd44",
@@ -703,6 +1011,15 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181024/57577a32e4b0dcfde8dfbd25/5bd07a79e4b0a7b220f6dae1_1351620000001-300040_t_1540389500764_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=57577a32e4b0dcfde8dfbd25"
             },
+            "entities": [
+                "13 million",
+                "U.S.",
+                "his",
+                "Benjamin Harrison",
+                "He",
+                "first",
+                "president"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/benjamin-harrison-the-president-as-conservationist/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "57577a32e4b0dcfde8dfbd25",
@@ -726,6 +1043,15 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181024/575455bae4b0dcfde8dfbd05/5bd07bf4e4b06c96e32f1772_1351620000001-300040_t_1540389880213_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=575455bae4b0dcfde8dfbd05"
             },
+            "entities": [
+                "his",
+                "Michelle Krowl",
+                "Roman Mars",
+                "cancer surgery",
+                "Matthew Algeo",
+                "Cleveland",
+                "he"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/grover-cleveland-tell-the-truth/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "575455bae4b0dcfde8dfbd05",
@@ -749,6 +1075,16 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181025/5748fa0fe4b0dcfde8dfbce1/5bd218b3e4b0a7b220f6dca1_1351620000001-300040_t_1540495543173_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=5748fa0fe4b0dcfde8dfbce1"
             },
+            "entities": [
+                "Scott Greenberger",
+                "editor",
+                "Arthur",
+                "David Fahrenthold",
+                "one",
+                "reporter",
+                "Stateline",
+                "president"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/chester-a-arthur-redemption/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "5748fa0fe4b0dcfde8dfbce1",
@@ -772,6 +1108,16 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181025/5742528ee4b0dcfde8dfbc8f/5bd21602e4b0a7b220f6dc9f_1351620000001-300040_t_1540494853572_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=5742528ee4b0dcfde8dfbc8f"
             },
+            "entities": [
+                "Congress",
+                "President",
+                "Michelle Krowl",
+                "Garfield",
+                "author",
+                "100 days",
+                "Candice Millard",
+                "train"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/james-a-garfield-shot-down/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "5742528ee4b0dcfde8dfbc8f",
@@ -795,6 +1141,7 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181023/5738db95e4b0dcfde8dfbc81/5bcf76a3e4b06c96e32f1675_1351620000001-300040_t_1540322983222_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=5738db95e4b0dcfde8dfbc81"
             },
+            "entities": ["Rutherford B. Hayes", "he", "president"],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/rutherford-b-hayes-the-most-contested-election/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "5738db95e4b0dcfde8dfbc81",
@@ -818,6 +1165,15 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181025/572c0300e4b0dcfde8dfbc37/5bd21b62e4b078f0fafe0a58_1351620000001-300040_t_1540496230513_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=572c0300e4b0dcfde8dfbc37"
             },
+            "entities": [
+                "Washington Post",
+                "critic",
+                "biographer",
+                "Carlos Lozada",
+                "Ulysses S. Grant",
+                "David Maraniss",
+                "president"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/ulysses-s-grant-lover-fighter-writer/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "572c0300e4b0dcfde8dfbc37",
@@ -841,6 +1197,16 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181019/57269c30e4b0dcfde8dfbc1c/5bca2030e4b0a7b220f6d57c_1351620000001-300040_t_1539973171880_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=57269c30e4b0dcfde8dfbc1c"
             },
+            "entities": [
+                "Congress",
+                "Civil",
+                "Michelle Krowl",
+                "America",
+                "Andrew Johnson",
+                "War",
+                "he",
+                "president"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/andrew-johnson-stitching-up-a-torn-country/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "57269c30e4b0dcfde8dfbc1c",
@@ -864,6 +1230,15 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181019/571d2fd6e4b0dcfde8dfbbae/5bca2266e4b0a7b220f6d588_1351620000001-300040_t_1539973740143_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=571d2fd6e4b0dcfde8dfbbae"
             },
+            "entities": [
+                "Michelle Krowl",
+                "his",
+                "Doris Kearns Goodwin",
+                "author",
+                "one",
+                "Lincoln",
+                "Library of Congress"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/abraham-lincoln-his-hand-and-his-pen/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "571d2fd6e4b0dcfde8dfbbae",
@@ -887,6 +1262,18 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181019/571424b0e4b043825c3d144d/5bca1e52e4b06c96e32f121a_1351620000001-300040_t_1539972694981_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=571424b0e4b043825c3d144d"
             },
+            "entities": [
+                "Washington Post",
+                "Jean Baker",
+                "America",
+                "James Buchanan",
+                "war",
+                "White House",
+                "Jim Tankersley",
+                "bachelor president",
+                "first",
+                "Jim Loewen"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/james-buchanan-the-bachelor-and-the-bloodshed/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "571424b0e4b043825c3d144d",
@@ -910,6 +1297,17 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181019/5706f9f4e4b0bb592ab6f850/5bca198ce4b078f0fafe0282_1351620000001-300040_t_1539971473753_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=5706f9f4e4b0bb592ab6f850"
             },
+            "entities": [
+                "Pulitzer Prize-winning",
+                "James McPherson",
+                "Edna Greene",
+                "biographer",
+                "historian",
+                "war",
+                "Medford",
+                "Franklin Pierce",
+                "he"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/franklin-pierce-rolling-off-the-tracks/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "5706f9f4e4b0bb592ab6f850",
@@ -933,6 +1331,15 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181019/5701491ae4b0bb592ab6f817/5bca1b62e4b0a7b220f6d563_1351620000001-300040_t_1539971941822_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=5701491ae4b0bb592ab6f817"
             },
+            "entities": [
+                "Washington Post",
+                "13th",
+                "James McPherson",
+                "Jean Baker",
+                "T. Rees Shapiro",
+                "reporter",
+                "Millard Fillmore"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/millard-fillmore-teaching-the-obscure-presidents/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "5701491ae4b0bb592ab6f817",
@@ -956,6 +1363,17 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181015/56f42cfee4b0d3987ebca9c6/5bc4aa8be4b06c96e32f0b14_1351620000001-300040_t_1539615375536_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=56f42cfee4b0d3987ebca9c6"
             },
+            "entities": [
+                "Washington Post",
+                "columnist",
+                "Catherine Clinton",
+                "his",
+                "Zachary Taylor",
+                "assassination",
+                "Dana Milbank",
+                "White House",
+                "Joseph Uscinski"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/zachary-taylor-war-heroes-and-conspiracy-theory/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "56f42cfee4b0d3987ebca9c6",
@@ -979,6 +1397,16 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181019/56eedffbe4b0d3987ebca9ab/5bca1918e4b06c96e32f120d_1351620000001-300040_t_1539971356047_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=56eedffbe4b0d3987ebca9ab"
             },
+            "entities": [
+                "Amy Greenberg",
+                "Giants",
+                "11th",
+                "his",
+                "singer",
+                "historian",
+                "John Linnell",
+                "president"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/james-k-polk-getting-it-done/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "56eedffbe4b0d3987ebca9ab",
@@ -1002,6 +1430,14 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181015/56e57f18e4b0d3987ebca97a/5bc4aabbe4b078f0fafdfc3f_1351620000001-300040_t_1539615423830_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=56e57f18e4b0d3987ebca97a"
             },
+            "entities": [
+                "Vice President",
+                "White House",
+                "Barbara Bair",
+                "Tyler",
+                "Joel Goldstein",
+                "he"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/john-tyler-ghosts-and-the-vice-presidency/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "56e57f18e4b0d3987ebca97a",
@@ -1025,6 +1461,16 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181017/56dc7946e4b0d3987ebca95b/5bc763f2e4b06c96e32f0e5c_1351620000001-300040_t_1539793912252_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=56dc7946e4b0d3987ebca95b"
             },
+            "entities": [
+                "Washington Post",
+                "columnist",
+                "Harrison",
+                "32 days",
+                "Alexandra Petri",
+                "Barbara Bair",
+                "Philip Mackowiak",
+                "him"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/william-henry-harrison-great-song-horrible-death/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "56dc7946e4b0d3987ebca95b",
@@ -1048,6 +1494,16 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181017/56d3c1dde4b0d3987ebca93b/5bc75d96e4b078f0fafdff30_1351620000001-300040_t_1539792283757_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=56d3c1dde4b0d3987ebca93b"
             },
+            "entities": [
+                "Martin Van Buren",
+                "Washington Post",
+                "Chris Cillizza",
+                "his",
+                "today",
+                "reporter",
+                "Barbara Bair",
+                "Mark Cheathem"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/martin-van-buren-the-story-of-our-two-party-system/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "56d3c1dde4b0d3987ebca93b",
@@ -1071,6 +1527,15 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181017/56ca394de4b0d3987ebca922/5bc75ba8e4b0a7b220f6d198_1351620000001-300040_t_1539791788952_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=56ca394de4b0d3987ebca922"
             },
+            "entities": [
+                "Steve Inskeep",
+                "Andrew Jackson",
+                "his",
+                "Barbara Bair",
+                "Native Americans",
+                "Jon Meacham",
+                "democracy"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/andrew-jackson-the-violence-the-fight/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "56ca394de4b0d3987ebca922",
@@ -1094,6 +1559,7 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181017/56c0ead3e4b03ea8921622df/5bc759e1e4b078f0fafdff2e_1351620000001-300040_t_1539791333260_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=56c0ead3e4b03ea8921622df"
             },
+            "entities": ["president"],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/john-quincy-adams-the-trait-that-broke-a-presidency/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "56c0ead3e4b03ea8921622df",
@@ -1117,6 +1583,7 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181016/56b29babe4b0bd329848de3d/5bc65f83e4b0a7b220f6d070_1351620000001-300040_t_1539727238860_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=56b29babe4b0bd329848de3d"
             },
+            "entities": ["fifth", "present", "president"],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/james-monroe-the-forrest-gump-of-presidents/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "56b29babe4b0bd329848de3d",
@@ -1140,6 +1607,14 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181016/56ae99f3e4b0bd329848de24/5bc65d33e4b078f0fafdfe34_1351620000001-300040_t_1539726646217_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=56ae99f3e4b0bd329848de24"
             },
+            "entities": [
+                "his",
+                "James Madison",
+                "White House",
+                "he",
+                "first",
+                "president"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/james-madison-burning-down-the-house/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "56ae99f3e4b0bd329848de24",
@@ -1163,6 +1638,12 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181016/56a57343e4b0bd329848ddef/5bc65b0de4b078f0fafdfe27_1351620000001-300040_t_1539726100906_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=56a57343e4b0bd329848ddef"
             },
+            "entities": [
+                "third",
+                "Jon Meacham",
+                "Annette Gordon-Reed",
+                "president"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/thomas-jefferson-on-food-and-freedom/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "56a57343e4b0bd329848ddef",
@@ -1186,6 +1667,14 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181016/569c3b7ae4b0bd329848dd71/5bc658a7e4b078f0fafdfe04_1351620000001-300040_t_1539725482285_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=569c3b7ae4b0bd329848dd71"
             },
+            "entities": [
+                "John Adams",
+                "his",
+                "biographer",
+                "David McCullough",
+                "Washington, DC",
+                "second"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/john-adams-the-case-of-the-missing-monument/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "569c3b7ae4b0bd329848dd71",
@@ -1209,6 +1698,13 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20181016/5692c964e4b0bd329848dd2b/5bc65732e4b078f0fafdfdee_1351620000001-300040_t_1539725109483_44100_128_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=5692c964e4b0bd329848dd2b"
             },
+            "entities": [
+                "Joel Achenbach",
+                "Julie Miller",
+                "Bob Woodward",
+                "first",
+                "president"
+            ],
             "dc:creator": "The Washington Post",
             "link": "https://www.washingtonpost.com/podcasts/presidential/george-washington-the-man-the-myth-the-legend/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "5692c964e4b0bd329848dd2b",
@@ -1232,6 +1728,7 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5682a6c9e4b0d623714f2a3b/20160105/568bdb96e4b0338cb9141ac1/568bdb9ae4b023aebdfbc019_1351620000001-300030_t_1452006309646_44100_160_2.mp3?awCollectionId=5682a6c9e4b0d623714f2a3b&awEpisodeId=568bdb96e4b0338cb9141ac1"
             },
+            "entities": ["Washington Post", "host", "Lillian Cunningham"],
             "dc:creator": "Lillian Cunningham",
             "link": "https://www.washingtonpost.com/podcasts/presidential/introduction-welcome-to-presidential/?tid=aud_rsslink&utm_source=podcasts&utm_medium=referral&utm_campaign=presidential",
             "guid": "568bdb96e4b0338cb9141ac1",

@@ -40,6 +40,11 @@
     "palette": ["3333D6", "EEDFDD", "F52684", "43FC12", "F48019", "C081CB"],
     "items": [
         {
+            "link": "https://beta.prx.org/stories/255739",
+            "title": "#47 Saying Goodbye",
+            "pubDate": "Wed, 16 Aug 2017 13:02:57 -0000",
+            "content": "\r\n        <p>When you\u2019re saying goodbye to a big part of your life, where do you begin?  </p>\r\n      ",
+            "contentSnippet": "When you\u2019re saying goodbye to a big part of your life, where do you begin?",
             "itunes": {
                 "duration": "19:17",
                 "summary": "\r\n        When you\u2019re saying goodbye to a big part of your life, where do you begin? \r\n      ",
@@ -52,18 +57,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/48b29617-849f-4c1d-b9be-d9cd412d700a/47-saying-goodbye.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "When you\u2019re saying goodbye to a big part of your life, where do you begin?",
-            "link": "https://beta.prx.org/stories/255739",
             "guid": "http://millennial.prx.org/?p=254",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2017-08-16T13:02:57.000Z",
-            "content:encoded": "\r\n        <p>When you\u2019re saying goodbye to a big part of your life, where do you begin?  </p>\r\n      ",
-            "title": "#47 Saying Goodbye",
-            "pubDate": "Wed, 16 Aug 2017 13:02:57 -0000",
-            "content": "\r\n        <p>When you\u2019re saying goodbye to a big part of your life, where do you begin?  </p>\r\n      ",
-            "contentSnippet": "When you\u2019re saying goodbye to a big part of your life, where do you begin?"
+            "content:encoded": "\r\n        <p>When you\u2019re saying goodbye to a big part of your life, where do you begin?  </p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255740",
+            "title": "#46 Sharp Turns",
+            "pubDate": "Wed, 02 Aug 2017 06:50:08 -0000",
+            "content": "\r\n        <p>When life puts roadblocks in front of your dreams how do you recover?</p>\r\n      ",
+            "contentSnippet": "When life puts roadblocks in front of your dreams how do you recover?",
             "itunes": {
                 "duration": "20:07",
                 "summary": "\r\n        When life puts roadblocks in front of your dreams how do you recover?\r\n      ",
@@ -76,18 +82,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/e3d32748-6487-4235-a98c-40db7f825e5b/46-sharp-turns.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "When life puts roadblocks in front of your dreams how do you recover?",
-            "link": "https://beta.prx.org/stories/255740",
             "guid": "http://millennial.prx.org/?p=250",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2017-08-02T06:50:08.000Z",
-            "content:encoded": "\r\n        <p>When life puts roadblocks in front of your dreams how do you recover?</p>\r\n      ",
-            "title": "#46 Sharp Turns",
-            "pubDate": "Wed, 02 Aug 2017 06:50:08 -0000",
-            "content": "\r\n        <p>When life puts roadblocks in front of your dreams how do you recover?</p>\r\n      ",
-            "contentSnippet": "When life puts roadblocks in front of your dreams how do you recover?"
+            "content:encoded": "\r\n        <p>When life puts roadblocks in front of your dreams how do you recover?</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255741",
+            "title": "#45 In Cases of Unusual Dependence",
+            "pubDate": "Wed, 19 Jul 2017 20:40:20 -0000",
+            "content": "\r\n        <p><strong>On today\u2019s episode, something we\u2019ve never done before: a round table. How do you define yourself as an individual while also defining yourself as part of a couple?</strong></p>\r\n      ",
+            "contentSnippet": "On today\u2019s episode, something we\u2019ve never done before: a round table. How do you define yourself as an individual while also defining yourself as part of a couple?",
             "itunes": {
                 "duration": "14:57",
                 "summary": "\r\n        On today\u2019s episode, something we\u2019ve never done before: a round table. How do you define yourself as an individual while also defining yourself as part of a couple?\r\n      ",
@@ -100,18 +107,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/f98e8006-8839-482a-8521-88c92f41227b/45-in-cases-of-unusual-dependence.mp3"
             },
+            "entities": ["today"],
             "content:encodedSnippet": "On today\u2019s episode, something we\u2019ve never done before: a round table. How do you define yourself as an individual while also defining yourself as part of a couple?",
-            "link": "https://beta.prx.org/stories/255741",
             "guid": "http://millennial.prx.org/?p=246",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2017-07-19T20:40:20.000Z",
-            "content:encoded": "\r\n        <p><strong>On today\u2019s episode, something we\u2019ve never done before: a round table. How do you define yourself as an individual while also defining yourself as part of a couple?</strong></p>\r\n      ",
-            "title": "#45 In Cases of Unusual Dependence",
-            "pubDate": "Wed, 19 Jul 2017 20:40:20 -0000",
-            "content": "\r\n        <p><strong>On today\u2019s episode, something we\u2019ve never done before: a round table. How do you define yourself as an individual while also defining yourself as part of a couple?</strong></p>\r\n      ",
-            "contentSnippet": "On today\u2019s episode, something we\u2019ve never done before: a round table. How do you define yourself as an individual while also defining yourself as part of a couple?"
+            "content:encoded": "\r\n        <p><strong>On today\u2019s episode, something we\u2019ve never done before: a round table. How do you define yourself as an individual while also defining yourself as part of a couple?</strong></p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255742",
+            "title": "#44 Chuck & Choice",
+            "pubDate": "Fri, 07 Jul 2017 22:00:01 -0000",
+            "content": "\r\n        <p>It\u2019s easy to feel overwhelmed when it comes to making decisions. I sit down with Chuck, my boyfriend\u2019s father and a 70-year old swift decision maker, to understand how he approaches big decisions.</p>\r\n      ",
+            "contentSnippet": "It\u2019s easy to feel overwhelmed when it comes to making decisions. I sit down with Chuck, my boyfriend\u2019s father and a 70-year old swift decision maker, to understand how he approaches big decisions.",
             "itunes": {
                 "duration": "14:25",
                 "summary": "\r\n        It\u2019s easy to feel overwhelmed when it comes to making decisions. I sit down with Chuck, my boyfriend\u2019s father and a 70-year old swift decision maker, to understand how he approaches big decisions.\r\n      ",
@@ -124,18 +132,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/9ea91557-fb61-4b21-b76a-3f9fb34ded62/44-chuck-and-choice.mp3"
             },
+            "entities": ["70-year old", "Chuck", "he"],
             "content:encodedSnippet": "It\u2019s easy to feel overwhelmed when it comes to making decisions. I sit down with Chuck, my boyfriend\u2019s father and a 70-year old swift decision maker, to understand how he approaches big decisions.",
-            "link": "https://beta.prx.org/stories/255742",
             "guid": "http://millennial.prx.org/?p=241",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2017-07-07T22:00:01.000Z",
-            "content:encoded": "\r\n        <p>It\u2019s easy to feel overwhelmed when it comes to making decisions. I sit down with Chuck, my boyfriend\u2019s father and a 70-year old swift decision maker, to understand how he approaches big decisions.</p>\r\n      ",
-            "title": "#44 Chuck & Choice",
-            "pubDate": "Fri, 07 Jul 2017 22:00:01 -0000",
-            "content": "\r\n        <p>It\u2019s easy to feel overwhelmed when it comes to making decisions. I sit down with Chuck, my boyfriend\u2019s father and a 70-year old swift decision maker, to understand how he approaches big decisions.</p>\r\n      ",
-            "contentSnippet": "It\u2019s easy to feel overwhelmed when it comes to making decisions. I sit down with Chuck, my boyfriend\u2019s father and a 70-year old swift decision maker, to understand how he approaches big decisions."
+            "content:encoded": "\r\n        <p>It\u2019s easy to feel overwhelmed when it comes to making decisions. I sit down with Chuck, my boyfriend\u2019s father and a 70-year old swift decision maker, to understand how he approaches big decisions.</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255743",
+            "title": "#13 Long Distance Love Story (Rerun)",
+            "pubDate": "Wed, 21 Jun 2017 06:33:25 -0000",
+            "content": "\r\n        <p>To celebrate Pride month, we\u2019re replaying an episode about two young women, a 10-year relationship, and 4,500 miles between them.</p>\r\n      ",
+            "contentSnippet": "To celebrate Pride month, we\u2019re replaying an episode about two young women, a 10-year relationship, and 4,500 miles between them.",
             "itunes": {
                 "duration": "26:50",
                 "summary": "\r\n        To celebrate Pride month, we're replaying an episode about two young women, a 10-year relationship, and 4,500 miles between them.\r\n      ",
@@ -148,18 +157,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/e0eb008a-6aca-4d48-9dae-9853bd08ee8f/13-long-distance-love-story-rerun.mp3"
             },
+            "entities": ["month", "10-year", "4,500", "two"],
             "content:encodedSnippet": "To celebrate Pride month, we\u2019re replaying an episode about two young women, a 10-year relationship, and 4,500 miles between them.",
-            "link": "https://beta.prx.org/stories/255743",
             "guid": "http://millennial.prx.org/?p=234",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2017-06-21T06:33:25.000Z",
-            "content:encoded": "\r\n        <p>To celebrate Pride month, we\u2019re replaying an episode about two young women, a 10-year relationship, and 4,500 miles between them.</p>\r\n      ",
-            "title": "#13 Long Distance Love Story (Rerun)",
-            "pubDate": "Wed, 21 Jun 2017 06:33:25 -0000",
-            "content": "\r\n        <p>To celebrate Pride month, we\u2019re replaying an episode about two young women, a 10-year relationship, and 4,500 miles between them.</p>\r\n      ",
-            "contentSnippet": "To celebrate Pride month, we\u2019re replaying an episode about two young women, a 10-year relationship, and 4,500 miles between them."
+            "content:encoded": "\r\n        <p>To celebrate Pride month, we\u2019re replaying an episode about two young women, a 10-year relationship, and 4,500 miles between them.</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255744",
+            "title": "#43 \u201cUnrehabilitatable\u201d",
+            "pubDate": "Wed, 07 Jun 2017 06:53:06 -0000",
+            "content": "\r\n        <p>What happens when a judge brands you \u201cunrehabilitatable\u201d at age 28? </p>\n\n<p>This month, each of the Radiotopia shows is interpreting the theme Doing Time, to welcome the new member of the collective, Ear Hustle. Visit <a href=\"http://radiotopia.fm\" rel=\"nofollow\" target=\"_blank\">http://radiotopia.fm</a> to hear all the Doing Time episodes, and to subscribe to Ear Hustle \u2013 you\u2019ll hear a preview of it at the end of this episode.</p>\r\n      ",
+            "contentSnippet": "What happens when a judge brands you \u201cunrehabilitatable\u201d at age 28? \nThis month, each of the Radiotopia shows is interpreting the theme Doing Time, to welcome the new member of the collective, Ear Hustle. Visit http://radiotopia.fm to hear all the Doing Time episodes, and to subscribe to Ear Hustle \u2013 you\u2019ll hear a preview of it at the end of this episode.",
             "itunes": {
                 "duration": "15:26",
                 "summary": "\r\n        What happens when a judge brands you \u201cunrehabilitatable\u201d at age 28?\r\n      ",
@@ -172,18 +182,25 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/7c936b5d-f089-44a7-85e0-598c46f92278/43-Unrehabilitatable.mp3"
             },
+            "entities": [
+                "Doing Time",
+                "This month",
+                "http://radiotopia.fm",
+                "28",
+                "judge"
+            ],
             "content:encodedSnippet": "What happens when a judge brands you \u201cunrehabilitatable\u201d at age 28? \nThis month, each of the Radiotopia shows is interpreting the theme Doing Time, to welcome the new member of the collective, Ear Hustle. Visit http://radiotopia.fm to hear all the Doing Time episodes, and to subscribe to Ear Hustle \u2013 you\u2019ll hear a preview of it at the end of this episode.",
-            "link": "https://beta.prx.org/stories/255744",
             "guid": "http://millennial.prx.org/?p=229",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2017-06-07T06:53:06.000Z",
-            "content:encoded": "\r\n        <p>What happens when a judge brands you \u201cunrehabilitatable\u201d at age 28? </p>\n\n<p>This month, each of the Radiotopia shows is interpreting the theme Doing Time, to welcome the new member of the collective, Ear Hustle. Visit <a href=\"http://radiotopia.fm\" rel=\"nofollow\" target=\"_blank\">http://radiotopia.fm</a> to hear all the Doing Time episodes, and to subscribe to Ear Hustle \u2013 you\u2019ll hear a preview of it at the end of this episode.</p>\r\n      ",
-            "title": "#43 \u201cUnrehabilitatable\u201d",
-            "pubDate": "Wed, 07 Jun 2017 06:53:06 -0000",
-            "content": "\r\n        <p>What happens when a judge brands you \u201cunrehabilitatable\u201d at age 28? </p>\n\n<p>This month, each of the Radiotopia shows is interpreting the theme Doing Time, to welcome the new member of the collective, Ear Hustle. Visit <a href=\"http://radiotopia.fm\" rel=\"nofollow\" target=\"_blank\">http://radiotopia.fm</a> to hear all the Doing Time episodes, and to subscribe to Ear Hustle \u2013 you\u2019ll hear a preview of it at the end of this episode.</p>\r\n      ",
-            "contentSnippet": "What happens when a judge brands you \u201cunrehabilitatable\u201d at age 28? \nThis month, each of the Radiotopia shows is interpreting the theme Doing Time, to welcome the new member of the collective, Ear Hustle. Visit http://radiotopia.fm to hear all the Doing Time episodes, and to subscribe to Ear Hustle \u2013 you\u2019ll hear a preview of it at the end of this episode."
+            "content:encoded": "\r\n        <p>What happens when a judge brands you \u201cunrehabilitatable\u201d at age 28? </p>\n\n<p>This month, each of the Radiotopia shows is interpreting the theme Doing Time, to welcome the new member of the collective, Ear Hustle. Visit <a href=\"http://radiotopia.fm\" rel=\"nofollow\" target=\"_blank\">http://radiotopia.fm</a> to hear all the Doing Time episodes, and to subscribe to Ear Hustle \u2013 you\u2019ll hear a preview of it at the end of this episode.</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255745",
+            "title": "#42 Growing Pains",
+            "pubDate": "Wed, 17 May 2017 10:48:28 -0000",
+            "content": "\r\n        <p>I love Maine, but sometimes I feel isolated here. Could my creative problems be solved if I moved to New York City? </p>\r\n      ",
+            "contentSnippet": "I love Maine, but sometimes I feel isolated here. Could my creative problems be solved if I moved to New York City?",
             "itunes": {
                 "duration": "17:28",
                 "summary": "\r\n        I love Maine, but sometimes I feel isolated here. Could my creative problems be solved if I moved to New York City?\r\n      ",
@@ -196,18 +213,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/12524a64-4e59-43e9-bc1a-8f22163d7dd3/42-Growing-Pains.mp3"
             },
+            "entities": ["New York City", "Maine"],
             "content:encodedSnippet": "I love Maine, but sometimes I feel isolated here. Could my creative problems be solved if I moved to New York City?",
-            "link": "https://beta.prx.org/stories/255745",
             "guid": "http://millennial.prx.org/?p=221",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2017-05-17T10:48:28.000Z",
-            "content:encoded": "\r\n        <p>I love Maine, but sometimes I feel isolated here. Could my creative problems be solved if I moved to New York City? </p>\r\n      ",
-            "title": "#42 Growing Pains",
-            "pubDate": "Wed, 17 May 2017 10:48:28 -0000",
-            "content": "\r\n        <p>I love Maine, but sometimes I feel isolated here. Could my creative problems be solved if I moved to New York City? </p>\r\n      ",
-            "contentSnippet": "I love Maine, but sometimes I feel isolated here. Could my creative problems be solved if I moved to New York City?"
+            "content:encoded": "\r\n        <p>I love Maine, but sometimes I feel isolated here. Could my creative problems be solved if I moved to New York City? </p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255746",
+            "title": "#41 Not By Accident",
+            "pubDate": "Wed, 03 May 2017 10:23:06 -0000",
+            "content": "\r\n        <p>What happens when you become a single mother by choice? We\u2019re featuring an episode from Not By Accident.</p>\r\n      ",
+            "contentSnippet": "What happens when you become a single mother by choice? We\u2019re featuring an episode from Not By Accident.",
             "itunes": {
                 "duration": "19:10",
                 "summary": "\r\n        What happens when you become a single mother by choice? We\u2019re featuring an episode from Not By Accident.\r\n      ",
@@ -220,18 +238,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/7e4dd2e2-2e33-4bc0-b6bf-a40e702c988f/41-not-by-accident.mp3"
             },
+            "entities": ["Accident"],
             "content:encodedSnippet": "What happens when you become a single mother by choice? We\u2019re featuring an episode from Not By Accident.",
-            "link": "https://beta.prx.org/stories/255746",
             "guid": "http://millennial.prx.org/?p=217",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2017-05-03T10:23:06.000Z",
-            "content:encoded": "\r\n        <p>What happens when you become a single mother by choice? We\u2019re featuring an episode from Not By Accident.</p>\r\n      ",
-            "title": "#41 Not By Accident",
-            "pubDate": "Wed, 03 May 2017 10:23:06 -0000",
-            "content": "\r\n        <p>What happens when you become a single mother by choice? We\u2019re featuring an episode from Not By Accident.</p>\r\n      ",
-            "contentSnippet": "What happens when you become a single mother by choice? We\u2019re featuring an episode from Not By Accident."
+            "content:encoded": "\r\n        <p>What happens when you become a single mother by choice? We\u2019re featuring an episode from Not By Accident.</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255747",
+            "title": "#40 One Way Ticket",
+            "pubDate": "Wed, 19 Apr 2017 06:23:08 -0000",
+            "content": "\r\n        <p>It\u2019s easy to feel overwhelmed by the endless stream of bad news on social media. But what happens when you stop scrolling and take action?</p>\r\n      ",
+            "contentSnippet": "It\u2019s easy to feel overwhelmed by the endless stream of bad news on social media. But what happens when you stop scrolling and take action?",
             "itunes": {
                 "duration": "19:31",
                 "summary": "\r\n        It\u2019s easy to feel overwhelmed by the endless stream of bad news on social media. But what happens when you stop scrolling and take action? \r\n      ",
@@ -244,18 +263,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/270e7d90-ff7b-41c5-ae1f-b647aea50652/40-one-way-ticket.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "It\u2019s easy to feel overwhelmed by the endless stream of bad news on social media. But what happens when you stop scrolling and take action?",
-            "link": "https://beta.prx.org/stories/255747",
             "guid": "http://millennial.prx.org/?p=208",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2017-04-19T06:23:08.000Z",
-            "content:encoded": "\r\n        <p>It\u2019s easy to feel overwhelmed by the endless stream of bad news on social media. But what happens when you stop scrolling and take action?</p>\r\n      ",
-            "title": "#40 One Way Ticket",
-            "pubDate": "Wed, 19 Apr 2017 06:23:08 -0000",
-            "content": "\r\n        <p>It\u2019s easy to feel overwhelmed by the endless stream of bad news on social media. But what happens when you stop scrolling and take action?</p>\r\n      ",
-            "contentSnippet": "It\u2019s easy to feel overwhelmed by the endless stream of bad news on social media. But what happens when you stop scrolling and take action?"
+            "content:encoded": "\r\n        <p>It\u2019s easy to feel overwhelmed by the endless stream of bad news on social media. But what happens when you stop scrolling and take action?</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255748",
+            "title": "#39 Seeing Red and Blue",
+            "pubDate": "Wed, 05 Apr 2017 06:44:03 -0000",
+            "content": "\r\n        <p>When you start to see the world in only two colors \u2014 red and blue \u2014 how do you burst your own bubble?</p>\r\n      ",
+            "contentSnippet": "When you start to see the world in only two colors \u2014 red and blue \u2014 how do you burst your own bubble?",
             "itunes": {
                 "duration": "27:57",
                 "summary": "\r\n        When you start to see the world in only two colors \u2014 red and blue \u2014 how do you burst your own bubble?\r\n      ",
@@ -268,18 +288,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/82257b40-14b0-48a2-8944-951ade26ed15/39-Seeing-Red-and-Blue.mp3"
             },
+            "entities": ["two"],
             "content:encodedSnippet": "When you start to see the world in only two colors \u2014 red and blue \u2014 how do you burst your own bubble?",
-            "link": "https://beta.prx.org/stories/255748",
             "guid": "http://millennial.prx.org/?p=203",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2017-04-05T06:44:03.000Z",
-            "content:encoded": "\r\n        <p>When you start to see the world in only two colors \u2014 red and blue \u2014 how do you burst your own bubble?</p>\r\n      ",
-            "title": "#39 Seeing Red and Blue",
-            "pubDate": "Wed, 05 Apr 2017 06:44:03 -0000",
-            "content": "\r\n        <p>When you start to see the world in only two colors \u2014 red and blue \u2014 how do you burst your own bubble?</p>\r\n      ",
-            "contentSnippet": "When you start to see the world in only two colors \u2014 red and blue \u2014 how do you burst your own bubble?"
+            "content:encoded": "\r\n        <p>When you start to see the world in only two colors \u2014 red and blue \u2014 how do you burst your own bubble?</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255749",
+            "title": "#38 We Grew Up Here",
+            "pubDate": "Wed, 22 Mar 2017 06:50:44 -0000",
+            "content": "\r\n        <p>My parents have lived in the same house for over 40 years. It\u2019s where we all grew up. But when they want to sell it, we say goodbye to more than just the house.</p>\r\n      ",
+            "contentSnippet": "My parents have lived in the same house for over 40 years. It\u2019s where we all grew up. But when they want to sell it, we say goodbye to more than just the house.",
             "itunes": {
                 "duration": "34:04",
                 "summary": "\r\n        My parents have lived in the same house for over 40 years. It\u2019s where we all grew up. But when they want to sell it, we say goodbye to more than just the house.\r\n      ",
@@ -292,18 +313,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/55b84a05-b0a4-4ae9-bb05-380b46eb102e/38-We-Grew-Up-Here.mp3"
             },
+            "entities": ["40 years"],
             "content:encodedSnippet": "My parents have lived in the same house for over 40 years. It\u2019s where we all grew up. But when they want to sell it, we say goodbye to more than just the house.",
-            "link": "https://beta.prx.org/stories/255749",
             "guid": "http://millennial.prx.org/?p=199",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2017-03-22T06:50:44.000Z",
-            "content:encoded": "\r\n        <p>My parents have lived in the same house for over 40 years. It\u2019s where we all grew up. But when they want to sell it, we say goodbye to more than just the house.</p>\r\n      ",
-            "title": "#38 We Grew Up Here",
-            "pubDate": "Wed, 22 Mar 2017 06:50:44 -0000",
-            "content": "\r\n        <p>My parents have lived in the same house for over 40 years. It\u2019s where we all grew up. But when they want to sell it, we say goodbye to more than just the house.</p>\r\n      ",
-            "contentSnippet": "My parents have lived in the same house for over 40 years. It\u2019s where we all grew up. But when they want to sell it, we say goodbye to more than just the house."
+            "content:encoded": "\r\n        <p>My parents have lived in the same house for over 40 years. It\u2019s where we all grew up. But when they want to sell it, we say goodbye to more than just the house.</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255750",
+            "title": "#37 Your Tax Return, Yourself",
+            "pubDate": "Wed, 08 Mar 2017 08:28:04 -0000",
+            "content": "\r\n        <p><strong>Taxes can be scary and confusing. Maybe it\u2019s because all of that paperwork forces us to take responsibility for our choices. But what happens when the IRS sees you differently than you see yourself?</strong></p>\r\n      ",
+            "contentSnippet": "Taxes can be scary and confusing. Maybe it\u2019s because all of that paperwork forces us to take responsibility for our choices. But what happens when the IRS sees you differently than you see yourself?",
             "itunes": {
                 "duration": "24:36",
                 "summary": "\r\n        Taxes can be scary and confusing. Maybe it\u2019s because all of that paperwork forces us to take responsibility for our choices. But what happens when the IRS sees you differently than you see yourself?\r\n      ",
@@ -316,18 +338,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/2215c60a-66e5-45fa-8516-a6c40b3728b7/37-Your-Tax-Return-Yourself.mp3"
             },
+            "entities": ["IRS"],
             "content:encodedSnippet": "Taxes can be scary and confusing. Maybe it\u2019s because all of that paperwork forces us to take responsibility for our choices. But what happens when the IRS sees you differently than you see yourself?",
-            "link": "https://beta.prx.org/stories/255750",
             "guid": "http://millennial.prx.org/?p=194",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2017-03-08T08:28:04.000Z",
-            "content:encoded": "\r\n        <p><strong>Taxes can be scary and confusing. Maybe it\u2019s because all of that paperwork forces us to take responsibility for our choices. But what happens when the IRS sees you differently than you see yourself?</strong></p>\r\n      ",
-            "title": "#37 Your Tax Return, Yourself",
-            "pubDate": "Wed, 08 Mar 2017 08:28:04 -0000",
-            "content": "\r\n        <p><strong>Taxes can be scary and confusing. Maybe it\u2019s because all of that paperwork forces us to take responsibility for our choices. But what happens when the IRS sees you differently than you see yourself?</strong></p>\r\n      ",
-            "contentSnippet": "Taxes can be scary and confusing. Maybe it\u2019s because all of that paperwork forces us to take responsibility for our choices. But what happens when the IRS sees you differently than you see yourself?"
+            "content:encoded": "\r\n        <p><strong>Taxes can be scary and confusing. Maybe it\u2019s because all of that paperwork forces us to take responsibility for our choices. But what happens when the IRS sees you differently than you see yourself?</strong></p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255751",
+            "title": "#36 Patria o Muerte",
+            "pubDate": "Wed, 22 Feb 2017 07:28:43 -0000",
+            "content": "\r\n        <p>Is it possible that a country\u2019s policies can change the way people see themselves? How much of your identity is you \u2014 and how much of it is your country?</p>\n\n<p> </p>\r\n      ",
+            "contentSnippet": "Is it possible that a country\u2019s policies can change the way people see themselves? How much of your identity is you \u2014 and how much of it is your country?",
             "itunes": {
                 "duration": "33:13",
                 "summary": "\r\n        Is it possible that a country\u2019s policies can change the way people see themselves? How much of your identity is you \u2014 and how much of it is your country?<br />\n<br />\r\n      ",
@@ -340,18 +363,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/700f54bc-bb0f-4333-9fc3-9b08db0efce8/36-Patria-o-Muerte.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "Is it possible that a country\u2019s policies can change the way people see themselves? How much of your identity is you \u2014 and how much of it is your country?",
-            "link": "https://beta.prx.org/stories/255751",
             "guid": "http://millennial.prx.org/?p=190",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2017-02-22T07:28:43.000Z",
-            "content:encoded": "\r\n        <p>Is it possible that a country\u2019s policies can change the way people see themselves? How much of your identity is you \u2014 and how much of it is your country?</p>\n\n<p> </p>\r\n      ",
-            "title": "#36 Patria o Muerte",
-            "pubDate": "Wed, 22 Feb 2017 07:28:43 -0000",
-            "content": "\r\n        <p>Is it possible that a country\u2019s policies can change the way people see themselves? How much of your identity is you \u2014 and how much of it is your country?</p>\n\n<p> </p>\r\n      ",
-            "contentSnippet": "Is it possible that a country\u2019s policies can change the way people see themselves? How much of your identity is you \u2014 and how much of it is your country?"
+            "content:encoded": "\r\n        <p>Is it possible that a country\u2019s policies can change the way people see themselves? How much of your identity is you \u2014 and how much of it is your country?</p>\n\n<p> </p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255752",
+            "title": "#35 Alas Para Volar",
+            "pubDate": "Wed, 08 Feb 2017 07:00:47 -0000",
+            "content": "\r\n        <p>Can a woman have it all?  It\u2019s an age-old question. But in Cuba, a country caught between a machismo culture and some of the most progressive policies in the world, the answer isn\u2019t easy.</p>\r\n      ",
+            "contentSnippet": "Can a woman have it all?  It\u2019s an age-old question. But in Cuba, a country caught between a machismo culture and some of the most progressive policies in the world, the answer isn\u2019t easy.",
             "itunes": {
                 "duration": "25:34",
                 "summary": "\r\n        Can a woman have it all?  It\u2019s an age-old question. But in Cuba, a country caught between a machismo culture and some of the most progressive policies in the world, the answer isn\u2019t easy.\r\n      ",
@@ -364,18 +388,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/b0cc55cc-4c83-44f9-bffc-f5768751ab43/35-alas-para-volar.mp3"
             },
+            "entities": ["Cuba", "progressive"],
             "content:encodedSnippet": "Can a woman have it all?  It\u2019s an age-old question. But in Cuba, a country caught between a machismo culture and some of the most progressive policies in the world, the answer isn\u2019t easy.",
-            "link": "https://beta.prx.org/stories/255752",
             "guid": "http://millennial.prx.org/?p=186",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2017-02-08T07:00:47.000Z",
-            "content:encoded": "\r\n        <p>Can a woman have it all?  It\u2019s an age-old question. But in Cuba, a country caught between a machismo culture and some of the most progressive policies in the world, the answer isn\u2019t easy.</p>\r\n      ",
-            "title": "#35 Alas Para Volar",
-            "pubDate": "Wed, 08 Feb 2017 07:00:47 -0000",
-            "content": "\r\n        <p>Can a woman have it all?  It\u2019s an age-old question. But in Cuba, a country caught between a machismo culture and some of the most progressive policies in the world, the answer isn\u2019t easy.</p>\r\n      ",
-            "contentSnippet": "Can a woman have it all?  It\u2019s an age-old question. But in Cuba, a country caught between a machismo culture and some of the most progressive policies in the world, the answer isn\u2019t easy."
+            "content:encoded": "\r\n        <p>Can a woman have it all?  It\u2019s an age-old question. But in Cuba, a country caught between a machismo culture and some of the most progressive policies in the world, the answer isn\u2019t easy.</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255753",
+            "title": "#34 Pies Secos, Pies Mojados",
+            "pubDate": "Wed, 25 Jan 2017 02:31:21 -0000",
+            "content": "\r\n        <p><strong>\u201c Pies Secos, Pies Mojados\u201d or \u201cWet Foot, Dry Foot.\u201d In the U.S., it\u2019s the nickname of a piece of legislation, but in Cuba, it\u2019s been the key to a dream. To what lengths will Cubans go to make that dream a reality?</strong></p>\r\n      ",
+            "contentSnippet": "\u201c Pies Secos, Pies Mojados\u201d or \u201cWet Foot, Dry Foot.\u201d In the U.S., it\u2019s the nickname of a piece of legislation, but in Cuba, it\u2019s been the key to a dream. To what lengths will Cubans go to make that dream a reality?",
             "itunes": {
                 "duration": "28:13",
                 "summary": "\r\n        \u201c Pies Secos, Pies Mojados\u201d or \u201cWet Foot, Dry Foot.\u201d In the U.S., it&#8217;s the nickname of a piece of legislation, but in Cuba, it&#8217;s been the key to a dream. To what lengths will Cubans go to make that dream a reality?\r\n      ",
@@ -388,18 +413,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/445227e6-6dbf-481c-beaa-84049571ed1a/34-Pies-Secos-Pies-Mojados.mp3"
             },
+            "entities": ["Cuba", "U.S.", "Cubans"],
             "content:encodedSnippet": "\u201c Pies Secos, Pies Mojados\u201d or \u201cWet Foot, Dry Foot.\u201d In the U.S., it\u2019s the nickname of a piece of legislation, but in Cuba, it\u2019s been the key to a dream. To what lengths will Cubans go to make that dream a reality?",
-            "link": "https://beta.prx.org/stories/255753",
             "guid": "http://millennial.prx.org/?p=183",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2017-01-25T02:31:21.000Z",
-            "content:encoded": "\r\n        <p><strong>\u201c Pies Secos, Pies Mojados\u201d or \u201cWet Foot, Dry Foot.\u201d In the U.S., it\u2019s the nickname of a piece of legislation, but in Cuba, it\u2019s been the key to a dream. To what lengths will Cubans go to make that dream a reality?</strong></p>\r\n      ",
-            "title": "#34 Pies Secos, Pies Mojados",
-            "pubDate": "Wed, 25 Jan 2017 02:31:21 -0000",
-            "content": "\r\n        <p><strong>\u201c Pies Secos, Pies Mojados\u201d or \u201cWet Foot, Dry Foot.\u201d In the U.S., it\u2019s the nickname of a piece of legislation, but in Cuba, it\u2019s been the key to a dream. To what lengths will Cubans go to make that dream a reality?</strong></p>\r\n      ",
-            "contentSnippet": "\u201c Pies Secos, Pies Mojados\u201d or \u201cWet Foot, Dry Foot.\u201d In the U.S., it\u2019s the nickname of a piece of legislation, but in Cuba, it\u2019s been the key to a dream. To what lengths will Cubans go to make that dream a reality?"
+            "content:encoded": "\r\n        <p><strong>\u201c Pies Secos, Pies Mojados\u201d or \u201cWet Foot, Dry Foot.\u201d In the U.S., it\u2019s the nickname of a piece of legislation, but in Cuba, it\u2019s been the key to a dream. To what lengths will Cubans go to make that dream a reality?</strong></p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255754",
+            "title": "#33 No Es Fácil",
+            "pubDate": "Wed, 11 Jan 2017 06:40:21 -0000",
+            "content": "\r\n        <p>I\u2019ve always romanticized Cuba as a mysterious forbidden island. But when I go there to visit a friend, I learn growing up on the island is far more complicated than anything I could have expected. This is the first episode of a four-part series on Cuba.</p>\r\n      ",
+            "contentSnippet": "I\u2019ve always romanticized Cuba as a mysterious forbidden island. But when I go there to visit a friend, I learn growing up on the island is far more complicated than anything I could have expected. This is the first episode of a four-part series on Cuba.",
             "itunes": {
                 "duration": "26:24",
                 "summary": "\r\n        I\u2019ve always romanticized Cuba as a mysterious forbidden island. But when I go there to visit a friend, I learn growing up on the island is far more complicated than anything I could have expected. This is the first episode of a four-part series on Cuba.\r\n      ",
@@ -412,18 +438,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/edfd6d5b-f5af-4069-9a79-5a7fb930bc65/33-no-es-facil.mp3"
             },
+            "entities": ["Cuba", "four-part", "first"],
             "content:encodedSnippet": "I\u2019ve always romanticized Cuba as a mysterious forbidden island. But when I go there to visit a friend, I learn growing up on the island is far more complicated than anything I could have expected. This is the first episode of a four-part series on Cuba.",
-            "link": "https://beta.prx.org/stories/255754",
             "guid": "http://millennial.prx.org/?p=178",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2017-01-11T06:40:21.000Z",
-            "content:encoded": "\r\n        <p>I\u2019ve always romanticized Cuba as a mysterious forbidden island. But when I go there to visit a friend, I learn growing up on the island is far more complicated than anything I could have expected. This is the first episode of a four-part series on Cuba.</p>\r\n      ",
-            "title": "#33 No Es Fácil",
-            "pubDate": "Wed, 11 Jan 2017 06:40:21 -0000",
-            "content": "\r\n        <p>I\u2019ve always romanticized Cuba as a mysterious forbidden island. But when I go there to visit a friend, I learn growing up on the island is far more complicated than anything I could have expected. This is the first episode of a four-part series on Cuba.</p>\r\n      ",
-            "contentSnippet": "I\u2019ve always romanticized Cuba as a mysterious forbidden island. But when I go there to visit a friend, I learn growing up on the island is far more complicated than anything I could have expected. This is the first episode of a four-part series on Cuba."
+            "content:encoded": "\r\n        <p>I\u2019ve always romanticized Cuba as a mysterious forbidden island. But when I go there to visit a friend, I learn growing up on the island is far more complicated than anything I could have expected. This is the first episode of a four-part series on Cuba.</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255755",
+            "title": "#32 Auld Lang Syne",
+            "pubDate": "Wed, 21 Dec 2016 07:00:57 -0000",
+            "content": "\r\n        <p>After a year of making Millennial full-time, my editor Devon and I sit down together to reflect on what\u2019s happened and make a plan for next year. But how do you set goals when you don\u2019t know exactly what you want?</p>\r\n      ",
+            "contentSnippet": "After a year of making Millennial full-time, my editor Devon and I sit down together to reflect on what\u2019s happened and make a plan for next year. But how do you set goals when you don\u2019t know exactly what you want?",
             "itunes": {
                 "duration": "21:48",
                 "summary": "\r\n        After a year of making Millennial full-time, my editor Devon and I sit down together to reflect on what's happened and make a plan for next year. But how do you set goals when you don't know exactly what you want?\r\n      ",
@@ -436,18 +463,25 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/7aeca2b9-674d-4a3c-91cc-66e7917d6f41/32-Auld-Lang-Syne.mp3"
             },
+            "entities": [
+                "editor",
+                "Millennial",
+                "Devon",
+                "a year",
+                "next year"
+            ],
             "content:encodedSnippet": "After a year of making Millennial full-time, my editor Devon and I sit down together to reflect on what\u2019s happened and make a plan for next year. But how do you set goals when you don\u2019t know exactly what you want?",
-            "link": "https://beta.prx.org/stories/255755",
             "guid": "http://millennial.prx.org/?p=173",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2016-12-21T07:00:57.000Z",
-            "content:encoded": "\r\n        <p>After a year of making Millennial full-time, my editor Devon and I sit down together to reflect on what\u2019s happened and make a plan for next year. But how do you set goals when you don\u2019t know exactly what you want?</p>\r\n      ",
-            "title": "#32 Auld Lang Syne",
-            "pubDate": "Wed, 21 Dec 2016 07:00:57 -0000",
-            "content": "\r\n        <p>After a year of making Millennial full-time, my editor Devon and I sit down together to reflect on what\u2019s happened and make a plan for next year. But how do you set goals when you don\u2019t know exactly what you want?</p>\r\n      ",
-            "contentSnippet": "After a year of making Millennial full-time, my editor Devon and I sit down together to reflect on what\u2019s happened and make a plan for next year. But how do you set goals when you don\u2019t know exactly what you want?"
+            "content:encoded": "\r\n        <p>After a year of making Millennial full-time, my editor Devon and I sit down together to reflect on what\u2019s happened and make a plan for next year. But how do you set goals when you don\u2019t know exactly what you want?</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255756",
+            "title": "#31 Three Turkeys and Some Egg Rolls",
+            "pubDate": "Wed, 07 Dec 2016 12:15:31 -0000",
+            "content": "\r\n        <p><strong>Holidays are stressful, especially in an election year.</strong>  <strong>But things get more complicated when you\u2019re bringing someone home with you </strong>** and even more stressful when you\u2019re the person they\u2019re bringing home. **** How do you successfully maneuver your significant other\u2019s family? **** Make it into a game.**</p>\r\n      ",
+            "contentSnippet": "Holidays are stressful, especially in an election year.  But things get more complicated when you\u2019re bringing someone home with you ** and even more stressful when you\u2019re the person they\u2019re bringing home. **** How do you successfully maneuver your significant other\u2019s family? **** Make it into a game.**",
             "itunes": {
                 "duration": "28:55",
                 "summary": "\r\n        Holidays are stressful, especially in an election year. But things get more complicated when you're bringing someone home with you and even more stressful when you're the person they\u2019re bringing home. How do you successfully maneuver your significant other\u2019s family? Make it into a game.\r\n      ",
@@ -460,18 +494,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/1390a651-4513-44da-9463-d40516a04159/31-three-turkeys-and-some-egg-rolls.mp3"
             },
+            "entities": ["year"],
             "content:encodedSnippet": "Holidays are stressful, especially in an election year.  But things get more complicated when you\u2019re bringing someone home with you ** and even more stressful when you\u2019re the person they\u2019re bringing home. **** How do you successfully maneuver your significant other\u2019s family? **** Make it into a game.**",
-            "link": "https://beta.prx.org/stories/255756",
             "guid": "http://millennial.prx.org/?p=169",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2016-12-07T12:15:31.000Z",
-            "content:encoded": "\r\n        <p><strong>Holidays are stressful, especially in an election year.</strong>  <strong>But things get more complicated when you\u2019re bringing someone home with you </strong>** and even more stressful when you\u2019re the person they\u2019re bringing home. **** How do you successfully maneuver your significant other\u2019s family? **** Make it into a game.**</p>\r\n      ",
-            "title": "#31 Three Turkeys and Some Egg Rolls",
-            "pubDate": "Wed, 07 Dec 2016 12:15:31 -0000",
-            "content": "\r\n        <p><strong>Holidays are stressful, especially in an election year.</strong>  <strong>But things get more complicated when you\u2019re bringing someone home with you </strong>** and even more stressful when you\u2019re the person they\u2019re bringing home. **** How do you successfully maneuver your significant other\u2019s family? **** Make it into a game.**</p>\r\n      ",
-            "contentSnippet": "Holidays are stressful, especially in an election year.  But things get more complicated when you\u2019re bringing someone home with you ** and even more stressful when you\u2019re the person they\u2019re bringing home. **** How do you successfully maneuver your significant other\u2019s family? **** Make it into a game.**"
+            "content:encoded": "\r\n        <p><strong>Holidays are stressful, especially in an election year.</strong>  <strong>But things get more complicated when you\u2019re bringing someone home with you </strong>** and even more stressful when you\u2019re the person they\u2019re bringing home. **** How do you successfully maneuver your significant other\u2019s family? **** Make it into a game.**</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255757",
+            "title": "#30 Thirty-Year Plan",
+            "pubDate": "Thu, 17 Nov 2016 03:51:53 -0000",
+            "content": "\r\n        <p><strong>It\u2019s scary to make long-term commitments, but living year-to-year isn\u2019t always comfortable. For the first time, I\u2019m starting to consider the 30-year-plan.</strong></p>\r\n      ",
+            "contentSnippet": "It\u2019s scary to make long-term commitments, but living year-to-year isn\u2019t always comfortable. For the first time, I\u2019m starting to consider the 30-year-plan.",
             "itunes": {
                 "duration": "25:41",
                 "summary": "\r\n        It\u2019s scary to make long-term commitments, but living year-to-year isn\u2019t always comfortable. For the first time, I\u2019m starting to consider the 30-year-plan.\r\n      ",
@@ -484,18 +519,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/05559b8a-08f1-461a-88a6-a098f8a56ad3/30-thirty-year-plan.mp3"
             },
+            "entities": ["30-year-plan", "first"],
             "content:encodedSnippet": "It\u2019s scary to make long-term commitments, but living year-to-year isn\u2019t always comfortable. For the first time, I\u2019m starting to consider the 30-year-plan.",
-            "link": "https://beta.prx.org/stories/255757",
             "guid": "http://millennial.prx.org/?p=165",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2016-11-17T03:51:53.000Z",
-            "content:encoded": "\r\n        <p><strong>It\u2019s scary to make long-term commitments, but living year-to-year isn\u2019t always comfortable. For the first time, I\u2019m starting to consider the 30-year-plan.</strong></p>\r\n      ",
-            "title": "#30 Thirty-Year Plan",
-            "pubDate": "Thu, 17 Nov 2016 03:51:53 -0000",
-            "content": "\r\n        <p><strong>It\u2019s scary to make long-term commitments, but living year-to-year isn\u2019t always comfortable. For the first time, I\u2019m starting to consider the 30-year-plan.</strong></p>\r\n      ",
-            "contentSnippet": "It\u2019s scary to make long-term commitments, but living year-to-year isn\u2019t always comfortable. For the first time, I\u2019m starting to consider the 30-year-plan."
+            "content:encoded": "\r\n        <p><strong>It\u2019s scary to make long-term commitments, but living year-to-year isn\u2019t always comfortable. For the first time, I\u2019m starting to consider the 30-year-plan.</strong></p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255758",
+            "title": "#29 You Can\u2019t Go Home Again",
+            "pubDate": "Fri, 04 Nov 2016 05:30:23 -0000",
+            "content": "\r\n        <p>The plan is to grow up and chase after your dreams, but what if getting closer to your goals means moving farther from your family?</p>\r\n      ",
+            "contentSnippet": "The plan is to grow up and chase after your dreams, but what if getting closer to your goals means moving farther from your family?",
             "itunes": {
                 "duration": "25:50",
                 "summary": "\r\n        The plan is to grow up and chase after your dreams, but what if getting closer to your goals means moving farther from your family?\r\n      ",
@@ -508,18 +544,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/9ff54563-c474-4e4d-a0db-863ee2db3d35/29-You-Cant-Go-Home-Again.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "The plan is to grow up and chase after your dreams, but what if getting closer to your goals means moving farther from your family?",
-            "link": "https://beta.prx.org/stories/255758",
             "guid": "http://millennial.prx.org/?p=159",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2016-11-04T05:30:23.000Z",
-            "content:encoded": "\r\n        <p>The plan is to grow up and chase after your dreams, but what if getting closer to your goals means moving farther from your family?</p>\r\n      ",
-            "title": "#29 You Can\u2019t Go Home Again",
-            "pubDate": "Fri, 04 Nov 2016 05:30:23 -0000",
-            "content": "\r\n        <p>The plan is to grow up and chase after your dreams, but what if getting closer to your goals means moving farther from your family?</p>\r\n      ",
-            "contentSnippet": "The plan is to grow up and chase after your dreams, but what if getting closer to your goals means moving farther from your family?"
+            "content:encoded": "\r\n        <p>The plan is to grow up and chase after your dreams, but what if getting closer to your goals means moving farther from your family?</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255759",
+            "title": "#28 With Love From The Heart",
+            "pubDate": "Wed, 19 Oct 2016 05:00:50 -0000",
+            "content": "\r\n        <p>Even after you break up with someone, they\u2019ll always be part of you. We\u2019re featuring an episode on jealousy from <a href=\"http://theheartradio.org/\" rel=\"nofollow\" target=\"_blank\">The Heart</a>.</p>\r\n      ",
+            "contentSnippet": "Even after you break up with someone, they\u2019ll always be part of you. We\u2019re featuring an episode on jealousy from The Heart.",
             "itunes": {
                 "duration": "22:06",
                 "summary": "\r\n        Even after you break up with someone, they\u2019ll always be part of you. We're featuring an episode on jealousy from The Heart.\r\n      ",
@@ -532,18 +569,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/ca7c6ea2-a2a7-4cb9-9dda-8972811d7a37/28-With-Love-From-The-Heart.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "Even after you break up with someone, they\u2019ll always be part of you. We\u2019re featuring an episode on jealousy from The Heart.",
-            "link": "https://beta.prx.org/stories/255759",
             "guid": "http://millennial.prx.org/?p=155",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2016-10-19T05:00:50.000Z",
-            "content:encoded": "\r\n        <p>Even after you break up with someone, they\u2019ll always be part of you. We\u2019re featuring an episode on jealousy from <a href=\"http://theheartradio.org/\" rel=\"nofollow\" target=\"_blank\">The Heart</a>.</p>\r\n      ",
-            "title": "#28 With Love From The Heart",
-            "pubDate": "Wed, 19 Oct 2016 05:00:50 -0000",
-            "content": "\r\n        <p>Even after you break up with someone, they\u2019ll always be part of you. We\u2019re featuring an episode on jealousy from <a href=\"http://theheartradio.org/\" rel=\"nofollow\" target=\"_blank\">The Heart</a>.</p>\r\n      ",
-            "contentSnippet": "Even after you break up with someone, they\u2019ll always be part of you. We\u2019re featuring an episode on jealousy from The Heart."
+            "content:encoded": "\r\n        <p>Even after you break up with someone, they\u2019ll always be part of you. We\u2019re featuring an episode on jealousy from <a href=\"http://theheartradio.org/\" rel=\"nofollow\" target=\"_blank\">The Heart</a>.</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255760",
+            "title": "#27 Work in Progress",
+            "pubDate": "Wed, 05 Oct 2016 06:14:59 -0000",
+            "content": "\r\n        <p>I\u2019ve always heard you shouldn\u2019t meet your heroes because they might not live up to your expectations. But is there something to be gained from getting real?</p>\r\n      ",
+            "contentSnippet": "I\u2019ve always heard you shouldn\u2019t meet your heroes because they might not live up to your expectations. But is there something to be gained from getting real?",
             "itunes": {
                 "duration": "22:23",
                 "summary": "\r\n        I've always heard you shouldn't meet your heroes because they might not live up to your expectations. But is there something to be gained from being real with someone?\r\n      ",
@@ -556,18 +594,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/4147e7c9-9b1f-4ae3-91a5-28c1b0836f5d/27-Work-In-Progress.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "I\u2019ve always heard you shouldn\u2019t meet your heroes because they might not live up to your expectations. But is there something to be gained from getting real?",
-            "link": "https://beta.prx.org/stories/255760",
             "guid": "http://millennial.prx.org/?p=151",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2016-10-05T06:14:59.000Z",
-            "content:encoded": "\r\n        <p>I\u2019ve always heard you shouldn\u2019t meet your heroes because they might not live up to your expectations. But is there something to be gained from getting real?</p>\r\n      ",
-            "title": "#27 Work in Progress",
-            "pubDate": "Wed, 05 Oct 2016 06:14:59 -0000",
-            "content": "\r\n        <p>I\u2019ve always heard you shouldn\u2019t meet your heroes because they might not live up to your expectations. But is there something to be gained from getting real?</p>\r\n      ",
-            "contentSnippet": "I\u2019ve always heard you shouldn\u2019t meet your heroes because they might not live up to your expectations. But is there something to be gained from getting real?"
+            "content:encoded": "\r\n        <p>I\u2019ve always heard you shouldn\u2019t meet your heroes because they might not live up to your expectations. But is there something to be gained from getting real?</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255761",
+            "title": "#26 Werner",
+            "pubDate": "Wed, 21 Sep 2016 02:41:46 -0000",
+            "content": "\r\n        <p>Time capsules come in many forms. When you stumble upon one, you never know what part of your former self you\u2019ll remember.</p>\r\n      ",
+            "contentSnippet": "Time capsules come in many forms. When you stumble upon one, you never know what part of your former self you\u2019ll remember.",
             "itunes": {
                 "duration": "20:04",
                 "summary": "\r\n        Time capsules come in many forms. When you stumble upon one, you never know what part of your former self you\u2019ll remember.\r\n      ",
@@ -580,18 +619,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/c51ee0b6-c9fd-4a3d-8252-4e6802acb8e8/26-Werner.mp3"
             },
+            "entities": ["one"],
             "content:encodedSnippet": "Time capsules come in many forms. When you stumble upon one, you never know what part of your former self you\u2019ll remember.",
-            "link": "https://beta.prx.org/stories/255761",
             "guid": "http://millennial.prx.org/?p=141",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2016-09-21T02:41:46.000Z",
-            "content:encoded": "\r\n        <p>Time capsules come in many forms. When you stumble upon one, you never know what part of your former self you\u2019ll remember.</p>\r\n      ",
-            "title": "#26 Werner",
-            "pubDate": "Wed, 21 Sep 2016 02:41:46 -0000",
-            "content": "\r\n        <p>Time capsules come in many forms. When you stumble upon one, you never know what part of your former self you\u2019ll remember.</p>\r\n      ",
-            "contentSnippet": "Time capsules come in many forms. When you stumble upon one, you never know what part of your former self you\u2019ll remember."
+            "content:encoded": "\r\n        <p>Time capsules come in many forms. When you stumble upon one, you never know what part of your former self you\u2019ll remember.</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255762",
+            "title": "#25 Must Love Podcasts",
+            "pubDate": "Thu, 08 Sep 2016 12:58:34 -0000",
+            "content": "\r\n        <p>I thought hiring Millennial\u2019s first apprentice would be easy but I quickly realize judging people based on so little information is daunting. How do you decide who\u2019s the right match for you?</p>\n\n<p> </p>\r\n      ",
+            "contentSnippet": "I thought hiring Millennial\u2019s first apprentice would be easy but I quickly realize judging people based on so little information is daunting. How do you decide who\u2019s the right match for you?",
             "itunes": {
                 "duration": "30:38",
                 "summary": "\r\n        I thought hiring Millennial\u2019s first apprentice would be easy but I quickly realize judging people based on so little information is daunting. How do you decide who's the right match for you?<br />\n<br />\r\n      ",
@@ -604,18 +644,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/94b3ed02-e6d2-494f-b631-10c20b9e6d74/25-must-love-podcasts.mp3"
             },
+            "entities": ["first"],
             "content:encodedSnippet": "I thought hiring Millennial\u2019s first apprentice would be easy but I quickly realize judging people based on so little information is daunting. How do you decide who\u2019s the right match for you?",
-            "link": "https://beta.prx.org/stories/255762",
             "guid": "http://millennial.prx.org/?p=137",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2016-09-08T12:58:34.000Z",
-            "content:encoded": "\r\n        <p>I thought hiring Millennial\u2019s first apprentice would be easy but I quickly realize judging people based on so little information is daunting. How do you decide who\u2019s the right match for you?</p>\n\n<p> </p>\r\n      ",
-            "title": "#25 Must Love Podcasts",
-            "pubDate": "Thu, 08 Sep 2016 12:58:34 -0000",
-            "content": "\r\n        <p>I thought hiring Millennial\u2019s first apprentice would be easy but I quickly realize judging people based on so little information is daunting. How do you decide who\u2019s the right match for you?</p>\n\n<p> </p>\r\n      ",
-            "contentSnippet": "I thought hiring Millennial\u2019s first apprentice would be easy but I quickly realize judging people based on so little information is daunting. How do you decide who\u2019s the right match for you?"
+            "content:encoded": "\r\n        <p>I thought hiring Millennial\u2019s first apprentice would be easy but I quickly realize judging people based on so little information is daunting. How do you decide who\u2019s the right match for you?</p>\n\n<p> </p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255763",
+            "title": "#24 Will Work for Free",
+            "pubDate": "Wed, 17 Aug 2016 14:35:32 -0000",
+            "content": "\r\n        <p>I always thought I knew where I stood when it came to unpaid internships until I found myself with two unpaid interns of my own.</p>\r\n      ",
+            "contentSnippet": "I always thought I knew where I stood when it came to unpaid internships until I found myself with two unpaid interns of my own.",
             "itunes": {
                 "duration": "32:56",
                 "summary": "\r\n        I always thought I knew where I stood when it came to unpaid internships until I found myself with two unpaid interns of my own.\r\n      ",
@@ -628,18 +669,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/cc6c03fe-ebeb-426d-9630-a67b124121d2/24-will-work-for-free.mp3"
             },
+            "entities": ["two"],
             "content:encodedSnippet": "I always thought I knew where I stood when it came to unpaid internships until I found myself with two unpaid interns of my own.",
-            "link": "https://beta.prx.org/stories/255763",
             "guid": "http://millennial.prx.org/?p=132",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2016-08-17T14:35:32.000Z",
-            "content:encoded": "\r\n        <p>I always thought I knew where I stood when it came to unpaid internships until I found myself with two unpaid interns of my own.</p>\r\n      ",
-            "title": "#24 Will Work for Free",
-            "pubDate": "Wed, 17 Aug 2016 14:35:32 -0000",
-            "content": "\r\n        <p>I always thought I knew where I stood when it came to unpaid internships until I found myself with two unpaid interns of my own.</p>\r\n      ",
-            "contentSnippet": "I always thought I knew where I stood when it came to unpaid internships until I found myself with two unpaid interns of my own."
+            "content:encoded": "\r\n        <p>I always thought I knew where I stood when it came to unpaid internships until I found myself with two unpaid interns of my own.</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255764",
+            "title": "#23 Systems Check",
+            "pubDate": "Wed, 03 Aug 2016 06:01:33 -0000",
+            "content": "\r\n        <p>When you sprint toward your career for years and you finally get there, how do you prevent yourself from burning out? How do you pace yourself?</p>\r\n      ",
+            "contentSnippet": "When you sprint toward your career for years and you finally get there, how do you prevent yourself from burning out? How do you pace yourself?",
             "itunes": {
                 "duration": "29:50",
                 "summary": "\r\n        When you sprint toward your career for years and you finally get there, how do you prevent yourself from burning out? How do you pace yourself?\r\n      ",
@@ -652,18 +694,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/fa4e07bb-9d9b-45df-9a95-6c1b3309aa56/23-Systems-Check.mp3"
             },
+            "entities": ["years"],
             "content:encodedSnippet": "When you sprint toward your career for years and you finally get there, how do you prevent yourself from burning out? How do you pace yourself?",
-            "link": "https://beta.prx.org/stories/255764",
             "guid": "http://millennial.prx.org/?p=126",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2016-08-03T06:01:33.000Z",
-            "content:encoded": "\r\n        <p>When you sprint toward your career for years and you finally get there, how do you prevent yourself from burning out? How do you pace yourself?</p>\r\n      ",
-            "title": "#23 Systems Check",
-            "pubDate": "Wed, 03 Aug 2016 06:01:33 -0000",
-            "content": "\r\n        <p>When you sprint toward your career for years and you finally get there, how do you prevent yourself from burning out? How do you pace yourself?</p>\r\n      ",
-            "contentSnippet": "When you sprint toward your career for years and you finally get there, how do you prevent yourself from burning out? How do you pace yourself?"
+            "content:encoded": "\r\n        <p>When you sprint toward your career for years and you finally get there, how do you prevent yourself from burning out? How do you pace yourself?</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255765",
+            "title": "#22 Screw It, I\u2019m Going Outside",
+            "pubDate": "Wed, 20 Jul 2016 10:27:19 -0000",
+            "content": "\r\n        <p>It\u2019s summer and I want to go outside. So I shut down my computer and go off on an expedition to understand an unknown world unfolding right under my nose \u2014 The Poké-world.</p>\r\n      ",
+            "contentSnippet": "It\u2019s summer and I want to go outside. So I shut down my computer and go off on an expedition to understand an unknown world unfolding right under my nose \u2014 The Poké-world.",
             "itunes": {
                 "duration": "26:14",
                 "summary": "\r\n        It\u2019s summer and I want to go outside. So I shut down my computer and go off on an expedition to understand an unknown world unfolding right under my nose \u2014 The Poké-world.\r\n      ",
@@ -676,18 +719,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/8a56d191-9bb8-4aa0-a6d3-a787813ef6e9/22-Screw-It-Im-Going-Outside.mp3"
             },
+            "entities": ["Poké-world", "summer"],
             "content:encodedSnippet": "It\u2019s summer and I want to go outside. So I shut down my computer and go off on an expedition to understand an unknown world unfolding right under my nose \u2014 The Poké-world.",
-            "link": "https://beta.prx.org/stories/255765",
             "guid": "http://millennial.prx.org/?p=120",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2016-07-20T10:27:19.000Z",
-            "content:encoded": "\r\n        <p>It\u2019s summer and I want to go outside. So I shut down my computer and go off on an expedition to understand an unknown world unfolding right under my nose \u2014 The Poké-world.</p>\r\n      ",
-            "title": "#22 Screw It, I\u2019m Going Outside",
-            "pubDate": "Wed, 20 Jul 2016 10:27:19 -0000",
-            "content": "\r\n        <p>It\u2019s summer and I want to go outside. So I shut down my computer and go off on an expedition to understand an unknown world unfolding right under my nose \u2014 The Poké-world.</p>\r\n      ",
-            "contentSnippet": "It\u2019s summer and I want to go outside. So I shut down my computer and go off on an expedition to understand an unknown world unfolding right under my nose \u2014 The Poké-world."
+            "content:encoded": "\r\n        <p>It\u2019s summer and I want to go outside. So I shut down my computer and go off on an expedition to understand an unknown world unfolding right under my nose \u2014 The Poké-world.</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255766",
+            "title": "#21 Moving Out",
+            "pubDate": "Wed, 06 Jul 2016 13:37:28 -0000",
+            "content": "\r\n        <p>When you move back home with your parents it\u2019s hard to feel like you\u2019re growing up. But what really makes you an adult? And what if parenting an adult child is just as confusing as being your 20s?</p>\r\n      ",
+            "contentSnippet": "When you move back home with your parents it\u2019s hard to feel like you\u2019re growing up. But what really makes you an adult? And what if parenting an adult child is just as confusing as being your 20s?",
             "itunes": {
                 "duration": "24:41",
                 "summary": "\r\n        When you move back home with your parents it\u2019s hard to feel like you\u2019re growing up. But what really makes you an adult? And what if parenting an adult child is just as confusing as being your 20s?\r\n      ",
@@ -700,18 +744,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/d322dc7e-44ed-4852-8478-35585640551c/21-Moving-Out.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "When you move back home with your parents it\u2019s hard to feel like you\u2019re growing up. But what really makes you an adult? And what if parenting an adult child is just as confusing as being your 20s?",
-            "link": "https://beta.prx.org/stories/255766",
             "guid": "http://millennial.prx.org/?p=110",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2016-07-06T13:37:28.000Z",
-            "content:encoded": "\r\n        <p>When you move back home with your parents it\u2019s hard to feel like you\u2019re growing up. But what really makes you an adult? And what if parenting an adult child is just as confusing as being your 20s?</p>\r\n      ",
-            "title": "#21 Moving Out",
-            "pubDate": "Wed, 06 Jul 2016 13:37:28 -0000",
-            "content": "\r\n        <p>When you move back home with your parents it\u2019s hard to feel like you\u2019re growing up. But what really makes you an adult? And what if parenting an adult child is just as confusing as being your 20s?</p>\r\n      ",
-            "contentSnippet": "When you move back home with your parents it\u2019s hard to feel like you\u2019re growing up. But what really makes you an adult? And what if parenting an adult child is just as confusing as being your 20s?"
+            "content:encoded": "\r\n        <p>When you move back home with your parents it\u2019s hard to feel like you\u2019re growing up. But what really makes you an adult? And what if parenting an adult child is just as confusing as being your 20s?</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255767",
+            "title": "#20 Haves and Have-Mores",
+            "pubDate": "Wed, 22 Jun 2016 04:40:09 -0000",
+            "content": "\r\n        <p>After college, I thought everyone was on equal footing. But that\u2019s not always the case. How do you come to terms with your own financial status when your close friends are living lives you can\u2019t afford?</p>\r\n      ",
+            "contentSnippet": "After college, I thought everyone was on equal footing. But that\u2019s not always the case. How do you come to terms with your own financial status when your close friends are living lives you can\u2019t afford?",
             "itunes": {
                 "duration": "30:42",
                 "explicit": "true",
@@ -725,18 +770,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/9e210700-3542-4eb8-8ac7-30cccbc516ad/20-The-Haves-And-HaveMores.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "After college, I thought everyone was on equal footing. But that\u2019s not always the case. How do you come to terms with your own financial status when your close friends are living lives you can\u2019t afford?",
-            "link": "https://beta.prx.org/stories/255767",
             "guid": "http://millennial.prx.org/?p=104",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2016-06-22T04:40:09.000Z",
-            "content:encoded": "\r\n        <p>After college, I thought everyone was on equal footing. But that\u2019s not always the case. How do you come to terms with your own financial status when your close friends are living lives you can\u2019t afford?</p>\r\n      ",
-            "title": "#20 Haves and Have-Mores",
-            "pubDate": "Wed, 22 Jun 2016 04:40:09 -0000",
-            "content": "\r\n        <p>After college, I thought everyone was on equal footing. But that\u2019s not always the case. How do you come to terms with your own financial status when your close friends are living lives you can\u2019t afford?</p>\r\n      ",
-            "contentSnippet": "After college, I thought everyone was on equal footing. But that\u2019s not always the case. How do you come to terms with your own financial status when your close friends are living lives you can\u2019t afford?"
+            "content:encoded": "\r\n        <p>After college, I thought everyone was on equal footing. But that\u2019s not always the case. How do you come to terms with your own financial status when your close friends are living lives you can\u2019t afford?</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255768",
+            "title": "#19 Message in a Bottle",
+            "pubDate": "Tue, 07 Jun 2016 19:11:31 -0000",
+            "content": "\r\n        <p><strong>Look around the Internet and you\u2019ll see people sharing intimate thoughts and bearing their souls \u2014 including me.</strong>  <strong>Why do we feel more comfortable publishing the secrets of our lives online \u2014 but keep them from the people who are closest to us?</strong></p>\r\n      ",
+            "contentSnippet": "Look around the Internet and you\u2019ll see people sharing intimate thoughts and bearing their souls \u2014 including me.  Why do we feel more comfortable publishing the secrets of our lives online \u2014 but keep them from the people who are closest to us?",
             "itunes": {
                 "duration": "25:16",
                 "summary": "\r\n        Look around the Internet and you'll see people sharing intimate thoughts and bearing their souls -- including me. Why do we feel more comfortable publishing the secrets of our lives online -- but keep them from the people who are closest to us?\r\n      ",
@@ -749,18 +795,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/ccbd3efb-002f-4ddd-b3d9-884634836319/19-Message-in-a-bottle.mp3"
             },
+            "entities": ["Internet"],
             "content:encodedSnippet": "Look around the Internet and you\u2019ll see people sharing intimate thoughts and bearing their souls \u2014 including me.  Why do we feel more comfortable publishing the secrets of our lives online \u2014 but keep them from the people who are closest to us?",
-            "link": "https://beta.prx.org/stories/255768",
             "guid": "http://millennial.prx.org/?p=100",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2016-06-07T19:11:31.000Z",
-            "content:encoded": "\r\n        <p><strong>Look around the Internet and you\u2019ll see people sharing intimate thoughts and bearing their souls \u2014 including me.</strong>  <strong>Why do we feel more comfortable publishing the secrets of our lives online \u2014 but keep them from the people who are closest to us?</strong></p>\r\n      ",
-            "title": "#19 Message in a Bottle",
-            "pubDate": "Tue, 07 Jun 2016 19:11:31 -0000",
-            "content": "\r\n        <p><strong>Look around the Internet and you\u2019ll see people sharing intimate thoughts and bearing their souls \u2014 including me.</strong>  <strong>Why do we feel more comfortable publishing the secrets of our lives online \u2014 but keep them from the people who are closest to us?</strong></p>\r\n      ",
-            "contentSnippet": "Look around the Internet and you\u2019ll see people sharing intimate thoughts and bearing their souls \u2014 including me.  Why do we feel more comfortable publishing the secrets of our lives online \u2014 but keep them from the people who are closest to us?"
+            "content:encoded": "\r\n        <p><strong>Look around the Internet and you\u2019ll see people sharing intimate thoughts and bearing their souls \u2014 including me.</strong>  <strong>Why do we feel more comfortable publishing the secrets of our lives online \u2014 but keep them from the people who are closest to us?</strong></p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255769",
+            "title": "#18 Nothin\u2019 But Net",
+            "pubDate": "Tue, 17 May 2016 11:36:31 -0000",
+            "content": "\r\n        <p><strong>It\u2019s always been my dream to play with the pros. Now, after months of practicing it all comes down to one game and one decision.</strong></p>\r\n      ",
+            "contentSnippet": "It\u2019s always been my dream to play with the pros. Now, after months of practicing it all comes down to one game and one decision.",
             "itunes": {
                 "duration": "28:43",
                 "summary": "\r\n        It\u2019s always been my dream to play with the pros. Now, after months of practicing it all comes down to one game and one decision.\r\n      ",
@@ -773,18 +820,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/8fafc4ee-1845-49b5-bca2-264e447e5ec2/18-Nothin-But-Net.mp3"
             },
+            "entities": ["months", "Now", "one"],
             "content:encodedSnippet": "It\u2019s always been my dream to play with the pros. Now, after months of practicing it all comes down to one game and one decision.",
-            "link": "https://beta.prx.org/stories/255769",
             "guid": "http://millennial.prx.org/?p=90",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2016-05-17T11:36:31.000Z",
-            "content:encoded": "\r\n        <p><strong>It\u2019s always been my dream to play with the pros. Now, after months of practicing it all comes down to one game and one decision.</strong></p>\r\n      ",
-            "title": "#18 Nothin\u2019 But Net",
-            "pubDate": "Tue, 17 May 2016 11:36:31 -0000",
-            "content": "\r\n        <p><strong>It\u2019s always been my dream to play with the pros. Now, after months of practicing it all comes down to one game and one decision.</strong></p>\r\n      ",
-            "contentSnippet": "It\u2019s always been my dream to play with the pros. Now, after months of practicing it all comes down to one game and one decision."
+            "content:encoded": "\r\n        <p><strong>It\u2019s always been my dream to play with the pros. Now, after months of practicing it all comes down to one game and one decision.</strong></p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255770",
+            "title": "#17 Fake It Till You Make It",
+            "pubDate": "Wed, 04 May 2016 16:02:36 -0000",
+            "content": "\r\n        <p>How do you turn a passion project into a business?<br><br>\nAfter I quit my job, I have to find out.<br><br>\nThe only problem is, I don\u2019t know anything about running a business.</p>\r\n      ",
+            "contentSnippet": "How do you turn a passion project into a business?\n\nAfter I quit my job, I have to find out.\n\nThe only problem is, I don\u2019t know anything about running a business.",
             "itunes": {
                 "duration": "25:26",
                 "summary": "\r\n        How do you turn a passion project into a business?<br />\nAfter I quit my job, I have to find out.<br />\nThe only problem is, I don\u2019t know anything about running a business.\r\n      ",
@@ -797,18 +845,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/1e42a240-fe1a-4df4-8261-1f72eafa858e/17-Fake-It-Till-You-Make-It.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "How do you turn a passion project into a business?\n\nAfter I quit my job, I have to find out.\n\nThe only problem is, I don\u2019t know anything about running a business.",
-            "link": "https://beta.prx.org/stories/255770",
             "guid": "tag:soundcloud,2010:tracks/262376581",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2016-05-04T16:02:36.000Z",
-            "content:encoded": "\r\n        <p>How do you turn a passion project into a business?<br><br>\nAfter I quit my job, I have to find out.<br><br>\nThe only problem is, I don\u2019t know anything about running a business.</p>\r\n      ",
-            "title": "#17 Fake It Till You Make It",
-            "pubDate": "Wed, 04 May 2016 16:02:36 -0000",
-            "content": "\r\n        <p>How do you turn a passion project into a business?<br><br>\nAfter I quit my job, I have to find out.<br><br>\nThe only problem is, I don\u2019t know anything about running a business.</p>\r\n      ",
-            "contentSnippet": "How do you turn a passion project into a business?\n\nAfter I quit my job, I have to find out.\n\nThe only problem is, I don\u2019t know anything about running a business."
+            "content:encoded": "\r\n        <p>How do you turn a passion project into a business?<br><br>\nAfter I quit my job, I have to find out.<br><br>\nThe only problem is, I don\u2019t know anything about running a business.</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255771",
+            "title": "#16 Double Life",
+            "pubDate": "Wed, 04 May 2016 15:48:55 -0000",
+            "content": "\r\n        <p>For months, I\u2019ve lived a double life and suffered the consequences.<br><br>\nNow, I\u2019m forced to reevaluate what life I want to live.</p>\r\n      ",
+            "contentSnippet": "For months, I\u2019ve lived a double life and suffered the consequences.\n\nNow, I\u2019m forced to reevaluate what life I want to live.",
             "itunes": {
                 "duration": "34:50",
                 "summary": "\r\n        For months, I\u2019ve lived a double life and suffered the consequences.<br />\nNow, I\u2019m forced to reevaluate what life I want to live.\r\n      ",
@@ -821,18 +870,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/8f5cfd0c-815d-42e4-8c94-666bbad6c0c9/16-Double-Life.mp3"
             },
+            "entities": ["months", "Now"],
             "content:encodedSnippet": "For months, I\u2019ve lived a double life and suffered the consequences.\n\nNow, I\u2019m forced to reevaluate what life I want to live.",
-            "link": "https://beta.prx.org/stories/255771",
             "guid": "tag:soundcloud,2010:tracks/259999843",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2016-05-04T15:48:55.000Z",
-            "content:encoded": "\r\n        <p>For months, I\u2019ve lived a double life and suffered the consequences.<br><br>\nNow, I\u2019m forced to reevaluate what life I want to live.</p>\r\n      ",
-            "title": "#16 Double Life",
-            "pubDate": "Wed, 04 May 2016 15:48:55 -0000",
-            "content": "\r\n        <p>For months, I\u2019ve lived a double life and suffered the consequences.<br><br>\nNow, I\u2019m forced to reevaluate what life I want to live.</p>\r\n      ",
-            "contentSnippet": "For months, I\u2019ve lived a double life and suffered the consequences.\n\nNow, I\u2019m forced to reevaluate what life I want to live."
+            "content:encoded": "\r\n        <p>For months, I\u2019ve lived a double life and suffered the consequences.<br><br>\nNow, I\u2019m forced to reevaluate what life I want to live.</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255772",
+            "title": "#15 Good Cop, Bad Cop",
+            "pubDate": "Sat, 02 Apr 2016 21:14:06 -0000",
+            "content": "\r\n        <p>Spending most of my savings makes me anxious but when my car dies I don\u2019t have a choice. Luckily, my boyfriend\u2019s father Chuck comes to my rescue and guides me through the world of used cars. Our mission: to find a cheap car that\u2019s not a dud.</p>\r\n      ",
+            "contentSnippet": "Spending most of my savings makes me anxious but when my car dies I don\u2019t have a choice. Luckily, my boyfriend\u2019s father Chuck comes to my rescue and guides me through the world of used cars. Our mission: to find a cheap car that\u2019s not a dud.",
             "itunes": {
                 "duration": "31:07",
                 "summary": "\r\n        Spending most of my savings makes me anxious but when my car dies I don\u2019t have a choice. Luckily, my boyfriend\u2019s father Chuck comes to my rescue and guides me through the world of used cars. Our mission: to find a cheap car that\u2019s not a dud.\r\n      ",
@@ -845,18 +895,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/06552ab3-1975-4ad1-aae9-2e93b6c49325/15-Good-Cop-Bad-Cop.mp3"
             },
+            "entities": ["Chuck"],
             "content:encodedSnippet": "Spending most of my savings makes me anxious but when my car dies I don\u2019t have a choice. Luckily, my boyfriend\u2019s father Chuck comes to my rescue and guides me through the world of used cars. Our mission: to find a cheap car that\u2019s not a dud.",
-            "link": "https://beta.prx.org/stories/255772",
             "guid": "tag:soundcloud,2010:tracks/256970014",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2016-04-02T21:14:06.000Z",
-            "content:encoded": "\r\n        <p>Spending most of my savings makes me anxious but when my car dies I don\u2019t have a choice. Luckily, my boyfriend\u2019s father Chuck comes to my rescue and guides me through the world of used cars. Our mission: to find a cheap car that\u2019s not a dud.</p>\r\n      ",
-            "title": "#15 Good Cop, Bad Cop",
-            "pubDate": "Sat, 02 Apr 2016 21:14:06 -0000",
-            "content": "\r\n        <p>Spending most of my savings makes me anxious but when my car dies I don\u2019t have a choice. Luckily, my boyfriend\u2019s father Chuck comes to my rescue and guides me through the world of used cars. Our mission: to find a cheap car that\u2019s not a dud.</p>\r\n      ",
-            "contentSnippet": "Spending most of my savings makes me anxious but when my car dies I don\u2019t have a choice. Luckily, my boyfriend\u2019s father Chuck comes to my rescue and guides me through the world of used cars. Our mission: to find a cheap car that\u2019s not a dud."
+            "content:encoded": "\r\n        <p>Spending most of my savings makes me anxious but when my car dies I don\u2019t have a choice. Luckily, my boyfriend\u2019s father Chuck comes to my rescue and guides me through the world of used cars. Our mission: to find a cheap car that\u2019s not a dud.</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255773",
+            "title": "#14 I Never Talk About Politics",
+            "pubDate": "Mon, 14 Mar 2016 18:57:59 -0000",
+            "content": "\r\n        <p>What happens when an Asian-American millennial decides to run for mayor in one of the whitest states in America? Politics gets ugly.</p>\r\n      ",
+            "contentSnippet": "What happens when an Asian-American millennial decides to run for mayor in one of the whitest states in America? Politics gets ugly.",
             "itunes": {
                 "duration": "36:53",
                 "summary": "\r\n        What happens when an Asian-American millennial decides to run for mayor in one of the whitest states in America? Politics gets ugly.\r\n      ",
@@ -869,18 +920,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/298e0639-2d6c-43b8-90bf-93a7b080a506/14-I-Never-Talk-About-Politics.mp3"
             },
+            "entities": ["Asian-American", "mayor", "one", "America"],
             "content:encodedSnippet": "What happens when an Asian-American millennial decides to run for mayor in one of the whitest states in America? Politics gets ugly.",
-            "link": "https://beta.prx.org/stories/255773",
             "guid": "tag:soundcloud,2010:tracks/251855716",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2016-03-14T18:57:59.000Z",
-            "content:encoded": "\r\n        <p>What happens when an Asian-American millennial decides to run for mayor in one of the whitest states in America? Politics gets ugly.</p>\r\n      ",
-            "title": "#14 I Never Talk About Politics",
-            "pubDate": "Mon, 14 Mar 2016 18:57:59 -0000",
-            "content": "\r\n        <p>What happens when an Asian-American millennial decides to run for mayor in one of the whitest states in America? Politics gets ugly.</p>\r\n      ",
-            "contentSnippet": "What happens when an Asian-American millennial decides to run for mayor in one of the whitest states in America? Politics gets ugly."
+            "content:encoded": "\r\n        <p>What happens when an Asian-American millennial decides to run for mayor in one of the whitest states in America? Politics gets ugly.</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255774",
+            "title": "#13 Long Distance Love Story",
+            "pubDate": "Sun, 14 Feb 2016 16:45:56 -0000",
+            "content": "\r\n        <p>After 10 years, two people living 4,500 miles apart have to decide how and when they will physically live in the same place.</p>\r\n      ",
+            "contentSnippet": "After 10 years, two people living 4,500 miles apart have to decide how and when they will physically live in the same place.",
             "itunes": {
                 "duration": "26:32",
                 "summary": "\r\n        After 10 years, two people living 4,500 miles apart have to decide how and when they will physically live in the same place.\r\n      ",
@@ -893,18 +945,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/fb1e9630-7cfa-4be0-86f3-d46a8a14b3c3/13-Long-Distance-Love-Story.mp3"
             },
+            "entities": ["4,500", "10 years", "two"],
             "content:encodedSnippet": "After 10 years, two people living 4,500 miles apart have to decide how and when they will physically live in the same place.",
-            "link": "https://beta.prx.org/stories/255774",
             "guid": "tag:soundcloud,2010:tracks/247016435",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2016-02-14T16:45:56.000Z",
-            "content:encoded": "\r\n        <p>After 10 years, two people living 4,500 miles apart have to decide how and when they will physically live in the same place.</p>\r\n      ",
-            "title": "#13 Long Distance Love Story",
-            "pubDate": "Sun, 14 Feb 2016 16:45:56 -0000",
-            "content": "\r\n        <p>After 10 years, two people living 4,500 miles apart have to decide how and when they will physically live in the same place.</p>\r\n      ",
-            "contentSnippet": "After 10 years, two people living 4,500 miles apart have to decide how and when they will physically live in the same place."
+            "content:encoded": "\r\n        <p>After 10 years, two people living 4,500 miles apart have to decide how and when they will physically live in the same place.</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255775",
+            "title": "#12 When Would We Get Married?",
+            "pubDate": "Mon, 01 Feb 2016 11:46:46 -0000",
+            "content": "\r\n        <p>After four years of being in a relationship, my boyfriend and I have never talked about marriage. But after sitting down with my family, all of that changes.</p>\r\n      ",
+            "contentSnippet": "After four years of being in a relationship, my boyfriend and I have never talked about marriage. But after sitting down with my family, all of that changes.",
             "itunes": {
                 "duration": "28:15",
                 "summary": "\r\n        After four years of being in a relationship, my boyfriend and I have never talked about marriage. But after sitting down with my family, all of that changes.\r\n      ",
@@ -917,18 +970,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/028e848f-d8c5-4817-9c68-9917a0fa2f13/12-When-Would-We-Get-Married_.mp3"
             },
+            "entities": ["four years"],
             "content:encodedSnippet": "After four years of being in a relationship, my boyfriend and I have never talked about marriage. But after sitting down with my family, all of that changes.",
-            "link": "https://beta.prx.org/stories/255775",
             "guid": "tag:soundcloud,2010:tracks/244869070",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2016-02-01T11:46:46.000Z",
-            "content:encoded": "\r\n        <p>After four years of being in a relationship, my boyfriend and I have never talked about marriage. But after sitting down with my family, all of that changes.</p>\r\n      ",
-            "title": "#12 When Would We Get Married?",
-            "pubDate": "Mon, 01 Feb 2016 11:46:46 -0000",
-            "content": "\r\n        <p>After four years of being in a relationship, my boyfriend and I have never talked about marriage. But after sitting down with my family, all of that changes.</p>\r\n      ",
-            "contentSnippet": "After four years of being in a relationship, my boyfriend and I have never talked about marriage. But after sitting down with my family, all of that changes."
+            "content:encoded": "\r\n        <p>After four years of being in a relationship, my boyfriend and I have never talked about marriage. But after sitting down with my family, all of that changes.</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255776",
+            "title": "#11 Facebook, Mexico & Peter Pan",
+            "pubDate": "Mon, 11 Jan 2016 06:50:44 -0000",
+            "content": "\r\n        <p>When things aren\u2019t working out the way you had expected,<br><br>\nit\u2019s tempting to jump on an airplane or a boat and leave everything behind. I know a lot of people who have done it, including myself.</p>\r\n      ",
+            "contentSnippet": "When things aren\u2019t working out the way you had expected,\n\nit\u2019s tempting to jump on an airplane or a boat and leave everything behind. I know a lot of people who have done it, including myself.",
             "itunes": {
                 "duration": "29:41",
                 "summary": "\r\n        When things aren\u2019t working out the way you had expected, <br />\nit's tempting to jump on an airplane or a boat and leave everything behind. I know a lot of people who have done it, including myself.\r\n      ",
@@ -941,18 +995,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/728af58a-2b14-4d4f-985e-95341d5be7bb/11-Facebook-Mexico-Peter-Pan.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "When things aren\u2019t working out the way you had expected,\n\nit\u2019s tempting to jump on an airplane or a boat and leave everything behind. I know a lot of people who have done it, including myself.",
-            "link": "https://beta.prx.org/stories/255776",
             "guid": "tag:soundcloud,2010:tracks/241389674",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2016-01-11T06:50:44.000Z",
-            "content:encoded": "\r\n        <p>When things aren\u2019t working out the way you had expected,<br><br>\nit\u2019s tempting to jump on an airplane or a boat and leave everything behind. I know a lot of people who have done it, including myself.</p>\r\n      ",
-            "title": "#11 Facebook, Mexico & Peter Pan",
-            "pubDate": "Mon, 11 Jan 2016 06:50:44 -0000",
-            "content": "\r\n        <p>When things aren\u2019t working out the way you had expected,<br><br>\nit\u2019s tempting to jump on an airplane or a boat and leave everything behind. I know a lot of people who have done it, including myself.</p>\r\n      ",
-            "contentSnippet": "When things aren\u2019t working out the way you had expected,\n\nit\u2019s tempting to jump on an airplane or a boat and leave everything behind. I know a lot of people who have done it, including myself."
+            "content:encoded": "\r\n        <p>When things aren\u2019t working out the way you had expected,<br><br>\nit\u2019s tempting to jump on an airplane or a boat and leave everything behind. I know a lot of people who have done it, including myself.</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255777",
+            "title": "Making Millennial: An Out-Of-Body Experience",
+            "pubDate": "Fri, 18 Dec 2015 02:47:58 -0000",
+            "content": "\r\n        <p>What\u2019s it like to document your life and make it into a story?<br><br>\nIt\u2019s weird, for sure. In this bonus episode, I explain the out-of-body experience I have, my thoughts on vulnerability, and the production process behind putting this show together.</p>\r\n      ",
+            "contentSnippet": "What\u2019s it like to document your life and make it into a story?\n\nIt\u2019s weird, for sure. In this bonus episode, I explain the out-of-body experience I have, my thoughts on vulnerability, and the production process behind putting this show together.",
             "itunes": {
                 "duration": "26:20",
                 "summary": "\r\n        What's it like to document your life and make it into a story? <br />\nIt\u2019s weird, for sure. In this bonus episode, I explain the out-of-body experience I have, my thoughts on vulnerability, and the production process behind putting this show together.\r\n      ",
@@ -965,18 +1020,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/870efcc7-65fc-4eb9-a629-d0eb1001f9c0/Making-Millennial_-An-Out-Of-Body-Experience.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "What\u2019s it like to document your life and make it into a story?\n\nIt\u2019s weird, for sure. In this bonus episode, I explain the out-of-body experience I have, my thoughts on vulnerability, and the production process behind putting this show together.",
-            "link": "https://beta.prx.org/stories/255777",
             "guid": "tag:soundcloud,2010:tracks/238067043",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2015-12-18T02:47:58.000Z",
-            "content:encoded": "\r\n        <p>What\u2019s it like to document your life and make it into a story?<br><br>\nIt\u2019s weird, for sure. In this bonus episode, I explain the out-of-body experience I have, my thoughts on vulnerability, and the production process behind putting this show together.</p>\r\n      ",
-            "title": "Making Millennial: An Out-Of-Body Experience",
-            "pubDate": "Fri, 18 Dec 2015 02:47:58 -0000",
-            "content": "\r\n        <p>What\u2019s it like to document your life and make it into a story?<br><br>\nIt\u2019s weird, for sure. In this bonus episode, I explain the out-of-body experience I have, my thoughts on vulnerability, and the production process behind putting this show together.</p>\r\n      ",
-            "contentSnippet": "What\u2019s it like to document your life and make it into a story?\n\nIt\u2019s weird, for sure. In this bonus episode, I explain the out-of-body experience I have, my thoughts on vulnerability, and the production process behind putting this show together."
+            "content:encoded": "\r\n        <p>What\u2019s it like to document your life and make it into a story?<br><br>\nIt\u2019s weird, for sure. In this bonus episode, I explain the out-of-body experience I have, my thoughts on vulnerability, and the production process behind putting this show together.</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255778",
+            "title": "#10 Best of Both Worlds",
+            "pubDate": "Sun, 29 Nov 2015 17:54:29 -0000",
+            "content": "\r\n        <p>In the season finale find out what happens when you are forced to choose between a 9-to-5 job and being your own boss.</p>\r\n      ",
+            "contentSnippet": "In the season finale find out what happens when you are forced to choose between a 9-to-5 job and being your own boss.",
             "itunes": {
                 "duration": "35:03",
                 "summary": "\r\n        In the season finale find out what happens when you are forced to choose between a 9-to-5 job and being your own boss.\r\n      ",
@@ -989,18 +1045,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/8eacf720-3c05-4e79-b034-cf7cbd3dc19b/10-Best-of-Both-Worlds.mp3"
             },
+            "entities": ["9-to-5", "boss"],
             "content:encodedSnippet": "In the season finale find out what happens when you are forced to choose between a 9-to-5 job and being your own boss.",
-            "link": "https://beta.prx.org/stories/255778",
             "guid": "tag:soundcloud,2010:tracks/235251384",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2015-11-29T17:54:29.000Z",
-            "content:encoded": "\r\n        <p>In the season finale find out what happens when you are forced to choose between a 9-to-5 job and being your own boss.</p>\r\n      ",
-            "title": "#10 Best of Both Worlds",
-            "pubDate": "Sun, 29 Nov 2015 17:54:29 -0000",
-            "content": "\r\n        <p>In the season finale find out what happens when you are forced to choose between a 9-to-5 job and being your own boss.</p>\r\n      ",
-            "contentSnippet": "In the season finale find out what happens when you are forced to choose between a 9-to-5 job and being your own boss."
+            "content:encoded": "\r\n        <p>In the season finale find out what happens when you are forced to choose between a 9-to-5 job and being your own boss.</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255779",
+            "title": "#9 Becoming More of a Somebody",
+            "pubDate": "Fri, 16 Oct 2015 02:55:43 -0000",
+            "content": "\r\n        <p>After an intense interview for a fellowship in Washington D.C. my future hinges on if I receive an email or a phone call \u2014 if I am accepted or rejected.</p>\r\n      ",
+            "contentSnippet": "After an intense interview for a fellowship in Washington D.C. my future hinges on if I receive an email or a phone call \u2014 if I am accepted or rejected.",
             "itunes": {
                 "duration": "20:31",
                 "summary": "\r\n        After an intense interview for a fellowship in Washington D.C. my future hinges on if I receive an email or a phone call \u2014 if I am accepted or rejected.\r\n      ",
@@ -1013,18 +1070,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/44fe734e-a7bb-47d5-b9ee-bb18734c4864/9-Becoming-More-of-a-Somebody.mp3"
             },
+            "entities": ["future", "D.C.", "Washington"],
             "content:encodedSnippet": "After an intense interview for a fellowship in Washington D.C. my future hinges on if I receive an email or a phone call \u2014 if I am accepted or rejected.",
-            "link": "https://beta.prx.org/stories/255779",
             "guid": "tag:soundcloud,2010:tracks/228613564",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2015-10-16T02:55:43.000Z",
-            "content:encoded": "\r\n        <p>After an intense interview for a fellowship in Washington D.C. my future hinges on if I receive an email or a phone call \u2014 if I am accepted or rejected.</p>\r\n      ",
-            "title": "#9 Becoming More of a Somebody",
-            "pubDate": "Fri, 16 Oct 2015 02:55:43 -0000",
-            "content": "\r\n        <p>After an intense interview for a fellowship in Washington D.C. my future hinges on if I receive an email or a phone call \u2014 if I am accepted or rejected.</p>\r\n      ",
-            "contentSnippet": "After an intense interview for a fellowship in Washington D.C. my future hinges on if I receive an email or a phone call \u2014 if I am accepted or rejected."
+            "content:encoded": "\r\n        <p>After an intense interview for a fellowship in Washington D.C. my future hinges on if I receive an email or a phone call \u2014 if I am accepted or rejected.</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255780",
+            "title": "#8 Let the Games Begin",
+            "pubDate": "Fri, 18 Sep 2015 04:17:18 -0000",
+            "content": "\r\n        <p>Job interviews are stressful, especially when it\u2019s for the position of your dreams and you\u2019re competing against nine other people. But is it worth it to become something you\u2019re not and to play the game so someone will hire you?</p>\r\n      ",
+            "contentSnippet": "Job interviews are stressful, especially when it\u2019s for the position of your dreams and you\u2019re competing against nine other people. But is it worth it to become something you\u2019re not and to play the game so someone will hire you?",
             "itunes": {
                 "duration": "28:21",
                 "summary": "\r\n        Job interviews are stressful, especially when it\u2019s for the position of your dreams and you're competing against nine other people. But is it worth it to become something you\u2019re not and to play the game so someone will hire you?\r\n      ",
@@ -1037,18 +1095,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/d5b1f597-94e9-4c03-94de-537ae19ccac7/8-Let-the-Games-Begin.mp3"
             },
+            "entities": ["nine"],
             "content:encodedSnippet": "Job interviews are stressful, especially when it\u2019s for the position of your dreams and you\u2019re competing against nine other people. But is it worth it to become something you\u2019re not and to play the game so someone will hire you?",
-            "link": "https://beta.prx.org/stories/255780",
             "guid": "tag:soundcloud,2010:tracks/224396306",
             "categories": ["\r\n        Uncategorized\r\n      "],
             "isoDate": "2015-09-18T04:17:18.000Z",
-            "content:encoded": "\r\n        <p>Job interviews are stressful, especially when it\u2019s for the position of your dreams and you\u2019re competing against nine other people. But is it worth it to become something you\u2019re not and to play the game so someone will hire you?</p>\r\n      ",
-            "title": "#8 Let the Games Begin",
-            "pubDate": "Fri, 18 Sep 2015 04:17:18 -0000",
-            "content": "\r\n        <p>Job interviews are stressful, especially when it\u2019s for the position of your dreams and you\u2019re competing against nine other people. But is it worth it to become something you\u2019re not and to play the game so someone will hire you?</p>\r\n      ",
-            "contentSnippet": "Job interviews are stressful, especially when it\u2019s for the position of your dreams and you\u2019re competing against nine other people. But is it worth it to become something you\u2019re not and to play the game so someone will hire you?"
+            "content:encoded": "\r\n        <p>Job interviews are stressful, especially when it\u2019s for the position of your dreams and you\u2019re competing against nine other people. But is it worth it to become something you\u2019re not and to play the game so someone will hire you?</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255781",
+            "title": "#7 What\u2019s Your Worth?",
+            "pubDate": "Sat, 22 Aug 2015 05:08:24 -0000",
+            "content": "\r\n        <p>The big question is always, \u201cHow do you convince people to pay you to do what you love?\u201d But what happens when the dream starts to come true and you\u2019re not ready for it?</p>\r\n      ",
+            "contentSnippet": "The big question is always, \u201cHow do you convince people to pay you to do what you love?\u201d But what happens when the dream starts to come true and you\u2019re not ready for it?",
             "itunes": {
                 "duration": "26:02",
                 "summary": "\r\n        The big question is always, \u201cHow do you convince people to pay you to do what you love?\u201d But what happens when the dream starts to come true and you\u2019re not ready for it?\r\n      ",
@@ -1061,21 +1120,22 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/c35af504-09d0-4a5b-94c0-8c979742bd1b/7-What_s-Your-Worth_.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "The big question is always, \u201cHow do you convince people to pay you to do what you love?\u201d But what happens when the dream starts to come true and you\u2019re not ready for it?",
-            "link": "https://beta.prx.org/stories/255781",
             "guid": "tag:soundcloud,2010:tracks/220354164",
             "categories": [
                 "\r\n        Uncategorized\r\n      ",
                 "\r\n        adfree\r\n      "
             ],
             "isoDate": "2015-08-22T05:08:24.000Z",
-            "content:encoded": "\r\n        <p>The big question is always, \u201cHow do you convince people to pay you to do what you love?\u201d But what happens when the dream starts to come true and you\u2019re not ready for it?</p>\r\n      ",
-            "title": "#7 What\u2019s Your Worth?",
-            "pubDate": "Sat, 22 Aug 2015 05:08:24 -0000",
-            "content": "\r\n        <p>The big question is always, \u201cHow do you convince people to pay you to do what you love?\u201d But what happens when the dream starts to come true and you\u2019re not ready for it?</p>\r\n      ",
-            "contentSnippet": "The big question is always, \u201cHow do you convince people to pay you to do what you love?\u201d But what happens when the dream starts to come true and you\u2019re not ready for it?"
+            "content:encoded": "\r\n        <p>The big question is always, \u201cHow do you convince people to pay you to do what you love?\u201d But what happens when the dream starts to come true and you\u2019re not ready for it?</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255782",
+            "title": "#6 The NYC Fairy Tale",
+            "pubDate": "Tue, 21 Jul 2015 02:20:20 -0000",
+            "content": "\r\n        <p>After months of submitting job applications with no luck, I find myself doing something unexpected \u2014 traveling to New York City, sitting in front of important people, and asking them for a job.</p>\r\n      ",
+            "contentSnippet": "After months of submitting job applications with no luck, I find myself doing something unexpected \u2014 traveling to New York City, sitting in front of important people, and asking them for a job.",
             "itunes": {
                 "duration": "27:20",
                 "summary": "\r\n        After months of submitting job applications with no luck, I find myself doing something unexpected \u2014 traveling to New York City, sitting in front of important people, and asking them for a job.\r\n      ",
@@ -1088,21 +1148,22 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/2d4500be-8726-45a1-9a6f-f7897a1a46c7/6-The-NYC-Fairy-Tale.mp3"
             },
+            "entities": ["New York City", "months"],
             "content:encodedSnippet": "After months of submitting job applications with no luck, I find myself doing something unexpected \u2014 traveling to New York City, sitting in front of important people, and asking them for a job.",
-            "link": "https://beta.prx.org/stories/255782",
             "guid": "tag:soundcloud,2010:tracks/215623632",
             "categories": [
                 "\r\n        Uncategorized\r\n      ",
                 "\r\n        adfree\r\n      "
             ],
             "isoDate": "2015-07-21T02:20:20.000Z",
-            "content:encoded": "\r\n        <p>After months of submitting job applications with no luck, I find myself doing something unexpected \u2014 traveling to New York City, sitting in front of important people, and asking them for a job.</p>\r\n      ",
-            "title": "#6 The NYC Fairy Tale",
-            "pubDate": "Tue, 21 Jul 2015 02:20:20 -0000",
-            "content": "\r\n        <p>After months of submitting job applications with no luck, I find myself doing something unexpected \u2014 traveling to New York City, sitting in front of important people, and asking them for a job.</p>\r\n      ",
-            "contentSnippet": "After months of submitting job applications with no luck, I find myself doing something unexpected \u2014 traveling to New York City, sitting in front of important people, and asking them for a job."
+            "content:encoded": "\r\n        <p>After months of submitting job applications with no luck, I find myself doing something unexpected \u2014 traveling to New York City, sitting in front of important people, and asking them for a job.</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255783",
+            "title": "#5 Men, Moms & Money",
+            "pubDate": "Tue, 02 Jun 2015 14:36:20 -0000",
+            "content": "\r\n        <p>What happens when your significant other\u2019s career takes off and you\u2019re left behind? Tough conversations take place.</p>\r\n      ",
+            "contentSnippet": "What happens when your significant other\u2019s career takes off and you\u2019re left behind? Tough conversations take place.",
             "itunes": {
                 "duration": "26:45",
                 "summary": "\r\n        What happens when your significant other\u2019s career takes off and you\u2019re left behind? Tough conversations take place.\r\n      ",
@@ -1115,21 +1176,22 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/110aff47-d4d4-4183-b80d-094d0b37b4c0/5-Men-Moms-Money.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "What happens when your significant other\u2019s career takes off and you\u2019re left behind? Tough conversations take place.",
-            "link": "https://beta.prx.org/stories/255783",
             "guid": "tag:soundcloud,2010:tracks/208442955",
             "categories": [
                 "\r\n        Uncategorized\r\n      ",
                 "\r\n        adfree\r\n      "
             ],
             "isoDate": "2015-06-02T14:36:20.000Z",
-            "content:encoded": "\r\n        <p>What happens when your significant other\u2019s career takes off and you\u2019re left behind? Tough conversations take place.</p>\r\n      ",
-            "title": "#5 Men, Moms & Money",
-            "pubDate": "Tue, 02 Jun 2015 14:36:20 -0000",
-            "content": "\r\n        <p>What happens when your significant other\u2019s career takes off and you\u2019re left behind? Tough conversations take place.</p>\r\n      ",
-            "contentSnippet": "What happens when your significant other\u2019s career takes off and you\u2019re left behind? Tough conversations take place."
+            "content:encoded": "\r\n        <p>What happens when your significant other\u2019s career takes off and you\u2019re left behind? Tough conversations take place.</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255784",
+            "title": "#4 Nothing To Lose",
+            "pubDate": "Fri, 24 Apr 2015 22:02:09 -0000",
+            "content": "\r\n        <p>Why do we become our worst enemies when it comes to pursuing the things we actually want? I\u2019ve been there. This is the origin story of making Millennial and the nitty gritty mess that led to the first episode.</p>\r\n      ",
+            "contentSnippet": "Why do we become our worst enemies when it comes to pursuing the things we actually want? I\u2019ve been there. This is the origin story of making Millennial and the nitty gritty mess that led to the first episode.",
             "itunes": {
                 "duration": "22:37",
                 "summary": "\r\n        Why do we become our worst enemies when it comes to pursuing the things we actually want? I\u2019ve been there. This is the origin story of making Millennial and the nitty gritty mess that led to the first episode.\r\n      ",
@@ -1142,21 +1204,22 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/17fed50b-3e1a-4c22-a8b2-370c4551e807/4-Nothing-To-Lose.mp3"
             },
+            "entities": ["first"],
             "content:encodedSnippet": "Why do we become our worst enemies when it comes to pursuing the things we actually want? I\u2019ve been there. This is the origin story of making Millennial and the nitty gritty mess that led to the first episode.",
-            "link": "https://beta.prx.org/stories/255784",
             "guid": "tag:soundcloud,2010:tracks/202408756",
             "categories": [
                 "\r\n        Uncategorized\r\n      ",
                 "\r\n        adfree\r\n      "
             ],
             "isoDate": "2015-04-24T22:02:09.000Z",
-            "content:encoded": "\r\n        <p>Why do we become our worst enemies when it comes to pursuing the things we actually want? I\u2019ve been there. This is the origin story of making Millennial and the nitty gritty mess that led to the first episode.</p>\r\n      ",
-            "title": "#4 Nothing To Lose",
-            "pubDate": "Fri, 24 Apr 2015 22:02:09 -0000",
-            "content": "\r\n        <p>Why do we become our worst enemies when it comes to pursuing the things we actually want? I\u2019ve been there. This is the origin story of making Millennial and the nitty gritty mess that led to the first episode.</p>\r\n      ",
-            "contentSnippet": "Why do we become our worst enemies when it comes to pursuing the things we actually want? I\u2019ve been there. This is the origin story of making Millennial and the nitty gritty mess that led to the first episode."
+            "content:encoded": "\r\n        <p>Why do we become our worst enemies when it comes to pursuing the things we actually want? I\u2019ve been there. This is the origin story of making Millennial and the nitty gritty mess that led to the first episode.</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255785",
+            "title": "#3 Brunchies",
+            "pubDate": "Sat, 28 Feb 2015 12:35:21 -0000",
+            "content": "\r\n        <p>Following your dreams is not always glamorous, especially when you could get stuck in \u201ctransition.\u201d</p>\r\n      ",
+            "contentSnippet": "Following your dreams is not always glamorous, especially when you could get stuck in \u201ctransition.\u201d",
             "itunes": {
                 "duration": "21:58",
                 "summary": "\r\n        Following your dreams is not always glamorous, especially when you could get stuck in \"transition.\"\r\n      ",
@@ -1169,21 +1232,22 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/e932bfcb-32ff-48fb-9de3-e4fb113799a2/3-Brunchies.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "Following your dreams is not always glamorous, especially when you could get stuck in \u201ctransition.\u201d",
-            "link": "https://beta.prx.org/stories/255785",
             "guid": "tag:soundcloud,2010:tracks/193497437",
             "categories": [
                 "\r\n        Uncategorized\r\n      ",
                 "\r\n        adfree\r\n      "
             ],
             "isoDate": "2015-02-28T12:35:21.000Z",
-            "content:encoded": "\r\n        <p>Following your dreams is not always glamorous, especially when you could get stuck in \u201ctransition.\u201d</p>\r\n      ",
-            "title": "#3 Brunchies",
-            "pubDate": "Sat, 28 Feb 2015 12:35:21 -0000",
-            "content": "\r\n        <p>Following your dreams is not always glamorous, especially when you could get stuck in \u201ctransition.\u201d</p>\r\n      ",
-            "contentSnippet": "Following your dreams is not always glamorous, especially when you could get stuck in \u201ctransition.\u201d"
+            "content:encoded": "\r\n        <p>Following your dreams is not always glamorous, especially when you could get stuck in \u201ctransition.\u201d</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255786",
+            "title": "#2 Living on \u201cThe Line\u201d",
+            "pubDate": "Fri, 30 Jan 2015 16:33:25 -0000",
+            "content": "\r\n        <p>Decisions. How do you know which ones will lead you to become the person you want to be in the future? And which ones may screw everything up?</p>\r\n      ",
+            "contentSnippet": "Decisions. How do you know which ones will lead you to become the person you want to be in the future? And which ones may screw everything up?",
             "itunes": {
                 "duration": "22:08",
                 "summary": "\r\n        Decisions. How do you know which ones will lead you to become the person you want to be in the future? And which ones may screw everything up?\r\n      ",
@@ -1196,21 +1260,22 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/a00df63c-ec73-4f36-be5b-e50f2ee1493e/2-Living-on-_The-Line_.mp3"
             },
+            "entities": ["the future"],
             "content:encodedSnippet": "Decisions. How do you know which ones will lead you to become the person you want to be in the future? And which ones may screw everything up?",
-            "link": "https://beta.prx.org/stories/255786",
             "guid": "tag:soundcloud,2010:tracks/188655188",
             "categories": [
                 "\r\n        Uncategorized\r\n      ",
                 "\r\n        adfree\r\n      "
             ],
             "isoDate": "2015-01-30T16:33:25.000Z",
-            "content:encoded": "\r\n        <p>Decisions. How do you know which ones will lead you to become the person you want to be in the future? And which ones may screw everything up?</p>\r\n      ",
-            "title": "#2 Living on \u201cThe Line\u201d",
-            "pubDate": "Fri, 30 Jan 2015 16:33:25 -0000",
-            "content": "\r\n        <p>Decisions. How do you know which ones will lead you to become the person you want to be in the future? And which ones may screw everything up?</p>\r\n      ",
-            "contentSnippet": "Decisions. How do you know which ones will lead you to become the person you want to be in the future? And which ones may screw everything up?"
+            "content:encoded": "\r\n        <p>Decisions. How do you know which ones will lead you to become the person you want to be in the future? And which ones may screw everything up?</p>\r\n      "
         },
         {
+            "link": "https://beta.prx.org/stories/255787",
+            "title": "#1 Welcome To Millennial",
+            "pubDate": "Fri, 16 Jan 2015 21:36:03 -0000",
+            "content": "\r\n        <h1>1 Welcome To Millennial by Megan Tan</h1>\r\n      ",
+            "contentSnippet": "1 Welcome To Millennial by Megan Tan",
             "itunes": {
                 "duration": "12:17",
                 "summary": "\r\n        #1 Welcome To Millennial by Megan Tan\r\n      ",
@@ -1223,19 +1288,15 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/millennial/dovetail.prxu.org/26/cd9acf90-7bf5-4640-aa1f-6e54471a8ba1/1-Welcome-To-Millennial.mp3"
             },
+            "entities": ["1", "Megan Tan</h1>"],
             "content:encodedSnippet": "1 Welcome To Millennial by Megan Tan",
-            "link": "https://beta.prx.org/stories/255787",
             "guid": "tag:soundcloud,2010:tracks/186402591",
             "categories": [
                 "\r\n        Uncategorized\r\n      ",
                 "\r\n        adfree\r\n      "
             ],
             "isoDate": "2015-01-16T21:36:03.000Z",
-            "content:encoded": "\r\n        <h1>1 Welcome To Millennial by Megan Tan</h1>\r\n      ",
-            "title": "#1 Welcome To Millennial",
-            "pubDate": "Fri, 16 Jan 2015 21:36:03 -0000",
-            "content": "\r\n        <h1>1 Welcome To Millennial by Megan Tan</h1>\r\n      ",
-            "contentSnippet": "1 Welcome To Millennial by Megan Tan"
+            "content:encoded": "\r\n        <h1>1 Welcome To Millennial by Megan Tan</h1>\r\n      "
         }
     ]
 }

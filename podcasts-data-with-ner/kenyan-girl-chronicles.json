@@ -47,6 +47,10 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/1fa6f634/podcast/play/49285375/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F1fa6f634%2F49285375%2F5c6ee02f6be11242e02ace9b2ace6053.m4a"
             },
+            "entities": [
+                "@kenyangirlchronicles",
+                "https://anchor.fm/wanja96/message"
+            ],
             "dc:creator": "Wanja Muhoro",
             "link": "https://anchor.fm/wanja96/episodes/Communication-e1fuipv",
             "guid": "bc166637-9d28-4f75-a3d3-307bdb0b85f5",
@@ -71,6 +75,7 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/1fa6f634/podcast/play/48248578/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F1fa6f634%2F48248578%2F1675238c7465a66e6298480aaf87d77f.m4a"
             },
+            "entities": ["Maya Angeleo", "https://anchor.fm/wanja96/message"],
             "dc:creator": "Wanja Muhoro",
             "link": "https://anchor.fm/wanja96/episodes/Happy-International-Womens-Day-e1euua2",
             "guid": "a663d58d-9347-4733-a965-2dbcbdd2ab3a",
@@ -95,6 +100,7 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/1fa6f634/podcast/play/47933866/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F1fa6f634%2F47933866%2F1740fd05ce0d885be2e831a788291585.m4a"
             },
+            "entities": ["this day", "https://anchor.fm/wanja96/message"],
             "dc:creator": "Wanja Muhoro",
             "link": "https://anchor.fm/wanja96/episodes/Love--Lust--A-bit-of-both-e1elava",
             "guid": "5a94d7a7-26fe-4dcb-8930-33cf5174eacc",
@@ -119,6 +125,7 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/1fa6f634/podcast/play/47359793/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F1fa6f634%2F47359793%2Fb4a77b3ca9e2cd5fdfcf40f93b607815.m4a"
             },
+            "entities": ["one", "https://anchor.fm/wanja96/message"],
             "dc:creator": "Wanja Muhoro",
             "link": "https://anchor.fm/wanja96/episodes/Solo-dates-maybe-e1e3qbh",
             "guid": "af5003af-a897-435f-b8fa-961bff08cf94",
@@ -143,6 +150,7 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/1fa6f634/podcast/play/46434709/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F1fa6f634%2F46434709%2F324bccc2c4e0c7fb61aec02ec6528eba.m4a"
             },
+            "entities": ["today", "https://anchor.fm/wanja96/message"],
             "dc:creator": "Wanja Muhoro",
             "link": "https://anchor.fm/wanja96/episodes/The-Expectations-vs-Reality-in-loverelationships-e1d7iul",
             "guid": "4f4f2963-2547-493e-a985-3a7022c88ea7",
@@ -167,6 +175,7 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/1fa6f634/podcast/play/46097711/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F1fa6f634%2F46097711%2Fe46c94500cf33126d5db042548edcc6a.m4a"
             },
+            "entities": ["https://anchor.fm/wanja96/message"],
             "dc:creator": "Wanja Muhoro",
             "link": "https://anchor.fm/wanja96/episodes/Dont-look-back-e1ct9rf",
             "guid": "0b210942-47c7-44d1-bec3-91fcd03891e4",
@@ -191,6 +200,7 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/1fa6f634/podcast/play/45725767/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-01-05%2F1aca5d12c54d7a67461c1848e7cb0f23.m4a"
             },
+            "entities": ["one", "https://anchor.fm/wanja96/message"],
             "dc:creator": "Wanja Muhoro",
             "link": "https://anchor.fm/wanja96/episodes/Happy-New-Year------2022-e1chuk7",
             "guid": "ce0ba01c-d16c-4973-8fa2-22de7bf45ea9",
@@ -215,6 +225,7 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/1fa6f634/podcast/play/36948491/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-07-14%2F068e346f1c945b106ed2f3ddf7683cb0.m4a"
             },
+            "entities": ["https://anchor.fm/wanja96/message"],
             "dc:creator": "Wanja Muhoro",
             "link": "https://anchor.fm/wanja96/episodes/Shots-and-topics-pt-2-e14632b",
             "guid": "b32877ba-c376-4624-862b-1bec0b86d036",
@@ -239,6 +250,12 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/1fa6f634/podcast/play/36091093/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-07-14%2F0cbaf3ddf81f086fba401620f4ba6759.m4a"
             },
+            "entities": [
+                "Destiny\u2019s Child",
+                "Today",
+                "2",
+                "https://anchor.fm/wanja96/message"
+            ],
             "dc:creator": "Wanja Muhoro",
             "link": "https://anchor.fm/wanja96/episodes/Shots-and-topics-pt-1-e13btol",
             "guid": "7fc69678-17cd-4dea-9190-c889a36840bc",
@@ -263,6 +280,7 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/1fa6f634/podcast/play/26647214/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-02-13%2Ffa1a024699f9f0bb0b9f881d164986f9.m4a"
             },
+            "entities": ["https://anchor.fm/wanja96/message"],
             "dc:creator": "Wanja Muhoro",
             "link": "https://anchor.fm/wanja96/episodes/Valentines-special-eqbn7e",
             "guid": "57d993b2-b7c6-4fb0-b109-94c2d0d41704",
@@ -287,6 +305,7 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/1fa6f634/podcast/play/26254805/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-02-12%2F82af472237fddbe3a4f5c23a8e1961b0.m4a"
             },
+            "entities": ["https://anchor.fm/wanja96/message"],
             "dc:creator": "Wanja Muhoro",
             "link": "https://anchor.fm/wanja96/episodes/Hello-2021-epvo0l",
             "guid": "5aafaaf3-4ce0-42d2-b9d2-470a61dea64d",
@@ -311,6 +330,11 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/1fa6f634/podcast/play/22998789/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-02-12%2F79b66b74056d3e5c96725f32877b9336.m4a"
             },
+            "entities": [
+                "owner",
+                "Instagram",
+                "https://anchor.fm/wanja96/message"
+            ],
             "dc:creator": "Wanja Muhoro",
             "link": "https://anchor.fm/wanja96/episodes/Story-timehow-I-lost-my-phone-emsca5",
             "guid": "53de1790-c932-46bc-8373-925bf59ad033",
@@ -335,6 +359,17 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/1fa6f634/podcast/play/20962539/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-02-12%2F5eccac2335909387fd712473a077fd17.m4a"
             },
+            "entities": [
+                "@e",
+                "@wanja_muhoro",
+                "Eliza",
+                "today",
+                "Instagram",
+                "Sandy",
+                "two",
+                "@liza_maingi",
+                "https://anchor.fm/wanja96/message"
+            ],
             "dc:creator": "Wanja Muhoro",
             "link": "https://anchor.fm/wanja96/episodes/story-timeHigh-school-experiences-eku7pb",
             "guid": "d9b48f18-8f4e-4dcc-b8f9-9d21ea50221c",
@@ -359,6 +394,11 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/1fa6f634/podcast/play/20039440/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-02-12%2Fc05dddf5697a7c165f8d3916c8cc8c7f.m4a"
             },
+            "entities": [
+                "@wanja_muhoro",
+                "today",
+                "https://anchor.fm/wanja96/message"
+            ],
             "dc:creator": "Wanja Muhoro",
             "link": "https://anchor.fm/wanja96/episodes/Dos-and-Donts-when-in-a-relationship-ek22ag",
             "guid": "158be450-925b-4afe-b2a6-8c00b0373046",
@@ -383,6 +423,16 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/1fa6f634/podcast/play/18771906/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-02-12%2F7bceef27848a2dcc12f253ac7d812539.m4a"
             },
+            "entities": [
+                "Robert Abade",
+                "Nairobi",
+                "Gynaecologist",
+                "today",
+                "Doctor",
+                "Obstetrician",
+                "Kenya",
+                "https://anchor.fm/wanja96/message"
+            ],
             "dc:creator": "Wanja Muhoro",
             "link": "https://anchor.fm/wanja96/episodes/Sex-Ed-With-Doctor-Robert-eircg2",
             "guid": "fe423bd4-ab86-4eff-9b4d-2762a05a9fe8",
@@ -407,6 +457,7 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/1fa6f634/podcast/play/18036802/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-02-12%2Fade649affe2ed35caaeac97534c76f71.m4a"
             },
+            "entities": ["U.K.", "Kenya", "https://anchor.fm/wanja96/message"],
             "dc:creator": "Wanja Muhoro",
             "link": "https://anchor.fm/wanja96/episodes/Story-time-My-driving-experience-ei4uk2",
             "guid": "6e63cddc-43e7-414e-b2d1-35504cfeb3bc",
@@ -429,6 +480,7 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/1fa6f634/podcast/play/13297129/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-12%2F97774717-44100-2-7661dd9a2be0b.m4a"
             },
+            "entities": ["https://anchor.fm/wanja96/message"],
             "dc:creator": "Wanja Muhoro",
             "link": "https://anchor.fm/wanja96/episodes/ep-edka19",
             "guid": "5ebe18c9-56d5-4dd2-8329-3f5a2fe777fe",

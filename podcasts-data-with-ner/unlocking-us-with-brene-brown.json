@@ -43,6 +43,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/42D75/traffic.megaphone.fm/GLT6116976351.mp3?updated=1618000224"
             },
+            "entities": ["2", "two-part", "four"],
             "content:encodedSnippet": "This is Part 2 of our two-part series on daring leadership, where I unpack four more common types of armor that we use to self-protect when we're in fear. These barriers include creating a fitting-in culture versus a belonging culture; fostering a scarcity-based culture versus modeling that we are enough and have enough; leading reactively versus leading strategically; and resisting change versus accepting and embracing change.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "179a93ee-34c3-11eb-94bb-bbd291fa2ed0",
             "isoDate": "2021-04-12T07:01:00.000Z",
@@ -65,6 +66,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/42D75/traffic.megaphone.fm/GLT2261788021.mp3?updated=1617401723"
             },
+            "entities": ["two-part"],
             "content:encodedSnippet": "The greatest barrier to daring leadership is not fear; the greatest barrier is armor, or how we self-protect when we're in fear. This is Part I of a two-part series, where I unpack the most common types of armor, including being a knower versus being a learner, tapping out of hard conversation versus skilling up and leaning in, and using shame and blame to manage others versus using accountability and empathy. Join me for a conversation that includes real examples and actionable strategies about how we can dare to lead.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "178f98fe-34c3-11eb-94bb-ab61928af052",
             "isoDate": "2021-04-05T07:01:00.000Z",
@@ -88,6 +90,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/42D75/traffic.megaphone.fm/GLT3393183736.mp3"
             },
+            "entities": ["Dax Shepard", "three", "Tim Ferriss"],
             "content:encodedSnippet": "It\u2019s a podcasters\u2019 roundtable! In this episode, Tim Ferriss, Dax Shepard, and I talk about everything from preparing for podcasts, parenting, and ping pong, to addiction, trauma, and the long, winding road to healing and wholeness. It\u2019s fun and hard and messy. Everything you\u2019d expect from three people who consider curiosity a way of life.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "47e9619e-feb6-11ea-b1ef-93bb42b4db55",
             "isoDate": "2020-12-16T08:01:00.000Z",
@@ -110,6 +113,15 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/42D75/traffic.megaphone.fm/CAD9752686924.mp3"
             },
+            "entities": [
+                "She",
+                "her",
+                "America",
+                "World Made for Whiteness",
+                "producer",
+                "Austin Channing Brown",
+                "writer"
+            ],
             "content:encodedSnippet": "Austin Channing Brown\u2019s anti-racism work is critical to changing our world, and her ability to talk about what is good and true about love, about our faith, and about loving each other is transformative. She is a writer, a speaker, and a media producer providing inspired leadership on racial justice in America. In this episode, we connect on her book I\u2019m Still Here: Black Dignity in a World Made for Whiteness, and talk about her online television show, The Next Question.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "86c005bc-7432-11ea-b57b-874f803ffdc0",
             "isoDate": "2020-06-10T05:01:00.000Z",
@@ -133,6 +145,21 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/42D75/traffic.megaphone.fm/CAD5374600195.mp3?updated=1596903448"
             },
+            "entities": [
+                "activist",
+                "New York",
+                "New York Times",
+                "author",
+                "founder",
+                "Florida",
+                "two",
+                "three",
+                "#1",
+                "$25 Million",
+                "She",
+                "her",
+                "Glennon"
+            ],
             "content:encodedSnippet": "Strap yourselves in! In this episode, I talk to my dear friend and sister Cheetah, Glennon \u2013 author of the New York Times #1 bestseller, Untamed. This is an honest conversation about walking away from the lifelong training that keeps us small, quiet, and afraid, and embracing our wild, brave hearts.\nGlennon is the author of two #1 New York times bestsellers \u2013 Untamed and Love Warrior. She\u2019s the author of the New York Times bestseller, Carry On, Warrior, an activist, and the founder of Together Rising, an all-women led nonprofit organization that has revolutionized grassroots philanthropy \u2013 raising over $25 Million for women, families and children in crisis. She lives in Florida with her wife and three children.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "c51ce320-6546-11ea-bd19-6f46d23523c2",
             "isoDate": "2020-03-24T05:01:00.000Z",
@@ -156,6 +183,15 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/42D75/traffic.megaphone.fm/CAD9323382862.mp3?updated=1611765591"
             },
+            "entities": [
+                "she",
+                "researcher",
+                "New York Times",
+                "author",
+                "now",
+                "Brené Brown",
+                "#1"
+            ],
             "content:encodedSnippet": "Join researcher and #1 New York Times best-selling author Brené Brown as she unpacks and explores the ideas, stories, experiences, books, films, and music that reflect the universal experiences of being human, from the bravest moments to the most brokenhearted.  Subscribe now for updates.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "5503e8c8-3304-11ea-a8f1-672a2bff12ac",
             "isoDate": "2020-01-09T17:26:00.000Z",

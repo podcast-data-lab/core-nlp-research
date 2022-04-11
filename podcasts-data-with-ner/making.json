@@ -37,6 +37,20 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210514140302-AoP-Obama-Final-Making.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210514140302-AoP-Obama-Final-Making"
             },
+            "entities": [
+                "Barack Obama",
+                "post-Donald Trump",
+                "President",
+                "his",
+                "Obama",
+                "recently",
+                "now",
+                "Aarti Shahani",
+                "host",
+                "WBEZ",
+                "he",
+                "president"
+            ],
             "guid": "01821a70-b4e7-11eb-8cbe-9d069601fcf8",
             "isoDate": "2021-05-14T19:20:00.000Z",
             "title": "Obama BONUS: Redefining Masculinity",
@@ -59,6 +73,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092851-beyonc-bonus-fearlessly-herself_jill-hopkins.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092851-beyonc-bonus-fearlessly-herself_jill-hopkins"
             },
+            "entities": ["She", "she", "artist", "Beyoncé"],
             "guid": "1a19a761-83c9-4a6c-a72b-6c36cae56786",
             "isoDate": "2020-03-06T06:01:00.000Z",
             "title": "Beyoncé BONUS: Fearlessly Herself",
@@ -81,6 +96,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092851-beyonc-3-destiny-begins_jill-hopkins.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092851-beyonc-3-destiny-begins_jill-hopkins"
             },
+            "entities": ["Beyoncé"],
             "guid": "e19e35bf-dfe0-46dd-91c9-aa4b552f1afc",
             "isoDate": "2019-11-27T18:01:00.000Z",
             "title": "Beyoncé 3: Destiny Begins",
@@ -103,6 +119,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092854-beyonc-2-star-search_jill-hopkins.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092854-beyonc-2-star-search_jill-hopkins"
             },
+            "entities": ["Beyoncé"],
             "guid": "f5726004-c463-4d08-8384-4123efdb8b0d",
             "isoDate": "2019-11-22T06:01:00.000Z",
             "title": "Beyoncé 2: Star Search",
@@ -125,6 +142,14 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092855-beyonce-1-girls-tyme_jill-hopkins.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092855-beyonce-1-girls-tyme_jill-hopkins"
             },
+            "entities": [
+                "Destiny\u2019s Child",
+                "her",
+                "Beyoncé Knowles",
+                "Girls Tyme",
+                "first",
+                "Houston"
+            ],
             "guid": "6b84a311-6265-4493-a72d-c250e284b116",
             "isoDate": "2019-11-15T06:01:00.000Z",
             "title": "Beyoncé 1: Girls Tyme",
@@ -146,6 +171,12 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092856-beyonc-preview-of-making-beyonc.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092856-beyonc-preview-of-making-beyonc"
             },
+            "entities": [
+                "beginning Friday, Nov. 15, 2019",
+                "three-part",
+                "Beyoncé Knowles",
+                "WBEZ Chicago"
+            ],
             "guid": "33c5b038-72a7-460d-9f8c-4ea961e16c4e",
             "isoDate": "2019-11-01T06:00:00.000Z",
             "title": "Trailer: Making Beyoncé",
@@ -167,6 +198,18 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092858-obama-bonus-the-decision.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092858-obama-bonus-the-decision"
             },
+            "entities": [
+                "Barack Obama",
+                "National Convention",
+                "his",
+                "Just two and a half",
+                "2004",
+                "after his",
+                "Democratic",
+                "he",
+                "years",
+                "president"
+            ],
             "guid": "f15250d1-fccb-44e4-b14e-368525b08bfc",
             "isoDate": "2018-04-10T05:01:00.000Z",
             "title": "Obama BONUS: The Decision",
@@ -189,6 +232,13 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092907-obama-6-yes-we-can_jennifer-white.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092907-obama-6-yes-we-can_jennifer-white"
             },
+            "entities": [
+                "Barack Obama",
+                "his",
+                "U.S. Senate",
+                "him",
+                "Washington"
+            ],
             "guid": "aed63eb2-c221-416a-96cd-497d956e65a1",
             "isoDate": "2018-03-15T05:01:00.000Z",
             "title": "Obama 6: Yes We Can!",
@@ -211,6 +261,21 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092907-obama-5-up-or-out_jennifer-white.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092907-obama-5-up-or-out_jennifer-white"
             },
+            "entities": [
+                "Obama",
+                "one",
+                "WBEZ",
+                "2000",
+                "him",
+                "https://wbez.org/making",
+                "WBEZ Chicago",
+                "Barack Obama",
+                "Senate",
+                "his",
+                "U.S.",
+                "the future",
+                "president"
+            ],
             "guid": "f2378d3c-de46-4165-87f6-2a91a5ebecac",
             "isoDate": "2018-03-08T06:01:00.000Z",
             "title": "Obama 5: Up Or Out",
@@ -233,6 +298,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092911-obama-4-wait-your-turn_jennifer-white.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092911-obama-4-wait-your-turn_jennifer-white"
             },
+            "entities": ["Barack Obama", "Congress", "Chicago", "2000"],
             "guid": "34d62aec-cd06-49bc-86a6-4cdf33766055",
             "isoDate": "2018-03-01T06:01:00.000Z",
             "title": "Obama 4: Wait Your Turn",
@@ -255,6 +321,14 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092911-obama-3-you-dont-say-no-to-barack_jennifer-white.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092911-obama-3-you-dont-say-no-to-barack_jennifer-white"
             },
+            "entities": [
+                "Barack Obama",
+                "President",
+                "1996",
+                "his",
+                "he",
+                "first"
+            ],
             "guid": "aeb3beab-f895-4843-80ef-d4ed89e325d2",
             "isoDate": "2018-02-22T00:30:00.000Z",
             "title": "Obama 3: You Don\u2019t Say No To Barack",
@@ -277,6 +351,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092915-obama-2-chicago-politics-aint-beanbag_jennifer-white.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092915-obama-2-chicago-politics-aint-beanbag_jennifer-white"
             },
+            "entities": ["Barack Obama", "Chicago", "him", "first"],
             "guid": "92ffe0ce-cdfc-4650-baf7-3138b44d780a",
             "isoDate": "2018-02-15T06:01:00.000Z",
             "title": "Obama 2: Chicago Politics Ain\u2019t Beanbag",
@@ -299,6 +374,16 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092915-obama-1-the-man-in-the-background_colin-mcnulty.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092915-obama-1-the-man-in-the-background_colin-mcnulty"
             },
+            "entities": [
+                "Barack Obama",
+                "President",
+                "his",
+                "Chicago",
+                "organizer",
+                "44th",
+                "he",
+                "South Side of"
+            ],
             "guid": "52566713-83d4-4875-8bb1-eba55937228e",
             "isoDate": "2018-02-08T06:01:00.000Z",
             "title": "Obama 1: The Man In The Background",
@@ -320,6 +405,15 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092918-preview-making-obama_jennifer-white.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092918-preview-making-obama_jennifer-white"
             },
+            "entities": [
+                "Barack Obama",
+                "President",
+                "his",
+                "Chicago",
+                "now",
+                "February 8",
+                "first"
+            ],
             "guid": "dcec62b6-bd93-4329-8b49-66888e941e3a",
             "isoDate": "2018-01-19T14:00:00.000Z",
             "title": "Obama: Preview of Making Obama",
@@ -341,6 +435,27 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092920-bonus-making-donahue_jenn-white.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092920-bonus-making-donahue_jenn-white"
             },
+            "entities": [
+                "executive producer",
+                "one",
+                "Phil Donahue",
+                "<i>Making Oprah",
+                "1996",
+                "Colin McNulty",
+                "His",
+                "his",
+                "Oprah",
+                "Donahue",
+                "non-Oprah",
+                "host",
+                "producer",
+                "to",
+                "Jenn White",
+                "Joel Meyer",
+                "daytime",
+                "A-list",
+                "1967"
+            ],
             "guid": "1c05b864-7d0f-48f4-9b7e-e0f42c418277",
             "isoDate": "2016-12-30T17:39:24.000Z",
             "title": "Oprah BONUS: Making Donahue",
@@ -362,6 +477,15 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092920-bonus-oprah-gets-political_jenn-white.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092920-bonus-oprah-gets-political_jenn-white"
             },
+            "entities": [
+                "Oprah Winfrey Show",
+                "more than 10 years",
+                "her",
+                "Oprah",
+                "host",
+                "Oprah Winfrey",
+                "Jenn White"
+            ],
             "guid": "6dcc266a-e109-4981-8469-99032156ce5a",
             "isoDate": "2016-12-23T15:17:21.000Z",
             "title": "Oprah BONUS: Oprah Gets Political",
@@ -383,6 +507,14 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092922-lets-talk-about-oprahs-hair_jenn-white.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092922-lets-talk-about-oprahs-hair_jenn-white"
             },
+            "entities": [
+                "decade",
+                "Oprah",
+                "host",
+                "Andre Walker",
+                "Jenn White",
+                "stylist"
+            ],
             "guid": "49f580a3-54c5-4685-b7f5-640f928b4aa1",
             "isoDate": "2016-12-16T04:44:00.000Z",
             "title": "Oprah BONUS: Let's Talk About Oprah's Hair",
@@ -405,6 +537,18 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092926-ep-3-you-get-a-car_wbez.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092926-ep-3-you-get-a-car_wbez"
             },
+            "entities": [
+                "25 years",
+                "decade",
+                "her",
+                "Oprah",
+                "Chicago",
+                "the year before",
+                "now",
+                "WBEZ",
+                "21,000-person",
+                "Jenn White"
+            ],
             "guid": "a10ded30-5eac-49c9-bfaf-4db65df8e71a",
             "isoDate": "2016-11-22T06:05:00.000Z",
             "title": "Oprah 3: YOU GET A CAR!",
@@ -427,6 +571,15 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092926-ep-2-skinheads-and-scented-candles_wbez.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092926-ep-2-skinheads-and-scented-candles_wbez"
             },
+            "entities": [
+                "The early years",
+                "Oprah Winfrey Show",
+                "Oprah",
+                "WBEZ",
+                "Jenn White",
+                "years",
+                "second"
+            ],
             "guid": "56cc04d7-c516-4c3b-b72e-3f1dc797f140",
             "isoDate": "2016-11-17T11:04:00.000Z",
             "title": "Oprah 2: Skinheads And Scented Candles",
@@ -449,6 +602,40 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092930-ep-1-no-strategy-no-plan-no-formula_wbez.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092930-ep-1-no-strategy-no-plan-no-formula_wbez"
             },
+            "entities": [
+                "CNN",
+                "tenth",
+                "Forbes",
+                "30 years ago this fall",
+                "2011",
+                "Oz",
+                "Time Magazine",
+                "Ellen",
+                "She",
+                "a week",
+                "U.S.",
+                "now",
+                "America",
+                "the 1980s",
+                "one",
+                "WBEZ",
+                "Phil Donahue",
+                "Today\u2019s daytime",
+                "she",
+                "145",
+                "Her",
+                "Oprah",
+                "three-part",
+                "once",
+                "40 million",
+                "days",
+                "Oprah Winfrey",
+                "USA Today",
+                "Jenn White",
+                "daytime",
+                "he",
+                "first"
+            ],
             "guid": "4ae62e92-647c-42df-88f2-4c3cdb89e284",
             "isoDate": "2016-11-10T16:53:00.000Z",
             "title": "Oprah 1: No Strategy, No Plan, No Formula",
@@ -470,6 +657,18 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/BE5BE6/podcast-stream.wbez.org/recast/making/20210125092929-preview-wbezs-new-podcast-about-the-oprah-winfrey-show_wbez.mp3?awCollectionId=wbez-making&awGenre=Society+and+Culture&awEpisodeId=20210125092929-preview-wbezs-new-podcast-about-the-oprah-winfrey-show_wbez"
             },
+            "entities": [
+                "This fall",
+                "her",
+                "three-part",
+                "Winfrey",
+                "<a href=\"https://www.wbez.org/series/making-oprah/db4fff18-4828-4589-b03f-8dd50a5adbbe\" target=\"\">",
+                "WBEZ",
+                "Phil Donahue",
+                "30 years",
+                "daytime",
+                "first"
+            ],
             "guid": "72032d42-c814-41a2-a1f3-df0d2471c996",
             "isoDate": "2016-11-03T18:04:21.000Z",
             "title": "Oprah: Preview of Making Oprah",

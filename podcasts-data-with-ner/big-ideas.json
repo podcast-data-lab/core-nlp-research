@@ -41,6 +41,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/04/bia_20220407.mp3"
             },
+            "entities": ["spying", "the future"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/space-race-2.0/13820920",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/space-race-2.0/13820920",
             "isoDate": "2022-04-07T10:05:00.000Z",
@@ -59,6 +60,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/04/bia_20220406.mp3"
             },
+            "entities": ["Australians", "future", "Three", "violence"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/law,-social-change,-and-activism/13825858",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/law,-social-change,-and-activism/13825858",
             "isoDate": "2022-04-06T10:05:00.000Z",
@@ -78,6 +80,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/04/bia_20220405.mp3"
             },
+            "entities": ["Mars", "Martian", "first"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/exploring-mars/13820828",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/exploring-mars/13820828",
             "isoDate": "2022-04-05T10:05:00.000Z",
@@ -97,6 +100,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/04/bia_20220404.mp3"
             },
+            "entities": [],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/13775918",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/13775918",
             "isoDate": "2022-04-04T10:05:00.000Z",
@@ -116,6 +120,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/03/bia_20220331.mp3"
             },
+            "entities": [],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/mortals-and-the-fear-of-death/13811192",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/mortals-and-the-fear-of-death/13811192",
             "isoDate": "2022-03-31T09:05:00.000Z",
@@ -135,6 +140,13 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/03/bia_20220330.mp3"
             },
+            "entities": [
+                "grip",
+                "John Daley",
+                "Australia",
+                "Labor",
+                "Martin Parkinson"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/policy-drift/13808460",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/policy-drift/13808460",
             "isoDate": "2022-03-30T09:05:00.000Z",
@@ -154,6 +166,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/03/bia_20220329.mp3"
             },
+            "entities": ["China", "Australia"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/rethinking-our-relationship-with-china/13810828",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/rethinking-our-relationship-with-china/13810828",
             "isoDate": "2022-03-29T09:05:00.000Z",
@@ -173,6 +186,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/03/bia_20220328.mp3"
             },
+            "entities": [],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/13780118",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/13780118",
             "isoDate": "2022-03-28T09:05:00.000Z",
@@ -192,6 +206,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/03/bia_20220324.mp3"
             },
+            "entities": [],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/artificial-intelligence-&amp;-the-brain/13803874",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/artificial-intelligence-&amp;-the-brain/13803874",
             "isoDate": "2022-03-24T09:05:00.000Z",
@@ -210,6 +225,16 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/03/bia_20220323.mp3"
             },
+            "entities": [
+                "700 million dollar",
+                "journalist",
+                "the years",
+                "Australian Football League",
+                "AFL",
+                "Mick Warner",
+                "harassment",
+                "a year"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/power,-politics,-and-the-afl%E2%80%99s-%E2%80%98boys%E2%80%99-club%E2%80%99/13802630",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/power,-politics,-and-the-afl%E2%80%99s-%E2%80%98boys%E2%80%99-club%E2%80%99/13802630",
             "isoDate": "2022-03-23T09:05:00.000Z",
@@ -229,6 +254,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/03/bia_20220322.mp3"
             },
+            "entities": ["150 years"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/13767502",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/13767502",
             "isoDate": "2022-03-22T09:05:00.000Z",
@@ -248,6 +274,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/03/bia_20220321.mp3"
             },
+            "entities": ["the end of the week", "past", "Greeks"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/saving-food-and-the-history-of-exercise/13800928",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/saving-food-and-the-history-of-exercise/13800928",
             "isoDate": "2022-03-21T09:05:00.000Z",
@@ -267,6 +294,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/03/bia_20220317.mp3"
             },
+            "entities": ["now"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/loving-nature-and-revitalized-cities/13791316",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/loving-nature-and-revitalized-cities/13791316",
             "isoDate": "2022-03-17T09:05:00.000Z",
@@ -286,6 +314,16 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/03/bia_20220316.mp3"
             },
+            "entities": [
+                "his",
+                "foreign minister",
+                "Australian",
+                "Ukraine",
+                "Gareth Evans",
+                "Australia",
+                "He",
+                "Russia"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/is-australia-a-good-international-citizen/13793076",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/is-australia-a-good-international-citizen/13793076",
             "isoDate": "2022-03-16T09:05:00.000Z",
@@ -305,6 +343,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/03/bia_20220315.mp3"
             },
+            "entities": ["the future"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/13757164",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/13757164",
             "isoDate": "2022-03-15T09:05:00.000Z",
@@ -324,6 +363,17 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/03/bia_20220314.mp3"
             },
+            "entities": [
+                "the Second",
+                "Cold",
+                "European Union",
+                "Ukraine",
+                "war",
+                "War",
+                "NATO",
+                "Putin",
+                "World"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/putins-goals-in-ukraine-and-the-western-response/13791252",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/putins-goals-in-ukraine-and-the-western-response/13791252",
             "isoDate": "2022-03-14T09:05:00.000Z",
@@ -343,6 +393,13 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/03/bia_20220310.mp3"
             },
+            "entities": [
+                "Australian",
+                "past",
+                "forty years",
+                "First",
+                "Australia"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/13753288",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/13753288",
             "isoDate": "2022-03-10T09:05:00.000Z",
@@ -362,6 +419,15 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/03/bia_20220309.mp3"
             },
+            "entities": [
+                "leader",
+                "Australians",
+                "philanthropist",
+                "Nations Australians",
+                "Rupert Myer",
+                "First",
+                "National Cultural Plan"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/growing-australias-cultural-inheritance/13776464",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/growing-australias-cultural-inheritance/13776464",
             "isoDate": "2022-03-09T09:05:00.000Z",
@@ -381,6 +447,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/03/bia_20220308.mp3"
             },
+            "entities": ["Australians", "ABC TV", "Three"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/when-will-we-achieve-gender-equality/13780836",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/when-will-we-achieve-gender-equality/13780836",
             "isoDate": "2022-03-08T09:05:00.000Z",
@@ -400,6 +467,13 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/03/bia_20220307.mp3"
             },
+            "entities": [
+                "the 5th Century BC",
+                "Democracy",
+                "democratic",
+                "the 21st Century",
+                "Greeks"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/13753270",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/13753270",
             "isoDate": "2022-03-07T09:05:00.000Z",
@@ -419,6 +493,13 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/03/bia_20220303.mp3"
             },
+            "entities": [
+                "Bhutan",
+                "Vietnam",
+                "war",
+                "gross national happiness",
+                "three"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/gross-national-happiness-&amp;-female-war-reporters/13770006",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/gross-national-happiness-&amp;-female-war-reporters/13770006",
             "isoDate": "2022-03-03T09:05:00.000Z",
@@ -438,6 +519,14 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/03/bia_20220302.mp3"
             },
+            "entities": [
+                "Saul Griffith",
+                "the future",
+                "inventor",
+                "Australia",
+                "He",
+                "entrepreneur"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/electrify-everything-%E2%80%93-a-blueprint-for-decarbonising-australia/13765946",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/electrify-everything-%E2%80%93-a-blueprint-for-decarbonising-australia/13765946",
             "isoDate": "2022-03-02T09:05:00.000Z",
@@ -457,6 +546,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/03/bia_20220301.mp3"
             },
+            "entities": ["two years"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/corporate-social-responsibility-and-anu-after-covid/13769880",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/corporate-social-responsibility-and-anu-after-covid/13769880",
             "isoDate": "2022-03-01T09:05:00.000Z",
@@ -476,6 +566,13 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/02/bia_20220228.mp3"
             },
+            "entities": [
+                "future",
+                "today",
+                "tomorrow",
+                "2021",
+                "John Button Oration"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/13730342",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/13730342",
             "isoDate": "2022-02-28T09:05:00.000Z",
@@ -495,6 +592,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/02/bia_20220223.mp3"
             },
+            "entities": [],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/how-to-live-a-healthy-fullfilling-life-into-older-age/13756076",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/how-to-live-a-healthy-fullfilling-life-into-older-age/13756076",
             "isoDate": "2022-02-23T09:05:00.000Z",
@@ -514,6 +612,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/02/bia_20220222.mp3"
             },
+            "entities": ["Covid", "current"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/13744198",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/13744198",
             "isoDate": "2022-02-22T09:05:00.000Z",
@@ -533,6 +632,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/02/bia_20220221.mp3"
             },
+            "entities": ["every night", "116,000", "Australia"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/13728954",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/13728954",
             "isoDate": "2022-02-21T09:05:00.000Z",
@@ -551,6 +651,22 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/02/bia_20220216.mp3"
             },
+            "entities": [
+                "Afghanistan",
+                "Maryam Zahid - founder",
+                "independent",
+                "author",
+                "director",
+                "Afghan",
+                "Antony Loewenstein",
+                "filmmaker",
+                "starvation",
+                "journalist",
+                "Six months",
+                "Australian",
+                "Australia",
+                "Afghans"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/crisis-in-afghanistan-and-russia-ukraine-tension/13752890",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/crisis-in-afghanistan-and-russia-ukraine-tension/13752890",
             "isoDate": "2022-02-16T09:05:00.000Z",
@@ -570,6 +686,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/02/bia_20220215.mp3"
             },
+            "entities": ["war"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/museums-as-an-agent-of-change/13750718",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/museums-as-an-agent-of-change/13750718",
             "isoDate": "2022-02-15T09:05:00.000Z",
@@ -589,6 +706,17 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/02/bia_20220214.mp3"
             },
+            "entities": [
+                "Mathias Cormann",
+                "OECD",
+                "Mathias Corman",
+                "Australian",
+                "politician",
+                "now",
+                "Secretary General",
+                "the last fifty years",
+                "Australia"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/oecd-climate-change,-tax-and-market-economies/13749884",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/oecd-climate-change,-tax-and-market-economies/13749884",
             "isoDate": "2022-02-14T09:05:00.000Z",
@@ -608,6 +736,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/02/bia_20220209.mp3"
             },
+            "entities": ["Australians", "domestic violence"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/how-do-we-stop-coercive-control-and-elder-abuse/13739988",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/how-do-we-stop-coercive-control-and-elder-abuse/13739988",
             "isoDate": "2022-02-09T09:05:00.000Z",
@@ -627,6 +756,14 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/02/bia_20220208.mp3"
             },
+            "entities": [
+                "Asia",
+                "James Oaten",
+                "19",
+                "South",
+                "Correspondent",
+                "India"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/covid-in-india/13686374",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/covid-in-india/13686374",
             "isoDate": "2022-02-08T09:05:00.000Z",
@@ -646,6 +783,11 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/02/bia_20220207.mp3"
             },
+            "entities": [
+                "Organisation for Economic Cooperation and Development",
+                "OECD",
+                "Australia"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/reviewing-australias-monetary-policy/13686404",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/reviewing-australias-monetary-policy/13686404",
             "isoDate": "2022-02-07T09:05:00.000Z",
@@ -665,6 +807,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/02/bia_20220202.mp3"
             },
+            "entities": ["one", "Australia", "three", "violence"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/migrant-women-and-domestic-violence/13730470",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/migrant-women-and-domestic-violence/13730470",
             "isoDate": "2022-02-02T09:05:00.000Z",
@@ -684,6 +827,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/01/bia_20220120.mp3"
             },
+            "entities": ["Mass", "currently"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/recycling-and-sustainabel-fashion/13661394",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/recycling-and-sustainabel-fashion/13661394",
             "isoDate": "2022-01-20T09:05:00.000Z",
@@ -703,6 +847,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/01/bia_20220119.mp3"
             },
+            "entities": ["drugs", "Australia", "illness"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/improving-psychiatry-and-the-treatment-of-mental-illness/13612154",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/improving-psychiatry-and-the-treatment-of-mental-illness/13612154",
             "isoDate": "2022-01-19T09:05:00.000Z",
@@ -722,6 +867,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/01/bia_20220118.mp3"
             },
+            "entities": ["Chthonic"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/going-to-court-for-nature/13498218",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/going-to-court-for-nature/13498218",
             "isoDate": "2022-01-18T09:05:00.000Z",
@@ -741,6 +887,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/01/bia_20220117.mp3"
             },
+            "entities": [],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/online-privacy&amp;technology-reshaping-society/13661368",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/online-privacy&amp;technology-reshaping-society/13661368",
             "isoDate": "2022-01-17T09:05:00.000Z",
@@ -760,6 +907,15 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/01/bia_20220113.mp3"
             },
+            "entities": [
+                "Americans",
+                "today",
+                "Joe McCarthy",
+                "Soviet",
+                "Historian",
+                "Richard Norton Smith",
+                "he"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/joe-mccarthy-and-the-politics-of-fear/13498260",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/joe-mccarthy-and-the-politics-of-fear/13498260",
             "isoDate": "2022-01-13T09:05:00.000Z",
@@ -779,6 +935,17 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/01/bia_20220112.mp3"
             },
+            "entities": [
+                "murder",
+                "Kate Holden",
+                "Glen Turner",
+                "Winter",
+                "her",
+                "Australian",
+                "Ian Turnbull",
+                "farmer",
+                "Paul Barclay"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/how-a-dispute-over-land-clearing-turned-deadly/13612146",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/how-a-dispute-over-land-clearing-turned-deadly/13612146",
             "isoDate": "2022-01-12T09:05:00.000Z",
@@ -798,6 +965,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/01/bia_20220111.mp3"
             },
+            "entities": ["Randy Frost", "first"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/understanding-the-mind-of-a-compulsive-hoarder/13498190",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/understanding-the-mind-of-a-compulsive-hoarder/13498190",
             "isoDate": "2022-01-11T09:05:00.000Z",
@@ -817,6 +985,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/01/bia_20220110.mp3"
             },
+            "entities": ["drugs", "the 1940s", "1960s"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/mind-altering-medicines-and-antivirals/13661344",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/mind-altering-medicines-and-antivirals/13661344",
             "isoDate": "2022-01-10T09:05:00.000Z",
@@ -836,6 +1005,13 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/01/bia_20220106.mp3"
             },
+            "entities": [
+                "World Science Festival",
+                "Australian",
+                "now",
+                "the future",
+                "2060"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/cities-2060/13661324",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/cities-2060/13661324",
             "isoDate": "2022-01-06T09:05:00.000Z",
@@ -855,6 +1031,17 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/01/bia_20220105.mp3"
             },
+            "entities": [
+                "Hugh MacKay",
+                "Australians",
+                "one",
+                "Paul Barclay",
+                "Australia",
+                "last year",
+                "Hugh",
+                "Social psychologist",
+                "he"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/hugh-mackay-on-the-kindness-revolution/13612140",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/hugh-mackay-on-the-kindness-revolution/13612140",
             "isoDate": "2022-01-05T09:05:00.000Z",
@@ -874,6 +1061,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/01/bia_20220104.mp3"
             },
+            "entities": ["She", "Jess Scully"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/achieving-change-needs-hope/13498278",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/achieving-change-needs-hope/13498278",
             "isoDate": "2022-01-04T09:05:00.000Z",
@@ -893,6 +1081,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2022/01/bia_20220103.mp3"
             },
+            "entities": ["the past", "Stan Grant"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/how-history-may-yet-be-the-death-of-us/13661306",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/how-history-may-yet-be-the-death-of-us/13661306",
             "isoDate": "2022-01-03T09:05:00.000Z",
@@ -912,6 +1101,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/12/bia_20211230.mp3"
             },
+            "entities": [],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/tax-avoidance/13498136",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/tax-avoidance/13498136",
             "isoDate": "2021-12-30T09:05:00.000Z",
@@ -931,6 +1121,17 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/12/bia_20211229.mp3"
             },
+            "entities": [
+                "seven years old",
+                "his",
+                "one",
+                "Rick Morton",
+                "Rick",
+                "writer",
+                "day",
+                "he",
+                "him"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/rick-morton-discusses-trauma-and-his-complex-ptsd-diagnosis/13612134",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/rick-morton-discusses-trauma-and-his-complex-ptsd-diagnosis/13612134",
             "isoDate": "2021-12-29T09:05:00.000Z",
@@ -950,6 +1151,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/12/bia_20211228.mp3"
             },
+            "entities": ["driver"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/why-do-we-use-deception-and-lies/13498256",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/why-do-we-use-deception-and-lies/13498256",
             "isoDate": "2021-12-28T09:05:00.000Z",
@@ -969,6 +1171,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/12/bia_20211227.mp3"
             },
+            "entities": ["disease", "UK", "One", "now"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/remote-work-and-loneliness/13661288",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/remote-work-and-loneliness/13661288",
             "isoDate": "2021-12-27T09:05:00.000Z",
@@ -988,6 +1191,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/12/bia_20211223.mp3"
             },
+            "entities": ["Queensland Museum"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/the-psychology-of-fashion/13612124",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/the-psychology-of-fashion/13612124",
             "isoDate": "2021-12-23T09:05:00.000Z",
@@ -1007,6 +1211,21 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/12/bia_20211222.mp3"
             },
+            "entities": [
+                "jurist",
+                "politician",
+                "Brilliant Boy",
+                "Labor",
+                "years",
+                "1930",
+                "Evatt",
+                "High Court",
+                "HV Evatt",
+                "Australian",
+                "Doc",
+                "judge",
+                "Australia"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/%E2%80%98doc%E2%80%99-evatt%E2%80%99s-great-dissenting-judgement/13612112",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/%E2%80%98doc%E2%80%99-evatt%E2%80%99s-great-dissenting-judgement/13612112",
             "isoDate": "2021-12-22T09:05:00.000Z",
@@ -1026,6 +1245,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/12/bia_20211221.mp3"
             },
+            "entities": ["Australian"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/how-music-boosts-learning-and-well-being/13661266",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/how-music-boosts-learning-and-well-being/13661266",
             "isoDate": "2021-12-21T09:05:00.000Z",
@@ -1045,6 +1265,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/12/bia_20211220.mp3"
             },
+            "entities": [],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/how-to-become-a-good-listener-%E2%80%93-and-why-that%E2%80%99s-important/13498204",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/how-to-become-a-good-listener-%E2%80%93-and-why-that%E2%80%99s-important/13498204",
             "isoDate": "2021-12-20T09:05:00.000Z",
@@ -1064,6 +1285,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/12/bia_20211216.mp3"
             },
+            "entities": ["tobacco smoking"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/tobacco-endgame-and-sleep/13671922",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/tobacco-endgame-and-sleep/13671922",
             "isoDate": "2021-12-16T09:05:00.000Z",
@@ -1083,6 +1305,14 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/12/bia_20211215.mp3"
             },
+            "entities": [
+                "Jeff Sparrow",
+                "writer",
+                "Paul Barclay",
+                "He",
+                "he",
+                "Crimes Against Nature"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/who-is-to-blame-for-the-environmental-crisis,-and-what-needs-to/13669786",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/who-is-to-blame-for-the-environmental-crisis,-and-what-needs-to/13669786",
             "isoDate": "2021-12-15T09:05:00.000Z",
@@ -1102,6 +1332,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/12/bia_20211214.mp3"
             },
+            "entities": [],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/the-gender-authority-gap/13670092",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/the-gender-authority-gap/13670092",
             "isoDate": "2021-12-14T09:05:00.000Z",
@@ -1121,6 +1352,13 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/12/bia_20211213.mp3"
             },
+            "entities": [
+                "Judith Flanders",
+                "She",
+                "Christmas",
+                "about Christmas",
+                "historian"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/the-false-history-of-our-christmas-traditions-%E2%80%93-and-why-we-need/13099426",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/the-false-history-of-our-christmas-traditions-%E2%80%93-and-why-we-need/13099426",
             "isoDate": "2021-12-13T09:05:00.000Z",
@@ -1140,6 +1378,13 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/12/bia_20211209.mp3"
             },
+            "entities": [
+                "disease",
+                "mobile",
+                "Nanotechnology",
+                "collector",
+                "marine"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/big-solutions-on-the-nano-scale/13659508",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/big-solutions-on-the-nano-scale/13659508",
             "isoDate": "2021-12-09T09:05:00.000Z",
@@ -1159,6 +1404,15 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/12/bia_20211208.mp3"
             },
+            "entities": [
+                "She",
+                "professor",
+                "Her",
+                "Caroline De Costa",
+                "Australia",
+                "Caroline",
+                "first"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/trailblazing-doctor-caroline-de-costa:-champion-of-womens-repr/13662488",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/trailblazing-doctor-caroline-de-costa:-champion-of-womens-repr/13662488",
             "isoDate": "2021-12-08T09:05:00.000Z",
@@ -1178,6 +1432,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/12/bia_20211207.mp3"
             },
+            "entities": ["Australian"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/climate-friendy-food-production/13659466",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/climate-friendy-food-production/13659466",
             "isoDate": "2021-12-07T09:05:00.000Z",
@@ -1197,6 +1452,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/12/bia_20211206.mp3"
             },
+            "entities": ["Laurence Alison", "Emily", "four", "model"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/how-to-talk-through-conflict/13490642",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/how-to-talk-through-conflict/13490642",
             "isoDate": "2021-12-06T09:05:00.000Z",
@@ -1216,6 +1472,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/12/bia_20211202.mp3"
             },
+            "entities": [],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/the-cultural-economy-after-covid/13649016",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/the-cultural-economy-after-covid/13649016",
             "isoDate": "2021-12-02T09:05:00.000Z",
@@ -1235,6 +1492,14 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/12/bia_20211201.mp3"
             },
+            "entities": [
+                "Henry Lawson",
+                "author",
+                "Ned Kelly",
+                "Paul Barclay",
+                "Australia",
+                "Lech Blaine"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/political-leadership-and-the-larrikin-myth/13650666",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/political-leadership-and-the-larrikin-myth/13650666",
             "isoDate": "2021-12-01T09:05:00.000Z",
@@ -1254,6 +1519,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/11/bia_20211130.mp3"
             },
+            "entities": ["Australian", "Historian", "Carla Pascoe Leahy"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/motherhood-and-positivity/13648990",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/motherhood-and-positivity/13648990",
             "isoDate": "2021-11-30T09:05:00.000Z",
@@ -1273,6 +1539,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/11/bia_20211129.mp3"
             },
+            "entities": [],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/citizen-science-and-urban-birds/13648800",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/citizen-science-and-urban-birds/13648800",
             "isoDate": "2021-11-29T09:05:00.000Z",
@@ -1292,6 +1559,16 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/11/bia_20211125.mp3"
             },
+            "entities": [
+                "President",
+                "his",
+                "Biden",
+                "China",
+                "America",
+                "White House",
+                "he",
+                "Russia"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/bidens-renewed-focus-on-the-indo-pacific/13642406",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/bidens-renewed-focus-on-the-indo-pacific/13642406",
             "isoDate": "2021-11-25T09:05:00.000Z",
@@ -1311,6 +1588,22 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/11/bia_20211124.mp3"
             },
+            "entities": [
+                "post-American",
+                "Michael Pembroke",
+                "War",
+                "World",
+                "Asian",
+                "Rules",
+                "century",
+                "his",
+                "Second",
+                "Asia",
+                "China",
+                "now",
+                "\u2018",
+                "US"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/the-decline-of-american-leadership/13635134",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/the-decline-of-american-leadership/13635134",
             "isoDate": "2021-11-24T09:05:00.000Z",
@@ -1330,6 +1623,16 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/11/bia_20211123.mp3"
             },
+            "entities": [
+                "the",
+                "last two years",
+                "a decade",
+                "Commonwealth",
+                "Federation",
+                "Australia",
+                "him",
+                "Henry Parkes"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/henry-parkes%E2%80%99-fight-for-a-federation/13617326",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/henry-parkes%E2%80%99-fight-for-a-federation/13617326",
             "isoDate": "2021-11-23T09:05:00.000Z",
@@ -1349,6 +1652,14 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/11/bia_20211122.mp3"
             },
+            "entities": [
+                "Western",
+                "the states",
+                "COVID-sponsored",
+                "Commonwealth",
+                "Australian",
+                "Australia"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/episode-emplate_kz/13595474",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/episode-emplate_kz/13595474",
             "isoDate": "2021-11-22T09:05:00.000Z",
@@ -1368,6 +1679,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/11/bia_20211118.mp3"
             },
+            "entities": ["daily"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/tribalism-and-social-status/13630078",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/tribalism-and-social-status/13630078",
             "isoDate": "2021-11-18T09:05:00.000Z",
@@ -1387,6 +1699,22 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/11/bia_20211117.mp3"
             },
+            "entities": [
+                "Afghanistan",
+                "ABC",
+                "SAS",
+                "Gold Walkley",
+                "author",
+                "Brereton",
+                "Mark Willacy",
+                "Paul Barclay",
+                "journalist",
+                "4",
+                "Special Air Service",
+                "Australian Federal Police",
+                "Australia",
+                "war crimes"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/wars-crimes-and-australia%E2%80%99s-sas/13631214",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/wars-crimes-and-australia%E2%80%99s-sas/13631214",
             "isoDate": "2021-11-17T09:05:00.000Z",
@@ -1406,6 +1734,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/11/bia_20211116.mp3"
             },
+            "entities": ["Australians", "Adam Goodes", "His", "AFL", "he"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/fair-game:-tackling-racism-in-sport/13629310",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/fair-game:-tackling-racism-in-sport/13629310",
             "isoDate": "2021-11-16T09:05:00.000Z",
@@ -1425,6 +1754,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/11/bia_20211115.mp3"
             },
+            "entities": ["MacDonald", "Australia"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/food:-it-starts-on-the-farm/13605320",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/food:-it-starts-on-the-farm/13605320",
             "isoDate": "2021-11-15T09:05:00.000Z",
@@ -1444,6 +1774,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/11/bia_20211111.mp3"
             },
+            "entities": ["zero", "now", "Glasgow", "Australia", "2050"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/regional-communities-making-the-transition-to-net-zero/13618876",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/regional-communities-making-the-transition-to-net-zero/13618876",
             "isoDate": "2021-11-11T09:05:00.000Z",
@@ -1463,6 +1794,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/11/bia_20211110.mp3"
             },
+            "entities": ["COVID-19 pandemic", "cancer", "illness"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/covid-19-and-cancer/13618684",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/covid-19-and-cancer/13618684",
             "isoDate": "2021-11-10T09:05:00.000Z",
@@ -1482,6 +1814,14 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/11/bia_20211109.mp3"
             },
+            "entities": [
+                "Israeli",
+                "non-religious",
+                "Middle-East",
+                "Israel",
+                "first",
+                "Jewish"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/israel/13595458",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/israel/13595458",
             "isoDate": "2021-11-09T09:05:00.000Z",
@@ -1501,6 +1841,16 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/11/bia_20211108.mp3"
             },
+            "entities": [
+                "zero",
+                "Australian Industry Group",
+                "26",
+                "Australian",
+                "Coles",
+                "BHP",
+                "Fortescue",
+                "2050"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/can-industry-push-for-ambitious-climate-targets/13618672",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/can-industry-push-for-ambitious-climate-targets/13618672",
             "isoDate": "2021-11-08T09:05:00.000Z",
@@ -1520,6 +1870,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/11/bia_20211104.mp3"
             },
+            "entities": ["Australians"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/ageing-gracefully/13609940",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/ageing-gracefully/13609940",
             "isoDate": "2021-11-04T09:05:00.000Z",
@@ -1538,6 +1889,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/11/bia_20211103.mp3"
             },
+            "entities": ["19", "nearly two years", "Paul Barclay", "three"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/lessons-from-the-pandemic/13611844",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/lessons-from-the-pandemic/13611844",
             "isoDate": "2021-11-03T09:05:00.000Z",
@@ -1557,6 +1909,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/11/bia_20211102.mp3"
             },
+            "entities": ["now", "democracy"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/should-there-be-limits-on-free-speech/13609588",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/should-there-be-limits-on-free-speech/13609588",
             "isoDate": "2021-11-02T09:05:00.000Z",
@@ -1576,6 +1929,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/11/bia_20211101.mp3"
             },
+            "entities": ["conspiracy", "attack"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/is-trust-in-science-growing/13594732",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/is-trust-in-science-growing/13594732",
             "isoDate": "2021-11-01T09:05:00.000Z",
@@ -1595,6 +1949,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/10/bia_20211028.mp3"
             },
+            "entities": ["CBD", "now"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/cities-after-the-pandemic/13597514",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/cities-after-the-pandemic/13597514",
             "isoDate": "2021-10-28T09:05:00.000Z",
@@ -1614,6 +1969,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/10/bia_20211027.mp3"
             },
+            "entities": ["26%", "Sexism", "Australian", "Australia", "second"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/ending-gender-discrimination-in-construction/13597604",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/ending-gender-discrimination-in-construction/13597604",
             "isoDate": "2021-10-27T09:05:00.000Z",
@@ -1633,6 +1989,12 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/10/bia_20211026.mp3"
             },
+            "entities": [
+                "China",
+                "the past several years",
+                "today",
+                "Peter Martin"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/china%E2%80%99s-wolf-warrior-diplomacy/13578294",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/china%E2%80%99s-wolf-warrior-diplomacy/13578294",
             "isoDate": "2021-10-26T09:05:00.000Z",
@@ -1652,6 +2014,12 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/10/bia_20211025.mp3"
             },
+            "entities": [
+                "Australians",
+                "17 million",
+                "every day",
+                "25 million"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/hen-welfare/13597398",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/hen-welfare/13597398",
             "isoDate": "2021-10-25T09:05:00.000Z",
@@ -1671,6 +2039,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/10/bia_20211021.mp3"
             },
+            "entities": ["future", "secularism", "the future"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/future-of-religion/13552898",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/future-of-religion/13552898",
             "isoDate": "2021-10-21T09:05:00.000Z",
@@ -1690,6 +2059,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/10/bia_20211020.mp3"
             },
+            "entities": ["decades"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/oh,-the-humanities/13567908",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/oh,-the-humanities/13567908",
             "isoDate": "2021-10-20T09:05:00.000Z",
@@ -1709,6 +2079,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/10/bia_20211019.mp3"
             },
+            "entities": ["Australia", "the next decade"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/is-demography-destiny/13592676",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/is-demography-destiny/13592676",
             "isoDate": "2021-10-19T09:05:00.000Z",
@@ -1728,6 +2099,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/10/bia_20211018.mp3"
             },
+            "entities": ["Royal Commission", "17 billion dollars", "Australia"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/the-age-care-sector-needs-structural-reform/13559702",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/the-age-care-sector-needs-structural-reform/13559702",
             "isoDate": "2021-10-18T09:05:00.000Z",
@@ -1747,6 +2119,17 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/10/bia_20211014.mp3"
             },
+            "entities": [
+                "Oceane Campbell",
+                "She",
+                "rape",
+                "she",
+                "her",
+                "once",
+                "suicide",
+                "18-year-old",
+                "Twenty years"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/harmful-care/13555508",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/harmful-care/13555508",
             "isoDate": "2021-10-14T09:05:00.000Z",
@@ -1766,6 +2149,20 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/10/bia_20211013.mp3"
             },
+            "entities": [
+                "the last hundred years",
+                "She",
+                "her",
+                "1861",
+                "Empress",
+                "China",
+                "Cixi",
+                "1908",
+                "medieval",
+                "Jung Chang",
+                "writer",
+                "50 years"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/jung-chang-on-modern-china-and-cixi/13550148",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/jung-chang-on-modern-china-and-cixi/13550148",
             "isoDate": "2021-10-13T09:05:00.000Z",
@@ -1785,6 +2182,18 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/10/bia_20211012.mp3"
             },
+            "entities": [
+                "another century",
+                "Australian",
+                "Meggs",
+                "100 years",
+                "now",
+                "One",
+                "Instagram",
+                "he",
+                "30",
+                "Ginger Meggs"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/ginger-meggs---100th-anniversary/13511192",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/ginger-meggs---100th-anniversary/13511192",
             "isoDate": "2021-10-12T09:05:00.000Z",
@@ -1804,6 +2213,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/10/bia_20211011.mp3"
             },
+            "entities": ["Individualism"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/the-future-of-justice/13552056",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/the-future-of-justice/13552056",
             "isoDate": "2021-10-11T09:05:00.000Z",
@@ -1823,6 +2233,15 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/10/bia_20211007.mp3"
             },
+            "entities": [
+                "000",
+                "Canada",
+                "Afghanistan",
+                "38-million",
+                "six",
+                "Australia",
+                "20"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/australia-afghanistan/13543718",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/australia-afghanistan/13543718",
             "isoDate": "2021-10-07T09:05:00.000Z",
@@ -1842,6 +2261,15 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/10/bia_20211006.mp3"
             },
+            "entities": [
+                "Marc Lewis",
+                "15-year",
+                "drugs",
+                "now",
+                "30 years",
+                "He",
+                "he"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/13550018",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/13550018",
             "isoDate": "2021-10-06T09:05:00.000Z",
@@ -1861,6 +2289,14 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/10/bia_20211005.mp3"
             },
+            "entities": [
+                "the same day",
+                "Anand Deva",
+                "Future",
+                "he",
+                "He",
+                "Surgeon"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/future-medicine/13548184",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/future-medicine/13548184",
             "isoDate": "2021-10-05T09:05:00.000Z",
@@ -1880,6 +2316,12 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/10/bia_20211004.mp3"
             },
+            "entities": [
+                "journalist",
+                "Tara Kangarloub",
+                "Iran",
+                "Iranian American"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/an-iranian-perspective-on-life-in-iran/13559438",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/an-iranian-perspective-on-life-in-iran/13559438",
             "isoDate": "2021-10-04T09:05:00.000Z",
@@ -1899,6 +2341,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/09/bia_20210930.mp3"
             },
+            "entities": ["Australian", "one", "violence", "every week"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/preventing-domestic-violence/13540972",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/preventing-domestic-violence/13540972",
             "isoDate": "2021-09-30T10:05:00.000Z",
@@ -1918,6 +2361,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/09/bia_20210929.mp3"
             },
+            "entities": ["Australian", "Paul Barclay", "three"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/the-power-of-words/13556850",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/the-power-of-words/13556850",
             "isoDate": "2021-09-29T10:05:00.000Z",
@@ -1937,6 +2381,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/09/bia_20210928.mp3"
             },
+            "entities": ["7000", "Vanuatu", "the future", "Ethopia"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/saving-endangered-languages/13483420",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/saving-endangered-languages/13483420",
             "isoDate": "2021-09-28T10:05:00.000Z",
@@ -1956,6 +2401,16 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/09/bia_20210927.mp3"
             },
+            "entities": [
+                "Julia Gillard",
+                "John Howard",
+                "1951",
+                "ANZUS",
+                "70th",
+                "United States",
+                "Australia",
+                "first"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/us-alliance-at-70:-howard-gillard/13538540",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/us-alliance-at-70:-howard-gillard/13538540",
             "isoDate": "2021-09-27T10:05:00.000Z",
@@ -1975,6 +2430,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/09/bia_20210923.mp3"
             },
+            "entities": ["years", "Greeks"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/what-is-happiness/13537970",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/what-is-happiness/13537970",
             "isoDate": "2021-09-23T10:05:00.000Z",
@@ -1994,6 +2450,19 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/09/bia_20210922.mp3"
             },
+            "entities": [
+                "Julian Assange",
+                "espionage",
+                "United States",
+                "Australian",
+                "Wikileaks",
+                "founder",
+                "UK",
+                "Assange",
+                "he",
+                "him",
+                "US"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/is-it-time-to-free-julian-assange/13543560",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/is-it-time-to-free-julian-assange/13543560",
             "isoDate": "2021-09-22T10:05:00.000Z",
@@ -2013,6 +2482,19 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/09/bia_20210921.mp3"
             },
+            "entities": [
+                "Juukan",
+                "now",
+                "Now",
+                "politician",
+                "Aboriginal",
+                "WA",
+                "Rio Tinto",
+                "Australia",
+                "Ben Wyatt",
+                "He",
+                "Affairs Minister"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/inclusion-equals-success/13536588",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/inclusion-equals-success/13536588",
             "isoDate": "2021-09-21T10:05:00.000Z",
@@ -2032,6 +2514,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/09/bia_20210920.mp3"
             },
+            "entities": [],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/can-the-love-hormone-treat-ptsd/13532270",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/can-the-love-hormone-treat-ptsd/13532270",
             "isoDate": "2021-09-20T10:05:00.000Z",
@@ -2051,6 +2534,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/09/bia_20210916.mp3"
             },
+            "entities": ["now", "Rhoda Roberts", "Wesley Enoch"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/indigenous-arts/13506312",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/indigenous-arts/13506312",
             "isoDate": "2021-09-16T10:05:00.000Z",
@@ -2070,6 +2554,21 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/09/bia_20210915.mp3"
             },
+            "entities": [
+                "Gundagai",
+                "Anita Heiss",
+                "Bila Yarrudhanggalangdhuray",
+                "Paul Barclay",
+                "two",
+                "flood",
+                "1852",
+                "her",
+                "Australian",
+                "Aboriginal",
+                "Wiradjuri",
+                "60",
+                "Writer"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/anita-heiss-on-celebrating-aboriginal-heroes-and-learning-wirad/13535288",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/anita-heiss-on-celebrating-aboriginal-heroes-and-learning-wirad/13535288",
             "isoDate": "2021-09-15T10:05:00.000Z",
@@ -2089,6 +2588,16 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/09/bia_20210914.mp3"
             },
+            "entities": [
+                "his",
+                "one",
+                "Bobby Rush",
+                "more than 200 days",
+                "a year",
+                "he",
+                "Howlin\u2019 Wolf",
+                "87"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/bobby-rush-%E2%80%93-and-his-blues-story/13490626",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/bobby-rush-%E2%80%93-and-his-blues-story/13490626",
             "isoDate": "2021-09-14T10:05:00.000Z",
@@ -2108,6 +2617,14 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/09/bia_20210913.mp3"
             },
+            "entities": [
+                "20th anniversary of 9/11",
+                "attacks",
+                "non-Muslim",
+                "war",
+                "Muslim",
+                "the past two decades"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/implications-of-the-september-11-attacks---20-years-on/13529196",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/implications-of-the-september-11-attacks---20-years-on/13529196",
             "isoDate": "2021-09-13T10:05:00.000Z",
@@ -2127,6 +2644,13 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/09/bia_20210909.mp3"
             },
+            "entities": [
+                "Illiberalism",
+                "Hungary",
+                "Brazil",
+                "democracy",
+                "India"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/illiberal-democracies-on-the-rise/13521172",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/illiberal-democracies-on-the-rise/13521172",
             "isoDate": "2021-09-09T10:05:00.000Z",
@@ -2146,6 +2670,12 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/09/bia_20210908.mp3"
             },
+            "entities": [
+                "\u201cCalm",
+                "two-billion-dollar",
+                "hundred million",
+                "present"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/how-useful-are-mindfulness-apps/13525024",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/how-useful-are-mindfulness-apps/13525024",
             "isoDate": "2021-09-08T10:05:00.000Z",
@@ -2165,6 +2695,14 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/09/bia_20210907.mp3"
             },
+            "entities": [
+                "50 years ago",
+                "future",
+                "Australia",
+                "South African",
+                "first",
+                "Queensland"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/political-football---part-2/13523016",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/political-football---part-2/13523016",
             "isoDate": "2021-09-07T10:05:00.000Z",
@@ -2184,6 +2722,14 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/09/bia_20210906.mp3"
             },
+            "entities": [
+                "two-part",
+                "one",
+                "South Africa",
+                "50 years",
+                "first",
+                "Queensland"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/political-football/13522996",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/political-football/13522996",
             "isoDate": "2021-09-06T10:05:00.000Z",
@@ -2203,6 +2749,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/09/bia_20210902.mp3"
             },
+            "entities": ["last summer", "South Pacific"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/pacific-matters/13498926",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/pacific-matters/13498926",
             "isoDate": "2021-09-02T10:05:00.000Z",
@@ -2222,6 +2769,15 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/09/bia_20210901.mp3"
             },
+            "entities": [
+                "United States",
+                "UK",
+                "19",
+                "Scientist",
+                "Paul Barclay",
+                "Australia",
+                "two"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/turning-science-into-solutions/13517134",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/turning-science-into-solutions/13517134",
             "isoDate": "2021-09-01T10:05:00.000Z",
@@ -2241,6 +2797,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/08/bia_20210831.mp3"
             },
+            "entities": ["general", "BLM", "George Floyd"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/has-the-black-lives-matter-movement-changed-anything/13490568",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/has-the-black-lives-matter-movement-changed-anything/13490568",
             "isoDate": "2021-08-31T10:05:00.000Z",
@@ -2260,6 +2817,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/08/bia_20210830.mp3"
             },
+            "entities": ["Thirty percent", "illness"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/pandemic-fatigue/13499604",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/pandemic-fatigue/13499604",
             "isoDate": "2021-08-30T10:05:00.000Z",
@@ -2279,6 +2837,17 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/08/bia_20210826.mp3"
             },
+            "entities": [
+                "the past",
+                "Mike Wilby",
+                "Philosopher",
+                "the last century",
+                "populist",
+                "he",
+                "democracy",
+                "Germany",
+                "Russia"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/common-knowledge/13461938",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/common-knowledge/13461938",
             "isoDate": "2021-08-26T10:05:00.000Z",
@@ -2298,6 +2867,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/08/bia_20210825.mp3"
             },
+            "entities": ["Matthew Evans", "his", "chef", "Author", "farmer"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/celebrating-soil/13498282",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/celebrating-soil/13498282",
             "isoDate": "2021-08-25T10:05:00.000Z",
@@ -2317,6 +2887,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/08/bia_20210824.mp3"
             },
+            "entities": ["democracy"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/big-tech/13490394",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/big-tech/13490394",
             "isoDate": "2021-08-24T10:05:00.000Z",
@@ -2336,6 +2907,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/08/bia_20210823.mp3"
             },
+            "entities": ["3500", "Ireland", "terrorism", "today"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/the-northern-ireland-conflict-%E2%80%93-and-does-religion-cause-terrori/13490542",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/the-northern-ireland-conflict-%E2%80%93-and-does-religion-cause-terrori/13490542",
             "isoDate": "2021-08-23T10:05:00.000Z",
@@ -2355,6 +2927,13 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/08/bia_20210819.mp3"
             },
+            "entities": [
+                "author",
+                "UK",
+                "Now",
+                "Simon Garfield",
+                "University of York"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/dogs-best-friend/13486548",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/dogs-best-friend/13486548",
             "isoDate": "2021-08-19T10:05:00.000Z",
@@ -2374,6 +2953,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/08/bia_20210818.mp3"
             },
+            "entities": ["Holy Grail"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/vaccines,-stem-cells,-and-the-myth-of-wellness/13491576",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/vaccines,-stem-cells,-and-the-myth-of-wellness/13491576",
             "isoDate": "2021-08-18T10:05:00.000Z",
@@ -2393,6 +2973,16 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/08/bia_20210817.mp3"
             },
+            "entities": [
+                "Blue Origin",
+                "recently",
+                "Virgin Galactic",
+                "Nicholas Schmidle",
+                "$335,000",
+                "next year",
+                "first",
+                "Writer"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/travelling-to-space-with-virgin-galactic/13483860",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/travelling-to-space-with-virgin-galactic/13483860",
             "isoDate": "2021-08-17T10:05:00.000Z",
@@ -2412,6 +3002,13 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/08/bia_20210816.mp3"
             },
+            "entities": [
+                "future",
+                "Philosopher",
+                "he",
+                "Stephen Gardiner",
+                "first"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/alan-saunders-lecture---stephen-gardiner/13477526",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/alan-saunders-lecture---stephen-gardiner/13477526",
             "isoDate": "2021-08-16T10:05:00.000Z",
@@ -2431,6 +3028,14 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/08/bia_20210812.mp3"
             },
+            "entities": [
+                "United States",
+                "UK",
+                "United Kingdom",
+                "barrister",
+                "Australia",
+                "Leslie Thomas"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/restraining-police-restraint/13479898",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/restraining-police-restraint/13479898",
             "isoDate": "2021-08-12T10:05:00.000Z",
@@ -2450,6 +3055,16 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/08/bia_20210811.mp3"
             },
+            "entities": [
+                "Greece",
+                "the millennia",
+                "Moral Compass",
+                "August 13, 2017",
+                "author",
+                "today",
+                "Paul Barclay",
+                "Kenan Malik"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/kenan-malik:-a-history-of-morality-and-ethics/13485824",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/kenan-malik:-a-history-of-morality-and-ethics/13485824",
             "isoDate": "2021-08-11T10:05:00.000Z",
@@ -2469,6 +3084,13 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/08/bia_20210810.mp3"
             },
+            "entities": [
+                "She",
+                "one",
+                "Kate Crawford",
+                "Fenella Kernebone",
+                "Sydney"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/atlas-of-ai/13479282",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/atlas-of-ai/13479282",
             "isoDate": "2021-08-10T10:05:00.000Z",
@@ -2488,6 +3110,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/08/bia_20210809.mp3"
             },
+            "entities": ["Economist", "Australia", "Tim Thornton"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/better-economics-and-the-duty-to-rescue/13396624",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/better-economics-and-the-duty-to-rescue/13396624",
             "isoDate": "2021-08-09T10:05:00.000Z",
@@ -2506,6 +3129,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/08/bia_20210805.mp3"
             },
+            "entities": ["Professor", "Leslie Thomas"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/the-role-of-witness-anonymity/13450666",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/the-role-of-witness-anonymity/13450666",
             "isoDate": "2021-08-05T10:05:00.000Z",
@@ -2525,6 +3149,21 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/08/bia_20210804.mp3"
             },
+            "entities": [
+                "jurist",
+                "politician",
+                "Brilliant Boy",
+                "Labor",
+                "years",
+                "1930",
+                "Evatt",
+                "High Court",
+                "HV Evatt",
+                "Australian",
+                "Doc",
+                "judge",
+                "Australia"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/%E2%80%98doc%E2%80%99-evatt%E2%80%99s-great-dissenting-judgement/13477152",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/%E2%80%98doc%E2%80%99-evatt%E2%80%99s-great-dissenting-judgement/13477152",
             "isoDate": "2021-08-04T10:05:00.000Z",
@@ -2544,6 +3183,12 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/08/bia_20210803.mp3"
             },
+            "entities": [
+                "Eastern Europe",
+                "John Connelly",
+                "nationalism",
+                "Historian"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/history-of-eastern-europe/13441664",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/history-of-eastern-europe/13441664",
             "isoDate": "2021-08-03T10:05:00.000Z",
@@ -2563,6 +3208,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/08/bia_20210802.mp3"
             },
+            "entities": ["Once", "Socrates", "Shakespeare", "Now", "Aristotle"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/adolescent-mental-health/13461932",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/adolescent-mental-health/13461932",
             "isoDate": "2021-08-02T10:05:00.000Z",
@@ -2582,6 +3228,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/07/bia_20210729.mp3"
             },
+            "entities": ["Australians", "sixty thousand years", "two"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/food-connects-family,-community-and-history/13466252",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/food-connects-family,-community-and-history/13466252",
             "isoDate": "2021-07-29T10:05:00.000Z",
@@ -2601,6 +3248,17 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/07/bia_20210728.mp3"
             },
+            "entities": [
+                "murder",
+                "Kate Holden",
+                "Glen Turner",
+                "Winter",
+                "her",
+                "Australian",
+                "Ian Turnbull",
+                "farmer",
+                "Paul Barclay"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/how-a-dispute-over-land-clearing-turned-deadly/13468008",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/how-a-dispute-over-land-clearing-turned-deadly/13468008",
             "isoDate": "2021-07-28T10:05:00.000Z",
@@ -2620,6 +3278,13 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/07/bia_20210727.mp3"
             },
+            "entities": [
+                "Eighteen months",
+                "daily",
+                "one",
+                "Cancer",
+                "surgery"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/health-conditions-neglected-by-pandemic-focus/13466102",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/health-conditions-neglected-by-pandemic-focus/13466102",
             "isoDate": "2021-07-27T10:05:00.000Z",
@@ -2639,6 +3304,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/07/bia_20210726.mp3"
             },
+            "entities": [],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/statistics-and-covid-19/13441674",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/statistics-and-covid-19/13441674",
             "isoDate": "2021-07-26T10:05:00.000Z",
@@ -2658,6 +3324,13 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/07/bia_20210722.mp3"
             },
+            "entities": [
+                "Australians",
+                "professor",
+                "thirty years ago",
+                "470",
+                "Larissa Behrendt"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/deaths-in-custody-30-years-after-a-royal-commission/13448276",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/deaths-in-custody-30-years-after-a-royal-commission/13448276",
             "isoDate": "2021-07-22T10:05:00.000Z",
@@ -2677,6 +3350,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/07/bia_20210721.mp3"
             },
+            "entities": ["drugs", "Australia", "illness"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/improving-psychiatry-and-the-treatment-of-mental-illess/13443572",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/improving-psychiatry-and-the-treatment-of-mental-illess/13443572",
             "isoDate": "2021-07-21T10:05:00.000Z",
@@ -2696,6 +3370,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/07/bia_20210720.mp3"
             },
+            "entities": [],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/environment-as-financial-investment/13409110",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/environment-as-financial-investment/13409110",
             "isoDate": "2021-07-20T10:05:00.000Z",
@@ -2715,6 +3390,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/07/bia_20210719.mp3"
             },
+            "entities": ["China", "decades", "Asian"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/learning-asian-languages-and-mandarin-in-china/13446920",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/learning-asian-languages-and-mandarin-in-china/13446920",
             "isoDate": "2021-07-19T10:05:00.000Z",
@@ -2734,6 +3410,17 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/07/bia_20210715.mp3"
             },
+            "entities": [
+                "1921",
+                "Xi Jinping",
+                "leader",
+                "President",
+                "Chinese Communist Party",
+                "recently",
+                "China",
+                "future",
+                "One hundred years later"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/100-years-of-the-chinese-communist-party/13446250",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/100-years-of-the-chinese-communist-party/13446250",
             "isoDate": "2021-07-15T10:05:00.000Z",
@@ -2753,6 +3440,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/07/bia_20210714.mp3"
             },
+            "entities": [],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/what-makes-great-teaching-and-great-schools/13436860",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/what-makes-great-teaching-and-great-schools/13436860",
             "isoDate": "2021-07-14T10:05:00.000Z",
@@ -2772,6 +3460,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/07/bia_20210713.mp3"
             },
+            "entities": ["Psychologist", "Daniel Kahneman"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/improving-the-way-we-make-decisions/13442854",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/improving-the-way-we-make-decisions/13442854",
             "isoDate": "2021-07-13T10:05:00.000Z",
@@ -2791,6 +3480,17 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/07/bia_20210712.mp3"
             },
+            "entities": [
+                "She",
+                "four",
+                "Journalist",
+                "One",
+                "domestic violence",
+                "Kerry O'Brien",
+                "Jess Hill",
+                "years",
+                "violence"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/jess-hill--urgent-action-needed-to-tackle-domestic-violence/13440714",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/jess-hill--urgent-action-needed-to-tackle-domestic-violence/13440714",
             "isoDate": "2021-07-12T10:05:00.000Z",
@@ -2810,6 +3510,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/07/bia_20210708.mp3"
             },
+            "entities": ["accidents", "surgery"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/reasonable-robot-and-ai-hype/13433860",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/reasonable-robot-and-ai-hype/13433860",
             "isoDate": "2021-07-08T10:05:00.000Z",
@@ -2829,6 +3530,17 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/07/bia_20210707.mp3"
             },
+            "entities": [
+                "Hugh MacKay",
+                "Australians",
+                "one",
+                "Paul Barclay",
+                "Australia",
+                "last year",
+                "Hugh",
+                "Social psychologist",
+                "he"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/hugh-mackay-on-the-kindness-revolution/13423434",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/hugh-mackay-on-the-kindness-revolution/13423434",
             "isoDate": "2021-07-07T10:05:00.000Z",
@@ -2848,6 +3560,15 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/07/bia_20210706.mp3"
             },
+            "entities": [
+                "Moonlite",
+                "one",
+                "Captain",
+                "Australia",
+                "Marc Bookman",
+                "He",
+                "first"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/death-penalty/13409072",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/death-penalty/13409072",
             "isoDate": "2021-07-06T10:05:00.000Z",
@@ -2867,6 +3588,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/07/bia_20210705.mp3"
             },
+            "entities": ["the past", "Stan Grant"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/how-history-may-yet-be-the-death-of-us/13429892",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/how-history-may-yet-be-the-death-of-us/13429892",
             "isoDate": "2021-07-05T10:05:00.000Z",
@@ -2886,6 +3608,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/07/bia_20210701.mp3"
             },
+            "entities": [],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/the-rise-of-e-commerce-and-conscious-consumerism/13410450",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/the-rise-of-e-commerce-and-conscious-consumerism/13410450",
             "isoDate": "2021-07-01T10:05:00.000Z",
@@ -2905,6 +3628,16 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/06/bia_20210630.mp3"
             },
+            "entities": [
+                "Thomas",
+                "Uluru",
+                "1930",
+                "Mark McKenna",
+                "Mark",
+                "Historian",
+                "Paul Barclay",
+                "Thomas Mayor"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/uluru,-frontier-violence,-and-the-statement-from-the-heart/13380504",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/uluru,-frontier-violence,-and-the-statement-from-the-heart/13380504",
             "isoDate": "2021-06-30T10:05:00.000Z",
@@ -2924,6 +3657,13 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/06/bia_20210629.mp3"
             },
+            "entities": [
+                "World Science Festival",
+                "Australian",
+                "now",
+                "the future",
+                "2060"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/cities-2060/13421324",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/cities-2060/13421324",
             "isoDate": "2021-06-29T10:05:00.000Z",
@@ -2943,6 +3683,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/06/bia_20210628.mp3"
             },
+            "entities": [],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/how-to-become-a-good-listener-%E2%80%93-and-why-that%E2%80%99s-important/13356472",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/how-to-become-a-good-listener-%E2%80%93-and-why-that%E2%80%99s-important/13356472",
             "isoDate": "2021-06-28T10:05:00.000Z",
@@ -2962,6 +3703,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/06/bia_20210624.mp3"
             },
+            "entities": ["zero", "currently"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/green-electricity/13409578",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/green-electricity/13409578",
             "isoDate": "2021-06-24T10:05:00.000Z",
@@ -2981,6 +3723,15 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/06/bia_20210623.mp3"
             },
+            "entities": [
+                "Professor",
+                "Sharon Friel",
+                "Sandro Demaio",
+                "future",
+                "Cassandra Goldie",
+                "He",
+                "Sandro"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/health-for-all/13400082",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/health-for-all/13400082",
             "isoDate": "2021-06-23T10:05:00.000Z",
@@ -3000,6 +3751,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/06/bia_20210622.mp3"
             },
+            "entities": ["driver"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/why-do-we-use-deception-and-lies/12814344",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/why-do-we-use-deception-and-lies/12814344",
             "isoDate": "2021-06-22T10:05:00.000Z",
@@ -3019,6 +3771,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/06/bia_20210621.mp3"
             },
+            "entities": ["journalist", "she", "her"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/not-for-profits-and-anthropology-in-the-office/13401566",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/not-for-profits-and-anthropology-in-the-office/13401566",
             "isoDate": "2021-06-21T10:05:00.000Z",
@@ -3038,6 +3791,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/06/bia_20210617.mp3"
             },
+            "entities": ["Matildas", "Australia", "first"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/the-serious-side-of-the-game/13366658",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/the-serious-side-of-the-game/13366658",
             "isoDate": "2021-06-17T10:05:00.000Z",
@@ -3057,6 +3811,18 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/06/bia_20210616.mp3"
             },
+            "entities": [
+                "British Army",
+                "Afghanistan",
+                "his",
+                "Journalist",
+                "Guard",
+                "Iraq",
+                "Simon Akam",
+                "9/11",
+                "He",
+                "war crimes"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/the-decline-of-the-british-army/13374152",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/the-decline-of-the-british-army/13374152",
             "isoDate": "2021-06-16T10:05:00.000Z",
@@ -3076,6 +3842,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/06/bia_20210615.mp3"
             },
+            "entities": ["Two", "Modern"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/the-anxiety-of-parenting-and-happiness/13384838",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/the-anxiety-of-parenting-and-happiness/13384838",
             "isoDate": "2021-06-15T10:05:00.000Z",
@@ -3095,6 +3862,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/06/bia_20210614.mp3"
             },
+            "entities": ["Chthonic"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/justice-for-nature/13349000",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/justice-for-nature/13349000",
             "isoDate": "2021-06-14T10:05:00.000Z",
@@ -3114,6 +3882,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/06/bia_20210609.mp3"
             },
+            "entities": ["Solar", "China", "mobile"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/the-rare-metals-war/13364050",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/the-rare-metals-war/13364050",
             "isoDate": "2021-06-09T10:05:00.000Z",
@@ -3133,6 +3902,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/06/bia_20210608.mp3"
             },
+            "entities": ["French", "Steve Jones", "this day", "Revolution"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/revolutionary-science-of-the-french-revolution/12266824",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/revolutionary-science-of-the-french-revolution/12266824",
             "isoDate": "2021-06-08T10:05:00.000Z",
@@ -3152,6 +3922,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/06/bia_20210607.mp3"
             },
+            "entities": ["disease", "UK", "One", "now"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/remote-work-and-loneliness/13372092",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/remote-work-and-loneliness/13372092",
             "isoDate": "2021-06-07T10:05:00.000Z",
@@ -3171,6 +3942,15 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/06/bia_20210603.mp3"
             },
+            "entities": [
+                "60,000 years",
+                "British",
+                "Australian",
+                "historian",
+                "fire",
+                "Australia",
+                "250 years old"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/indigenous-hstory-and-the-history-of-fire/13362374",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/indigenous-hstory-and-the-history-of-fire/13362374",
             "isoDate": "2021-06-03T10:05:00.000Z",
@@ -3190,6 +3970,14 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/06/bia_20210602.mp3"
             },
+            "entities": [
+                "Myanmar",
+                "National League",
+                "democratic",
+                "Democracy",
+                "Australia",
+                "February"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/can-sanctions-restore-deomcracy-in-myanmar/13362238",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/can-sanctions-restore-deomcracy-in-myanmar/13362238",
             "isoDate": "2021-06-02T10:05:00.000Z",
@@ -3209,6 +3997,16 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/06/bia_20210601.mp3"
             },
+            "entities": [
+                "zero",
+                "Covid",
+                "economist",
+                "Australian",
+                "now",
+                "Ross Garnaut",
+                "two",
+                "He"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/ross-garnaut-on-economic-reform-and-greening-the-economy/13364430",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/ross-garnaut-on-economic-reform-and-greening-the-economy/13364430",
             "isoDate": "2021-06-01T10:05:00.000Z",
@@ -3228,6 +4026,15 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/05/bia_20210531.mp3"
             },
+            "entities": [
+                "Economist",
+                "his",
+                "Australian",
+                "now",
+                "Ross Garnaut",
+                "Australia",
+                "he"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/ross-garnaut-on-restoring-the-economy-after-the-pandemic/13364360",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/ross-garnaut-on-restoring-the-economy-after-the-pandemic/13364360",
             "isoDate": "2021-05-31T10:05:00.000Z",
@@ -3247,6 +4054,20 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/05/bia_20210527.mp3"
             },
+            "entities": [
+                "Iron Curtain",
+                "Mikhail Gorbachev",
+                "his",
+                "fall",
+                "Cold",
+                "30 years",
+                "War",
+                "USSR",
+                "Soviet",
+                "Six years later",
+                "he",
+                "Union"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/mikhail-gorbachev-and-the-collapse-of-the-soviet-union/13339084",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/mikhail-gorbachev-and-the-collapse-of-the-soviet-union/13339084",
             "isoDate": "2021-05-27T10:05:00.000Z",
@@ -3266,6 +4087,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/05/bia_20210526.mp3"
             },
+            "entities": ["her", "US"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/can-we-be-free-in-a-time-of-constant-surveillance/13355998",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/can-we-be-free-in-a-time-of-constant-surveillance/13355998",
             "isoDate": "2021-05-26T10:05:00.000Z",
@@ -3285,6 +4107,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/05/bia_20210525.mp3"
             },
+            "entities": ["current", "violence"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/human-evolution-unfit-for-modern-world/12370068",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/human-evolution-unfit-for-modern-world/12370068",
             "isoDate": "2021-05-25T10:05:00.000Z",
@@ -3304,6 +4127,15 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/05/bia_20210524.mp3"
             },
+            "entities": [
+                "Australians",
+                "China",
+                "future",
+                "Taiwan",
+                "Chinese",
+                "Australia",
+                "two"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/china-australia-tensions-and-taiwan/13356430",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/china-australia-tensions-and-taiwan/13356430",
             "isoDate": "2021-05-24T10:05:00.000Z",
@@ -3323,6 +4155,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/05/bia_20210520.mp3"
             },
+            "entities": ["Two"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/changing-minds-on-climate-change/13310250",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/changing-minds-on-climate-change/13310250",
             "isoDate": "2021-05-20T10:05:00.000Z",
@@ -3342,6 +4175,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/05/bia_20210519.mp3"
             },
+            "entities": [],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/can-crises-trigger-positive-chnage/13345014",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/can-crises-trigger-positive-chnage/13345014",
             "isoDate": "2021-05-19T10:05:00.000Z",
@@ -3361,6 +4195,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/05/bia_20210518.mp3"
             },
+            "entities": ["She", "Jess Scully"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/achieving-change-needs-hope/13310240",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/achieving-change-needs-hope/13310240",
             "isoDate": "2021-05-18T10:05:00.000Z",
@@ -3380,6 +4215,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/05/bia_20210517.mp3"
             },
+            "entities": ["Two"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/marshalling-the-troops-for-change/13310224",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/marshalling-the-troops-for-change/13310224",
             "isoDate": "2021-05-17T10:05:00.000Z",
@@ -3399,6 +4235,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/05/bia_20210513.mp3"
             },
+            "entities": [],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/career-reinvention-and-a-longer-working-life/13339728",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/career-reinvention-and-a-longer-working-life/13339728",
             "isoDate": "2021-05-13T10:05:00.000Z",
@@ -3418,6 +4255,17 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/05/bia_20210512.mp3"
             },
+            "entities": [
+                "seven years old",
+                "his",
+                "one",
+                "Rick Morton",
+                "Rick",
+                "writer",
+                "day",
+                "he",
+                "him"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/rick-morton-discusses-trauma-and-his-complex-ptsd-diagnosis/13336080",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/rick-morton-discusses-trauma-and-his-complex-ptsd-diagnosis/13336080",
             "isoDate": "2021-05-12T10:05:00.000Z",
@@ -3437,6 +4285,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/05/bia_20210511.mp3"
             },
+            "entities": ["the future", "first"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/birth-of-the-universe/13321072",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/birth-of-the-universe/13321072",
             "isoDate": "2021-05-11T10:05:00.000Z",
@@ -3456,6 +4305,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/05/bia_20210510.mp3"
             },
+            "entities": ["Modern"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/human-trafficking-and-modern-slavery/13337120",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/human-trafficking-and-modern-slavery/13337120",
             "isoDate": "2021-05-10T10:05:00.000Z",
@@ -3475,6 +4325,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/05/bia_20210506.mp3"
             },
+            "entities": ["she", "villain", "her", "Queen", "three"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/evil-witches-%E2%80%93-what-their-role-in-fairy-tales-tells-us-about-so/13099402",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/evil-witches-%E2%80%93-what-their-role-in-fairy-tales-tells-us-about-so/13099402",
             "isoDate": "2021-05-06T10:05:00.000Z",
@@ -3494,6 +4345,17 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/05/bia_20210505.mp3"
             },
+            "entities": [
+                "Western",
+                "2019",
+                "Victoria",
+                "Australian",
+                "Tasmania",
+                "now",
+                "nearly two years",
+                "Australia",
+                "first"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/voluntary-assisted-dying:-how-are-victorian-laws-working/13324320",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/voluntary-assisted-dying:-how-are-victorian-laws-working/13324320",
             "isoDate": "2021-05-05T10:05:00.000Z",
@@ -3513,6 +4375,18 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/05/bia_20210504.mp3"
             },
+            "entities": [
+                "her",
+                "sexual assault",
+                "Grace",
+                "Australian",
+                "One",
+                "recent months",
+                "the Year",
+                "Kerry O'Brien",
+                "Grace Tame",
+                "sexual abuse"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/grace-tame-and-the-campaign-against-sexual-abuse/13327116",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/grace-tame-and-the-campaign-against-sexual-abuse/13327116",
             "isoDate": "2021-05-04T10:05:00.000Z",
@@ -3532,6 +4406,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/05/bia_20210503.mp3"
             },
+            "entities": ["one", "day", "three"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/the-science-of-stress/13317716",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/the-science-of-stress/13317716",
             "isoDate": "2021-05-03T10:05:00.000Z",
@@ -3551,6 +4426,12 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/04/bia_20210429.mp3"
             },
+            "entities": [
+                "the 20th century",
+                "Versailles",
+                "the past century",
+                "Paris"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/legacy-of-the-treaty-of-versailles/12518054",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/legacy-of-the-treaty-of-versailles/12518054",
             "isoDate": "2021-04-29T10:05:00.000Z",
@@ -3570,6 +4451,17 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/04/bia_20210428.mp3"
             },
+            "entities": [
+                "Monica Dux",
+                "she",
+                "She",
+                "Catholic",
+                "her",
+                "once",
+                "nun",
+                "Catholic Church",
+                "Writer"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/leaving-catholicism/13315706",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/leaving-catholicism/13315706",
             "isoDate": "2021-04-28T10:05:00.000Z",
@@ -3589,6 +4481,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/04/bia_20210427.mp3"
             },
+            "entities": ["100 years", "29", "today", "1000-word"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/history-of-the-computer/13267978",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/history-of-the-computer/13267978",
             "isoDate": "2021-04-27T10:05:00.000Z",
@@ -3608,6 +4501,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/04/bia_20210426.mp3"
             },
+            "entities": ["Mass", "currently"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/recycling-and-sustainable-fashion/13318158",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/recycling-and-sustainable-fashion/13318158",
             "isoDate": "2021-04-26T10:05:00.000Z",
@@ -3627,6 +4521,15 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/04/bia_20210422.mp3"
             },
+            "entities": [
+                "United States",
+                "China",
+                "Europe",
+                "America",
+                "Joe Biden",
+                "US",
+                "president"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/china-and-its-relationship-with-the-us-and-the-world/13298924",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/china-and-its-relationship-with-the-us-and-the-world/13298924",
             "isoDate": "2021-04-22T10:05:00.000Z",
@@ -3646,6 +4549,13 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/04/bia_20210421.mp3"
             },
+            "entities": [
+                "zero",
+                "Scientist",
+                "Australia",
+                "battery",
+                "Alan Finkel"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/alan-finkel-on-australias-energy-transition/13306358",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/alan-finkel-on-australias-energy-transition/13306358",
             "isoDate": "2021-04-21T10:05:00.000Z",
@@ -3665,6 +4575,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/04/bia_20210420.mp3"
             },
+            "entities": ["drugs", "the 1940s", "1960s"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/mind-altering-medicines-and-anti-virals/13302680",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/mind-altering-medicines-and-anti-virals/13302680",
             "isoDate": "2021-04-20T10:05:00.000Z",
@@ -3684,6 +4595,15 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/04/bia_20210419.mp3"
             },
+            "entities": [
+                "Americans",
+                "today",
+                "Joe McCarthy",
+                "Soviet",
+                "Historian",
+                "Richard Norton Smith",
+                "he"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/joe-mccarthy-and-the-politics-of-fear/13267986",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/joe-mccarthy-and-the-politics-of-fear/13267986",
             "isoDate": "2021-04-19T10:05:00.000Z",
@@ -3703,6 +4623,14 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/04/bia_20210415.mp3"
             },
+            "entities": [
+                "Arbitration Commission",
+                "Workplace Gender Equality Agency",
+                "Australian",
+                "Director",
+                "13.4 percent",
+                "50 years"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/workplace-gender-equality/13299564",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/workplace-gender-equality/13299564",
             "isoDate": "2021-04-15T10:05:00.000Z",
@@ -3722,6 +4650,15 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/04/bia_20210414.mp3"
             },
+            "entities": [
+                "Prime Minister",
+                "Murdoch",
+                "Australian",
+                "China",
+                "Kevin Rudd",
+                "Paul Barclay",
+                "Labor"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/kevin-rudd-on-the-murdoch-media-and-how-federal-labor-can-win-a/13293864",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/kevin-rudd-on-the-murdoch-media-and-how-federal-labor-can-win-a/13293864",
             "isoDate": "2021-04-14T10:05:00.000Z",
@@ -3741,6 +4678,18 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/04/bia_20210413.mp3"
             },
+            "entities": [
+                "dancer",
+                "previously",
+                "one",
+                "War",
+                "war",
+                "Mata Hari",
+                "time",
+                "Historian",
+                "World",
+                "Joanne Bourke"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/mata-hari-%E2%80%93-the-%E2%80%98evil%E2%80%99-female-spy/13258560",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/mata-hari-%E2%80%93-the-%E2%80%98evil%E2%80%99-female-spy/13258560",
             "isoDate": "2021-04-13T10:05:00.000Z",
@@ -3760,6 +4709,19 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/04/bia_20210412.mp3"
             },
+            "entities": [
+                "Europeans",
+                "she",
+                "populism",
+                "conservative",
+                "American",
+                "Anne Applebaum",
+                "Poland",
+                "nationalism",
+                "historian",
+                "populist",
+                "democracy"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/democracy-under-threat/13298258",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/democracy-under-threat/13298258",
             "isoDate": "2021-04-12T10:05:00.000Z",
@@ -3779,6 +4741,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/04/bia_20210408.mp3"
             },
+            "entities": ["Night", "Covid pandemic"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/ideas-to-draw-us-closer-in-the-covid-era/13290714",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/ideas-to-draw-us-closer-in-the-covid-era/13290714",
             "isoDate": "2021-04-08T10:05:00.000Z",
@@ -3798,6 +4761,18 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/04/bia_20210407.mp3"
             },
+            "entities": [
+                "she",
+                "Elizabeth",
+                "Elizabeth Farrelly",
+                "future",
+                "architect",
+                "Paul Barclay",
+                "writer",
+                "first",
+                "Sydney",
+                "1970s"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/what-makes-a-great-city/13289674",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/what-makes-a-great-city/13289674",
             "isoDate": "2021-04-07T10:05:00.000Z",
@@ -3817,6 +4792,13 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/04/bia_20210406.mp3"
             },
+            "entities": [
+                "Asia-Pacific",
+                "Hong Kong",
+                "Philippines",
+                "Australia",
+                "intimidation"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/journalism-crisis-in-the-asia-pacific/12843662",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/journalism-crisis-in-the-asia-pacific/12843662",
             "isoDate": "2021-04-06T10:05:00.000Z",
@@ -3836,6 +4818,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/04/bia_20210405.mp3"
             },
+            "entities": ["Mahatma Gandhi", "one", "annual", "Two"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/should-the-law-be-more-forgiving/13287102",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/should-the-law-be-more-forgiving/13287102",
             "isoDate": "2021-04-05T10:05:00.000Z",
@@ -3855,6 +4838,14 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/04/bia_20210401.mp3"
             },
+            "entities": [
+                "general",
+                "Nobel Prize",
+                "Roger Penrose",
+                "Reinhard Genzel",
+                "2020",
+                "Andrea Ghez"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/black-holes-and-meteorites/13282424",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/black-holes-and-meteorites/13282424",
             "isoDate": "2021-04-01T09:05:00.000Z",
@@ -3874,6 +4865,13 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/03/bia_20210331.mp3"
             },
+            "entities": [
+                "brain surgeon",
+                "UK",
+                "one",
+                "Henry Marsh",
+                "Paul Barclay"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/confessions-of-a-brain-surgeon/13256602",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/confessions-of-a-brain-surgeon/13256602",
             "isoDate": "2021-03-31T09:05:00.000Z",
@@ -3893,6 +4891,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/03/bia_20210330.mp3"
             },
+            "entities": ["centuries", "one", "theft"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/inheritance---intergenerational-justice/13206366",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/inheritance---intergenerational-justice/13206366",
             "isoDate": "2021-03-30T09:05:00.000Z",
@@ -3912,6 +4911,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/03/bia_20210329.mp3"
             },
+            "entities": ["Australian"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/how-music-boosts-learning-and-wellbeing/13279288",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/how-music-boosts-learning-and-wellbeing/13279288",
             "isoDate": "2021-03-29T09:05:00.000Z",
@@ -3931,6 +4931,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/03/bia_20210325.mp3"
             },
+            "entities": ["Meritocracy", "Glyn Davis"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/the-unfairness-of-birth/13192238",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/the-unfairness-of-birth/13192238",
             "isoDate": "2021-03-25T09:05:00.000Z",
@@ -3950,6 +4951,14 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/03/bia_20210324.mp3"
             },
+            "entities": [
+                "leader",
+                "Noel Pearson",
+                "Pearson",
+                "Coalition and Labor",
+                "now",
+                "Indigenous Australians"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/noel-pearson-calls-for-referendum-on-indigenous-recognition/13260474",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/noel-pearson-calls-for-referendum-on-indigenous-recognition/13260474",
             "isoDate": "2021-03-24T09:05:00.000Z",
@@ -3969,6 +4978,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/03/bia_20210323.mp3"
             },
+            "entities": ["leader", "Covid", "infection", "Covid pandemic"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/covid-and-womens-leadership/13268158",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/covid-and-womens-leadership/13268158",
             "isoDate": "2021-03-23T09:05:00.000Z",
@@ -3988,6 +4998,14 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/03/bia_20210322.mp3"
             },
+            "entities": [
+                "Pell",
+                "journalist",
+                "She",
+                "her",
+                "Cardinal",
+                "Louise Milligan"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/the-devastating-experience-of-being-a-witness-in-court/13252616",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/the-devastating-experience-of-being-a-witness-in-court/13252616",
             "isoDate": "2021-03-22T09:05:00.000Z",
@@ -4007,6 +5025,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/03/bia_20210318.mp3"
             },
+            "entities": [],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/the-political-jury/13256274",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/the-political-jury/13256274",
             "isoDate": "2021-03-18T09:05:00.000Z",
@@ -4026,6 +5045,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/03/bia_20210317.mp3"
             },
+            "entities": ["first", "violence"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/family-law-and-children/13243786",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/family-law-and-children/13243786",
             "isoDate": "2021-03-17T09:05:00.000Z",
@@ -4045,6 +5065,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/03/bia_20210316.mp3"
             },
+            "entities": ["Jody Warrick", "fire", "Syria"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/the-true-story-of-destroying-syria%E2%80%99s-chemical-weapons/13215310",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/the-true-story-of-destroying-syria%E2%80%99s-chemical-weapons/13215310",
             "isoDate": "2021-03-16T09:05:00.000Z",
@@ -4064,6 +5085,14 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/03/bia_20210315.mp3"
             },
+            "entities": [
+                "President",
+                "his",
+                "Hong Kong",
+                "China",
+                "Joko Widodo",
+                "Indonesia"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/where-to-now-for-hong-kong-and-jokowis-indonesia/13242530",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/where-to-now-for-hong-kong-and-jokowis-indonesia/13242530",
             "isoDate": "2021-03-15T09:05:00.000Z",
@@ -4083,6 +5112,13 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/03/bia_20210311.mp3"
             },
+            "entities": [
+                "past",
+                "Historian",
+                "Australia",
+                "Leigh Straw",
+                "the early 20th century"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/history-of-women-and-crime/13159780",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/history-of-women-and-crime/13159780",
             "isoDate": "2021-03-11T09:05:00.000Z",
@@ -4102,6 +5138,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/03/bia_20210310.mp3"
             },
+            "entities": ["A year ago", "now", "daily", "decades"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/working-from-home-and-the-future-of-the-office/13219842",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/working-from-home-and-the-future-of-the-office/13219842",
             "isoDate": "2021-03-10T09:05:00.000Z",
@@ -4121,6 +5158,15 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/03/bia_20210309.mp3"
             },
+            "entities": [
+                "Myanmar",
+                "Aung San Suu Kyi",
+                "democratic",
+                "fire",
+                "decades",
+                "Australia",
+                "a month ago"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/does-democracy-have-a-future-in-myanmar/13226346",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/does-democracy-have-a-future-in-myanmar/13226346",
             "isoDate": "2021-03-09T09:05:00.000Z",
@@ -4140,6 +5186,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/03/bia_20210308.mp3"
             },
+            "entities": ["decade", "six", "past", "evening"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/international-world-women%E2%80%99s-day-%E2%80%93-generation-women/13202550",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/international-world-women%E2%80%99s-day-%E2%80%93-generation-women/13202550",
             "isoDate": "2021-03-08T09:05:00.000Z",
@@ -4159,6 +5206,15 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/03/bia_20210304.mp3"
             },
+            "entities": [
+                "President",
+                "Facebook's Oversight Board",
+                "conspiracy",
+                "Donald Trump",
+                "now",
+                "Supreme Court",
+                "Facebook"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/the-supreme-court-of-facebook/13201616",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/the-supreme-court-of-facebook/13201616",
             "isoDate": "2021-03-04T09:05:00.000Z",
@@ -4178,6 +5234,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/03/bia_20210303.mp3"
             },
+            "entities": ["Queensland Museum"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/the-psychology-of-fashion/13202232",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/the-psychology-of-fashion/13202232",
             "isoDate": "2021-03-03T09:05:00.000Z",
@@ -4197,6 +5254,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/03/bia_20210302.mp3"
             },
+            "entities": [],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/why-perfectionism-is-bad-for-you/13099350",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/why-perfectionism-is-bad-for-you/13099350",
             "isoDate": "2021-03-02T09:05:00.000Z",
@@ -4216,6 +5274,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/03/bia_20210301.mp3"
             },
+            "entities": [],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/online-privacy-&amp;-technology-reshaping-society/13200278",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/online-privacy-&amp;-technology-reshaping-society/13200278",
             "isoDate": "2021-03-01T09:05:00.000Z",
@@ -4235,6 +5294,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/02/bia_20210225.mp3"
             },
+            "entities": ["Modern Slavery Act", "future", "Australia"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/international-efforts-to-end-modern-slavery/12919484",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/international-efforts-to-end-modern-slavery/12919484",
             "isoDate": "2021-02-25T09:05:00.000Z",
@@ -4254,6 +5314,17 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/02/bia_20210224.mp3"
             },
+            "entities": [
+                "Tyson Yunkaporta",
+                "Tyson",
+                "once",
+                "author",
+                "Sand Talk",
+                "Paul Barclay",
+                "writer",
+                "He",
+                "he"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/tyson-yunkaporta:-looking-at-the-world-through-an-indigneous-le/13168756",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/tyson-yunkaporta:-looking-at-the-world-through-an-indigneous-le/13168756",
             "isoDate": "2021-02-24T09:05:00.000Z",
@@ -4273,6 +5344,20 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/02/bia_20210223.mp3"
             },
+            "entities": [
+                "2019",
+                "she",
+                "his",
+                "her",
+                "Rachel Perkins",
+                "Australian",
+                "film-maker",
+                "2020",
+                "Andrew Forrest",
+                "He",
+                "first",
+                "Boyer"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/the-economics-of-inequality-and-indigenous-disadvantage/13182620",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/the-economics-of-inequality-and-indigenous-disadvantage/13182620",
             "isoDate": "2021-02-23T09:05:00.000Z",
@@ -4292,6 +5377,12 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/02/bia_20210222.mp3"
             },
+            "entities": [
+                "Andrew Forrest AO",
+                "philanthropist",
+                "businessman",
+                "Boyer"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/boyers:-hydrogen-power-and-oceans/13177156",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/boyers:-hydrogen-power-and-oceans/13177156",
             "isoDate": "2021-02-22T09:05:00.000Z",
@@ -4311,6 +5402,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/02/bia_20210218.mp3"
             },
+            "entities": ["centuries", "one", "2020", "social justice"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/how-to-make-social-movements-successful/13125350",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/how-to-make-social-movements-successful/13125350",
             "isoDate": "2021-02-18T09:05:00.000Z",
@@ -4330,6 +5422,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/02/bia_20210217.mp3"
             },
+            "entities": ["fire", "Paul Barclay", "three", "summer"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/three-writers-discuss-the-climate-emergency/13139996",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/three-writers-discuss-the-climate-emergency/13139996",
             "isoDate": "2021-02-17T09:05:00.000Z",
@@ -4349,6 +5442,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/02/bia_20210216.mp3"
             },
+            "entities": ["Robin Dunbar", "illness"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/value-of-friendships/12517754",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/value-of-friendships/12517754",
             "isoDate": "2021-02-16T09:05:00.000Z",
@@ -4368,6 +5462,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/02/bia_20210215.mp3"
             },
+            "entities": ["ID", "Stacey Abrams", "democracy", "US"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/stacey-abrams-on-how-us-election-laws-disadvantage-minorities/13113466",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/stacey-abrams-on-how-us-election-laws-disadvantage-minorities/13113466",
             "isoDate": "2021-02-15T09:05:00.000Z",
@@ -4387,6 +5482,15 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/02/bia_20210211.mp3"
             },
+            "entities": [
+                "Covid",
+                "his",
+                "Biden",
+                "biographer",
+                "Joe Biden",
+                "Paris",
+                "WHO"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/what-drives-joe-biden-and-pandemics-linked-to-wildlife/13127230",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/what-drives-joe-biden-and-pandemics-linked-to-wildlife/13127230",
             "isoDate": "2021-02-11T09:05:00.000Z",
@@ -4406,6 +5510,17 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/02/bia_20210210.mp3"
             },
+            "entities": [
+                "Manning Clark",
+                "Don",
+                "Max Gilles",
+                "America",
+                "historian",
+                "Paul Barclay",
+                "Don Watson",
+                "Australia",
+                "He"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/don-watson-on-america,-speechwriting,-and-politics/13124964",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/don-watson-on-america,-speechwriting,-and-politics/13124964",
             "isoDate": "2021-02-10T09:05:00.000Z",
@@ -4425,6 +5540,13 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/02/bia_20210209.mp3"
             },
+            "entities": [
+                "She",
+                "her",
+                "ten years",
+                "Australia",
+                "Joelle Gergis"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/climate-science-and-the-challenge-of-change/13126462",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/climate-science-and-the-challenge-of-change/13126462",
             "isoDate": "2021-02-09T09:05:00.000Z",
@@ -4444,6 +5566,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/02/bia_20210208.mp3"
             },
+            "entities": ["social welfare", "Australia"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/how-can-we-reduce-inequality-in-australia/12718274",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/how-can-we-reduce-inequality-in-australia/12718274",
             "isoDate": "2021-02-08T09:05:00.000Z",
@@ -4463,6 +5586,19 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/02/bia_20210204.mp3"
             },
+            "entities": [
+                "Professor",
+                "Michelle",
+                "her",
+                "minutes",
+                "now",
+                "Michelle Simmons",
+                "Classical",
+                "Quantum Physics",
+                "University of New South Wales",
+                "first",
+                "years"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/quantum-computing-revolution/13114564",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/quantum-computing-revolution/13114564",
             "isoDate": "2021-02-04T09:05:00.000Z",
@@ -4482,6 +5618,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/02/bia_20210203.mp3"
             },
+            "entities": ["America", "Last year", "Australia"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/truth,-money-and-integrity,-in-politics-and-elections/13099334",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/truth,-money-and-integrity,-in-politics-and-elections/13099334",
             "isoDate": "2021-02-03T09:05:00.000Z",
@@ -4501,6 +5638,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/02/bia_20210202.mp3"
             },
+            "entities": ["Ron Deibert", "Big Ideas", "CBC Massey Lecture"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/reset-social-media/12961786",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/reset-social-media/12961786",
             "isoDate": "2021-02-02T09:05:00.000Z",
@@ -4520,6 +5658,14 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/02/bia_20210201.mp3"
             },
+            "entities": [
+                "Ron Deibert",
+                "one",
+                "fifth",
+                "Big Ideas",
+                "CBC Massey Lecture",
+                "65"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/smart-phones-environmental-impact/12961768",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/smart-phones-environmental-impact/12961768",
             "isoDate": "2021-02-01T09:05:00.000Z",
@@ -4539,6 +5685,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/01/bia_20210128.mp3"
             },
+            "entities": ["now", "Big Ideas", "CBC Massey Lecture"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/digital-authoritarianism/12961764",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/digital-authoritarianism/12961764",
             "isoDate": "2021-01-28T09:05:00.000Z",
@@ -4558,6 +5705,7 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/01/bia_20210127.mp3"
             },
+            "entities": ["Big Ideas", "years", "CBC Massey Lecture"],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/social-media-as-addiction-machines/12961746",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/social-media-as-addiction-machines/12961746",
             "isoDate": "2021-01-27T09:05:00.000Z",
@@ -4577,6 +5725,15 @@
                 "type": "audio/mp3",
                 "url": "https://abcmedia.akamaized.net/rn/podcast/2021/01/bia_20210126.mp3"
             },
+            "entities": [
+                "Ron Deibert",
+                "capitalism",
+                "model",
+                "Massey",
+                "Big Ideas",
+                "CBC Massey Lecture",
+                "second"
+            ],
             "link": "https://www.abc.net.au/radionational/programs/bigideas/cbc-massey-lecture-2:-the-market-for-our-minds/12961716",
             "guid": "https://www.abc.net.au/radionational/programs/bigideas/cbc-massey-lecture-2:-the-market-for-our-minds/12961716",
             "isoDate": "2021-01-26T09:05:00.000Z",

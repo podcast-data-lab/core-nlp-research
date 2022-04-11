@@ -26,6 +26,12 @@
     "items": [
         {
             "creator": "podcast@radiofrance.com (Radio France)",
+            "author": "podcast@radiofrance.com (Radio France)",
+            "link": "https://www.franceculture.fr/emissions/concordance-des-temps/eugene-sue-prince-du-feuilleton",
+            "title": "Eugène Sue, prince du feuilleton",
+            "pubDate": "Sat, 09 Apr 2022 10:58:46 +0200",
+            "content": "durée : 00:58:46 - Concordance des temps - par : Jean-Noël Jeanneney - L'essor des séries télévisées incite à dresser un parallèle avec l'épanouissement du roman-feuilleton en France sous la monarchie de Juillet. Judith Lyon-Caen présente la vie et l'oeuvre d'un des plus grands écrivains populaires du XIXe siècle. - invités : Judith Lyon-Caen Historienne, directrice d'études à l'EHESS ",
+            "contentSnippet": "durée : 00:58:46 - Concordance des temps - par : Jean-Noël Jeanneney - L'essor des séries télévisées incite à dresser un parallèle avec l'épanouissement du roman-feuilleton en France sous la monarchie de Juillet. Judith Lyon-Caen présente la vie et l'oeuvre d'un des plus grands écrivains populaires du XIXe siècle. - invités : Judith Lyon-Caen Historienne, directrice d'études à l'EHESS",
             "itunes": {
                 "duration": "00:58:46",
                 "explicit": "no",
@@ -40,18 +46,26 @@
                 "type": "audio/mpeg",
                 "url": "https://rf.proxycast.org/afd4208c-8a59-401b-9039-1cb6b5dc67d6/16278-09.04.2022-ITEMA_22990196-2022C6278E0014-21.mp3"
             },
-            "author": "podcast@radiofrance.com (Radio France)",
-            "link": "https://www.franceculture.fr/emissions/concordance-des-temps/eugene-sue-prince-du-feuilleton",
+            "entities": [
+                "Jean-Noël Jeanneney",
+                "Judith Lyon-Caen",
+                "dresser",
+                "France",
+                "00:58:46",
+                "Judith Lyon-Caen Historienne"
+            ],
             "guid": "8b742b5c-ced1-40de-843e-a907dec42dd4",
             "categories": ["Society & Culture"],
-            "isoDate": "2022-04-09T08:58:46.000Z",
-            "title": "Eugène Sue, prince du feuilleton",
-            "pubDate": "Sat, 09 Apr 2022 10:58:46 +0200",
-            "content": "durée : 00:58:46 - Concordance des temps - par : Jean-Noël Jeanneney - L'essor des séries télévisées incite à dresser un parallèle avec l'épanouissement du roman-feuilleton en France sous la monarchie de Juillet. Judith Lyon-Caen présente la vie et l'oeuvre d'un des plus grands écrivains populaires du XIXe siècle. - invités : Judith Lyon-Caen Historienne, directrice d'études à l'EHESS ",
-            "contentSnippet": "durée : 00:58:46 - Concordance des temps - par : Jean-Noël Jeanneney - L'essor des séries télévisées incite à dresser un parallèle avec l'épanouissement du roman-feuilleton en France sous la monarchie de Juillet. Judith Lyon-Caen présente la vie et l'oeuvre d'un des plus grands écrivains populaires du XIXe siècle. - invités : Judith Lyon-Caen Historienne, directrice d'études à l'EHESS"
+            "isoDate": "2022-04-09T08:58:46.000Z"
         },
         {
             "creator": "podcast@radiofrance.com (Radio France)",
+            "author": "podcast@radiofrance.com (Radio France)",
+            "link": "https://www.franceculture.fr/emissions/concordance-des-temps/flora-tristan-indignee",
+            "title": "Flora Tristan, indignée",
+            "pubDate": "Sat, 02 Apr 2022 10:58:54 +0200",
+            "content": "durée : 00:58:54 - Concordance des temps - par : Jean-Noël Jeanneney - Brigitte Krulic restitue le destin bref, douloureux et intense de cette femme de lettres, enquêtrice et militante sociale. Ses vaillants combats contre la déchéance ouvrière et pour la libération des femmes appellent curiosités et hommages. - invités : Brigitte Krulic professeur des Universités à Paris Ouest Nanterre La Défense ",
+            "contentSnippet": "durée : 00:58:54 - Concordance des temps - par : Jean-Noël Jeanneney - Brigitte Krulic restitue le destin bref, douloureux et intense de cette femme de lettres, enquêtrice et militante sociale. Ses vaillants combats contre la déchéance ouvrière et pour la libération des femmes appellent curiosités et hommages. - invités : Brigitte Krulic professeur des Universités à Paris Ouest Nanterre La Défense",
             "itunes": {
                 "duration": "00:58:54",
                 "explicit": "no",
@@ -66,18 +80,24 @@
                 "type": "audio/mpeg",
                 "url": "https://rf.proxycast.org/6c5169e0-5bbf-4f88-9afa-bc84e4c23dbb/16278-02.04.2022-ITEMA_22982782-2022C6278E0013-21.mp3"
             },
-            "author": "podcast@radiofrance.com (Radio France)",
-            "link": "https://www.franceculture.fr/emissions/concordance-des-temps/flora-tristan-indignee",
+            "entities": [
+                "Jean-Noël Jeanneney",
+                "Brigitte Krulic",
+                "00:58:54",
+                "Paris Ouest Nanterre La Défense"
+            ],
             "guid": "7aef5562-276b-4a0a-b5c6-1b5e37a30ffd",
             "categories": ["Society & Culture"],
-            "isoDate": "2022-04-02T08:58:54.000Z",
-            "title": "Flora Tristan, indignée",
-            "pubDate": "Sat, 02 Apr 2022 10:58:54 +0200",
-            "content": "durée : 00:58:54 - Concordance des temps - par : Jean-Noël Jeanneney - Brigitte Krulic restitue le destin bref, douloureux et intense de cette femme de lettres, enquêtrice et militante sociale. Ses vaillants combats contre la déchéance ouvrière et pour la libération des femmes appellent curiosités et hommages. - invités : Brigitte Krulic professeur des Universités à Paris Ouest Nanterre La Défense ",
-            "contentSnippet": "durée : 00:58:54 - Concordance des temps - par : Jean-Noël Jeanneney - Brigitte Krulic restitue le destin bref, douloureux et intense de cette femme de lettres, enquêtrice et militante sociale. Ses vaillants combats contre la déchéance ouvrière et pour la libération des femmes appellent curiosités et hommages. - invités : Brigitte Krulic professeur des Universités à Paris Ouest Nanterre La Défense"
+            "isoDate": "2022-04-02T08:58:54.000Z"
         },
         {
             "creator": "podcast@radiofrance.com (Radio France)",
+            "author": "podcast@radiofrance.com (Radio France)",
+            "link": "https://www.franceculture.fr/emissions/concordance-des-temps/les-heros-du-bien-commun",
+            "title": "Les héros du bien commun",
+            "pubDate": "Sat, 26 Mar 2022 10:58:48 +0100",
+            "content": "durée : 00:58:48 - Concordance des temps - par : Jean-Noël Jeanneney - De l'Antiquité à nos jours, Olivier Christin donne la parole à celles et à ceux qui ont été prêts à renoncer à leur intérêt immédiat, à leur confort, à se mettre en danger, tout cela au seul service d\u2019autrui. - invités : Olivier Christin Historien moderniste, professeur à l'Université de Neuchâtel et à l'Ecole Pratique des Hautes Études, directeur du Centre européen des études républicaines (CEDRE) ",
+            "contentSnippet": "durée : 00:58:48 - Concordance des temps - par : Jean-Noël Jeanneney - De l'Antiquité à nos jours, Olivier Christin donne la parole à celles et à ceux qui ont été prêts à renoncer à leur intérêt immédiat, à leur confort, à se mettre en danger, tout cela au seul service d\u2019autrui. - invités : Olivier Christin Historien moderniste, professeur à l'Université de Neuchâtel et à l'Ecole Pratique des Hautes Études, directeur du Centre européen des études républicaines (CEDRE)",
             "itunes": {
                 "duration": "00:58:48",
                 "explicit": "no",
@@ -92,18 +112,25 @@
                 "type": "audio/mpeg",
                 "url": "https://rf.proxycast.org/c761c94a-ef89-4a15-93dd-29fa710c5a34/16278-26.03.2022-ITEMA_22975415-2022C6278E0012-21.mp3"
             },
-            "author": "podcast@radiofrance.com (Radio France)",
-            "link": "https://www.franceculture.fr/emissions/concordance-des-temps/les-heros-du-bien-commun",
+            "entities": [
+                "00:58:48",
+                "Jean-Noël Jeanneney",
+                "Olivier Christin Historien",
+                "Olivier Christin donne",
+                "l'Ecole Pratique"
+            ],
             "guid": "ada60f09-7de6-4ea8-8a9d-7fd53a4e0b7f",
             "categories": ["Society & Culture"],
-            "isoDate": "2022-03-26T09:58:48.000Z",
-            "title": "Les héros du bien commun",
-            "pubDate": "Sat, 26 Mar 2022 10:58:48 +0100",
-            "content": "durée : 00:58:48 - Concordance des temps - par : Jean-Noël Jeanneney - De l'Antiquité à nos jours, Olivier Christin donne la parole à celles et à ceux qui ont été prêts à renoncer à leur intérêt immédiat, à leur confort, à se mettre en danger, tout cela au seul service d\u2019autrui. - invités : Olivier Christin Historien moderniste, professeur à l'Université de Neuchâtel et à l'Ecole Pratique des Hautes Études, directeur du Centre européen des études républicaines (CEDRE) ",
-            "contentSnippet": "durée : 00:58:48 - Concordance des temps - par : Jean-Noël Jeanneney - De l'Antiquité à nos jours, Olivier Christin donne la parole à celles et à ceux qui ont été prêts à renoncer à leur intérêt immédiat, à leur confort, à se mettre en danger, tout cela au seul service d\u2019autrui. - invités : Olivier Christin Historien moderniste, professeur à l'Université de Neuchâtel et à l'Ecole Pratique des Hautes Études, directeur du Centre européen des études républicaines (CEDRE)"
+            "isoDate": "2022-03-26T09:58:48.000Z"
         },
         {
             "creator": "podcast@radiofrance.com (Radio France)",
+            "author": "podcast@radiofrance.com (Radio France)",
+            "link": "https://www.franceculture.fr/emissions/concordance-des-temps/du-fouet-de-la-gifle-et-de-la-fessee",
+            "title": "Du fouet, de la gifle et de la fessée",
+            "pubDate": "Sat, 19 Mar 2022 10:58:40 +0100",
+            "content": "durée : 00:58:43 - Concordance des temps - par : Jean-Noël Jeanneney - Jusqu\u2019à une époque récente, la violence exercée par les parents sur leurs enfants était considérée comme légitime et nécessaire. Élisabeth Lusset revient sur l\u2019évolution du regard porté sur la fessée, depuis l\u2019Antiquité jusqu\u2019à nos jours.   ",
+            "contentSnippet": "durée : 00:58:43 - Concordance des temps - par : Jean-Noël Jeanneney - Jusqu\u2019à une époque récente, la violence exercée par les parents sur leurs enfants était considérée comme légitime et nécessaire. Élisabeth Lusset revient sur l\u2019évolution du regard porté sur la fessée, depuis l\u2019Antiquité jusqu\u2019à nos jours.",
             "itunes": {
                 "duration": "00:58:43",
                 "explicit": "no",
@@ -118,18 +145,19 @@
                 "type": "audio/mpeg",
                 "url": "https://rf.proxycast.org/784b196d-6a6a-4bb8-9d70-3220dac8679f/16278-19.03.2022-ITEMA_22967927-2022C6278E0011-21.mp3"
             },
-            "author": "podcast@radiofrance.com (Radio France)",
-            "link": "https://www.franceculture.fr/emissions/concordance-des-temps/du-fouet-de-la-gifle-et-de-la-fessee",
+            "entities": ["Jean-Noël Jeanneney", "00:58:43", "violence"],
             "guid": "97b1a1af-8850-47f4-99cf-97b4d516228b",
             "categories": ["Society & Culture"],
-            "isoDate": "2022-03-19T09:58:40.000Z",
-            "title": "Du fouet, de la gifle et de la fessée",
-            "pubDate": "Sat, 19 Mar 2022 10:58:40 +0100",
-            "content": "durée : 00:58:43 - Concordance des temps - par : Jean-Noël Jeanneney - Jusqu\u2019à une époque récente, la violence exercée par les parents sur leurs enfants était considérée comme légitime et nécessaire. Élisabeth Lusset revient sur l\u2019évolution du regard porté sur la fessée, depuis l\u2019Antiquité jusqu\u2019à nos jours.   ",
-            "contentSnippet": "durée : 00:58:43 - Concordance des temps - par : Jean-Noël Jeanneney - Jusqu\u2019à une époque récente, la violence exercée par les parents sur leurs enfants était considérée comme légitime et nécessaire. Élisabeth Lusset revient sur l\u2019évolution du regard porté sur la fessée, depuis l\u2019Antiquité jusqu\u2019à nos jours."
+            "isoDate": "2022-03-19T09:58:40.000Z"
         },
         {
             "creator": "podcast@radiofrance.com (Radio France)",
+            "author": "podcast@radiofrance.com (Radio France)",
+            "link": "https://www.franceculture.fr/emissions/concordance-des-temps/vivre-mieux-acheter-plus-a-la-belle-epoque",
+            "title": "Vivre mieux, acheter plus : à la Belle Époque",
+            "pubDate": "Sat, 12 Mar 2022 10:58:45 +0100",
+            "content": "durée : 00:58:48 - Concordance des temps - par : Jean-Noël Jeanneney - Comment vivaient les foyers populaires à Paris au tournant des XIXe et XXe siècles, alors que la société de consommation est en cours d'émergence ? C'est à une histoire des objets et de la consommation que nous invite Anaïs Albert. - invités : Anaïs Albert chercheuse associée au centre d\u2019histoire du XIXème (Paris I-Paris IV), docteur en histoire contemporaine (histoire de la consommation) ",
+            "contentSnippet": "durée : 00:58:48 - Concordance des temps - par : Jean-Noël Jeanneney - Comment vivaient les foyers populaires à Paris au tournant des XIXe et XXe siècles, alors que la société de consommation est en cours d'émergence ? C'est à une histoire des objets et de la consommation que nous invite Anaïs Albert. - invités : Anaïs Albert chercheuse associée au centre d\u2019histoire du XIXème (Paris I-Paris IV), docteur en histoire contemporaine (histoire de la consommation)",
             "itunes": {
                 "duration": "00:58:48",
                 "explicit": "no",
@@ -144,18 +172,25 @@
                 "type": "audio/mpeg",
                 "url": "https://rf.proxycast.org/c43ae3c3-7296-4a37-96f9-7a5c3bf58440/16278-12.03.2022-ITEMA_22960370-2022C6278E0010-21.mp3"
             },
-            "author": "podcast@radiofrance.com (Radio France)",
-            "link": "https://www.franceculture.fr/emissions/concordance-des-temps/vivre-mieux-acheter-plus-a-la-belle-epoque",
+            "entities": [
+                "00:58:48",
+                "I-Paris",
+                "Jean-Noël Jeanneney",
+                "Anaïs Albert",
+                "Paris"
+            ],
             "guid": "1962f149-4a01-4d19-8454-d8b87e24d1b4",
             "categories": ["Society & Culture"],
-            "isoDate": "2022-03-12T09:58:45.000Z",
-            "title": "Vivre mieux, acheter plus : à la Belle Époque",
-            "pubDate": "Sat, 12 Mar 2022 10:58:45 +0100",
-            "content": "durée : 00:58:48 - Concordance des temps - par : Jean-Noël Jeanneney - Comment vivaient les foyers populaires à Paris au tournant des XIXe et XXe siècles, alors que la société de consommation est en cours d'émergence ? C'est à une histoire des objets et de la consommation que nous invite Anaïs Albert. - invités : Anaïs Albert chercheuse associée au centre d\u2019histoire du XIXème (Paris I-Paris IV), docteur en histoire contemporaine (histoire de la consommation) ",
-            "contentSnippet": "durée : 00:58:48 - Concordance des temps - par : Jean-Noël Jeanneney - Comment vivaient les foyers populaires à Paris au tournant des XIXe et XXe siècles, alors que la société de consommation est en cours d'émergence ? C'est à une histoire des objets et de la consommation que nous invite Anaïs Albert. - invités : Anaïs Albert chercheuse associée au centre d\u2019histoire du XIXème (Paris I-Paris IV), docteur en histoire contemporaine (histoire de la consommation)"
+            "isoDate": "2022-03-12T09:58:45.000Z"
         },
         {
             "creator": "podcast@radiofrance.com (Radio France)",
+            "author": "podcast@radiofrance.com (Radio France)",
+            "link": "https://www.franceculture.fr/emissions/concordance-des-temps/1869-1879-la-republique-en-son-creuset",
+            "title": "1869-1879 : la République en son creuset",
+            "pubDate": "Sat, 05 Mar 2022 10:58:41 +0100",
+            "content": "durée : 00:58:41 - Concordance des temps - par : Jean-Noël Jeanneney - En quoi les épisodes et les tumultes de cette décennie fondatrice ont-ils pu marquer durablement les formes, les moyens, les faiblesses et les dynamismes de la République française ? En compagnie de Pierre Allorant. - invités : Pierre Allorant professeur d\u2019histoire du droit à l\u2019Université d\u2019Orléans et doyen de sa faculté ",
+            "contentSnippet": "durée : 00:58:41 - Concordance des temps - par : Jean-Noël Jeanneney - En quoi les épisodes et les tumultes de cette décennie fondatrice ont-ils pu marquer durablement les formes, les moyens, les faiblesses et les dynamismes de la République française ? En compagnie de Pierre Allorant. - invités : Pierre Allorant professeur d\u2019histoire du droit à l\u2019Université d\u2019Orléans et doyen de sa faculté",
             "itunes": {
                 "duration": "00:58:41",
                 "explicit": "no",
@@ -170,18 +205,24 @@
                 "type": "audio/mpeg",
                 "url": "https://rf.proxycast.org/7679fd05-a8e5-4ed9-8254-bbc741f7f7c4/16278-05.03.2022-ITEMA_22952790-2022C6278E0009-21.mp3"
             },
-            "author": "podcast@radiofrance.com (Radio France)",
-            "link": "https://www.franceculture.fr/emissions/concordance-des-temps/1869-1879-la-republique-en-son-creuset",
+            "entities": [
+                "Jean-Noël Jeanneney",
+                "Pierre Allorant",
+                "République française",
+                "00:58:41"
+            ],
             "guid": "515356ca-dac8-4222-ba5e-922c90abe85b",
             "categories": ["Society & Culture"],
-            "isoDate": "2022-03-05T09:58:41.000Z",
-            "title": "1869-1879 : la République en son creuset",
-            "pubDate": "Sat, 05 Mar 2022 10:58:41 +0100",
-            "content": "durée : 00:58:41 - Concordance des temps - par : Jean-Noël Jeanneney - En quoi les épisodes et les tumultes de cette décennie fondatrice ont-ils pu marquer durablement les formes, les moyens, les faiblesses et les dynamismes de la République française ? En compagnie de Pierre Allorant. - invités : Pierre Allorant professeur d\u2019histoire du droit à l\u2019Université d\u2019Orléans et doyen de sa faculté ",
-            "contentSnippet": "durée : 00:58:41 - Concordance des temps - par : Jean-Noël Jeanneney - En quoi les épisodes et les tumultes de cette décennie fondatrice ont-ils pu marquer durablement les formes, les moyens, les faiblesses et les dynamismes de la République française ? En compagnie de Pierre Allorant. - invités : Pierre Allorant professeur d\u2019histoire du droit à l\u2019Université d\u2019Orléans et doyen de sa faculté"
+            "isoDate": "2022-03-05T09:58:41.000Z"
         },
         {
             "creator": "podcast@radiofrance.com (Radio France)",
+            "author": "podcast@radiofrance.com (Radio France)",
+            "link": "https://www.franceculture.fr/emissions/concordance-des-temps/joie-decretee-joie-detournee-la-fete-au-xviiie-siecle",
+            "title": "Joie décrétée, joie détournée : la fête au XVIIIe siècle",
+            "pubDate": "Sat, 26 Feb 2022 10:58:46 +0100",
+            "content": "durée : 00:58:46 - Concordance des temps - par : Jean-Noël Jeanneney - Chaque événement heureux de la Couronne donne lieu, au XVIIIe siècle, à l\u2019organisation de réjouissances dans l\u2019espace public parisien. Pauline Valade revient sur l'histoire politique et culturelle de ces plaisirs éphémères.   - invités : Pauline Valade Agrégée et docteure en histoire moderne, chercheuse au sein du CEMMC de Bordeaux Montaigne ",
+            "contentSnippet": "durée : 00:58:46 - Concordance des temps - par : Jean-Noël Jeanneney - Chaque événement heureux de la Couronne donne lieu, au XVIIIe siècle, à l\u2019organisation de réjouissances dans l\u2019espace public parisien. Pauline Valade revient sur l'histoire politique et culturelle de ces plaisirs éphémères.   - invités : Pauline Valade Agrégée et docteure en histoire moderne, chercheuse au sein du CEMMC de Bordeaux Montaigne",
             "itunes": {
                 "duration": "00:58:46",
                 "explicit": "no",
@@ -196,18 +237,26 @@
                 "type": "audio/mpeg",
                 "url": "https://rf.proxycast.org/b9bc85d6-b992-474e-a5b3-eb2ef77e11ce/16278-26.02.2022-ITEMA_22945409-2022C6278E0008-21.mp3"
             },
-            "author": "podcast@radiofrance.com (Radio France)",
-            "link": "https://www.franceculture.fr/emissions/concordance-des-temps/joie-decretee-joie-detournee-la-fete-au-xviiie-siecle",
+            "entities": [
+                "Montaigne",
+                "Jean-Noël Jeanneney",
+                "Bordeaux",
+                "Pauline Valade",
+                "Pauline Valade Agrégée",
+                "00:58:46"
+            ],
             "guid": "4a9a7f43-9977-4286-abac-285a405c8c17",
             "categories": ["Society & Culture"],
-            "isoDate": "2022-02-26T09:58:46.000Z",
-            "title": "Joie décrétée, joie détournée : la fête au XVIIIe siècle",
-            "pubDate": "Sat, 26 Feb 2022 10:58:46 +0100",
-            "content": "durée : 00:58:46 - Concordance des temps - par : Jean-Noël Jeanneney - Chaque événement heureux de la Couronne donne lieu, au XVIIIe siècle, à l\u2019organisation de réjouissances dans l\u2019espace public parisien. Pauline Valade revient sur l'histoire politique et culturelle de ces plaisirs éphémères.   - invités : Pauline Valade Agrégée et docteure en histoire moderne, chercheuse au sein du CEMMC de Bordeaux Montaigne ",
-            "contentSnippet": "durée : 00:58:46 - Concordance des temps - par : Jean-Noël Jeanneney - Chaque événement heureux de la Couronne donne lieu, au XVIIIe siècle, à l\u2019organisation de réjouissances dans l\u2019espace public parisien. Pauline Valade revient sur l'histoire politique et culturelle de ces plaisirs éphémères.   - invités : Pauline Valade Agrégée et docteure en histoire moderne, chercheuse au sein du CEMMC de Bordeaux Montaigne"
+            "isoDate": "2022-02-26T09:58:46.000Z"
         },
         {
             "creator": "podcast@radiofrance.com (Radio France)",
+            "author": "podcast@radiofrance.com (Radio France)",
+            "link": "https://www.franceculture.fr/emissions/concordance-des-temps/au-xixe-siecle-les-sourds-parmi-les-autres",
+            "title": "Au XIXe siècle : les sourds parmi les autres",
+            "pubDate": "Sat, 19 Feb 2022 10:58:45 +0100",
+            "content": "durée : 00:58:51 - Concordance des temps - par : Jean-Noël Jeanneney - Florence Encrevé revient sur l'histoire méconnue des sourds en France : celle d'une mise à l'écart de personnes considérées comme infirmes au nom de l'unité d'une langue supposée commune, le français.  - invités : Florence Encrevé Maîtresse de conférences en sciences du langage à l'université Paris-8 Vincennes-Saint-Denis ",
+            "contentSnippet": "durée : 00:58:51 - Concordance des temps - par : Jean-Noël Jeanneney - Florence Encrevé revient sur l'histoire méconnue des sourds en France : celle d'une mise à l'écart de personnes considérées comme infirmes au nom de l'unité d'une langue supposée commune, le français.  - invités : Florence Encrevé Maîtresse de conférences en sciences du langage à l'université Paris-8 Vincennes-Saint-Denis",
             "itunes": {
                 "duration": "00:58:51",
                 "explicit": "no",
@@ -222,18 +271,19 @@
                 "type": "audio/mpeg",
                 "url": "https://rf.proxycast.org/b1843e41-24f3-4080-ab9a-6685b1365d47/16278-19.02.2022-ITEMA_22938187-2022C6278E0007-21.mp3"
             },
-            "author": "podcast@radiofrance.com (Radio France)",
-            "link": "https://www.franceculture.fr/emissions/concordance-des-temps/au-xixe-siecle-les-sourds-parmi-les-autres",
+            "entities": ["Jean-Noël Jeanneney", "00:58:51", "France"],
             "guid": "dd93be18-3a46-4b7e-b158-9ecff1a54d58",
             "categories": ["Society & Culture"],
-            "isoDate": "2022-02-19T09:58:45.000Z",
-            "title": "Au XIXe siècle : les sourds parmi les autres",
-            "pubDate": "Sat, 19 Feb 2022 10:58:45 +0100",
-            "content": "durée : 00:58:51 - Concordance des temps - par : Jean-Noël Jeanneney - Florence Encrevé revient sur l'histoire méconnue des sourds en France : celle d'une mise à l'écart de personnes considérées comme infirmes au nom de l'unité d'une langue supposée commune, le français.  - invités : Florence Encrevé Maîtresse de conférences en sciences du langage à l'université Paris-8 Vincennes-Saint-Denis ",
-            "contentSnippet": "durée : 00:58:51 - Concordance des temps - par : Jean-Noël Jeanneney - Florence Encrevé revient sur l'histoire méconnue des sourds en France : celle d'une mise à l'écart de personnes considérées comme infirmes au nom de l'unité d'une langue supposée commune, le français.  - invités : Florence Encrevé Maîtresse de conférences en sciences du langage à l'université Paris-8 Vincennes-Saint-Denis"
+            "isoDate": "2022-02-19T09:58:45.000Z"
         },
         {
             "creator": "podcast@radiofrance.com (Radio France)",
+            "author": "podcast@radiofrance.com (Radio France)",
+            "link": "https://www.franceculture.fr/emissions/concordance-des-temps/les-russes-dans-leurs-frontieres",
+            "title": "Les Russes dans leurs frontières",
+            "pubDate": "Sat, 12 Feb 2022 10:58:48 +0100",
+            "content": "durée : 00:58:48 - Concordance des temps - par : Jean-Noël Jeanneney - Quel a été le rapport des dirigeants russes successifs, depuis les tsars jusqu'à Poutine, à leurs frontières ? Sabine Dullin nous aide à comprendre les racines de la crise ukrainienne en cours.    - invités :  Sabine Dullin Professeure en histoire contemporaine à Sciences Po ",
+            "contentSnippet": "durée : 00:58:48 - Concordance des temps - par : Jean-Noël Jeanneney - Quel a été le rapport des dirigeants russes successifs, depuis les tsars jusqu'à Poutine, à leurs frontières ? Sabine Dullin nous aide à comprendre les racines de la crise ukrainienne en cours.    - invités :  Sabine Dullin Professeure en histoire contemporaine à Sciences Po",
             "itunes": {
                 "duration": "00:58:48",
                 "explicit": "no",
@@ -248,15 +298,10 @@
                 "type": "audio/mpeg",
                 "url": "https://rf.proxycast.org/409adeed-a8c2-4500-ab38-5e8a65fff2bf/16278-12.02.2022-ITEMA_22931102-2022C6278E0006-21.mp3"
             },
-            "author": "podcast@radiofrance.com (Radio France)",
-            "link": "https://www.franceculture.fr/emissions/concordance-des-temps/les-russes-dans-leurs-frontieres",
+            "entities": ["00:58:48", "Jean-Noël Jeanneney", "Sabine Dullin"],
             "guid": "ee3fa267-7b8f-4f11-b745-9b06e1dc275d",
             "categories": ["Society & Culture"],
-            "isoDate": "2022-02-12T09:58:48.000Z",
-            "title": "Les Russes dans leurs frontières",
-            "pubDate": "Sat, 12 Feb 2022 10:58:48 +0100",
-            "content": "durée : 00:58:48 - Concordance des temps - par : Jean-Noël Jeanneney - Quel a été le rapport des dirigeants russes successifs, depuis les tsars jusqu'à Poutine, à leurs frontières ? Sabine Dullin nous aide à comprendre les racines de la crise ukrainienne en cours.    - invités :  Sabine Dullin Professeure en histoire contemporaine à Sciences Po ",
-            "contentSnippet": "durée : 00:58:48 - Concordance des temps - par : Jean-Noël Jeanneney - Quel a été le rapport des dirigeants russes successifs, depuis les tsars jusqu'à Poutine, à leurs frontières ? Sabine Dullin nous aide à comprendre les racines de la crise ukrainienne en cours.    - invités :  Sabine Dullin Professeure en histoire contemporaine à Sciences Po"
+            "isoDate": "2022-02-12T09:58:48.000Z"
         },
         {
             "creator": "podcast@radiofrance.com (Radio France)",
@@ -273,6 +318,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.radiofrance-podcast.net/podcast09/autopromo_replay_franceculture.mp3"
             },
+            "entities": ["France"],
             "author": "podcast@radiofrance.com (Radio France)",
             "link": "https://www.radiofrance.fr/application-mobile-radio-france",
             "guid": "https://media.radiofrance-podcast.net/podcast09/autopromo_replay_franceculture.mp3",

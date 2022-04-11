@@ -54,6 +54,15 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/49218117/fe_episode25_audio.mp3"
             },
+            "entities": [
+                "Dan",
+                "1:08:00",
+                "East Coast",
+                "Mike",
+                "35:40",
+                "Borderlands",
+                "Mary"
+            ],
             "link": "https://www.spreaker.com/user/14864828/fe-episode25-audio",
             "guid": "https://api.spreaker.com/episode/49218117",
             "isoDate": "2022-03-28T07:00:03.000Z",
@@ -76,6 +85,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/49048642/fe_patreon_ep24.mp3"
             },
+            "entities": [],
             "link": "https://www.spreaker.com/user/14864828/fe-patreon-ep24",
             "guid": "https://api.spreaker.com/episode/49048642",
             "isoDate": "2022-03-16T17:00:03.000Z",
@@ -98,6 +108,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/48886424/fe_patreon_episode23_audio.mp3"
             },
+            "entities": ["Dan", "Mike", "Pokémon", "one", "Elden Ring", "Mary"],
             "link": "https://www.spreaker.com/user/14864828/fe-patreon-episode23-audio",
             "guid": "https://api.spreaker.com/episode/48886424",
             "isoDate": "2022-02-28T08:00:03.000Z",
@@ -120,6 +131,16 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/48713641/fe_patreon_episode22_audio.mp3"
             },
+            "entities": [
+                "Dan",
+                "Warhammer",
+                "2",
+                "3",
+                "War",
+                "Kahlief Adams",
+                "Grapple Dog",
+                "first"
+            ],
             "link": "https://www.spreaker.com/user/14864828/fe-patreon-episode22-audio",
             "guid": "https://api.spreaker.com/episode/48713641",
             "isoDate": "2022-02-14T15:00:03.000Z",
@@ -142,6 +163,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/48511981/fe_episode21_audio.mp3"
             },
+            "entities": ["2016", "4", "Alex Boniello"],
             "link": "https://www.spreaker.com/user/14864828/fe-episode21-audio",
             "guid": "https://api.spreaker.com/episode/48511981",
             "isoDate": "2022-01-31T08:00:03.000Z",
@@ -164,6 +186,14 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/48322521/fe_episode20_final_audio.mp3"
             },
+            "entities": [
+                "Dan",
+                "Mike",
+                "his",
+                "Samba de Amigo",
+                "World, Sea Man",
+                "Mary"
+            ],
             "link": "https://www.spreaker.com/user/14864828/fe-episode20-final-audio",
             "guid": "https://api.spreaker.com/episode/48322521",
             "isoDate": "2022-01-17T08:00:02.000Z",
@@ -186,6 +216,16 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/48142421/fe_episode19_audio.mp3"
             },
+            "entities": [
+                "Dan",
+                "Mike",
+                "his",
+                "Seaman",
+                "Fire",
+                "Loop Hero",
+                "new year",
+                "Mary"
+            ],
             "link": "https://www.spreaker.com/user/14864828/fe-episode19-audio_1",
             "guid": "https://api.spreaker.com/episode/48142421",
             "isoDate": "2022-01-03T08:00:02.000Z",
@@ -208,6 +248,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/47989470/fe_ep18_patreon_audio_final_v2.mp3"
             },
+            "entities": ["Escape", "Fire", "2021"],
             "link": "https://www.spreaker.com/user/14864828/fe-ep18-patreon-audio-final-v2",
             "guid": "https://api.spreaker.com/episode/47989470",
             "isoDate": "2021-12-20T08:00:02.000Z",
@@ -231,6 +272,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/47796937/fe_episode_17_audio.mp3"
             },
+            "entities": ["Dan", "Mike", "his", "Mary"],
             "link": "https://www.spreaker.com/user/14864828/fe-episode-17-audio",
             "guid": "https://api.spreaker.com/episode/47796937",
             "isoDate": "2021-12-06T08:05:02.000Z",
@@ -254,6 +296,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/47588377/fe_episode16_audio_final.mp3"
             },
+            "entities": ["Dan", "Mike", "now", "one", "Mary"],
             "link": "https://www.spreaker.com/user/14864828/fe-episode16-audio-final",
             "guid": "https://api.spreaker.com/episode/47588377",
             "isoDate": "2021-11-22T08:00:04.000Z",
@@ -277,6 +320,15 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/47361743/fe_episode15_smaller.mp3"
             },
+            "entities": [
+                "Vinny Caravella",
+                "Dan",
+                "homeowner",
+                "Mike",
+                "this week",
+                "he",
+                "Mary"
+            ],
             "link": "https://www.spreaker.com/user/14864828/fe-episode15-smaller",
             "guid": "https://api.spreaker.com/episode/47361743",
             "isoDate": "2021-11-08T08:00:16.000Z",
@@ -300,6 +352,16 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/47130502/fe_episode14_audio.mp3"
             },
+            "entities": [
+                "Escape",
+                "1:58:32",
+                "4",
+                "Fire",
+                "00:53:16",
+                "1:36:30",
+                "Outer Wilds",
+                "2:16:28"
+            ],
             "link": "https://www.spreaker.com/user/14864828/fe-episode14-audio",
             "guid": "https://api.spreaker.com/episode/47130502",
             "isoDate": "2021-10-25T07:00:13.000Z",
@@ -323,6 +385,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/46904233/fe_episode13_final.mp3"
             },
+            "entities": ["Escape", "Mass", "138857", "about Midnight", "Fire"],
             "link": "https://www.spreaker.com/user/14864828/fe-episode13-final",
             "guid": "https://api.spreaker.com/episode/46904233",
             "isoDate": "2021-10-11T07:00:05.000Z",
@@ -346,6 +409,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/46697356/fe_episode12_audio.mp3"
             },
+            "entities": ["Dan", "Norm Macdonald", "Mike", "his", "now", "Mary"],
             "link": "https://www.spreaker.com/user/14864828/fe-episode12-audio",
             "guid": "https://api.spreaker.com/episode/46697356",
             "isoDate": "2021-09-27T07:00:15.000Z",
@@ -369,6 +433,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/46492329/fe_ep11_audio_v2.mp3"
             },
+            "entities": ["Escape", "once", "Fire", "Deathloop", "Zelda"],
             "link": "https://www.spreaker.com/user/14864828/fe-ep11-audio-v2",
             "guid": "https://api.spreaker.com/episode/46492329",
             "isoDate": "2021-09-13T12:05:15.000Z",
@@ -392,6 +457,16 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/46287775/fe_episode10_audio.mp3"
             },
+            "entities": [
+                "Escape",
+                "2:03:33",
+                "12 Minutes",
+                "59:29-1:27:35",
+                "past",
+                "Fire",
+                "Escapees",
+                "2:02:46"
+            ],
             "link": "https://www.spreaker.com/user/14864828/fe-episode10-audio",
             "guid": "https://api.spreaker.com/episode/46287775",
             "isoDate": "2021-08-30T07:00:11.000Z",
@@ -415,6 +490,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/46087080/fe_episode9_20210812_audio.mp3"
             },
+            "entities": ["Dan", "This week", "2", "Mike", "Mary", "Wildermyth"],
             "link": "https://www.spreaker.com/user/14864828/fe-episode9-20210812-audio",
             "guid": "https://api.spreaker.com/episode/46087080",
             "isoDate": "2021-08-16T07:00:11.000Z",
@@ -438,6 +514,17 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/45929234/fe_episode8_20210801_audio.mp3"
             },
+            "entities": [
+                "Escape",
+                "Dan",
+                "Mike",
+                "his",
+                "Fire",
+                "30",
+                "He",
+                "Wildermyth",
+                "Mary"
+            ],
             "link": "https://www.spreaker.com/user/14864828/fe-episode8-20210801-audio",
             "guid": "https://api.spreaker.com/episode/45929234",
             "isoDate": "2021-08-02T07:00:06.000Z",
@@ -461,6 +548,14 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/45819538/fire_escape_x_nextlander_pax_takeover_extraordinaire.mp3"
             },
+            "entities": [
+                "Escape",
+                "Cast",
+                "Dan",
+                "Fire",
+                "July 15, 2021",
+                "Nextlander"
+            ],
             "link": "https://www.spreaker.com/user/14864828/fire-escape-x-nextlander-pax-takeover-ex",
             "guid": "https://api.spreaker.com/episode/45819538",
             "isoDate": "2021-07-26T07:00:13.000Z",
@@ -484,6 +579,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/45728432/fe_ep7_20200715_audio.mp3"
             },
+            "entities": ["Dan", "Mike", "his", "days of summer", "Mary"],
             "link": "https://www.spreaker.com/user/14864828/fe-ep7-20200715-audio",
             "guid": "https://api.spreaker.com/episode/45728432",
             "isoDate": "2021-07-19T07:00:09.000Z",
@@ -506,6 +602,21 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/45681338/e2fe3dcf05e24e3915663613d72b3743.mp3"
             },
+            "entities": [
+                "weekend",
+                "Dan",
+                "washer",
+                "Mike",
+                "U.S.",
+                "Fire",
+                "now",
+                "Red Dead Online Guy",
+                "TM",
+                "https://anchor.fm/fireescape/support",
+                "he",
+                "Mary",
+                "Pacific Northwest"
+            ],
             "link": "https://www.spreaker.com/user/14864828/fire-escape-cast-6",
             "guid": "1811dde8-a85a-4cb2-8acb-2c8f3b08a6df",
             "isoDate": "2021-07-05T07:00:00.000Z",
@@ -528,6 +639,16 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/45681342/9b019af6fd6717afd5cd0ac334708213.mp3"
             },
+            "entities": [
+                "New York",
+                "Portland",
+                "his",
+                "weekend",
+                "monthly",
+                "https://anchor.fm/fireescape/support",
+                "Paul",
+                "Paul Ryckert"
+            ],
             "link": "https://www.spreaker.com/user/14864828/fire-escape-cast-5",
             "guid": "e89ccb01-0040-4a57-9e18-805e7d7b6ec4",
             "isoDate": "2021-06-21T07:00:00.000Z",
@@ -550,6 +671,14 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/45681351/085020a07a74e15c08971531fe745f6b.mp3"
             },
+            "entities": [
+                "Dan",
+                "Mike",
+                "American",
+                "Shin Megami Tensei",
+                "https://anchor.fm/fireescape/support",
+                "Mary"
+            ],
             "link": "https://www.spreaker.com/user/14864828/fire-escape-cast-4",
             "guid": "c7eaa15d-0000-4651-bc5c-a348c825a4e4",
             "isoDate": "2021-06-07T07:00:00.000Z",
@@ -572,6 +701,17 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/45681357/a517315ab84a9eb6d4a96e4b5f0d3a59.mp3"
             },
+            "entities": [
+                "Mass",
+                "Escape",
+                "Dan",
+                "Mike",
+                "his",
+                "Fire",
+                "https://anchor.fm/fireescape/support",
+                "he",
+                "Mary"
+            ],
             "link": "https://www.spreaker.com/user/14864828/fire-escape-cast-3",
             "guid": "12528b85-9f7d-456a-8f15-4a129decbfdc",
             "isoDate": "2021-05-24T07:00:00.000Z",
@@ -594,6 +734,19 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/45681353/2c8602754c9b9f66f2a82b219738b12f.mp3"
             },
+            "entities": [
+                "few weeks",
+                "Escape",
+                "Mass",
+                "Dan",
+                "Mike",
+                "his",
+                "her",
+                "Fire",
+                "8",
+                "https://anchor.fm/fireescape/support",
+                "Mary"
+            ],
             "link": "https://www.spreaker.com/user/14864828/fire-escape-cast-2",
             "guid": "253310dc-f9bd-4f4a-b788-0e1cf65b0498",
             "isoDate": "2021-05-10T07:00:00.000Z",
@@ -616,6 +769,18 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/45681345/6165195e4acb7788d11060c47df97ea8.mp3"
             },
+            "entities": [
+                "Dan",
+                "Escape",
+                "Mike",
+                "recently",
+                "reader",
+                "Fire",
+                "fire",
+                "2021",
+                "https://anchor.fm/fireescape/support",
+                "Mary"
+            ],
             "link": "https://www.spreaker.com/user/14864828/fire-escape-cast-1",
             "guid": "d0dbb899-8673-43f7-9f9f-8cfd644958a8",
             "isoDate": "2021-04-26T07:00:00.000Z",
@@ -638,6 +803,16 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/45681346/5fbde09f_a4b4_e54c_f4c4_c082380fdf4c.mp3"
             },
+            "entities": [
+                "Escape",
+                "Mike Mahardy",
+                "Dan Ryckert",
+                "Mary Kish",
+                "nights",
+                "Fire",
+                "judge",
+                "https://anchor.fm/fireescape/support"
+            ],
             "link": "https://www.spreaker.com/user/14864828/fire-escape-cast-trailer",
             "guid": "6c1a1751-f82f-45f9-ab3c-95713f322b28",
             "isoDate": "2021-04-12T07:00:00.000Z",

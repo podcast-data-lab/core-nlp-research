@@ -43,6 +43,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/49368944/lwl_4_8_22_mixdown.mp3"
             },
+            "entities": ["Cornelius", "Heather"],
             "link": "https://www.spreaker.com/user/11744532/lwl-4-8-22-mixdown",
             "guid": "https://api.spreaker.com/episode/49368944",
             "isoDate": "2022-04-08T17:42:29.000Z",
@@ -65,6 +66,14 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/49284814/lwl_121_01.mp3"
             },
+            "entities": [
+                "Oct",
+                "Lindsey",
+                "2-6",
+                "Lindseys",
+                "two",
+                "https://joinbravebyfaith.squarespace.com/marriage-retreat"
+            ],
             "link": "https://www.spreaker.com/user/11744532/lwl-121-01",
             "guid": "https://api.spreaker.com/episode/49284814",
             "isoDate": "2022-04-01T17:41:51.000Z",
@@ -87,6 +96,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/49203776/lwl_120_01.mp3"
             },
+            "entities": ["October", "this week", "now"],
             "link": "https://www.spreaker.com/user/11744532/lwl-120-01",
             "guid": "https://api.spreaker.com/episode/49203776",
             "isoDate": "2022-03-25T20:39:40.000Z",
@@ -109,6 +119,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/49108719/lwl_119_01.mp3"
             },
+            "entities": ["independent"],
             "link": "https://www.spreaker.com/user/11744532/lwl-119-01",
             "guid": "https://api.spreaker.com/episode/49108719",
             "isoDate": "2022-03-18T16:45:28.000Z",
@@ -131,6 +142,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/49033757/lwl_118_01.mp3"
             },
+            "entities": ["one", "Him"],
             "link": "https://www.spreaker.com/user/11744532/lwl-118-01",
             "guid": "https://api.spreaker.com/episode/49033757",
             "isoDate": "2022-03-11T21:06:57.000Z",
@@ -153,6 +165,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/48953969/lwl_117_01.mp3"
             },
+            "entities": ["This week", "Lindseys"],
             "link": "https://www.spreaker.com/user/11744532/lwl-117-01",
             "guid": "https://api.spreaker.com/episode/48953969",
             "isoDate": "2022-03-04T19:10:26.000Z",
@@ -175,6 +188,18 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/48875412/lwl_116_01.mp3"
             },
+            "entities": [
+                "first month",
+                "7 Dollars",
+                "https://KiwoCo.com/LWTL",
+                "$99",
+                "https://JoinCrowdHealth.com",
+                "https://Zocdoc.com/LWL",
+                "50%",
+                "6 months",
+                "https://www.amazon.com/lumineux/s?k=lumineux",
+                "First"
+            ],
             "link": "https://www.spreaker.com/user/11744532/lwl-116-01",
             "guid": "https://api.spreaker.com/episode/48875412",
             "isoDate": "2022-02-25T21:58:23.000Z",
@@ -197,6 +222,14 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/48789436/lwl_115_01.mp3"
             },
+            "entities": [
+                "Cornelius",
+                "This week",
+                "Heather",
+                "last week",
+                "one",
+                "Lindseys"
+            ],
             "link": "https://www.spreaker.com/user/11744532/lwl-115-01",
             "guid": "https://api.spreaker.com/episode/48789436",
             "isoDate": "2022-02-18T21:22:12.000Z",
@@ -219,6 +252,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/48691237/lwl_114_01.mp3"
             },
+            "entities": ["today", "Lindseys"],
             "link": "https://www.spreaker.com/user/11744532/friends-come-go",
             "guid": "https://api.spreaker.com/episode/48691237",
             "isoDate": "2022-02-11T16:42:35.000Z",
@@ -241,6 +275,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/48590666/lwl_113_01.mp3"
             },
+            "entities": ["Cornelius", "Heather", "today"],
             "link": "https://www.spreaker.com/user/11744532/lwl-113-01",
             "guid": "https://api.spreaker.com/episode/48590666",
             "isoDate": "2022-02-04T18:38:55.000Z",
@@ -263,6 +298,16 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/48544173/cairo.mp3"
             },
+            "entities": [
+                "seven years old",
+                "his",
+                "Cairo",
+                "CAIRO",
+                "now",
+                "https://wondery.fm/LWTL_Cairo",
+                "he",
+                "him"
+            ],
             "link": "https://www.spreaker.com/user/11744532/cairo",
             "guid": "https://api.spreaker.com/episode/48544173",
             "isoDate": "2022-02-01T20:42:04.000Z",
@@ -285,6 +330,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/48486887/lwl_112_01.mp3"
             },
+            "entities": ["years"],
             "link": "https://www.spreaker.com/user/11744532/lwl-112-01",
             "guid": "https://api.spreaker.com/episode/48486887",
             "isoDate": "2022-01-28T19:20:54.000Z",
@@ -307,6 +353,23 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/48446466/daiglebites_feeddrop_lorigottlieb_am_cta_01.mp3"
             },
+            "entities": [
+                "psychotherapist",
+                "Lauren",
+                "New York Times",
+                "author",
+                "Lori Gottlieb",
+                "two",
+                "Therapist",
+                "weekly",
+                "she",
+                "counselor",
+                "her",
+                "today",
+                "Katie Couric",
+                "Atlantic",
+                "Lori"
+            ],
             "link": "https://www.spreaker.com/user/11744532/daiglebites-feeddrop-lorigottlieb-am-cta",
             "guid": "https://api.spreaker.com/episode/48446466",
             "isoDate": "2022-01-26T09:00:02.000Z",
@@ -329,6 +392,14 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/48392246/lwl_1_21_22_mixdown.mp3"
             },
+            "entities": [
+                "Cornelius",
+                "Escape",
+                "the Box",
+                "today",
+                "Lindseys",
+                "Amazon"
+            ],
             "link": "https://www.spreaker.com/user/11744532/lwl-1-21-22-mixdown",
             "guid": "https://api.spreaker.com/episode/48392246",
             "isoDate": "2022-01-21T17:19:29.000Z",
@@ -351,6 +422,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/48301006/lwl_1_14_22_01.mp3"
             },
+            "entities": ["Cornelius", "Heather", "the past 10 years"],
             "link": "https://www.spreaker.com/user/11744532/lwl-1-14-22-01",
             "guid": "https://api.spreaker.com/episode/48301006",
             "isoDate": "2022-01-14T21:27:27.000Z",
@@ -373,6 +445,13 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/48205658/lwl_1_7_22_mixdown.mp3"
             },
+            "entities": [
+                "Escape",
+                "This week",
+                "the Box",
+                "Lindseys",
+                "Cornelius Lindseys"
+            ],
             "link": "https://www.spreaker.com/user/11744532/lwl-1-7-22-mixdown",
             "guid": "https://api.spreaker.com/episode/48205658",
             "isoDate": "2022-01-07T17:46:37.000Z",
@@ -395,6 +474,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/48122886/lwl_123121_mixdown.mp3"
             },
+            "entities": ["New Year"],
             "link": "https://www.spreaker.com/user/11744532/lwl-123121-mixdown",
             "guid": "https://api.spreaker.com/episode/48122886",
             "isoDate": "2021-12-31T18:22:52.000Z",
@@ -417,6 +497,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/47966503/lwl_107_01.mp3"
             },
+            "entities": ["Heather", "today", "early days"],
             "link": "https://www.spreaker.com/user/11744532/lwl-107-01",
             "guid": "https://api.spreaker.com/episode/47966503",
             "isoDate": "2021-12-17T18:39:04.000Z",
@@ -439,6 +520,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/47872100/lwl_106_01.mp3"
             },
+            "entities": ["CEO", "Lindseys", "Andy"],
             "link": "https://www.spreaker.com/user/11744532/lwl-106-01",
             "guid": "https://api.spreaker.com/episode/47872100",
             "isoDate": "2021-12-10T19:20:27.000Z",
@@ -461,6 +543,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/47773209/lwl_12_3_21_mixdown.mp3"
             },
+            "entities": ["Cornelius", "12", "Heather", "his", "4", "her"],
             "link": "https://www.spreaker.com/user/11744532/lwl-12-3-21-mixdown",
             "guid": "https://api.spreaker.com/episode/47773209",
             "isoDate": "2021-12-03T17:47:14.000Z",
@@ -483,6 +566,15 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/47747220/lwl_flip_mozzie.mp3"
             },
+            "entities": [
+                "Earth",
+                "Guide",
+                "Introducing Flip & Mozi",
+                "Earthling",
+                "flipandmozi.com",
+                "World",
+                "#1"
+            ],
             "link": "https://www.spreaker.com/user/11744532/lwl-flip-mozzie_1",
             "guid": "https://api.spreaker.com/episode/47747220",
             "isoDate": "2021-12-02T08:00:02.000Z",
@@ -505,6 +597,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/47643168/lwl_11_26_21_01.mp3"
             },
+            "entities": ["This week", "Lindsey"],
             "link": "https://www.spreaker.com/user/11744532/lwl-11-26-21-01",
             "guid": "https://api.spreaker.com/episode/47643168",
             "isoDate": "2021-11-26T14:40:01.000Z",
@@ -527,6 +620,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/47550129/lwl_103_01.mp3"
             },
+            "entities": ["This week", "today", "1-12", "Lindseys", "years"],
             "link": "https://www.spreaker.com/user/11744532/lwl-103-01",
             "guid": "https://api.spreaker.com/episode/47550129",
             "isoDate": "2021-11-19T12:30:15.000Z",
@@ -549,6 +643,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/47420731/lwl_102_01.mp3"
             },
+            "entities": ["today"],
             "link": "https://www.spreaker.com/user/11744532/lwl-102-01",
             "guid": "https://api.spreaker.com/episode/47420731",
             "isoDate": "2021-11-12T12:30:04.000Z",
@@ -571,6 +666,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/47340620/lwl_101_01.mp3"
             },
+            "entities": ["This week"],
             "link": "https://www.spreaker.com/user/11744532/lwl-101-01",
             "guid": "https://api.spreaker.com/episode/47340620",
             "isoDate": "2021-11-06T00:24:56.000Z",
@@ -593,6 +689,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/47259786/lwl_10_29_21_01.mp3"
             },
+            "entities": ["This week", "Lindseys", "100th"],
             "link": "https://www.spreaker.com/user/11744532/lwl-10-29-21-01",
             "guid": "https://api.spreaker.com/episode/47259786",
             "isoDate": "2021-10-29T15:37:00.000Z",
@@ -615,6 +712,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/47103889/lwl_99.mp3"
             },
+            "entities": ["This week"],
             "link": "https://www.spreaker.com/user/11744532/lwl-99",
             "guid": "https://api.spreaker.com/episode/47103889",
             "isoDate": "2021-10-22T19:18:03.000Z",
@@ -637,6 +735,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/46996745/lwl_98_01.mp3"
             },
+            "entities": ["Cornelius", "Heather", "now"],
             "link": "https://www.spreaker.com/user/11744532/lwl-98-01",
             "guid": "https://api.spreaker.com/episode/46996745",
             "isoDate": "2021-10-15T21:18:35.000Z",
@@ -659,6 +758,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/46890344/lwl_97_01.mp3"
             },
+            "entities": ["now"],
             "link": "https://www.spreaker.com/user/11744532/lwl-97-01",
             "guid": "https://api.spreaker.com/episode/46890344",
             "isoDate": "2021-10-08T22:44:57.000Z",
@@ -681,6 +781,12 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/46840492/who_when_wow_01.mp3"
             },
+            "entities": [
+                "host",
+                "https://wondery.com/shows/who-when-wow/",
+                "Rebecca Sheir",
+                "#1"
+            ],
             "link": "https://www.spreaker.com/user/11744532/who-when-wow-01",
             "guid": "https://api.spreaker.com/episode/46840492",
             "isoDate": "2021-10-06T07:30:16.000Z",
@@ -703,6 +809,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/46778259/getting_to_know_the_lindsey_s_01.mp3"
             },
+            "entities": ["This week", "Lindseys"],
             "link": "https://www.spreaker.com/user/11744532/getting-to-know-the-lindseys-01",
             "guid": "https://api.spreaker.com/episode/46778259",
             "isoDate": "2021-10-01T17:47:33.000Z",
@@ -725,6 +832,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/46671114/lwl_i_want_to_punch_you_in_the_face_01.mp3"
             },
+            "entities": ["This week", "Ups", "Lindseys", "Policygenius.com"],
             "link": "https://www.spreaker.com/user/11744532/lwl-i-want-to-punch-you-in-the-face-01",
             "guid": "https://api.spreaker.com/episode/46671114",
             "isoDate": "2021-09-24T18:18:24.000Z",
@@ -747,6 +855,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/46567288/is_your_house_in_order_mixdown.mp3"
             },
+            "entities": [],
             "link": "https://www.spreaker.com/user/11744532/is-your-house-in-order-mixdown",
             "guid": "https://api.spreaker.com/episode/46567288",
             "isoDate": "2021-09-17T17:39:51.000Z",
@@ -769,6 +878,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/46464129/we_got_in_a_bad_argument_01.mp3"
             },
+            "entities": ["Next week"],
             "link": "https://www.spreaker.com/user/11744532/we-got-in-a-bad-argument-01",
             "guid": "https://api.spreaker.com/episode/46464129",
             "isoDate": "2021-09-10T18:37:35.000Z",
@@ -791,6 +901,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/46363742/lwl_what_every_marriage_needs_to_hear_01.mp3"
             },
+            "entities": ["Cornelius", "Heather"],
             "link": "https://www.spreaker.com/user/11744532/lwl-what-every-marriage-needs-to-hear-01",
             "guid": "https://api.spreaker.com/episode/46363742",
             "isoDate": "2021-09-03T16:59:36.000Z",
@@ -813,6 +924,22 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/46306336/ltwl_suspect_final.mp3"
             },
+            "entities": [
+                "http://wondery.fm/Suspect_LifeLindseys",
+                "Redmond",
+                "one",
+                "night",
+                "construction worker",
+                "Host",
+                "reporter",
+                "Washington",
+                "years later",
+                "zero",
+                "once",
+                "every day",
+                "Matthew Shaer",
+                "Halloween"
+            ],
             "link": "https://www.spreaker.com/user/11744532/ltwl-suspect-final",
             "guid": "https://api.spreaker.com/episode/46306336",
             "isoDate": "2021-08-31T08:00:12.000Z",
@@ -835,6 +962,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/46264330/building_memories_together_mixdown_2.mp3"
             },
+            "entities": ["Cornelius", "Vegas", "Heather", "recently", "today"],
             "link": "https://www.spreaker.com/user/11744532/building-memories-together-mixdown",
             "guid": "https://api.spreaker.com/episode/46264330",
             "isoDate": "2021-08-27T17:21:51.000Z",
@@ -857,6 +985,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/46174238/lwl_8_20_21_mixdown.mp3"
             },
+            "entities": ["This week", "Afghanistan", "Jesus", "Lindseys"],
             "link": "https://www.spreaker.com/user/11744532/lwl-8-20-21-mixdown",
             "guid": "https://api.spreaker.com/episode/46174238",
             "isoDate": "2021-08-20T18:39:10.000Z",
@@ -879,6 +1008,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/46083423/11_things_we_learned_in_11_years_of_marriage_mixdown.mp3"
             },
+            "entities": ["Cornelius", "11", "Heather", "11 years"],
             "link": "https://www.spreaker.com/user/11744532/11-things-we-learned-in-11-years-of-marr",
             "guid": "https://api.spreaker.com/episode/46083423",
             "isoDate": "2021-08-13T17:36:45.000Z",
@@ -901,6 +1031,14 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/45994660/lwl_8_6_21_mixdown.mp3"
             },
+            "entities": [
+                "Last week",
+                "one",
+                "Los Angeles",
+                "California",
+                "Lindseys",
+                "A few days later"
+            ],
             "link": "https://www.spreaker.com/user/11744532/lwl-8-6-21-mixdown",
             "guid": "https://api.spreaker.com/episode/45994660",
             "isoDate": "2021-08-06T16:46:58.000Z",
@@ -923,6 +1061,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/45905914/lwl_7_30_21_mixdown.mp3"
             },
+            "entities": ["Cornelius", "Heather"],
             "link": "https://www.spreaker.com/user/11744532/lwl-7-30-21-mixdown",
             "guid": "https://api.spreaker.com/episode/45905914",
             "isoDate": "2021-07-30T17:13:46.000Z",
@@ -945,6 +1084,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/45817989/lwl_7_23_21_audio_mixdown_1.mp3"
             },
+            "entities": ["right now"],
             "link": "https://www.spreaker.com/user/11744532/lwl-7-23-21-audio-mixdown-1",
             "guid": "https://api.spreaker.com/episode/45817989",
             "isoDate": "2021-07-23T19:18:42.000Z",
@@ -967,6 +1107,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/45727535/lwl_85_01.mp3"
             },
+            "entities": ["Cornelius", "Heather", "the years"],
             "link": "https://www.spreaker.com/user/11744532/lwl-85-01",
             "guid": "https://api.spreaker.com/episode/45727535",
             "isoDate": "2021-07-16T17:46:49.000Z",
@@ -989,6 +1130,16 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/45666964/wondery_2_01.mp3"
             },
+            "entities": [
+                "Brooke",
+                "Aricia",
+                "Rihanna",
+                "Daily",
+                "DAILY",
+                "daily",
+                "http://wondery.fm/RD_LifeWithLindseys",
+                "Wondery"
+            ],
             "link": "https://www.spreaker.com/user/11744532/wondery-2-01",
             "guid": "https://api.spreaker.com/episode/45666964",
             "isoDate": "2021-07-12T13:46:38.000Z",
@@ -1011,6 +1162,18 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/45640348/life_with_the_lindseys_building_a_successful_christ_centered_business_01.mp3"
             },
+            "entities": [
+                "Cornelius",
+                "Heather",
+                "Glorify App",
+                "TODAY",
+                "https://share.glorify-app.com/1ry8Yd1Ulhb",
+                "Henry Costa",
+                "Christian",
+                "CEO",
+                "he",
+                "co-founder"
+            ],
             "link": "https://www.spreaker.com/user/11744532/life-with-the-lindseys-building-a-succes",
             "guid": "https://api.spreaker.com/episode/45640348",
             "isoDate": "2021-07-09T16:52:30.000Z",
@@ -1033,6 +1196,14 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/45555244/life_with_the_lindseys_ep_83_the_5_percent_01.mp3"
             },
+            "entities": [
+                "Cornelius",
+                "Heather",
+                "Today",
+                "TODAY",
+                "https://share.glorify-app.com/1ry8Yd1Ulhb",
+                "5 Percent"
+            ],
             "link": "https://www.spreaker.com/user/11744532/life-with-the-lindseys-ep-83-the-5-perce",
             "guid": "https://api.spreaker.com/episode/45555244",
             "isoDate": "2021-07-02T19:06:29.000Z",
@@ -1055,6 +1226,16 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/45444726/life_with_the_lindseys_ep_82_life_with_the_lindseys_x_his_and_her_money_01.mp3"
             },
+            "entities": [
+                "This week",
+                "His",
+                "Her",
+                "Talaat McNeily",
+                "TODAY",
+                "https://share.glorify-app.com/1ry8Yd1Ulhb",
+                "Lindsey",
+                "Tai"
+            ],
             "link": "https://www.spreaker.com/user/11744532/life-with-the-lindseys-ep-82-life-with-t",
             "guid": "https://api.spreaker.com/episode/45444726",
             "isoDate": "2021-06-25T18:30:30.000Z",
@@ -1077,6 +1258,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/45359526/life_with_th_lindseys_write_the_book.mp3"
             },
+            "entities": ["Cornelius", "Heather", "this week"],
             "link": "https://www.spreaker.com/user/11744532/life-with-th-lindseys-write-the-book",
             "guid": "https://api.spreaker.com/episode/45359526",
             "isoDate": "2021-06-18T18:58:43.000Z",
@@ -1099,6 +1281,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/45267697/life_with_the_lindseys_ep_80_what_to_do_when_things_aren_t_working_out.mp3"
             },
+            "entities": ["This week", "Heather", "her"],
             "link": "https://www.spreaker.com/user/11744532/life-with-the-lindseys-ep-80-what-to-do-",
             "guid": "https://api.spreaker.com/episode/45267697",
             "isoDate": "2021-06-11T23:12:04.000Z",
@@ -1121,6 +1304,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/45167604/lwl_0604212_01.mp3"
             },
+            "entities": ["Cornelius", "Heather"],
             "link": "https://www.spreaker.com/user/11744532/lwl-0604212-01",
             "guid": "https://api.spreaker.com/episode/45167604",
             "isoDate": "2021-06-04T16:24:49.000Z",
@@ -1143,6 +1327,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/45082229/life_with_the_lindseys_parenting_with_the_lindseys_01.mp3"
             },
+            "entities": ["Cornelius", "Heather", "this week", "Lindseys"],
             "link": "https://www.spreaker.com/user/11744532/life-with-the-lindseys-parenting-with-th",
             "guid": "https://api.spreaker.com/episode/45082229",
             "isoDate": "2021-05-28T19:29:42.000Z",
@@ -1165,6 +1350,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/44958773/lwl_47_2.mp3"
             },
+            "entities": ["Cornelius", "Heather", "this week"],
             "link": "https://www.spreaker.com/user/11744532/lwl-47-2",
             "guid": "https://api.spreaker.com/episode/44958773",
             "isoDate": "2021-05-21T22:29:24.000Z",
@@ -1187,6 +1373,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/44815137/lwl_051421_mixdown.mp3"
             },
+            "entities": ["She", "Heather", "this week", "her"],
             "link": "https://www.spreaker.com/user/11744532/lwl-051421-mixdown",
             "guid": "https://api.spreaker.com/episode/44815137",
             "isoDate": "2021-05-14T15:25:00.000Z",
@@ -1209,6 +1396,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/44683464/lwl_050721_mixdown.mp3"
             },
+            "entities": ["Cornelius", "Heather"],
             "link": "https://www.spreaker.com/user/11744532/lwl-050721-mixdown",
             "guid": "https://api.spreaker.com/episode/44683464",
             "isoDate": "2021-05-07T16:15:09.000Z",
@@ -1231,6 +1419,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/44573985/lwl_043021_mixdown.mp3"
             },
+            "entities": ["Cornelius", "Heather", "this week", "attack"],
             "link": "https://www.spreaker.com/user/11744532/lwl-043021-mixdown",
             "guid": "https://api.spreaker.com/episode/44573985",
             "isoDate": "2021-04-30T14:57:30.000Z",
@@ -1253,6 +1442,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/44456326/lwl_042321_mixdown.mp3"
             },
+            "entities": ["Cornelius", "Heather", "this week", "Lindsey", "now"],
             "link": "https://www.spreaker.com/user/11744532/lwl-042321-mixdown",
             "guid": "https://api.spreaker.com/episode/44456326",
             "isoDate": "2021-04-23T16:04:13.000Z",
@@ -1275,6 +1465,14 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/44359835/lwl_041621_mixdown.mp3"
             },
+            "entities": [
+                "Cornelius",
+                "Heather",
+                "Logan",
+                "this week",
+                "He",
+                "Taylor Lindsey"
+            ],
             "link": "https://www.spreaker.com/user/11744532/lwl-041621-mixdown",
             "guid": "https://api.spreaker.com/episode/44359835",
             "isoDate": "2021-04-16T14:58:44.000Z",
@@ -1297,6 +1495,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/44271453/lwl_040921_mixdown.mp3"
             },
+            "entities": ["this week"],
             "link": "https://www.spreaker.com/user/11744532/lwl-040921-mixdown",
             "guid": "https://api.spreaker.com/episode/44271453",
             "isoDate": "2021-04-09T13:56:04.000Z",
@@ -1319,6 +1518,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/44166596/lwl_040121_mixdown_01.mp3"
             },
+            "entities": ["Lindseys"],
             "link": "https://www.spreaker.com/user/11744532/lwl-040121-mixdown",
             "guid": "https://api.spreaker.com/episode/44166596",
             "isoDate": "2021-04-02T14:30:09.000Z",
@@ -1341,6 +1541,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/44063374/do_all_men_cheat_mixdown.mp3"
             },
+            "entities": ["11AM CST", "Mondays", "12PM EST", "Lindseys"],
             "link": "https://www.spreaker.com/user/11744532/do-all-men-cheat-mixdown",
             "guid": "https://api.spreaker.com/episode/44063374",
             "isoDate": "2021-03-26T15:24:08.000Z",
@@ -1363,6 +1564,15 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/43962919/lwl_031921_mixdown.mp3"
             },
+            "entities": [
+                "Lindseys episode",
+                "11AM CST",
+                "Jesus",
+                "Mondays",
+                "12PM EST",
+                "today",
+                "Kirk Franklin"
+            ],
             "link": "https://www.spreaker.com/user/11744532/lwl-031921-mixdown",
             "guid": "https://api.spreaker.com/episode/43962919",
             "isoDate": "2021-03-19T14:50:46.000Z",
@@ -1385,6 +1595,13 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/43847530/managing_conflict_triggers_social_media_mixdown.mp3"
             },
+            "entities": [
+                "11AM CST",
+                "Mondays",
+                "12PM EST",
+                "Lindseys",
+                "this weeks"
+            ],
             "link": "https://www.spreaker.com/user/11744532/managing-conflict-triggers-social-media-",
             "guid": "https://api.spreaker.com/episode/43847530",
             "isoDate": "2021-03-12T16:00:02.000Z",
@@ -1407,6 +1624,15 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/43744461/lwl_030521_mixdown.mp3"
             },
+            "entities": [
+                "Cornelius",
+                "Heather",
+                "11AM CST",
+                "His",
+                "this week",
+                "Mondays",
+                "12PM EST"
+            ],
             "link": "https://www.spreaker.com/user/11744532/lwl-030521-mixdown",
             "guid": "https://api.spreaker.com/episode/43744461",
             "isoDate": "2021-03-05T16:00:07.000Z",
@@ -1429,6 +1655,14 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/43651755/lwl_022621_mixdown.mp3"
             },
+            "entities": [
+                "Cornelius",
+                "Heather",
+                "11AM CST",
+                "this week",
+                "Mondays",
+                "12PM EST"
+            ],
             "link": "https://www.spreaker.com/user/11744532/lwl-022621-mixdown",
             "guid": "https://api.spreaker.com/episode/43651755",
             "isoDate": "2021-02-26T15:55:41.000Z",
@@ -1451,6 +1685,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/43531954/lwl_021921_mixdown.mp3"
             },
+            "entities": ["Cornelius", "Heather", "this week", "first"],
             "link": "https://www.spreaker.com/user/11744532/lwl-021921-mixdown",
             "guid": "https://api.spreaker.com/episode/43531954",
             "isoDate": "2021-02-19T15:30:04.000Z",
@@ -1473,6 +1708,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/43408682/lwl_021221_mixdown.mp3"
             },
+            "entities": ["Cornelius", "Heather", "Lindsey", "present"],
             "link": "https://www.spreaker.com/user/11744532/lwl-021221-mixdown",
             "guid": "https://api.spreaker.com/episode/43408682",
             "isoDate": "2021-02-12T16:00:15.000Z",
@@ -1495,6 +1731,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/43291208/lwl_020521_mixdown.mp3"
             },
+            "entities": ["Cornelius", "Heather"],
             "link": "https://www.spreaker.com/user/11744532/lwl-020521-mixdown",
             "guid": "https://api.spreaker.com/episode/43291208",
             "isoDate": "2021-02-05T15:30:18.000Z",
@@ -1517,6 +1754,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/43174352/lwl_012921_mixdown.mp3"
             },
+            "entities": ["Cornelius", "Heather"],
             "link": "https://www.spreaker.com/user/11744532/lwl-012921-mixdown",
             "guid": "https://api.spreaker.com/episode/43174352",
             "isoDate": "2021-01-29T16:00:17.000Z",
@@ -1539,6 +1777,13 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/43052816/lwl_012221_mixdown.mp3"
             },
+            "entities": [
+                "Cornelius",
+                "Heather",
+                "this week",
+                "a few years",
+                "today"
+            ],
             "link": "https://www.spreaker.com/user/11744532/lwl-012221-mixdown",
             "guid": "https://api.spreaker.com/episode/43052816",
             "isoDate": "2021-01-22T16:00:06.000Z",
@@ -1561,6 +1806,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/42946230/lwl_011521_mixdown.mp3"
             },
+            "entities": ["Cornelius", "Heather", "this week"],
             "link": "https://www.spreaker.com/user/11744532/lwl-011521-mixdown",
             "guid": "https://api.spreaker.com/episode/42946230",
             "isoDate": "2021-01-15T16:00:09.000Z",
@@ -1583,6 +1829,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/42835580/lwl_010821_mixdown.mp3"
             },
+            "entities": ["Cornelius", "Heather", "this week"],
             "link": "https://www.spreaker.com/user/11744532/lwl-010821-mixdown",
             "guid": "https://api.spreaker.com/episode/42835580",
             "isoDate": "2021-01-08T16:00:16.000Z",
@@ -1605,6 +1852,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/42740778/lwl_010121_mixdown.mp3"
             },
+            "entities": ["Cornelius", "Heather", "this week"],
             "link": "https://www.spreaker.com/user/11744532/lwl-010121-mixdown",
             "guid": "https://api.spreaker.com/episode/42740778",
             "isoDate": "2021-01-01T15:30:19.000Z",
@@ -1627,6 +1875,15 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/42555373/lwl_121820_mixdown.mp3"
             },
+            "entities": [
+                "Cornelius",
+                "Cornelius Lindsey",
+                "Heather",
+                "Gathering Oasis Church",
+                "Pastor",
+                "9 years",
+                "Lindseys"
+            ],
             "link": "https://www.spreaker.com/user/11744532/lwl-121820-mixdown",
             "guid": "https://api.spreaker.com/episode/42555373",
             "isoDate": "2020-12-18T16:00:06.000Z",
@@ -1649,6 +1906,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/42434589/stepping_out_on_faith_mixdown.mp3"
             },
+            "entities": ["Cornelius", "Heather", "this week", "now"],
             "link": "https://www.spreaker.com/user/11744532/stepping-out-on-faith-mixdown",
             "guid": "https://api.spreaker.com/episode/42434589",
             "isoDate": "2020-12-11T16:00:12.000Z",
@@ -1671,6 +1929,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/42306672/lwl_120420_mixdown.mp3"
             },
+            "entities": ["Cornelius", "Heather", "this week"],
             "link": "https://www.spreaker.com/user/11744532/lwl-120420-mixdown",
             "guid": "https://api.spreaker.com/episode/42306672",
             "isoDate": "2020-12-04T16:00:08.000Z",
@@ -1693,6 +1952,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/42169353/lw_burn_the_highlight_reel_mixdown.mp3"
             },
+            "entities": ["Cornelius", "Heather", "this week", "one"],
             "link": "https://www.spreaker.com/user/11744532/lw-burn-the-highlight-reel-mixdown",
             "guid": "https://api.spreaker.com/episode/42169353",
             "isoDate": "2020-11-27T15:00:02.000Z",
@@ -1715,6 +1975,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/42076284/lwl_112020_mixdown_2.mp3"
             },
+            "entities": ["Cornelius", "Heather", "this week", "Lindseys"],
             "link": "https://www.spreaker.com/user/11744532/lwl-112020-mixdown",
             "guid": "https://api.spreaker.com/episode/42076284",
             "isoDate": "2020-11-20T16:00:12.000Z",
@@ -1737,6 +1998,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/41948286/lwl_111320_mixdown.mp3"
             },
+            "entities": ["Lindseys"],
             "link": "https://www.spreaker.com/user/11744532/lwl-111320-mixdown",
             "guid": "https://api.spreaker.com/episode/41948286",
             "isoDate": "2020-11-13T16:00:04.000Z",
@@ -1759,6 +2021,13 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/41828801/untitled_session_1_mixdown.mp3"
             },
+            "entities": [
+                "Cornelius",
+                "Heather",
+                "week",
+                "this week",
+                "the future"
+            ],
             "link": "https://www.spreaker.com/user/11744532/untitled-session-1-mixdown",
             "guid": "https://api.spreaker.com/episode/41828801",
             "isoDate": "2020-11-06T16:17:01.000Z",
@@ -1781,6 +2050,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/41716919/103020_mixdown.mp3"
             },
+            "entities": ["Lindsey"],
             "link": "https://www.spreaker.com/user/11744532/103020-mixdown",
             "guid": "https://api.spreaker.com/episode/41716919",
             "isoDate": "2020-10-30T16:40:00.000Z",
@@ -1803,6 +2073,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/41604612/lwl_102320_mixdown.mp3"
             },
+            "entities": ["a few months", "Lindsey", "Now", "the year"],
             "link": "https://www.spreaker.com/user/11744532/lwl-102320-mixdown",
             "guid": "https://api.spreaker.com/episode/41604612",
             "isoDate": "2020-10-23T15:15:08.000Z",
@@ -1825,6 +2096,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/41493598/lwl_101620_mixdown.mp3"
             },
+            "entities": ["Heather", "this week", "her"],
             "link": "https://www.spreaker.com/user/11744532/lwl-101620-mixdown",
             "guid": "https://api.spreaker.com/episode/41493598",
             "isoDate": "2020-10-16T15:00:08.000Z",
@@ -1847,6 +2119,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/41381811/lwl_100920_mixdown.mp3"
             },
+            "entities": ["abandonment"],
             "link": "https://www.spreaker.com/user/11744532/lwl-100920-mixdown",
             "guid": "https://api.spreaker.com/episode/41381811",
             "isoDate": "2020-10-09T14:20:49.000Z",
@@ -1869,6 +2142,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/41261052/lwl_100220_mixdown.mp3"
             },
+            "entities": [],
             "link": "https://www.spreaker.com/user/11744532/lwl-100220-mixdown",
             "guid": "https://api.spreaker.com/episode/41261052",
             "isoDate": "2020-10-02T14:55:47.000Z",
@@ -1891,6 +2165,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/41106277/lwl_092520_mixdown.mp3"
             },
+            "entities": ["this week", "Lindsey", "one"],
             "link": "https://www.spreaker.com/user/11744532/lwl-092520-mixdown",
             "guid": "https://api.spreaker.com/episode/41106277",
             "isoDate": "2020-09-25T15:00:03.000Z",
@@ -1913,6 +2188,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/40974445/lwl_091820_mixdown.mp3"
             },
+            "entities": ["Cornelius Lindsey", "his", "this week", "Fall"],
             "link": "https://www.spreaker.com/user/11744532/lwl-091820-mixdown",
             "guid": "https://api.spreaker.com/episode/40974445",
             "isoDate": "2020-09-18T15:00:08.000Z",
@@ -1935,6 +2211,15 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/40832856/lwl_091120_2_mixdown.mp3"
             },
+            "entities": [
+                "Cornelius",
+                "25 pounds",
+                "Heather",
+                "her",
+                "Lindseys",
+                "he",
+                "75"
+            ],
             "link": "https://www.spreaker.com/user/11744532/lwl-091120-2-mixdown",
             "guid": "https://api.spreaker.com/episode/40832856",
             "isoDate": "2020-09-11T15:00:08.000Z",
@@ -1957,6 +2242,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/40686933/lwl_090420_mixdown.mp3"
             },
+            "entities": ["Lindsey"],
             "link": "https://www.spreaker.com/user/11744532/lwl-090420-mixdown",
             "guid": "https://api.spreaker.com/episode/40686933",
             "isoDate": "2020-09-04T15:00:12.000Z",
@@ -1979,6 +2265,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/40541868/lwl_082820_mixdown.mp3"
             },
+            "entities": ["this week", "Lindsey"],
             "link": "https://www.spreaker.com/user/11744532/lwl-082820-mixdown",
             "guid": "https://api.spreaker.com/episode/40541868",
             "isoDate": "2020-08-28T15:16:26.000Z",
@@ -2001,6 +2288,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/40429086/lwl_082120_mixdown.mp3"
             },
+            "entities": ["Cornelius", "Heather"],
             "link": "https://www.spreaker.com/user/11744532/lwl-082120-mixdown",
             "guid": "https://api.spreaker.com/episode/40429086",
             "isoDate": "2020-08-21T15:00:16.000Z",
@@ -2023,6 +2311,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/40313337/lwl_081420_mixdown.mp3"
             },
+            "entities": ["Cornelius", "Heather", "today", "10 years", "10"],
             "link": "https://www.spreaker.com/user/11744532/lwl-081420-mixdown",
             "guid": "https://api.spreaker.com/episode/40313337",
             "isoDate": "2020-08-14T15:00:12.000Z",
@@ -2045,6 +2334,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/40173480/lwl_080620_mixdown.mp3"
             },
+            "entities": [],
             "link": "https://www.spreaker.com/user/11744532/lwl-080620-mixdown",
             "guid": "https://api.spreaker.com/episode/40173480",
             "isoDate": "2020-08-07T15:00:13.000Z",
@@ -2067,6 +2357,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/40075826/lwl_073120_mixdown.mp3"
             },
+            "entities": ["Cornelius", "Heather", "two weeks", "10 years"],
             "link": "https://www.spreaker.com/user/11744532/lwl-073120-mixdown",
             "guid": "https://api.spreaker.com/episode/40075826",
             "isoDate": "2020-07-31T15:16:20.000Z",
@@ -2089,6 +2380,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/39919856/lwl_072420_mixdown.mp3"
             },
+            "entities": ["Heather", "Cornelius Lindsey", "Jesus"],
             "link": "https://www.spreaker.com/user/11744532/lwl-072420-mixdown",
             "guid": "https://api.spreaker.com/episode/39919856",
             "isoDate": "2020-07-24T15:00:03.000Z",
@@ -2111,6 +2403,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/39804759/lwl_071720_mixdown.mp3"
             },
+            "entities": ["Lindseys"],
             "link": "https://www.spreaker.com/user/11744532/lwl-071720-mixdown",
             "guid": "https://api.spreaker.com/episode/39804759",
             "isoDate": "2020-07-17T15:00:06.000Z",
@@ -2133,6 +2426,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/38247714/phone_ep_mixdown_2.mp3"
             },
+            "entities": ["Cornelius", "Heather"],
             "link": "https://www.spreaker.com/user/11744532/phone-ep-mixdown",
             "guid": "https://api.spreaker.com/episode/38247714",
             "isoDate": "2020-07-10T15:00:07.000Z",
@@ -2155,6 +2449,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/35504384/lwl_070220_mixdown.mp3"
             },
+            "entities": ["Heather", "Cornelius Lindsey"],
             "link": "https://www.spreaker.com/user/11744532/lwl-070220-mixdown",
             "guid": "https://api.spreaker.com/episode/35504384",
             "isoDate": "2020-07-03T15:00:11.000Z",
@@ -2177,6 +2472,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997669/spm7979079888.mp3"
             },
+            "entities": ["Heather", "Cornelius Lindsey"],
             "link": "https://www.spreaker.com/user/11744532/letting-go-of-expectations",
             "guid": "a38d166a-ac42-11ea-b16d-438648fb3a8a",
             "isoDate": "2020-06-26T15:00:00.000Z",
@@ -2199,6 +2495,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997792/spm1325592890.mp3"
             },
+            "entities": ["Cornelius", "1", "2", "poison", "He"],
             "link": "https://www.spreaker.com/user/11744532/what-must-i-do-to-be-loved-by-you",
             "guid": "a38899b4-ac42-11ea-b16d-9733be60cffe",
             "isoDate": "2020-06-19T15:00:00.000Z",
@@ -2221,6 +2518,14 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997735/spm5137608476.mp3"
             },
+            "entities": [
+                "10%",
+                "today",
+                "three",
+                "first",
+                "$60",
+                "three weeks"
+            ],
             "link": "https://www.spreaker.com/user/11744532/self-love",
             "guid": "a3815514-ac42-11ea-b16d-47a223dbf33c",
             "isoDate": "2020-06-12T15:00:00.000Z",
@@ -2243,6 +2548,13 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997484/spm6757120052.mp3"
             },
+            "entities": [
+                "Cornelius",
+                "Heather Lindsey",
+                "Lindsey",
+                "today",
+                "two"
+            ],
             "link": "https://www.spreaker.com/user/11744532/racism-in-this-world",
             "guid": "5b25fb9a-a737-11ea-95bb-1b3190b67ee2",
             "isoDate": "2020-06-05T15:00:00.000Z",
@@ -2265,6 +2577,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997734/spm5095526586.mp3"
             },
+            "entities": ["Lindseys"],
             "link": "https://www.spreaker.com/user/11744532/when-life-doesnt-make-sense",
             "guid": "42973366-2d91-11ea-bf58-6bbf3fdbbd33",
             "isoDate": "2020-05-29T15:00:00.000Z",
@@ -2287,6 +2600,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997475/spm8361866528.mp3"
             },
+            "entities": ["Cornelius", "Heather Lindsey", "one"],
             "link": "https://www.spreaker.com/user/11744532/the-power-struggle",
             "guid": "4292bfe8-2d91-11ea-bf58-d766621f7f5b",
             "isoDate": "2020-05-22T15:00:00.000Z",
@@ -2309,6 +2623,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997612/spm5815338867.mp3"
             },
+            "entities": ["5", "Lindseys"],
             "link": "https://www.spreaker.com/user/11744532/married-and-quarantined",
             "guid": "428e4788-2d91-11ea-bf58-23b8c1ec7ccf",
             "isoDate": "2020-05-15T15:00:00.000Z",
@@ -2331,6 +2646,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997607/spm8192404269.mp3"
             },
+            "entities": ["Heather", "Cornelius Lindsey"],
             "link": "https://www.spreaker.com/user/11744532/working-past-your-differences",
             "guid": "4289f354-2d91-11ea-bf58-7740655cbc0a",
             "isoDate": "2020-05-08T15:00:00.000Z",
@@ -2353,6 +2669,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997636/spm7551908878.mp3"
             },
+            "entities": ["past", "now", "Lindseys"],
             "link": "https://www.spreaker.com/user/11744532/dont-let-your-past-determine-your-future",
             "guid": "428583e6-2d91-11ea-bf58-fb6fefd02d83",
             "isoDate": "2020-05-01T15:00:00.000Z",
@@ -2375,6 +2692,19 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997502/spm6152613910.mp3"
             },
+            "entities": [
+                "<br />Policy Genius",
+                "Right now",
+                "25%",
+                "14-day",
+                "to LiquidIV.com",
+                "future",
+                "a few minutes",
+                "Lindseys",
+                "Policygenius.com",
+                "IV",
+                "505050"
+            ],
             "link": "https://www.spreaker.com/user/11744532/parenting-identity",
             "guid": "428131d8-2d91-11ea-bf58-9f9e393973ab",
             "isoDate": "2020-04-24T15:00:00.000Z",
@@ -2397,6 +2727,15 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997785/spm6386345019.mp3"
             },
+            "entities": [
+                "Cornelius",
+                "1",
+                "Heather",
+                "3",
+                "4",
+                "7",
+                "Lindseys"
+            ],
             "link": "https://www.spreaker.com/user/11744532/how-we-parent-discipline",
             "guid": "427cc828-2d91-11ea-bf58-a7cbb1792ffd",
             "isoDate": "2020-04-17T15:00:00.000Z",
@@ -2419,6 +2758,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997629/spm4100482261.mp3"
             },
+            "entities": ["first month", "the past 2 weeks", "four", "2020"],
             "link": "https://www.spreaker.com/user/11744532/dating-in-2020-the-finale",
             "guid": "4278467c-2d91-11ea-bf58-bfbb45d83518",
             "isoDate": "2020-04-10T15:00:00.000Z",
@@ -2441,6 +2781,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997770/spm5364418543.mp3"
             },
+            "entities": ["Charles", "last week", "2020", "two"],
             "link": "https://www.spreaker.com/user/11744532/dating-in-2020-from-a-males-perspective",
             "guid": "4274004e-2d91-11ea-bf58-dbba1a5cfdd3",
             "isoDate": "2020-04-03T14:00:00.000Z",
@@ -2463,6 +2804,14 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997587/spm3159382379.mp3"
             },
+            "entities": [
+                "Apple",
+                "https://podcasts.apple.com/us/podcast/life-with-the-lindseys/id1482171974",
+                "Agatha",
+                "today",
+                "Brittany",
+                "https://open.spotify.com/show/43FDQiykBrSdrFxETgam2C"
+            ],
             "link": "https://www.spreaker.com/user/11744532/dating-in-2020",
             "guid": "39815e7a-6a2f-11ea-8360-7328c6b0fb77",
             "isoDate": "2020-03-27T15:00:00.000Z",
@@ -2485,6 +2834,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997633/spm5192995964.mp3"
             },
+            "entities": ["Cornelius", "Heather", "Coronavirus", "teacher"],
             "link": "https://www.spreaker.com/user/11744532/creating-a-new-normal",
             "guid": "397db6d0-6a2f-11ea-8360-cf9e39cb6e7a",
             "isoDate": "2020-03-20T12:00:00.000Z",
@@ -2507,6 +2857,16 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997511/spm9673934997.mp3"
             },
+            "entities": [
+                "Cornelius",
+                "Heather",
+                "25%",
+                "10%",
+                "to liquidiv.com",
+                "IV",
+                "three",
+                "first"
+            ],
             "link": "https://www.spreaker.com/user/11744532/im-covered-so-i-aint-never-scared",
             "guid": "426fac88-2d91-11ea-bf58-0f53c85e3c43",
             "isoDate": "2020-03-13T14:30:00.000Z",
@@ -2529,6 +2889,15 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997769/spm9053270496.mp3"
             },
+            "entities": [
+                "Cornelius",
+                "Google Play<br />Policy Genius",
+                "Heather",
+                "days",
+                "a few minutes",
+                "Policygenius.com",
+                "10"
+            ],
             "link": "https://www.spreaker.com/user/11744532/how-to-trust-god-when-you-dont-understan",
             "guid": "426b2c80-2d91-11ea-bf58-bfdb04f296d6",
             "isoDate": "2020-03-06T15:30:00.000Z",
@@ -2551,6 +2920,14 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997515/spm3047997761.mp3"
             },
+            "entities": [
+                "Cornelius",
+                "Heather",
+                "10%",
+                "first",
+                "10",
+                "three months"
+            ],
             "link": "https://www.spreaker.com/user/11744532/the-trauma-of-success",
             "guid": "4266c65e-2d91-11ea-bf58-a757e807c68d",
             "isoDate": "2020-02-28T15:30:00.000Z",
@@ -2573,6 +2950,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997704/spm8681027977.mp3"
             },
+            "entities": ["He"],
             "link": "https://www.spreaker.com/user/11744532/learning-to-trust-god-wait-on-his-timing",
             "guid": "42625af6-2d91-11ea-bf58-4b6ae212ea45",
             "isoDate": "2020-02-21T16:00:00.000Z",
@@ -2595,6 +2973,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997707/spm3088051888.mp3"
             },
+            "entities": ["today", "Lindseys"],
             "link": "https://www.spreaker.com/user/11744532/what-men-women-want",
             "guid": "425df042-2d91-11ea-bf58-73f550c0e147",
             "isoDate": "2020-02-14T16:00:00.000Z",
@@ -2617,6 +2996,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997796/spm4925486576.mp3"
             },
+            "entities": ["today", "Lindseys"],
             "link": "https://www.spreaker.com/user/11744532/marriage-sex-and-the-truth-about-what-me",
             "guid": "42592a6c-2d91-11ea-bf58-fbccb5ddfd91",
             "isoDate": "2020-02-07T16:00:00.000Z",
@@ -2639,6 +3019,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997590/spm8786228143.mp3"
             },
+            "entities": ["one", "today"],
             "link": "https://www.spreaker.com/user/11744532/dealing-with-depression",
             "guid": "42547f08-2d91-11ea-bf58-abc729843002",
             "isoDate": "2020-01-31T15:30:00.000Z",
@@ -2661,6 +3042,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997761/spm7671069008.mp3"
             },
+            "entities": ["one"],
             "link": "https://www.spreaker.com/user/11744532/celebrating-differences",
             "guid": "4250054a-2d91-11ea-bf58-d7d1577edb76",
             "isoDate": "2020-01-24T15:30:00.000Z",
@@ -2683,6 +3065,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997646/spm8749655212.mp3"
             },
+            "entities": ["current", "Lindseys"],
             "link": "https://www.spreaker.com/user/11744532/what-i-wish-i-knew-before-i-do",
             "guid": "424b7930-2d91-11ea-bf58-6f28a6907169",
             "isoDate": "2020-01-17T15:30:00.000Z",
@@ -2705,6 +3088,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997630/spm2995176996.mp3"
             },
+            "entities": ["One", "Lindseys"],
             "link": "https://www.spreaker.com/user/11744532/church-hurt",
             "guid": "42471cb4-2d91-11ea-bf58-eb5c496fa0bc",
             "isoDate": "2020-01-10T15:30:00.000Z",
@@ -2727,6 +3111,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997452/spm5001597827.mp3"
             },
+            "entities": ["a month"],
             "link": "https://www.spreaker.com/user/11744532/how-to-deal-with-a-breakup",
             "guid": "42418678-2d91-11ea-bf58-df6ddf384d32",
             "isoDate": "2020-01-03T15:30:00.000Z",
@@ -2749,6 +3134,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997696/spm3760101145.mp3"
             },
+            "entities": [],
             "link": "https://www.spreaker.com/user/11744532/traveling-hacks",
             "guid": "4daab33a-2829-11ea-9a86-97b112849dd9",
             "isoDate": "2019-12-27T16:00:00.000Z",
@@ -2771,6 +3157,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997672/spm1396437744.mp3"
             },
+            "entities": ["Cornelius", "Heather"],
             "link": "https://www.spreaker.com/user/11744532/how-to-survive-the-holidays-with-family",
             "guid": "bc9b7fc6-2299-11ea-803f-ab69df15896f",
             "isoDate": "2019-12-20T15:30:00.000Z",
@@ -2793,6 +3180,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997782/spm6109754425.mp3"
             },
+            "entities": ["Heather", "Cornelius Lindsey"],
             "link": "https://www.spreaker.com/user/11744532/single-and-dissatisfied",
             "guid": "e50d3c2c-1d1e-11ea-bfb3-1fe57c8eaa4d",
             "isoDate": "2019-12-13T15:30:00.000Z",
@@ -2815,6 +3203,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997631/spm2929686133.mp3"
             },
+            "entities": [],
             "link": "https://www.spreaker.com/user/11744532/meet-the-lindseys",
             "guid": "1697bbf2-1791-11ea-99a3-af7e5d1e7636",
             "isoDate": "2019-12-06T15:30:00.000Z",
@@ -2837,6 +3226,7 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997520/spm2169829277.mp3"
             },
+            "entities": ["three"],
             "link": "https://www.spreaker.com/user/11744532/married-and-unsatisfied",
             "guid": "e18b0548-1792-11ea-9e26-2f0ef0c0565d",
             "isoDate": "2019-12-06T15:30:00.000Z",
@@ -2859,6 +3249,14 @@
                 "type": "audio/mpeg",
                 "url": "https://api.spreaker.com/download/episode/34997756/spm3241158514.mp3"
             },
+            "entities": [
+                "Cornelius",
+                "Heather",
+                "Today",
+                "Friday",
+                "every",
+                "morning"
+            ],
             "link": "https://www.spreaker.com/user/11744532/life-with-the-lindseys-trailer",
             "guid": "9722a8de-e534-11e9-82f7-db9620925057",
             "isoDate": "2019-10-02T16:49:00.000Z",

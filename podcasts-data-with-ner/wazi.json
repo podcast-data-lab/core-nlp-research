@@ -45,6 +45,16 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/48885680/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-11%2F253112702-44100-2-05103e5f139f7.m4a"
             },
+            "entities": [
+                "Artist",
+                "https://www.instagram.com/mimi_koko2/",
+                "https://www.instagram.com/ndutadaisy/",
+                "https://anchor.fm/wazipodcast/message",
+                "one",
+                "https://www.instagram.com/wazipodcast/",
+                "https://www.instagram.com/_illicitly_/",
+                "Miriam"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Wrong-Answers-Only-e1ficfg",
             "guid": "1f3aff83-b84c-4ba0-adac-3a044e388b2a",
@@ -69,6 +79,18 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/48085267/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-23%2Fb07e2803-bed8-430c-2db4-e99965b0e66a.mp3"
             },
+            "entities": [
+                "Artist",
+                "https://www.instagram.com/mimi_koko2/",
+                "https://www.instagram.com/ndutadaisy/",
+                "https://anchor.fm/wazipodcast/message",
+                "Miriam &amp; Daisy",
+                "5",
+                "one",
+                "https://www.instagram.com/wazipodcast/",
+                "https://www.instagram.com/_illicitly_/",
+                "Miriam"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Things-We-Like---INSECURE-e1epuqj",
             "guid": "d07db521-fe42-46d6-9a90-aff32528df0b",
@@ -93,6 +115,17 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/47797789/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-17%2F248880298-44100-2-58648ac554f48.m4a"
             },
+            "entities": [
+                "Artist",
+                "https://www.instagram.com/mimi_koko2/",
+                "https://www.instagram.com/ndutadaisy/",
+                "https://anchor.fm/wazipodcast/message",
+                "Daisy Nduta &amp; Miriam Koske",
+                "https://www.instagram.com/wazipodcast/",
+                "https://www.instagram.com/_illicitly_/",
+                "Stan",
+                "Miriam"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Things-We-Like-Intro-e1eh62t",
             "guid": "2bbf6d93-9873-4405-ba0d-fcb614d46889",
@@ -115,6 +148,18 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/42713178/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-2%2F1bd2028e-68c8-c39d-cc7f-de7848bc8970.mp3"
             },
+            "entities": [
+                "https://anchor.fm/wazipodcast/message",
+                "This week",
+                "www.bloomsbury.com",
+                "author",
+                "founder",
+                "Chepkemboi",
+                "https://www.instagram.com/wazipodcast/",
+                "Follow <strong>Own Your Culture",
+                "Chepkemboi Mang",
+                "fashion artist"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Own-Your-Culture-with-Chepkemboi-Mangira-e19m0kq",
             "guid": "4099eaf2-d25e-4a5d-ab69-a9d4a62f01bd",
@@ -137,6 +182,16 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/37943439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-28%2F31ea2ed4-71be-50cc-6c96-0bdc9e57a2d2.mp3"
             },
+            "entities": [
+                "https://anchor.fm/wazipodcast/message",
+                "her",
+                "specialist",
+                "future",
+                "https://www.instagram.com/wazipodcast/",
+                "Historian",
+                "Kenyan",
+                "African"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/The-Intersect-of-History--Tech-with-Chao-Maina-AKA-Headstrong-Historian-e154emf",
             "guid": "09131cb2-559a-449b-a11d-2aeaddf71f39",
@@ -159,6 +214,19 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/41305984/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-5%2F41745831-cf92-ee0c-592e-a3179ea6353c.mp3"
             },
+            "entities": [
+                "https://linktr.ee/TangazaMagazine",
+                "https://anchor.fm/wazipodcast/message",
+                "founder",
+                "https://www.instagram.com/wazipodcast/",
+                "first year",
+                "Monica Kemoli",
+                "East",
+                "first",
+                "Tangaza Magazine",
+                "Sanaa",
+                "African"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Creating-Space-for-Creatives-through-Tangaza-Magazine-with-Monica-Kemoli-e18b2e0",
             "guid": "f62fd0e7-36cc-47ad-979e-bc96c46b518f",
@@ -182,6 +250,18 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/37942338/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-28%2F208581273-44100-2-d1ecde9bcb49b.m4a"
             },
+            "entities": [
+                "Uzen Ikhile",
+                "https://www.instagram.com/ndutadaisy/",
+                "https://anchor.fm/wazipodcast/message",
+                "Yuhi Kamugisha",
+                "Diana Wambui",
+                "one",
+                "today",
+                "https://www.instagram.com/wazipodcast/",
+                "Sophie-Anne Mwangi",
+                "Joel Meshak"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/LOVE--CHANGE-e154dk2",
             "guid": "5187f3c1-132d-4273-948b-452ebc431c6f",
@@ -205,6 +285,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/37585324/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-21%2F81380538-6228-cdab-27ed-1329098724cf.mp3"
             },
+            "entities": [
+                "https://www.instagram.com/ndutadaisy/",
+                "https://anchor.fm/wazipodcast/message",
+                "3rd",
+                "https://www.instagram.com/wazipodcast/",
+                "four-part"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/HOME-e14pgvc",
             "guid": "921da750-1084-4f67-b763-c0164b7e52b2",
@@ -228,6 +315,15 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/37211579/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-14%2F205313146-44100-2-8e2a8be36763a.m4a"
             },
+            "entities": [
+                "https://www.instagram.com/ndutadaisy/",
+                "https://anchor.fm/wazipodcast/message",
+                "5",
+                "https://www.instagram.com/wazipodcast/",
+                "2nd",
+                "four-part",
+                "Expats"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/IMMIGRANT-e14e3vr",
             "guid": "cd82dd2b-7b02-4a1b-b81d-00f75b5148a3",
@@ -251,6 +347,19 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/36825420/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-7%2F203494254-44100-2-97719ff29485c.m4a"
             },
+            "entities": [
+                "II",
+                "Uzen Ikhile",
+                "https://www.instagram.com/ndutadaisy/",
+                "https://anchor.fm/wazipodcast/message",
+                "4",
+                "Yuhi Kamugisha",
+                "5",
+                "Diana Wambui",
+                "https://www.instagram.com/wazipodcast/",
+                "Sophie-Anne Mwangi",
+                "Joel Meshak"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/LANGUAGE--BARRIERS-e142asc",
             "guid": "195d1f56-bf57-4470-964a-a4841fb2b318",
@@ -273,6 +382,16 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/26593562/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-12%2Fd6dff1e6-23d9-1d07-ae30-8413e4f6e318.mp3"
             },
+            "entities": [
+                "Artist",
+                "https://www.instagram.com/mimi_koko2/",
+                "https://www.instagram.com/ndutadaisy/",
+                "https://anchor.fm/wazipodcast/message",
+                "New Year",
+                "https://www.instagram.com/wazipodcast/",
+                "Daisy",
+                "Miriam"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Valentine-Is-Coming-eqa2qq",
             "guid": "59218d48-1a22-4f26-a9e0-b4ca396044b8",
@@ -295,6 +414,23 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/23414070/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-2%2F3b18d2e4-a6da-46f4-4f57-735bed1adb5d.mp3"
             },
+            "entities": [
+                "artist",
+                "Dj",
+                "https://www.instagram.com/samuel_sichangi/",
+                "https://www.instagram.com/wazipodcast/",
+                "https://anchor.fm/wazipodcast/message",
+                "Red Bull Music Academy",
+                "2",
+                "Kenyans",
+                "Nairobi",
+                "his",
+                "Blinky Bill",
+                "producer",
+                "he",
+                "Sanaa",
+                "Samuel Sichangi"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Unmastered-with-Sichangi-en91rm",
             "guid": "5ec78fcb-d9e1-4f50-b1dc-7ce4df4cac4a",
@@ -317,6 +453,27 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/22811970/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-19%2Ffe2a62ff-743d-de10-56ea-212805715074.mp3"
             },
+            "entities": [
+                "Wakaba",
+                "This week",
+                "https://listn.to/album/kilihippie~hii-si-demo",
+                "Usanii",
+                "artist",
+                "1447-<a href=\"https://mookh.com/album/1447-vol-1\">",
+                "https://www.instagram.com/wazipodcast/",
+                "https://www.instagram.com/kilihippie/",
+                "Wa",
+                "scholar",
+                "him",
+                "Kilihippie",
+                "https://anchor.fm/wazipodcast/message",
+                "his",
+                "https://mookh.com/album/1447-vol-1",
+                "producer",
+                "https://mookh.com/album/the-blacc-circle",
+                "he",
+                "Sanaa"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Its-The-Man-Not-The-Machine-with-Kilihippie-aka-Kabaa-emmls2",
             "guid": "5f214bcc-d3a6-414b-9372-180ee78a137c",
@@ -339,6 +496,17 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/22395855/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-10%2Fb1b6d8e0-f324-a31f-cec7-d4f62a978b61.mp3"
             },
+            "entities": [
+                "Artist",
+                "https://www.instagram.com/mimi_koko2/",
+                "https://www.instagram.com/ndutadaisy/",
+                "https://anchor.fm/wazipodcast/message",
+                "one",
+                "https://www.instagram.com/wazipodcast/",
+                "https://www.instagram.com/_illicitly_/",
+                "Miriam",
+                "20"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/20-Something-Part-2-em9vgf",
             "guid": "0a69bd10-5c2c-49c2-b82e-7890d15f7665",
@@ -361,6 +529,22 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/22083046/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-4%2F6b4b6763-7d2e-3573-0345-2469c1573300.mp3"
             },
+            "entities": [
+                "This week",
+                "creator",
+                "Wairimu Nduba",
+                "https://www.instagram.com/wazipodcast/",
+                "https://www.werjokenya.com",
+                "Kenya",
+                "Kenyan",
+                "African",
+                "https://anchor.fm/wazipodcast/message",
+                "https://www.instagram.com/wer_jokenya/",
+                "the future",
+                "Jokenya",
+                "Jokenya Instagram",
+                "Sanaa"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/The-Wer-Jokenya-Story-with-Wairimu-Nduba-em0e16",
             "guid": "6d1dfedc-6c76-4c5b-852a-d7d04f2e6ff7",
@@ -383,6 +567,20 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/21750819/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-28%2F38b93fba-47b2-082b-2db6-d2a3cac78cd9.mp3"
             },
+            "entities": [
+                "Artist",
+                "https://www.instagram.com/mimi_koko2/",
+                "https://www.instagram.com/ndutadaisy/",
+                "https://anchor.fm/wazipodcast/message",
+                "https://www.rrr.org.au/explore/programs/so-fresh-so-clean",
+                "Miriam Koske",
+                "this week",
+                "artist",
+                "one",
+                "https://www.instagram.com/wazipodcast/",
+                "https://www.instagram.com/_illicitly_/",
+                "Miriam"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Corporate-Corporate-CorporateThings-you-say-to-creatives-that-we-hate-elm9j3",
             "guid": "8774fafb-fb54-46b3-aaa9-9fd4e73bbc2c",
@@ -405,6 +603,22 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/21384142/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-20%2Fe218826f-afd2-3882-4014-b6f90253325c.mp3"
             },
+            "entities": [
+                "one",
+                "https://www.instagram.com/wazipodcast/",
+                "Only",
+                "2020",
+                "him",
+                "African",
+                "https://anchor.fm/wazipodcast/message",
+                "https://www.instagram.com/nai_vaa/",
+                "this week",
+                "World Monologue Games",
+                "Morris Mwangi",
+                "Actor",
+                "https://www.instagram.com/morristheactor/",
+                "Sanaa"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Introspection-with-Morris-Mwangi-Aka-Morris-The-Actor-elb3ge",
             "guid": "2377e172-b542-4470-b181-55b42007c4d4",
@@ -427,6 +641,17 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/21071831/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-14%2F38bf2aff-80a4-6ab0-8b45-6c6f5883e927.mp3"
             },
+            "entities": [
+                "Artist",
+                "https://www.instagram.com/mimi_koko2/",
+                "https://www.instagram.com/ndutadaisy/",
+                "https://anchor.fm/wazipodcast/message",
+                "2",
+                "https://www.instagram.com/wazipodcast/",
+                "https://www.instagram.com/_illicitly_/",
+                "20-something",
+                "Miriam"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/20-Something-Part-1-el1ign",
             "guid": "4393fe15-01ce-45bd-b2e5-7b6048511613",
@@ -449,6 +674,21 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/20697194/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-6%2F8ed4f0f5-a5e7-53da-b094-a3d83d71dd4b.mp3"
             },
+            "entities": [
+                "creator",
+                "Usanii",
+                "https://www.instagram.com/wahura/",
+                "https://www.instagram.com/wazipodcast/",
+                "Wa",
+                "Kenyan",
+                "https://anchor.fm/wazipodcast/message",
+                "3",
+                "Youtube",
+                "Wahura Kabutha",
+                "Wahura",
+                "https://www.youtube.com/channel/UCuCsv_d1SHgOk9wV_tZugdQ",
+                "Sanaa"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Doing-What-Makes-You-Happy--Other-Tales-with-Wahura-Kabutha-ekm4la",
             "guid": "f01b4985-67e3-46bc-9310-673d79156148",
@@ -471,6 +711,20 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/20278968/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-28%2F11628583-6e4c-df5e-397e-219c6d434e17.mp3"
             },
+            "entities": [
+                "Artist",
+                "https://www.instagram.com/mimi_koko2/",
+                "https://www.instagram.com/ndutadaisy/",
+                "https://anchor.fm/wazipodcast/message",
+                "2",
+                "This week",
+                "Miriam Koske",
+                "now",
+                "https://www.instagram.com/wazipodcast/",
+                "https://www.instagram.com/_illicitly_/",
+                "Kenyan",
+                "Miriam"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Paukwa--Pakawa-x2-Its-a-Throwback-Trivia-ek9c7o",
             "guid": "00044084-9422-47bb-a341-2bf29def48a5",
@@ -493,6 +747,19 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/20003757/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-22%2F49bacea7-dbcb-d1f9-0285-d06229571e35.mp3"
             },
+            "entities": [
+                "https://anchor.fm/wazipodcast/message",
+                "Naivaa",
+                "Nairobi",
+                "https://www.instagram.com/nai_vaa/",
+                "currently",
+                "founder",
+                "https://www.instagram.com/wazipodcast/",
+                "2nd",
+                "https://www.instagram.com/joel_meshak/",
+                "Sanaa",
+                "Joel Meshak"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/The-Naivaa-Story-with-Joel-Meshak--Unaipenda-Unaitaka-Unaivaa-ek0vfd",
             "guid": "fb457130-a916-45ea-9a53-d09b98bb70d8",
@@ -515,6 +782,19 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/19258152/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-8%2Fb5d2ffc4-49ae-8a84-1919-744430bd14ab.mp3"
             },
+            "entities": [
+                "Artist",
+                "https://www.instagram.com/mimi_koko2/",
+                "https://www.instagram.com/ndutadaisy/",
+                "https://anchor.fm/wazipodcast/message",
+                "Miriam Koske",
+                "Nairobi",
+                "recently",
+                "https://www.instagram.com/wazipodcast/",
+                "https://www.instagram.com/_illicitly_/",
+                "First",
+                "Miriam"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Things-We-Like-Intro-with-Miriam-Koske-eja7b8",
             "guid": "6b6f3149-3416-4bf2-aa8e-5070d9056e22",
@@ -537,6 +817,21 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/19255027/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-8%2F814fe73f-c9bd-71c2-832a-116c0aaf1c30.mp3"
             },
+            "entities": [
+                "the years",
+                "https://www.instagram.com/jaymwendwa/",
+                "Grand Bay Media",
+                "https://www.instagram.com/wazipodcast/",
+                "Jeremy Mwendwa",
+                "a DECADE",
+                "https://anchor.fm/wazipodcast/message",
+                "producer",
+                "writer",
+                "Entrepreneur",
+                "https://www.instagram.com/grandbaymedia/",
+                "He",
+                "Sanaa"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Checks-Cheques-and-Balances-with-Jeremy-Mwendwa-eja49j",
             "guid": "b58bf1dd-7a1f-48cb-9a30-8f35b46098de",
@@ -559,6 +854,13 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/18719563/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-28%2F102323163-44100-2-3897000569013.m4a"
             },
+            "entities": [
+                "https://anchor.fm/wazipodcast/message",
+                "Nairobi",
+                "Miriam Koske",
+                "every other week",
+                "Sanaa"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Usanii-wa-Sanaa-eippcb",
             "guid": "71c0984a-f78a-49ea-84af-ba31fc9bb0a8",
@@ -581,6 +883,15 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/17942518/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-08-14%2Fd93b18fee6d21c57ed4801975d380019.m4a"
             },
+            "entities": [
+                "https://anchor.fm/wazipodcast/message",
+                "Apple Podcast",
+                "Google Podcast",
+                "host",
+                "Instagram",
+                "Soundcloud",
+                "Stitcher"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Good-things-are-coming-ei22hm",
             "guid": "0216def0-ea8a-425b-bb75-872f30b076b6",
@@ -603,6 +914,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/16785117/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2F91373359-44100-2-8fcb37fcc14c89e1.mp3"
             },
+            "entities": [
+                "Wazi",
+                "https://anchor.fm/wazipodcast/message",
+                "20/20 20/20",
+                "one",
+                "the year"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/These-Are-My-Reflections-eguo8t",
             "guid": "tag:soundcloud,2010:tracks/723565462",
@@ -625,6 +943,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/16785114/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2F91373367-44100-2-f2a92601e6526861.mp3"
             },
+            "entities": [
+                "https://anchor.fm/wazipodcast/message",
+                "@sepsaay",
+                "Melbourne",
+                "@lanse",
+                "http://bit.ly/AssimilateFringe"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Assimilate-eguo8q",
             "guid": "tag:soundcloud,2010:tracks/673145030",
@@ -647,6 +972,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/16785124/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2F91373369-44100-2-48309c88d86c4351.mp3"
             },
+            "entities": [
+                "https://anchor.fm/wazipodcast/message",
+                "Sophie-Anne",
+                "Daisy",
+                "filmmaker",
+                "African"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Lets-talk-freelancing-with-Sophie--Anne-eguo94",
             "guid": "tag:soundcloud,2010:tracks/663368645",
@@ -669,6 +1001,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/16785106/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2F91373355-44100-2-2d720bb00f939a88.mp3"
             },
+            "entities": [
+                "https://anchor.fm/wazipodcast/message",
+                "his",
+                "one",
+                "now"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Tribute-for-my-G-eguo8i",
             "guid": "tag:soundcloud,2010:tracks/656579804",
@@ -691,6 +1029,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/16785136/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2F91373399-44100-2-4ca12c2be9bec2ee.mp3"
             },
+            "entities": [
+                "https://anchor.fm/wazipodcast/message",
+                "This week",
+                "Djap Wurrung"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Short-And-Sweet-ish-eguo9g",
             "guid": "tag:soundcloud,2010:tracks/599156607",
@@ -713,6 +1056,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/16785105/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2F91373350-44100-2-19edfaeccb432f38.mp3"
             },
+            "entities": [
+                "African Australian",
+                "https://anchor.fm/wazipodcast/message",
+                "her",
+                "African"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Belonging-with-Anyuop-Dau-eguo8h",
             "guid": "tag:soundcloud,2010:tracks/482676858",
@@ -735,6 +1084,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/16785129/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2F91373371-44100-2-2f368d8d50aee8ec.mp3"
             },
+            "entities": [
+                "https://anchor.fm/wazipodcast/message",
+                "Laila",
+                "Indigenous",
+                "Australia"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Huge-puzzle-piece-with-Laila-Thaker-eguo99",
             "guid": "tag:soundcloud,2010:tracks/482673429",
@@ -757,6 +1112,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/16785113/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2F91373360-44100-2-8f045c3cae6c37d8.mp3"
             },
+            "entities": [
+                "https://anchor.fm/wazipodcast/message",
+                "his",
+                "Eric",
+                "him"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Embrace-your-culture-with-Eric-Boavida-eguo8p",
             "guid": "tag:soundcloud,2010:tracks/482673420",
@@ -779,6 +1140,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/16785107/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2F91373358-44100-2-98ba2d8cc4afa222.mp3"
             },
+            "entities": [
+                "https://anchor.fm/wazipodcast/message",
+                "her",
+                "Bianca"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Where-im-meant-to-be-with-Bianca-Molini-eguo8j",
             "guid": "tag:soundcloud,2010:tracks/482673444",
@@ -801,6 +1167,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/16785115/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2F91373363-44100-1-e29c9d6342cac7c9.mp3"
             },
+            "entities": [
+                "https://anchor.fm/wazipodcast/message",
+                "Swanglish",
+                "Nairobi"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Swanglish-with-Leanne-eguo8r",
             "guid": "tag:soundcloud,2010:tracks/441943953",
@@ -823,6 +1194,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/16785120/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2F91373381-44100-1-29d55d1e527225e7.mp3"
             },
+            "entities": [
+                "https://anchor.fm/wazipodcast/message",
+                "Daisy",
+                "Kenyan"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Look-at-us-all-grownup-with-Ma-eguo90",
             "guid": "tag:soundcloud,2010:tracks/406745745",
@@ -845,6 +1221,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/16785110/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2F91373361-44100-1-4b6c2295e2a025c3.mp3"
             },
+            "entities": [
+                "she",
+                "https://anchor.fm/wazipodcast/message",
+                "her",
+                "Daisy",
+                "May Sabet"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Service-through-theatre-with-May-Sabet-eguo8m",
             "guid": "tag:soundcloud,2010:tracks/397203534",
@@ -867,6 +1250,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/16785122/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2F91373370-44100-1-84c5ba451598fb3c.mp3"
             },
+            "entities": [
+                "https://anchor.fm/wazipodcast/message",
+                "her",
+                "Fatma Hussein",
+                "@her",
+                "Amazon"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Same-same-but-different-with-Fatma-Hussein-eguo92",
             "guid": "tag:soundcloud,2010:tracks/393208884",
@@ -889,6 +1279,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/16785116/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2F91373362-44100-1-77b62374a5933520.mp3"
             },
+            "entities": [
+                "https://anchor.fm/wazipodcast/message",
+                "This week",
+                "his",
+                "Daisy",
+                "Christopher J White"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Not-So-Incredible-with-Christopher-White-eguo8s",
             "guid": "tag:soundcloud,2010:tracks/387771272",
@@ -911,6 +1308,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/16785130/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2F91373364-44100-1-67612c2858bb4e6d.mp3"
             },
+            "entities": [
+                "https://anchor.fm/wazipodcast/message",
+                "his",
+                "Daniel Elia",
+                "him",
+                "rapper"
+            ],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Different-Perspectives-with-Daniel-Elia-eguo9a",
             "guid": "tag:soundcloud,2010:tracks/384179030",
@@ -933,6 +1337,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/2cb29e28/podcast/play/16785102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2F91373346-44100-1-70949c54d086e4af.mp3"
             },
+            "entities": ["https://anchor.fm/wazipodcast/message"],
             "dc:creator": "Daisy Nduta",
             "link": "https://anchor.fm/wazipodcast/episodes/Wazi-Preview-eguo8e",
             "guid": "tag:soundcloud,2010:tracks/378927239",

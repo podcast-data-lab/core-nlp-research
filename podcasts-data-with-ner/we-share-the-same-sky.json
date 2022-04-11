@@ -71,6 +71,12 @@
                 "type": "audio/mpeg",
                 "url": "https://www.buzzsprout.com/502291/2037987-chapter-vii-a-strange-way-of-feeling-alive.mp3"
             },
+            "entities": [
+                "http://sharethesamesky.com/contact-1",
+                "One",
+                "two",
+                "Two"
+            ],
             "content:encodedSnippet": "\"There were really two plans. One, was to become something -- somebody. Two, was to go back and see who was left.\"\nSupport the show (http://sharethesamesky.com/contact-1)",
             "guid": "Buzzsprout-2037987",
             "isoDate": "2019-11-11T07:00:00.000Z",
@@ -94,6 +100,7 @@
                 "type": "audio/mpeg",
                 "url": "https://www.buzzsprout.com/502291/1989721-chapter-vi-i-m-going-to-jump.mp3"
             },
+            "entities": ["http://sharethesamesky.com/contact-1"],
             "content:encodedSnippet": "\"I was a citizen of nothing.\" \nSupport the show (http://sharethesamesky.com/contact-1)",
             "guid": "Buzzsprout-1989721",
             "isoDate": "2019-11-04T08:00:00.000Z",
@@ -117,6 +124,7 @@
                 "type": "audio/mpeg",
                 "url": "https://www.buzzsprout.com/502291/1946318-chapter-v-i-didn-t-ask-him-his-name.mp3"
             },
+            "entities": ["http://sharethesamesky.com/contact-1"],
             "content:encodedSnippet": "I always think how different it is, what is in your head and what is in your reality.\nSupport the show (http://sharethesamesky.com/contact-1)",
             "guid": "Buzzsprout-1946318",
             "isoDate": "2019-10-28T07:00:00.000Z",
@@ -140,6 +148,11 @@
                 "type": "audio/mpeg",
                 "url": "https://www.buzzsprout.com/502291/1901660-chapter-iv-the-end-of-the-world.mp3"
             },
+            "entities": [
+                "murder",
+                "http://sharethesamesky.com/contact-1",
+                "Sobibór"
+            ],
             "content:encodedSnippet": "We went to the end of the world and back. We went to the site of their murder. We went to Sobibór.\nSupport the show (http://sharethesamesky.com/contact-1)",
             "guid": "Buzzsprout-1901660",
             "isoDate": "2019-10-21T07:00:00.000Z",
@@ -163,6 +176,13 @@
                 "type": "audio/mpeg",
                 "url": "https://www.buzzsprout.com/502291/1863382-chapter-iii-this-house-has-memories.mp3"
             },
+            "entities": [
+                "She",
+                "her",
+                "Her",
+                "16",
+                "http://sharethesamesky.com/contact-1"
+            ],
             "content:encodedSnippet": "\u201cShe\u2019s 16. She should be in school. She should be with her family. Her letters shouldn\u2019t be censored. Sentences shouldn\u2019t be blacked out. Envelopes shouldn\u2019t be stamped with a swastika. But I guess you can get used to anything.\u201d\nSupport the show (http://sharethesamesky.com/contact-1)",
             "guid": "Buzzsprout-1863382",
             "isoDate": "2019-10-14T05:00:00.000Z",
@@ -186,6 +206,7 @@
                 "type": "audio/mpeg",
                 "url": "https://www.buzzsprout.com/502291/1825876-chapter-ii-don-t-make-waves.mp3"
             },
+            "entities": ["Once", "http://sharethesamesky.com/contact-1"],
             "content:encodedSnippet": "The bridge always burned or was destroyed. There was no way to go back again. Once you made another step, you couldn't step back.\nSupport the show (http://sharethesamesky.com/contact-1)",
             "guid": "Buzzsprout-1825876",
             "isoDate": "2019-10-07T04:00:00.000Z",
@@ -209,6 +230,16 @@
                 "type": "audio/mpeg",
                 "url": "https://www.buzzsprout.com/502291/1768732-chapter-i-like-an-oak-tree.mp3"
             },
+            "entities": [
+                "She",
+                "she",
+                "the years",
+                "folder",
+                "her",
+                "the 1920s",
+                "http://sharethesamesky.com/contact-1",
+                "Nazis"
+            ],
             "content:encodedSnippet": "In the years after her death, I uncovered an incredible archive of her life. She\u2019d left behind boxes upon boxes of letters and photographs and diaries. There were preserved albums dating back to the 1920s and letters she\u2019d sent to lovers. There were report cards and deportation papers and love notes from her parents censored by Nazis. Then, amidst all of these papers, I found a plain manila folder. It had a note on it, written in red ink in her shaky cursive handwriting. She\u2019d written my name.\nSupport the show (http://sharethesamesky.com/contact-1)",
             "guid": "Buzzsprout-1768732",
             "isoDate": "2019-09-29T07:00:00.000Z",

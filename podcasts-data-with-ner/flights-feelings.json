@@ -56,6 +56,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/flights-and-feelings/theshoressomewhereoverhere/media.mp3"
             },
+            "entities": ["artist", "recently", "Christian"],
             "link": "https://play.acast.com/s/flights-and-feelings/theshoressomewhereoverhere",
             "guid": "50a6c896-3efb-44aa-8f7a-620b46c4a88b",
             "isoDate": "2021-08-17T14:14:15.000Z",
@@ -76,6 +77,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/flights-and-feelings/thecopeofunimpressiveness/media.mp3"
             },
+            "entities": ["John Onwucheckwa"],
             "link": "https://play.acast.com/s/flights-and-feelings/thecopeofunimpressiveness",
             "guid": "305784cf-773c-4306-89a5-93dcce74381c",
             "isoDate": "2020-08-18T12:34:46.000Z",
@@ -96,6 +98,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/flights-and-feelings/blackidentity-apologetics/media.mp3"
             },
+            "entities": ["poet", "writer", "@preston_n_perry", "Preston Perry"],
             "link": "https://play.acast.com/s/flights-and-feelings/blackidentity-apologetics",
             "guid": "1e08262e-2feb-45df-9f58-2091b56a3322",
             "isoDate": "2020-08-04T18:22:29.000Z",
@@ -116,6 +119,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/flights-and-feelings/aconversationonqueerness-god/media.mp3"
             },
+            "entities": ["@mrjamespoetry", "Christianity"],
             "link": "https://play.acast.com/s/flights-and-feelings/aconversationonqueerness-god",
             "guid": "563afe86-8231-448d-a7cd-4aaa65a18f58",
             "isoDate": "2020-07-14T14:34:23.000Z",
@@ -136,6 +140,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/flights-and-feelings/de/media.mp3"
             },
+            "entities": ["recent years", "now"],
             "link": "https://play.acast.com/s/flights-and-feelings/de",
             "guid": "80b1ddce-f3ae-4fa1-a6e5-a29674345819",
             "isoDate": "2020-07-07T13:46:16.000Z",
@@ -156,6 +161,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/flights-and-feelings/affectionatelyfather/media.mp3"
             },
+            "entities": ["A few months ago", "first"],
             "link": "https://play.acast.com/s/flights-and-feelings/affectionatelyfather",
             "guid": "fdd256fe-b425-4401-a3d4-82272a2fcd8a",
             "isoDate": "2020-06-29T11:00:00.000Z",
@@ -176,6 +182,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/flights-and-feelings/ep9-idonotowntherightstothisblackbody/media.mp3"
             },
+            "entities": [],
             "link": "https://play.acast.com/s/flights-and-feelings/ep9-idonotowntherightstothisblackbody",
             "guid": "f4b03b36-f6b0-4cad-8d19-54d42d22b935",
             "isoDate": "2020-05-30T20:07:54.000Z",
@@ -196,6 +203,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/flights-and-feelings/ep8-wefindlove/media.mp3"
             },
+            "entities": [],
             "link": "https://play.acast.com/s/flights-and-feelings/ep8-wefindlove",
             "guid": "170bfabb-059c-48f7-970d-9893fa7ac06e",
             "isoDate": "2020-05-06T05:05:14.000Z",
@@ -216,6 +224,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/flights-and-feelings/ep7-africaandblackamerica/media.mp3"
             },
+            "entities": ["actress", "U.S.", "Africa", "America", "Black"],
             "link": "https://play.acast.com/s/flights-and-feelings/ep7-africaandblackamerica",
             "guid": "6b64c580-f906-43c1-b305-61231b514a9a",
             "isoDate": "2020-04-10T01:05:24.000Z",
@@ -237,6 +246,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/flights-and-feelings/ep6-rona-rhythms-regularity-rotations-routine/media.mp3"
             },
+            "entities": ["current"],
             "link": "https://play.acast.com/s/flights-and-feelings/ep6-rona-rhythms-regularity-rotations-routine",
             "guid": "e6ffc4af-c1b1-40e8-b333-360b0f0095ba",
             "isoDate": "2020-03-18T23:43:41.000Z",
@@ -258,6 +268,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/flights-and-feelings/layover-airplanemode-ameditation-/media.mp3"
             },
+            "entities": ["today", "now", "present"],
             "link": "https://play.acast.com/s/flights-and-feelings/layover-airplanemode-ameditation-",
             "guid": "607841e9-0d7c-4c6d-b4cf-9d2b7179af57",
             "isoDate": "2020-03-08T02:17:01.000Z",
@@ -279,6 +290,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/flights-and-feelings/ep5-omnipresence/media.mp3"
             },
+            "entities": ["once"],
             "link": "https://play.acast.com/s/flights-and-feelings/ep5-omnipresence",
             "guid": "376b04de-14dd-48b4-bd80-e8bda73b58e9",
             "isoDate": "2020-03-03T18:27:44.000Z",
@@ -300,6 +312,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/flights-and-feelings/ep4--male-female-friends-/media.mp3"
             },
+            "entities": ["general", "one", "Natalie Lauren"],
             "link": "https://play.acast.com/s/flights-and-feelings/ep4--male-female-friends-",
             "guid": "e5905ea3-53a7-4f4d-ad4f-0aab713b9081",
             "isoDate": "2020-02-25T18:37:26.000Z",
@@ -321,6 +334,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/flights-and-feelings/layover-valentimesday/media.mp3"
             },
+            "entities": [],
             "link": "https://play.acast.com/s/flights-and-feelings/layover-valentimesday",
             "guid": "ddc3bfde-7271-494b-b34b-7480bd459d39",
             "isoDate": "2020-02-14T18:25:50.000Z",
@@ -342,6 +356,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/flights-and-feelings/ep3-depression-lastyearwasafire/media.mp3"
             },
+            "entities": ["This week", "fire"],
             "link": "https://play.acast.com/s/flights-and-feelings/ep3-depression-lastyearwasafire",
             "guid": "31922856-7526-46cc-bc54-9bc31ce7bc34",
             "isoDate": "2020-02-11T03:42:35.000Z",
@@ -363,6 +378,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/flights-and-feelings/ep2-didiwaittoolatetogetmarried-/media.mp3"
             },
+            "entities": ["Ezekiel Azonwu", "the 21st century", "first"],
             "link": "https://play.acast.com/s/flights-and-feelings/ep2-didiwaittoolatetogetmarried-",
             "guid": "1bf68c2f-8e0f-4396-96db-d358ca6d3bc7",
             "isoDate": "2020-02-03T16:39:05.000Z",
@@ -384,6 +400,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/flights-and-feelings/kobe/media.mp3"
             },
+            "entities": ["Kobe Bean Bryant"],
             "link": "https://play.acast.com/s/flights-and-feelings/kobe",
             "guid": "4b97f7bb-fa6d-4ef8-88fa-eebefdab4ac9",
             "isoDate": "2020-01-27T07:30:24.000Z",
@@ -405,6 +422,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/flights-and-feelings/ep1-doubtandfuture-prooffaith/media.mp3"
             },
+            "entities": ["Atlanta", "the future", "John Onwuchekwa", "pastor"],
             "link": "https://play.acast.com/s/flights-and-feelings/ep1-doubtandfuture-prooffaith",
             "guid": "c74a1062-ca1b-442c-8584-1cb0289b2b83",
             "isoDate": "2020-01-20T05:04:00.000Z",
@@ -426,6 +444,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/flights-and-feelings/introducingflights-feelings/media.mp3"
             },
+            "entities": [],
             "link": "https://play.acast.com/s/flights-and-feelings/introducingflights-feelings",
             "guid": "b7988dad-8837-47ed-9a63-a49ada2d57a6",
             "isoDate": "2020-01-02T02:03:55.000Z",

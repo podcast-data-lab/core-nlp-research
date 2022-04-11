@@ -45,6 +45,13 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/1c6e5840/podcast/play/40867216/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-26%2F220687907-44100-2-9277e653f514e.m4a"
             },
+            "entities": [
+                "@theafroexistingpodcast",
+                "New York",
+                "recently",
+                "Wambui",
+                "first"
+            ],
             "dc:creator": "Lynnet Wambui Muritu",
             "link": "https://anchor.fm/theafroexistingpodcast/episodes/Where-have-I-been--Stories-from-the-summer-and-oh--were-back-e17tlug",
             "guid": "f826e347-6043-46c2-af95-88657c16934f",
@@ -69,6 +76,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/1c6e5840/podcast/play/21227366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-17%2F4942b860-5c31-e812-6b84-ba14d341c55f.mp3"
             },
+            "entities": ["next week", "first"],
             "dc:creator": "Lynnet Wambui Muritu",
             "link": "https://anchor.fm/theafroexistingpodcast/episodes/And-We-are-Live--Heres-to-new-Beginnings--Get-to-know-us--Friends--Campus-and-Just-Existing-el6ad6",
             "guid": "6358c2b1-4e93-4fa0-b838-1896870f974e",

@@ -54,6 +54,19 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/6D589D/pdst.fm/e/nbcnews.simplecastaudio.com/5c767409-9e84-4ade-8ed7-847a7fb287ba/episodes/8ab2b572-aee0-4c81-b587-220dcd44c898/audio/128/default.mp3?aid=rss_feed&awCollectionId=5c767409-9e84-4ade-8ed7-847a7fb287ba&awEpisodeId=8ab2b572-aee0-4c81-b587-220dcd44c898&feed=UlJK1OPQ"
             },
+            "entities": [
+                "President",
+                "Republicans",
+                "American",
+                "Chris",
+                "Andrea Mitchell",
+                "NBC News",
+                "host",
+                "correspondent",
+                "Mike Murphy",
+                "Washington",
+                "US Senate"
+            ],
             "content:encodedSnippet": "It's the oldest, worst, and most effective part of American politics: go negative. Voters say they hate it, but it works. There's no way to frame your opponent's weakness any better. Chris deconstructs history's hardest hits\u2014and how they were so effective\u2014with Andrea Mitchell, senior Washington correspondent for NBC News and host of \"Andrea Mitchell Reports,\" and Mike Murphy, who's handled media and strategy for Republicans running for President, the US Senate, and governorships.",
             "guid": "gid://art19-episode-locator/V0/A9DWAZ8d79iyKWWdLzU65uj9I1u5pY07ziXMT6KC1Dc",
             "isoDate": "2020-02-24T08:00:00.000Z",
@@ -83,6 +96,23 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/6D589D/pdst.fm/e/nbcnews.simplecastaudio.com/5c767409-9e84-4ade-8ed7-847a7fb287ba/episodes/42478470-2bfc-47c9-ad7c-f58feb321820/audio/128/default.mp3?aid=rss_feed&awCollectionId=5c767409-9e84-4ade-8ed7-847a7fb287ba&awEpisodeId=42478470-2bfc-47c9-ad7c-f58feb321820&feed=UlJK1OPQ"
             },
+            "entities": [
+                "Coretta Scott King",
+                "Pulitzer Prize-winning",
+                "Richard Nixon",
+                "Donna Edwards",
+                "a second",
+                "Jack Kennedy",
+                "historian",
+                "him",
+                "Kennedy",
+                "her",
+                "1960",
+                "Chris",
+                "Congresswoman",
+                "https://www.msnbc.com/soyouwannabepresident",
+                "Jon Meacham"
+            ],
             "content:encodedSnippet": "When Jack Kennedy phoned Coretta Scott King to express concern over her husband\u2019s arrest in 1960, it was a risky move in a tense civil rights era. It also helped propel him to victory against Richard Nixon. So, be like Kennedy and jump on that galloping horse of history as it flies by. You don\u2019t get a second chance. Chris is joined in this episode by Pulitzer Prize-winning historian Jon Meacham and former Congresswoman Donna Edwards.\nFor a transcript, please visit https://www.msnbc.com/soyouwannabepresident.",
             "guid": "gid://art19-episode-locator/V0/a3P9b4Jq0TcxE6gbAO5vFPIc1OfTselV3_8_e-GgF0k",
             "isoDate": "2020-02-17T08:00:00.000Z",
@@ -112,6 +142,20 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/6D589D/pdst.fm/e/nbcnews.simplecastaudio.com/5c767409-9e84-4ade-8ed7-847a7fb287ba/episodes/adbf1159-fab5-46d8-8a2e-cbe206beadbc/audio/128/default.mp3?aid=rss_feed&awCollectionId=5c767409-9e84-4ade-8ed7-847a7fb287ba&awEpisodeId=adbf1159-fab5-46d8-8a2e-cbe206beadbc&feed=UlJK1OPQ"
             },
+            "entities": [
+                "strategist",
+                "editor",
+                "Iowa",
+                "Susan Del Percio",
+                "NBC News",
+                "Republican",
+                "White House",
+                "https://www.msnbc.com/soyouwannabepresident",
+                "he",
+                "Beth Fouhy",
+                "him",
+                "Bill Clinton"
+            ],
             "content:encodedSnippet": "Maybe Iowa didn\u2019t go as planned, but there's a still a chance for your campaign. In a crowded field, great politicians know how to play from the back. They know how to turn a loss into a win. Bill Clinton did just that when he called himself the \"Comeback Kid.\" We break down that moment\u2014and how it helped propel him to the White House\u2014with Republican strategist Susan Del Percio and Beth Fouhy, senior editor of politics for NBC News.\nFor a transcript, please visit https://www.msnbc.com/soyouwannabepresident.",
             "guid": "gid://art19-episode-locator/V0/qLZOOUj-PJuRokyI4swaKeUdxb4aqdowxUjh9ue-KiY",
             "isoDate": "2020-02-10T08:00:00.000Z",
@@ -141,6 +185,15 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/6D589D/pdst.fm/e/nbcnews.simplecastaudio.com/5c767409-9e84-4ade-8ed7-847a7fb287ba/episodes/ac39f918-6c40-434e-8c54-f32e91a88513/audio/128/default.mp3?aid=rss_feed&awCollectionId=5c767409-9e84-4ade-8ed7-847a7fb287ba&awEpisodeId=ac39f918-6c40-434e-8c54-f32e91a88513&feed=UlJK1OPQ"
             },
+            "entities": [
+                "Chris Matthews",
+                "Washington Bureau Chief for USA Today",
+                "Susan Page",
+                "author",
+                "Michael Beschloss",
+                "historian",
+                "https://www.msnbc.com/soyouwannabepresident"
+            ],
             "content:encodedSnippet": "The country is always listening. Put another way: Don't say something you don't want every voter to hear. On this episode, Chris Matthews remember the candidates who forgot this lesson\u2014and paid the price\u2014with Susan Page, Washington Bureau Chief for USA Today, and author and historian Michael Beschloss.\nFor a transcript, please visit https://www.msnbc.com/soyouwannabepresident.",
             "guid": "gid://art19-episode-locator/V0/BIKFcA8e2vL8zwaGkW5jjoZgCiTOjslgdB-e3FLb2dQ",
             "isoDate": "2020-02-03T08:00:00.000Z",
@@ -170,6 +223,16 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/6D589D/pdst.fm/e/nbcnews.simplecastaudio.com/5c767409-9e84-4ade-8ed7-847a7fb287ba/episodes/8125c6c9-564f-41e1-a4b2-a8902749e68d/audio/128/default.mp3?aid=rss_feed&awCollectionId=5c767409-9e84-4ade-8ed7-847a7fb287ba&awEpisodeId=8125c6c9-564f-41e1-a4b2-a8902749e68d&feed=UlJK1OPQ"
             },
+            "entities": [
+                "Chris Matthews",
+                "NBC News",
+                "analyst",
+                "Peggy Noonan",
+                "Jon Allen",
+                "https://www.msnbc.com/soyouwannabepresident",
+                "Reagan",
+                "two"
+            ],
             "content:encodedSnippet": "Lesson two: see something, say something. When unscripted moments flare up in a campaign, voters want to see candidates who can show some spontaneity. They want to know that their nominees can live without their talking points\u2014that the lights are on and somebody's home.\nChris Matthews dissects the most memorable campaign turning points with Peggy Noonan, a Reagan speechwriter, and Jon Allen, a political analyst at NBC News.\nFor a transcript, please visit https://www.msnbc.com/soyouwannabepresident.",
             "guid": "gid://art19-episode-locator/V0/LK-_sURx6cbhAIBFvZ1aKisMeZE8a0FGVfKfcC0PmLU",
             "isoDate": "2020-01-27T08:30:00.000Z",
@@ -199,6 +262,26 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/6D589D/pdst.fm/e/nbcnews.simplecastaudio.com/5c767409-9e84-4ade-8ed7-847a7fb287ba/episodes/e191059f-ebc2-4107-9cc4-4c7d4ee1f452/audio/128/default.mp3?aid=rss_feed&awCollectionId=5c767409-9e84-4ade-8ed7-847a7fb287ba&awEpisodeId=e191059f-ebc2-4107-9cc4-4c7d4ee1f452&feed=UlJK1OPQ"
             },
+            "entities": [
+                "Chris Matthews",
+                "one",
+                "Carter",
+                "NBC",
+                "journalist",
+                "Iowa",
+                "candidate",
+                "Democrats",
+                "Republicans",
+                "1972",
+                "her",
+                "Jimmy Carter",
+                "Judy Woodruff",
+                "early years",
+                "America",
+                "Gerry Rafshoon",
+                "https://www.msnbc.com/soyouwannabepresident",
+                "first"
+            ],
             "content:encodedSnippet": "Lesson one: win Iowa. An astounding number of Democrats and Republicans won their party's nomination after winning first in the Iowa caucuses\u2014but America's first battleground hasn't always been a priority for campaigns. Jimmy Carter was the first to realize that a win there could propel a candidate into the national spotlight.\nChris Matthews examines Carter's approach to the 1972 campaign with Gerry Rafshoon, who handled political advertising for the candidate, and veteran journalist Judy Woodruff, who covered the campaign in her early years with NBC.\nFor a transcript, please visit https://www.msnbc.com/soyouwannabepresident.",
             "guid": "gid://art19-episode-locator/V0/b8tIhCFajjfeaPiiur85hSfh_SZC5UIrUUVEkPnetRo",
             "isoDate": "2020-01-27T08:00:00.000Z",
@@ -227,6 +310,7 @@
                 "type": "audio/mpeg",
                 "url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/6D589D/pdst.fm/e/nbcnews.simplecastaudio.com/5c767409-9e84-4ade-8ed7-847a7fb287ba/episodes/5a3f07a8-3ba2-4757-acf6-ad59764f2d36/audio/128/default.mp3?aid=rss_feed&awCollectionId=5c767409-9e84-4ade-8ed7-847a7fb287ba&awEpisodeId=5a3f07a8-3ba2-4757-acf6-ad59764f2d36&feed=UlJK1OPQ"
             },
+            "entities": ["Chris Matthews", "six", "every four years", "Host"],
             "content:encodedSnippet": "Host Chris Matthews and campaign veterans who had front row seats to presidential history go through the archives to uncover what has always separated winners from losers. We see these six lessons play out every four years, regardless of party. Campaigns that ignore them do so at their peril.",
             "guid": "gid://art19-episode-locator/V0/8-V6IO8E0cv5D1pxMtpO8exy-ef2k5gFkEA8-sVunaM",
             "isoDate": "2020-01-17T22:38:15.000Z",

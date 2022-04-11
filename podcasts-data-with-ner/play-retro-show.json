@@ -44,6 +44,20 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1245636586-scott-johnson-27-play-retro-14-kings-quest-i-vii.mp3"
             },
+            "entities": [
+                "Sierra Entertainment",
+                "King",
+                "2016",
+                "American",
+                "co-owner",
+                "2015",
+                "and",
+                "1980",
+                "Roberta Williams",
+                "Sierra",
+                "first",
+                "co-founder"
+            ],
             "guid": "C12E8911-BF60-4FBF-B695-F81D683C7D88",
             "isoDate": "2022-04-06T23:25:56.000Z",
             "title": "PLAY RETRO 14: King's Quest I - VII",
@@ -61,6 +75,21 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1241031388-scott-johnson-27-play-retro-13-ducktales-of-disney-and-capcom.mp3"
             },
+            "entities": [
+                "Duck Tales",
+                "Himalayas",
+                "one",
+                "three",
+                "him",
+                "Transylvania",
+                "African",
+                "his",
+                "Mega Man",
+                "Amazon",
+                "He",
+                "he",
+                "Scrooge McDuck"
+            ],
             "guid": "576A743E-199A-4BB5-90D9-7B58F15F00BA",
             "isoDate": "2022-03-29T23:34:10.000Z",
             "title": "PLAY RETRO 13: Ducktales",
@@ -78,6 +107,7 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1237047964-scott-johnson-27-play-retro-12-castlevania.mp3"
             },
+            "entities": ["SNES"],
             "guid": "AA226448-6FDA-42C7-924B-0E4567EB669B",
             "isoDate": "2022-03-22T23:43:24.000Z",
             "title": "PLAY RETRO 12: Castlevania",
@@ -95,6 +125,23 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1232989237-scott-johnson-27-play-retro-11-metroid.mp3"
             },
+            "entities": [
+                "Samus",
+                "Metroids",
+                "Nintendo",
+                "Japan",
+                "Nintendo Entertainment System",
+                "August 1987",
+                "European",
+                "August 1986",
+                "she",
+                "America",
+                "Samus Aran",
+                "North",
+                "Space Pirates",
+                "January 1988",
+                "first"
+            ],
             "guid": "9EDEA90A-2641-4DB7-A68E-CD67A964267A",
             "isoDate": "2022-03-15T23:51:18.000Z",
             "title": "PLAY RETRO 11: Metroid",
@@ -112,6 +159,14 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1228868773-scott-johnson-27-play-retro-10-grand-theft-auto-top-down.mp3"
             },
+            "entities": [
+                "Brian",
+                "Today",
+                "controller",
+                "today",
+                "Ukraine",
+                "SNES"
+            ],
             "guid": "4E3CD748-781F-4B3D-8060-CA3D89FE9DB4",
             "isoDate": "2022-03-09T00:30:27.000Z",
             "title": "PLAY RETRO 10: Grand Theft Auto Top Down",
@@ -129,6 +184,7 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1224775996-scott-johnson-27-play-retro-09-bomberman.mp3"
             },
+            "entities": ["100", "one", "two"],
             "guid": "CC3A6AC9-1518-4CF5-8734-7D89F8CB2D08",
             "isoDate": "2022-03-02T00:44:59.000Z",
             "title": "PLAY RETRO 09: Bomberman!",
@@ -146,6 +202,7 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1220175661-scott-johnson-27-play-retro-08-nhl-94.mp3"
             },
+            "entities": ["NHL", "king", "one", "94", "nearly 30 years"],
             "guid": "FE8D74F9-8100-4A33-A1D7-B5ADE5E41534",
             "isoDate": "2022-02-22T00:55:52.000Z",
             "title": "PLAY RETRO 08: NHL '94",
@@ -163,6 +220,7 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1217197306-scott-johnson-27-play-retro-07-hexen-beyond-heretic.mp3"
             },
+            "entities": ["now", "Heretic thru Hexen II"],
             "guid": "82FAC4BE-C5A2-47E3-B4F5-B523EAAADB02",
             "isoDate": "2022-02-17T01:31:19.000Z",
             "title": "PLAY RETRO 07: Hexen: Beyond Heretic",
@@ -180,6 +238,7 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1211744431-scott-johnson-27-play-retro-06-contra-and-why-we-run-and-gun.mp3"
             },
+            "entities": ["his", "Run n", "Yoshi", "CRT", "2022", "20"],
             "guid": "04335546-73BA-46DD-AE02-7C9877DD383D",
             "isoDate": "2022-02-08T00:59:13.000Z",
             "title": "PLAY RETRO 06: Contra and why we run and gun",
@@ -197,6 +256,7 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1207429666-scott-johnson-27-play-retro-05-berzerk.mp3"
             },
+            "entities": ["this week", "1980", "now", "day"],
             "guid": "A12ABBD5-C6DC-4868-A973-E84CEDDF1C8F",
             "isoDate": "2022-02-01T00:25:26.000Z",
             "title": "PLAY RETRO 05: Berzerk",
@@ -214,6 +274,7 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1202994187-scott-johnson-27-play-retro-04-the-cool-spot-effect.mp3"
             },
+            "entities": ["now", "today", "SNES"],
             "guid": "444A2B18-FFBC-408B-8886-05D75A105169",
             "isoDate": "2022-01-25T00:29:28.000Z",
             "title": "PLAY RETRO 04: The 'Cool Spot' Effect",
@@ -231,6 +292,7 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1198358821-scott-johnson-27-play-retro-03-the-donkey-kong-series.mp3"
             },
+            "entities": ["Today", "Jump Man"],
             "guid": "012C2948-F90B-48C5-BEE8-CEA3A07B1CF5",
             "isoDate": "2022-01-18T00:07:35.000Z",
             "title": "PLAY RETRO 03: The Donkey Kong Arcade Series",
@@ -248,6 +310,18 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1194056833-scott-johnson-27-play-retro-02-phantasy-star-iv.mp3"
             },
+            "entities": [
+                "1995",
+                "Algol Star System",
+                "1993",
+                "Japan",
+                "Europe",
+                "America",
+                "North",
+                "Sega",
+                "fourth",
+                "The End of the Millennium"
+            ],
             "guid": "3010EDA7-9218-4AEF-8015-A9156034AFA2",
             "isoDate": "2022-01-11T00:14:45.000Z",
             "title": "PLAY RETRO 02: Phantasy Star IV",
@@ -265,6 +339,7 @@
                 "type": "audio/mpeg",
                 "url": "https://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1189836358-scott-johnson-27-play-retro-01-joust.mp3"
             },
+            "entities": ["his", "VR", "first", "Scott"],
             "guid": "ECCD81FD-4372-425B-B1F0-DC84AD9525A7",
             "isoDate": "2022-01-04T00:38:22.000Z",
             "title": "PLAY RETRO 01: Joust",
@@ -282,6 +357,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feeds.soundcloud.com/stream/1181412568-scott-johnson-27-retroplay-00.mp3"
             },
+            "entities": ["00", "January 2022"],
             "guid": "0BF8FEA0-907D-4D24-8360-BB74D1F5265A",
             "isoDate": "2021-12-20T23:01:08.000Z",
             "title": "Play Retro 00: Coming January 2022!",

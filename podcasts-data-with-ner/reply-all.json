@@ -40,6 +40,14 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT1527491364.mp3?updated=1649289398"
             },
+            "entities": [
+                "she",
+                "This week",
+                "her",
+                "Super Tech",
+                "Gabby",
+                "Anna"
+            ],
             "content:encodedSnippet": "This week, a Super Tech Support: Gabby is devastated after her art is stolen. Anna takes on the case, and plunges into a part of the internet she\u2019d hope she never have to learn about.\n\n\nReply All's Lil Wolfie\nThe Inbetweeners Collection \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "8201bca4-a56e-11ec-8697-6f7c3b8e719e",
             "isoDate": "2022-04-07T10:00:00.000Z",
@@ -61,6 +69,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5362020594.mp3?updated=1647982249"
             },
+            "entities": ["This week", "Emmanuel", "years"],
             "content:encodedSnippet": "This week we're rebroadcasting a recent favorite. Emmanuel investigates a mysterious recording that has been popping up on toll free numbers for major corporations, police departments, and even federal government agencies for years.\n\n\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "81e5d142-a56e-11ec-8697-333d85705999",
             "isoDate": "2022-03-24T10:00:00.000Z",
@@ -83,6 +92,13 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9686551717.mp3?updated=1647472413"
             },
+            "entities": [
+                "This week",
+                "her",
+                "Kim Kelly",
+                "Toyota",
+                "Alex Goldman"
+            ],
             "content:encodedSnippet": "This week, a listener contacts us about a supernatural occurrence in her Toyota Prius. Alex Goldman investigates.\nKim Kelly's new book Fight Like Hell\nA picture of the photo in question\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "eacd2710-a55e-11ec-b4a8-ff47a0c30e6d",
             "isoDate": "2022-03-17T10:00:00.000Z",
@@ -104,6 +120,19 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9054810327.mp3?updated=1647466013"
             },
+            "entities": [
+                "she",
+                "This week",
+                "Super Tech Support",
+                "artist",
+                "Peter Slattery",
+                "Drumkoon",
+                "Emmanuel",
+                "Venova Fusion",
+                "he",
+                "https://onezero.medium.com/cheaters-guide-to-spotify/home",
+                "https://drumkoon.bandcamp.com/"
+            ],
             "content:encodedSnippet": "This week, a Super Tech Support: a listener\u2019s Spotify Wrapped is dominated by a mysterious artist she's never heard of and swears she's never listened to. And the songs she supposedly played are even weirder. Emmanuel investigates.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n------\nAdditional material:\nPeter Slattery's series on spotify scammers: https://onezero.medium.com/cheaters-guide-to-spotify/home\nCheck out Drumkoon's music, including a new genre of music he calls \"Venova Fusion\" on bandcamp: https://drumkoon.bandcamp.com/\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "8db510e0-9f20-11ec-a6ab-a71befbbf170",
             "isoDate": "2022-03-10T11:00:00.000Z",
@@ -126,6 +155,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT6179926866.mp3?updated=1644613572"
             },
+            "entities": ["Robert Malone", "Today", "Joe Rogan", "one"],
             "content:encodedSnippet": "Today we are sharing an episode made by our colleagues at Science Vs. In the piece, they dive deep on the effects of COVID misinformation spread by the show The Joe Rogan Experience, specifically in one episode featuring Dr. Robert Malone. The Science Vs. team interrogates the question: just what kind of damage can a show do to a society in the midst of a pandemic?\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "bdd582d4-8b7d-11ec-9e79-c3e5c945a05b",
             "isoDate": "2022-02-11T22:00:00.000Z",
@@ -147,6 +177,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9301967030.mp3?updated=1642621471"
             },
+            "entities": ["this year"],
             "content:encodedSnippet": "A quick note about our schedule this year.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "ae32c2ca-795c-11ec-9972-e3c2ba5c830e",
             "isoDate": "2022-01-20T11:00:00.000Z",
@@ -168,6 +199,22 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5403258178.mp3?updated=1644003408"
             },
+            "entities": [
+                "Alex",
+                "summers",
+                "@j_goldstein",
+                "one",
+                "Jonathan Goldstein",
+                "she",
+                "his",
+                "Barbara",
+                "her",
+                "fifty years later",
+                "Jonathan",
+                "Now",
+                "1968",
+                "Becky"
+            ],
             "content:encodedSnippet": "Alex chats with Jonathan Goldstein about his show, Heavyweight. And then, we hear an episode from the show.\nIn 1968, Jonathan\u2019s mother-in-law Becky spent one of the best summers of her life with a woman named Barbara. But then they never spoke again. Now, over fifty years later, Becky learns something about Barbara that makes her question whether she ever really knew her at all.\nListen to more episodes of Heavyweight, here. Follow Jonathan on Twitter @j_goldstein.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "05bce82c-5ebe-11ec-9ff7-cfd6568ba01b",
             "isoDate": "2021-12-23T11:00:00.000Z",
@@ -190,6 +237,13 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT8841359648.mp3?updated=1644003381"
             },
+            "entities": [
+                "her",
+                "Emmanuel",
+                "governor",
+                "Florida",
+                "press secretary"
+            ],
             "content:encodedSnippet": "A mystery roils Florida political Twitter: could it be that the governor\u2019s new press secretary is running bots against her political opponents? Emmanuel investigates.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "b06f232a-5dfb-11ec-97a3-a3921d324c2e",
             "isoDate": "2021-12-16T11:00:00.000Z",
@@ -212,6 +266,16 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT8533686069.mp3?updated=1644003370"
             },
+            "entities": [
+                "principal",
+                "Hillary Transue",
+                "she",
+                "her",
+                "@ecourtland",
+                "Emmanuel",
+                "Emma",
+                "Emma Courtland"
+            ],
             "content:encodedSnippet": "Emmanuel chats with Emma Courtland about her show, Crime Show. And then, we hear an episode from the show.\nWhen teenager Hillary Transue made a MySpace page poking fun at her vice principal, she never imagined it would land her in a juvenile detention facility\u2014and that to get out, she would need to expose a corruption scheme that ran to the highest echelons of the state's judicial system.\nListen to more episodes of Crime Show, here. Follow Emma on Twitter @ecourtland.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "126ea628-47d0-11ec-9860-bb82e4f3f0dd",
             "isoDate": "2021-11-18T11:00:00.000Z",
@@ -234,6 +298,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5451606460.mp3?updated=1644003340"
             },
+            "entities": ["This week", "Anna Foley", "producer"],
             "content:encodedSnippet": "This week, producer Anna Foley investigates a viral prank plaguing schools across the country.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "546ecc52-3771-11ec-95bd-135138cad9dd",
             "isoDate": "2021-10-28T10:00:00.000Z",
@@ -256,6 +321,20 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT2253134207.mp3?updated=1644003323"
             },
+            "entities": [
+                "Huntington Beach",
+                "this Saturday",
+                "Taylor Lorenz",
+                "his",
+                "Chris Venegas",
+                "Andrew",
+                "Adrian",
+                "7:30 PM",
+                "May 22nd",
+                "Instagram\nSteezy Kane",
+                "YouTube\nLearn",
+                "TikTok\nMarcella"
+            ],
             "content:encodedSnippet": "🚨Adrian's Kickback🚨\nLocation: Huntington Beach🌴 at firepits\nDate: May 22nd\nTime: 7:30 PM\nBYOE❗❗\nSlide tru this Saturday we finna turn up❗❗ ❗❗\n\n\n\nChris Venegas' Youtube Channel (link to his kickback videos)\nTaylor Lorenz' story on Adrian's Kickback\nAndrew's TikTok\nMarcella on Instagram\nSteezy Kane's YouTube\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "6042aa6a-2c51-11ec-a39a-6b71c40c0408",
             "isoDate": "2021-10-14T10:00:00.000Z",
@@ -278,6 +357,16 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9748680919.mp3?updated=1644003294"
             },
+            "entities": [
+                "journalist",
+                "544 Days",
+                "his",
+                "Jason Rezaian",
+                "Iranian",
+                "Emmanuel Dzotsi",
+                "Jason",
+                "him"
+            ],
             "content:encodedSnippet": "Emmanuel Dzotsi chats with journalist Jason Rezaian about his new show, 544 Days, which explores Jason's imprisonment by the Iranian government and the struggle to free him.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "8dfbd724-216b-11ec-aa09-9fa9932adf6b",
             "isoDate": "2021-09-30T10:00:00.000Z",
@@ -300,6 +389,11 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5559842918.mp3?updated=1644003289"
             },
+            "entities": [
+                "https://resources.byspotify.com/",
+                "suicide",
+                "https://www.worldeatingdisordersday.org/get-involved/participating-organisations/"
+            ],
             "content:encodedSnippet": "The Reply All team talk to people trying to break out of their mid-pandemic funk.\n\n\nHere is a list of organizations that offer support for anyone feeling distressed, experiencing feelings of depression or anxiety, or thinking about self harm or suicide: https://resources.byspotify.com/\n\n\nAnd here is a list of organizations around the world focused on advocacy, research, education, and support for eating disorders: https://www.worldeatingdisordersday.org/get-involved/participating-organisations/\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "ab766380-166e-11ec-9106-7bf852547da3",
             "isoDate": "2021-09-16T10:00:00.000Z",
@@ -322,6 +416,14 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT8047788097.mp3?updated=1644003262"
             },
+            "entities": [
+                "This week",
+                "2",
+                "Jilgamesh",
+                "Jessica Conditt",
+                "Alex Goldman",
+                "Endadget\nValve Employee Handbook\nTeam Fortress"
+            ],
             "content:encodedSnippet": "This week, Alex Goldman\u2019s favorite place on the internet is in danger, thanks to a bunch of robot snipers.\n\n\nJilgamesh's Twitch Stream\nJessica Conditt's reporting at Endadget\nValve Employee Handbook\nTeam Fortress 2\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "link": "https://replyallshow.com/",
             "guid": "96c6ca66-0b37-11ec-b3bb-9736a25a2e96",
@@ -345,6 +447,17 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT3824762696.mp3?updated=1644003233"
             },
+            "entities": [
+                "Simone Polanen",
+                "Simone",
+                "her",
+                "Alex Goldman",
+                "Past",
+                "June 15, 2004",
+                "@SimonePolanen",
+                "Paris",
+                "Hilton"
+            ],
             "content:encodedSnippet": "Alex Goldman chats with Simone Polanen about her show, Not Past It. And then, the episode: The Paris Hilton Sex Tape.\nParis Hilton\u2019s sex tape ushered in a new era of celebrity obsession. On June 15, 2004: it went on sale after her ex made a deal with a pornographic distributor. Simone reflects on the scandal, fallout and impact it had on a generation of young women.\nListen to more episode of Not Past It, here. You can follow Simone on Twitter, @SimonePolanen.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "aae5aa7c-0050-11ec-9f29-77d948ef3bb5",
             "isoDate": "2021-08-19T10:00:00.000Z",
@@ -368,6 +481,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT2442837682.mp3?updated=1644003220"
             },
+            "entities": ["she", "Anna Foley", "Producer", "her"],
             "content:encodedSnippet": "Producer Anna Foley tries to answer a question that\u2019s been bothering her for a long time: What makes the TikTok algorithm so good at knowing what she wants to watch? On her quest to find out, her sister asks another, more unexpected, question.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "957f29ce-ea52-11eb-9009-d7d55c626816",
             "isoDate": "2021-07-22T10:00:00.000Z",
@@ -389,6 +503,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT4566576226.mp3?updated=1644003191"
             },
+            "entities": ["Alex", "Today", "his", "Twitter"],
             "content:encodedSnippet": "Today, the return of Super Tech Support: Alex discovers a Twitter account that breaks his brain.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "eff6ffc0-df7c-11eb-a48a-cb237757d8af",
             "isoDate": "2021-07-08T10:00:00.000Z",
@@ -410,6 +525,17 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT1673908571.mp3?updated=1644003171"
             },
+            "entities": [
+                "she",
+                "National Suicide Prevention Lifeline",
+                "U.S.",
+                "FemmeAndroid",
+                "her",
+                "One",
+                "1-800-273-8255",
+                "877-565-8860",
+                "Trans Lifeline"
+            ],
             "content:encodedSnippet": "FemmeAndroid tries to do a good deed\u2026but instead finds herself in a battle to save a place she loves. \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSome helpful links: \n\n\nFemmeAndroid\u2019s Patreon for her webcomic Bodies. \n\n\n\nIf you or someone you know is feeling depressed or just needing to talk to someone, call the National Suicide Prevention Lifeline at 1-800-273-8255. Find more resources for people outside the U.S. here . One specific resource for trans people is Trans Lifeline - a peer support and crisis hotline run and operated by trans people. To reach Trans Lifeline, call 877-565-8860.\n\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "2d57a8a0-65a8-11eb-9f9c-233812a11fdb",
             "isoDate": "2021-06-24T10:00:00.000Z",
@@ -432,6 +558,14 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT1772515181.mp3?updated=1644003149"
             },
+            "entities": [
+                "Ashley Feinberg",
+                "This week",
+                "Trashberg\nKatie Notopoulos",
+                "one",
+                "Reply All internship",
+                "Katie Notopoulos"
+            ],
             "content:encodedSnippet": "This week, with the help of tech reporters Ashley Feinberg and Katie Notopoulos, we venture to one of the darkest places on the internet -- our own search histories.\n\n\nApply for the Reply All internship\nAshley Feinberg's Newsletter, Trashberg\nKatie Notopoulos' Articles on Buzzfeed\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "5f7945be-65a8-11eb-8bb8-67aa9d59e28a",
             "isoDate": "2021-06-10T10:00:00.000Z",
@@ -453,6 +587,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT4505975828.mp3"
             },
+            "entities": ["the future"],
             "content:encodedSnippet": "The Reply All team takes a look at the Test Kitchen, and what those mistakes mean for the future of the show.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "80ff0096-a876-11eb-9e90-3f034a8c646d",
             "isoDate": "2021-04-29T10:00:00.000Z",
@@ -474,6 +609,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT8283423166.mp3"
             },
+            "entities": ["Sruthi Pinnamaneni", "PJ Vogt", "the future"],
             "content:encodedSnippet": "An update on the future of The Test Kitchen series and PJ Vogt and Sruthi Pinnamaneni's departure.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "82fcb384-771b-11eb-9e57-3fd498bb3b38",
             "isoDate": "2021-02-25T11:00:00.000Z",
@@ -497,6 +633,19 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT7484278234.mp3?updated=1644003132"
             },
+            "entities": [
+                "2",
+                "2018",
+                "Jesse Sparks",
+                "Priya Krishna\nChristina Chaey",
+                "2016",
+                "Years later",
+                "Instagram\nRyan Walker-Hartshorn",
+                "Elyse Inamine",
+                "Twitter",
+                "Bon Appétit",
+                "Christina"
+            ],
             "content:encodedSnippet": "Chapter 2, \u201cGlass Office\u201d: Years later, in 2018, a new wave of people of color arrives at Bon Appétit. And when their white bosses don\u2019t understand the problems they\u2019re facing, those people will decide to fix the place themselves.\n\n\nCheck out:\nJesse Sparks\u2019 portfolio\nElyse Inamine\u2019s Instagram\nRyan Walker-Hartshorn\u2019s website and Twitter\nA reported story by Priya Krishna\nChristina Chaey\u2019s 2016 manifesto following Bon Appétit\u2019s pho video release. And here\u2019s Christina\u2019s Instagram.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "2d43213c-65a8-11eb-9f9c-4f1c37c0b0dc",
             "isoDate": "2021-02-12T23:16:00.000Z",
@@ -520,6 +669,20 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT3440058265.mp3?updated=1644003103"
             },
+            "entities": [
+                "overnight",
+                "Eleanore Park",
+                "1",
+                "the summer of 2020",
+                "Yewande Komolafe",
+                "this week",
+                "last summer",
+                "Rick Martinez",
+                "Rachel Premack",
+                "Bon Appétit",
+                "ten years earlier",
+                "Li"
+            ],
             "content:encodedSnippet": "Chapter 1, \u201cOriginal Sin\u201d: In the summer of 2020, Bon Appétit faced an online reckoning. It imploded, seemingly overnight, former employees calling it a racist and toxic workplace. But the story of what actually happened there started ten years earlier.\n\n\n\nHere are some recipes to try from the people featured in this week\u2019s story:\nYewande Komolafe\u2019s yam and plantain curry with crispy shallots and sheet-pan gochujang chicken. \nSue Li\u2019s caramelized onion galette and creamy turmeric pasta. Rick Martinez\u2019s mole sencillo.\nEleanore Park\u2019s ginger-scallion meatballs with lemony farro.\nAlso, you can read Rachel Premack\u2019s breaking story on Bon Appétit from last summer here.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "2d352bc2-65a8-11eb-9f9c-8787f30abb75",
             "isoDate": "2021-02-04T06:02:00.000Z",
@@ -542,6 +705,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT2255564915.mp3?updated=1644003057"
             },
+            "entities": ["President", "Alex", "boss", "PJ", "reporter"],
             "content:encodedSnippet": "The President is no longer allowed to Tweet. PJ and Alex sit down with their boss to explain what that means, how it happened, and what might happen next. Plus -- an upset listener berates our climate reporter.\n\n\nClick here to listen to How to Save a Planet\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "0fce6c84-5535-11eb-9989-ab0de60eab1f",
             "isoDate": "2021-01-14T11:00:00.000Z",
@@ -564,6 +728,15 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT2160338052.mp3?updated=1614851589"
             },
+            "entities": [
+                "his",
+                "Alex Goldman",
+                "prophet",
+                "John Colpitts\nListen",
+                "Emily Atkin",
+                "John Colpitts",
+                "Taylor Moore"
+            ],
             "content:encodedSnippet": "Alex Goldman tackles his newest job: prophet of doom.\n\n\nTaylor Moore's podcasts, Rude Tales of Magic and Fun City\nEmily Atkin's newsletter, Heated\nJohn Colpitts' latest album, The Ochre World\nWant to learn to play drums? Learn from John Colpitts\nListen to Song Exploder, a huge inspiration for this episode.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "c1645ae8-e2c3-11e9-be80-6f7293d044ba",
             "isoDate": "2020-12-17T11:00:00.000Z",
@@ -586,6 +759,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5759725893.mp3?updated=1614851656"
             },
+            "entities": ["Alex", "Emmanuel", "PJ"],
             "content:encodedSnippet": "In the midst of a historic election, Alex, PJ and Emmanuel talk to our listeners.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "c15bad62-e2c3-11e9-be80-7fbc2f54595e",
             "isoDate": "2020-11-12T11:00:00.000Z",
@@ -607,6 +781,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT4626950126.mp3?updated=1644003022"
             },
+            "entities": ["Alex", "scientist"],
             "content:encodedSnippet": "Alex meets a scientist who has built a tool meant to do the impossible -- measure the world's overall happiness and sadness. Plus, Alex volunteers for a risky and strange experiment.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "c1574b3c-e2c3-11e9-be80-377beb2618e6",
             "isoDate": "2020-10-29T10:00:00.000Z",
@@ -629,6 +804,19 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT4312886553.mp3?updated=1644003003"
             },
+            "entities": [
+                "@SaiduTTJ",
+                "https://afsp.org/suicide-prevention-resources",
+                "his",
+                "Saidu",
+                "National Suicide Prevention Lifeline",
+                "one",
+                "@resistanceshow",
+                "Instagram",
+                "1-800-273-8255",
+                "https://open.spotify.com/show/02JzQLXpqTtViFUGQjRkj3?si=PvQrGlB7QEuf0AcgsGklHg&utm_source=copy-link",
+                "Saidu Tejan Thomas Jr."
+            ],
             "content:encodedSnippet": "Faced with an impossible choice, one man goes live on instagram. Saidu Tejan Thomas Jr. shares a story from his new podcast, Resistance.\nFind more episodes of Resistance here: https://open.spotify.com/show/02JzQLXpqTtViFUGQjRkj3?si=PvQrGlB7QEuf0AcgsGklHg&utm_source=copy-link\n\n\nTo get more information about the show, follow the show's Instagram page: @resistanceshow. You can also follow Saidu on Twitter @SaiduTTJ. \nIf you or someone you know is feeling depressed or just needing to talk to someone, call the National Suicide Prevention Lifeline at 1-800-273-8255. Find more resources here: https://afsp.org/suicide-prevention-resources\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "c152ddcc-e2c3-11e9-be80-7fbe2d39146a",
             "isoDate": "2020-10-22T10:00:00.000Z",
@@ -651,6 +839,14 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9442357859.mp3?updated=1644002987"
             },
+            "entities": [
+                "this week",
+                "host",
+                "Emmanuel",
+                "Emmanuel Dzotsi",
+                "he",
+                "years"
+            ],
             "content:encodedSnippet": "We're excited to announce that Emmanuel Dzotsi is taking on a new role on the show ... as host! And this week, he brings us a story about a mysterious recording that has been popping up on government hotlines for years. Emmanuel tries to figure out where this recording is coming from and who's putting it there.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "c14e79d0-e2c3-11e9-be80-8b8c640993e8",
             "isoDate": "2020-10-01T10:00:00.000Z",
@@ -673,6 +869,15 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT2537895853.mp3?updated=1614851814"
             },
+            "entities": [
+                "@DaleBeran",
+                "Dale Beran",
+                "now",
+                "Reply All internship",
+                "PJ",
+                "@rothschildmd",
+                "Mike Rothschild"
+            ],
             "content:encodedSnippet": "Who is Q-Anon? PJ tells the surprising origin story of the Q scam, and the man who now seems to be in control of it.\n\n\nDale Beran (@DaleBeran) and  Mike Rothschild (@rothschildmd)\n\n\nApply to the Reply All internship here\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "2ae7f282-33ef-11ea-b18b-0f97aef9b5a6",
             "isoDate": "2020-09-18T21:01:00.000Z",
@@ -695,6 +900,16 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT8327478436.mp3?updated=1614851995"
             },
+            "entities": [
+                "This week",
+                "conspiracy",
+                "Jeffrey Epstein",
+                "Jason Mantzoukas",
+                "Los Angeles",
+                "first",
+                "this weeks",
+                "second"
+            ],
             "content:encodedSnippet": "This week, a conspiracy theory involving Jeffrey Epstein and a benign, wholesale furniture company, plus, the jam scandal that rocked Los Angeles. Yes Yes no is back, with special guest Jason Mantzoukas.\n\n\nFurther Reading:\nThe first tweet in this weeks YYN\nThe second tweet\nThe picture that goes along with the second tweet (warning... it's gross). \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "c138086c-e2c3-11e9-be80-936cb2f3ea7d",
             "isoDate": "2020-07-30T10:00:00.000Z",
@@ -717,6 +932,17 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT7203951211.mp3?updated=1614852011"
             },
+            "entities": [
+                "his",
+                "Alex Goldman",
+                "Akash",
+                "Three years",
+                "he",
+                "him",
+                "YouTube\nAkash",
+                "first",
+                "India"
+            ],
             "content:encodedSnippet": "Three years after Alex Goldman traveled to India to investigate a scammy call center, he gets a tip that makes him question everything he learned in his first trip.\nLong Distance Part I\nLong Distance Part II\n\n\nAkash's YouTube\nAkash's podcast episode\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "c1335c36-e2c3-11e9-be80-c3b0fad514de",
             "isoDate": "2020-07-16T10:00:00.000Z",
@@ -739,6 +965,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5911097575.mp3?updated=1614852045"
             },
+            "entities": ["bribery", "America", "the day", "the 17 year"],
             "content:encodedSnippet": "The story of an election in America where everything went wrong -- bribery, hacking, ballot-stuffing. And the 17 year old kid who tried to save the day.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "c12efe66-e2c3-11e9-be80-f323214a92a2",
             "isoDate": "2020-07-02T10:00:00.000Z",
@@ -761,6 +988,22 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5692199228.mp3?updated=1614852076"
             },
+            "entities": [
+                "https://www.theatlantic.com/politics/archive/2020/05/conspiracy-theories-civil-war/612283/",
+                "Annika Neklason",
+                "https://www.change.org/p/patricia-parker-racism-within-the-screenwriting-minor?recruiter=17176211&utm_source=share_petition&utm_medium=copylink&utm_campaign=tap_basic_share",
+                "War",
+                "Dick",
+                "Civil",
+                "Producer",
+                "Noni",
+                "Milly Tamarez",
+                "Conspiracies",
+                "https://open.spotify.com/show/4eREYSWtBckafqqobfP42u?si=6TrZ8EfESpqiTwEF0_l_gg",
+                "Emmanuel Dzotsi",
+                "Atlantic",
+                "US"
+            ],
             "content:encodedSnippet": "Black people all across the US are receiving the world's weirdest form of reparations: Venmo payments from white people. Producer Emmanuel Dzotsi investigates.\n\n\n\n\n\n\n\n\n\nAdditional Reading:\n\nNoni's petition to reform the film department at UNC: https://www.change.org/p/patricia-parker-racism-within-the-screenwriting-minor?recruiter=17176211&utm_source=share_petition&utm_medium=copylink&utm_campaign=tap_basic_share\n\nMilly Tamarez' podcast, \"All Dick is Trash\": https://open.spotify.com/show/4eREYSWtBckafqqobfP42u?si=6TrZ8EfESpqiTwEF0_l_gg\n\nAnnika Neklason's article on Civil War Conspiracies in The Atlantic: https://www.theatlantic.com/politics/archive/2020/05/conspiracy-theories-civil-war/612283/\n\n\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "c12a96be-e2c3-11e9-be80-5f6bc013cc8b",
             "isoDate": "2020-06-18T10:00:00.000Z",
@@ -782,6 +1025,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT7396082295.mp3?updated=1591238495"
             },
+            "entities": [],
             "content:encodedSnippet": "Learn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "c1263132-e2c3-11e9-be80-2bd4122aa026",
             "isoDate": "2020-06-04T10:00:00.000Z",
@@ -803,6 +1047,14 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT1341945771.mp3?updated=1644002917"
             },
+            "entities": [
+                "Brian Dean",
+                "Alex",
+                "Christmas",
+                "his",
+                "More than three years later",
+                "he"
+            ],
             "content:encodedSnippet": "Just for fun, a guy and his friends record a Christmas song in his Living room. More than three years later, he walks into a grocery store and hears that song playing. Alex investigates. \n\n\nListen to Brian Dean's version of We Wish You a Merry Christmas\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "c1219172-e2c3-11e9-be80-0bd1d011da55",
             "isoDate": "2020-05-14T10:00:00.000Z",
@@ -825,6 +1077,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT3665260655.mp3?updated=1644002894"
             },
+            "entities": ["This week", "Alex Goldman", "PJ Vogt", "Each week"],
             "content:encodedSnippet": "A new podcast about scary movies for people who are too scared to ever watch them. Each week Alex Goldman, avowed horror fan, screens a scary movie for avowed scaredy cat PJ Vogt. Together, they want to find out if it\u2019s possible to become a person who enjoys fear.\nThis week, The Exorcist.\n\n\nLinks\nHow Did This Get Made? Podcast\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "7a3f2998-7064-11ea-af41-db599d05cc46",
             "isoDate": "2020-04-30T10:00:00.000Z",
@@ -847,6 +1100,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT4520808491.mp3?updated=1614852206"
             },
+            "entities": ["This week"],
             "content:encodedSnippet": "This week, we call people across the world.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "1defcf56-72eb-11ea-9ce4-ff7493546d5a",
             "isoDate": "2020-03-31T01:14:00.000Z",
@@ -868,6 +1122,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT6714629561.mp3?updated=1644002780"
             },
+            "entities": ["This week", "the coming weeks"],
             "content:encodedSnippet": "This week, we open up the phone lines and check in on everybody.\nIf you want to know what we're up to in the coming weeks, check out replyall.online.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "c11009de-e2c3-11e9-be80-5f5010edc5a2",
             "isoDate": "2020-03-21T02:13:46.000Z",
@@ -890,6 +1145,14 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5055930607.mp3?updated=1644002651"
             },
+            "entities": [
+                "his",
+                "Christian Lee Hutson",
+                "https://open.spotify.com/track/3g8nKpXsQtXv0lcN4UGVGs",
+                "PJ",
+                "California",
+                "He"
+            ],
             "content:encodedSnippet": "A man in California is haunted by the memory of a pop song from his youth. He can remember the lyrics and the melody. But the song itself has vanished, completely scrubbed from the internet. PJ takes on the Super Tech Support case.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFurther Listening:\nChristian Lee Hutson\u2019s music : https://open.spotify.com/track/3g8nKpXsQtXv0lcN4UGVGs\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "c10be340-e2c3-11e9-be80-433a4bca7122",
             "isoDate": "2020-03-05T06:33:00.000Z",
@@ -911,6 +1174,19 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5325190937.mp3?updated=1644002617"
             },
+            "entities": [
+                "Mitt Romney",
+                "This week",
+                "Pete Buttigieg",
+                "Wikipedia",
+                "Ashley",
+                "https://gimletmedia.com/shows/reply-all/posts/internships",
+                "James Comey",
+                "https://gizmodo.com/this-is-almost-certainly-james-comey-s-twitter-account-1793843641",
+                "https://slate.com/news-and-politics/2019/10/mitt-romney-has-a-secret-twitter-account-and-it-sure-looks-like-its-this-one.html",
+                "https://slate.com/news-and-politics/2019/12/pete-buttigieg-wikipedia-page-editor.html",
+                "summer"
+            ],
             "content:encodedSnippet": "This week, we talk to the world\u2019s most obsessive tracker of politicians' secret online lives. And ask for help on a very spooky mission.\n\n\n\nFurther Reading:\nAshley's article on James Comey's secret twitter and instagram accounts: https://gizmodo.com/this-is-almost-certainly-james-comey-s-twitter-account-1793843641\nAshley's article on Mitt Romney's secret twitter account: https://slate.com/news-and-politics/2019/10/mitt-romney-has-a-secret-twitter-account-and-it-sure-looks-like-its-this-one.html\nAshley's article on Pete Buttigieg's Wikipedia page: https://slate.com/news-and-politics/2019/12/pete-buttigieg-wikipedia-page-editor.html\n\n\nFind out more about our summer and fall internships here:\nhttps://gimletmedia.com/shows/reply-all/posts/internships\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "c107a6d6-e2c3-11e9-be80-77d6fd4498f6",
             "isoDate": "2020-02-20T11:00:00.000Z",
@@ -933,6 +1209,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5309725922.mp3?updated=1644002613"
             },
+            "entities": ["Alex", "www.helpwiththecure.com", "Waze"],
             "content:encodedSnippet": "PJ and Alex open up the hotline again to tackle listener problems and mysteries, no job too weird. This time \u2013 a Waze vortex, a tribunal for HawtNugz, and a powerful mystery cure that could topple the world into dystopia.\n\n\nwww.helpwiththecure.com\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "c1034dd4-e2c3-11e9-be80-e3401a6638fb",
             "isoDate": "2020-01-30T11:00:00.000Z",
@@ -955,6 +1232,14 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT1201174101.mp3?updated=1614852368"
             },
+            "entities": [
+                "Teen Vogue",
+                "Mayor",
+                "Pete",
+                "Bloomberg",
+                "#1",
+                "#2"
+            ],
             "content:encodedSnippet": "A scandal at Teen Vogue, a mysteriously disappeared TikTok star, and the competing viral dances of Mayor Pete and Mayor Bloomberg. Yes Yes No is back.\n\n\nTweet #1\nTweet #2\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "c0fd8cfa-e2c3-11e9-be80-37b072906064",
             "isoDate": "2020-01-16T19:18:00.000Z",
@@ -978,6 +1263,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT6247365969.mp3?updated=1576204107"
             },
+            "entities": ["Sruthi", "Emmanuel", "Alabama"],
             "content:encodedSnippet": "The conclusion of our story \u2014 Emmanuel and Sruthi go down to Alabama as tensions in the party reach a boiling point.\n\n\n\n\n\n\n\n\n\n\n\nAdditional reading: \nEyes on the Prize - definitive documentary series on the civil rights movement. \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "e1dbc3ba-1c52-11ea-9f39-c78bc115ac3f",
             "isoDate": "2019-12-13T04:07:00.000Z",
@@ -1001,6 +1287,18 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT3026603172.mp3?updated=1614852432"
             },
+            "entities": [
+                "his",
+                "third",
+                "Birmingham Church Bombing",
+                "Baptist",
+                "war",
+                "Emmanuel Dzotsi",
+                "Course of Civil Rights\nLearn",
+                "16th",
+                "second",
+                "Doug Jones"
+            ],
             "content:encodedSnippet": "The second part of our story \u2014 the war rages on. A third faction emerges. Emmanuel Dzotsi reports.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdditional reading: \nDoug Jones\u2019 memoir about his work prosecuting the 16th Street Baptist Church Bombings: Bending Toward Justice: The Birmingham Church Bombing that Changed the Course of Civil Rights\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "c1ca58fc-1c52-11ea-9570-a78b06a527ef",
             "isoDate": "2019-12-13T03:52:00.000Z",
@@ -1024,6 +1322,19 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT6746681784.mp3?updated=1576208354"
             },
+            "entities": [
+                "Sheila Gilbert",
+                "Tabitha Isner",
+                "Dixiecrats",
+                "Alabama Democrats",
+                "future",
+                "Democratic",
+                "SDEC",
+                "Emmanuel Dzotsi",
+                "1948",
+                "Alabama",
+                "Convention\nLearn"
+            ],
             "content:encodedSnippet": "The Alabama Democrats fight an unlikely foe in a struggle for Alabama\u2019s future: themselves. Emmanuel Dzotsi reports.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdditional reading: \nVideo of Sheila Gilbert being rejected from the SDEC\nTabitha Isner's concession speech\nDixiecrats walk out of the 1948 Democratic Convention\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "3997f442-c70f-11e8-8ec5-c315c9879b5f",
             "isoDate": "2019-12-13T03:49:57.000Z",
@@ -1046,6 +1357,12 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5362914806.mp3?updated=1614851510"
             },
+            "entities": [
+                "Alex",
+                "Google",
+                "http://replyall.limo/ontheinside",
+                "John R.E."
+            ],
             "content:encodedSnippet": "A listener finds a UFO floating in the sky over a leather store, and Alex sets out to find the man who put it there.\n\n\nJohn R.E.'s Google reviews\nThe UFO above Sav-Mor Leather\nBehind the Scenes of On the Inside (http://replyall.limo/ontheinside)\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "399444d2-c70f-11e8-8ec5-fb9257df7b72",
             "isoDate": "2019-11-14T11:00:00.000Z",
@@ -1068,6 +1385,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT1332195978.mp3?updated=1614851373"
             },
+            "entities": ["Mysterious Sax Man", "Berkeley", "Halloween"],
             "content:encodedSnippet": "We celebrate Halloween by opening up the phone lines for your scary stories: Ghosts, Googling how to Seance, and the Mysterious Sax Man of Berkeley.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "39907e10-c70f-11e8-8ec5-b32c6512ad65",
             "isoDate": "2019-11-01T20:17:00.000Z",
@@ -1090,6 +1408,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT1866031523.mp3?updated=1614851308"
             },
+            "entities": ["American", "Asher Elbein"],
             "content:encodedSnippet": "A legit question from a rural American.\nAsher Elbein's piece on feral hogs \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "398c641a-c70f-11e8-8ec5-032abbeb196a",
             "isoDate": "2019-10-10T06:38:00.000Z",
@@ -1112,6 +1431,25 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT4674269479.mp3?updated=1644002425"
             },
+            "entities": [
+                "II",
+                "Professor",
+                "This week",
+                "New York Times",
+                "Ingredients of Slaughter",
+                "https://gimletmedia.com/shows/mogul/z3hwzx/s2-part-1-the-walls-were-sweating",
+                "Dave Karpf",
+                "War",
+                "World",
+                "NPR",
+                "1st",
+                "2",
+                "this week",
+                "Bret Stephens",
+                "51-themed",
+                "writer",
+                "51"
+            ],
             "content:encodedSnippet": "This week, Yes Yes No returns with a raid on Area 51, and the very worst name you can call a New York Times writer.\nListen to the 1st episode of Mogul Season 2: https://gimletmedia.com/shows/mogul/z3hwzx/s2-part-1-the-walls-were-sweating\nFurther Reading:\nThe tweet from this week's Yes Yes No.\nBret Stephens' interview on MSNBC\nBret Stephens' column: 'World War II and the Ingredients of Slaughter'\nProfessor Dave Karpf's interview on NPR\nLil Nas X's Area 51-themed music video\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "39880ae6-c70f-11e8-8ec5-0f1f8575fff8",
             "isoDate": "2019-09-26T10:00:00.000Z",
@@ -1134,6 +1472,15 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT1504495006.mp3?updated=1614851235"
             },
+            "entities": [
+                "Alex",
+                "Moshi",
+                "his",
+                "One",
+                "night",
+                "Halen",
+                "him"
+            ],
             "content:encodedSnippet": "One night, alone in his new apartment, Halen hears something unexpected \u2014 a set of footsteps in the dark, and an unfamiliar voice telling him \u201cMoshi, moshi.\u201d Super Tech Support returns, Alex investigates.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "39845d10-c70f-11e8-8ec5-67ea7147e13b",
             "isoDate": "2019-09-12T10:00:00.000Z",
@@ -1156,6 +1503,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9325262371.mp3?updated=1644002408"
             },
+            "entities": ["Alex", "This week", "PJ", "Joshua Rothman"],
             "content:encodedSnippet": "This week, PJ and Alex open up the phone lines and try to solve your problems, big and small.\nRead Joshua Rothman's story on printers here. \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "396e4c64-c70f-11e8-8ec5-53e6a3f2fd49",
             "isoDate": "2019-07-25T10:00:00.000Z",
@@ -1178,6 +1526,19 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT2371927635.mp3?updated=1614851167"
             },
+            "entities": [
+                "Carlos Maza",
+                "Google",
+                "his",
+                "YouTube Radical",
+                "Mark Bergen",
+                "LGBTQ",
+                "Kevin Roose",
+                "Megan Farokhmanesh",
+                "him",
+                "He",
+                "YouTube"
+            ],
             "content:encodedSnippet": "Carlos Maza started posting videos on YouTube, and ran afoul of a guy who reminded him of his high school bullies. He asked YouTube to intervene, and then things got extremely complicated.\nFurther Reading:\nCarlos Maza's video series Strikethrough\nMark Bergen on how toxic videos became more common on YouTube\nMegan Farokhmanesh's article about Google's LGBTQ employees and their reaction to the company's policy decisions\nKevin Roose's \"The Making of a YouTube Radical\" \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "396ab770-c70f-11e8-8ec5-3b741f9e703c",
             "isoDate": "2019-07-11T10:00:00.000Z",
@@ -1199,6 +1560,19 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5037751878.mp3?updated=1644002346"
             },
+            "entities": [
+                "TurboTax",
+                "H&R Block\nLearn",
+                "This week",
+                "Elizabeth Warren",
+                "H&R Block Saw Free",
+                "Intuit\nIntuit",
+                "Justin Elliot",
+                "IRS",
+                "Turbo Tax\nHere",
+                "CEO",
+                "Free File"
+            ],
             "content:encodedSnippet": "This week, we discover an invisible maze, designed to trick millions of people out of their money.\nJustin Elliot\u2019s Twitter\nPro Publica\u2019s questionnaire for people who\u2019ve worked at Intuit\nIntuit CEO\u2019s video response\nFind a Free File tax product on the IRS site\n\n\nPro Publica\u2019s reporting on Turbo Tax\nHere\u2019s How TurboTax Just Tricked You Into Paying to File Your Taxes\nTurboTax Deliberately Hid Its Free File Page From Search Engines\nTurboTax and H&R Block Saw Free Tax Filing as a Threat \u2014 and Gutted It\nElizabeth Warren and Other Senators Call for Refunds and Investigations of TurboTax and H&R Block\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "3967247a-c70f-11e8-8ec5-b35198ad068a",
             "isoDate": "2019-06-27T10:00:00.000Z",
@@ -1221,6 +1595,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9893921967.mp3?updated=1614851116"
             },
+            "entities": ["This week"],
             "content:encodedSnippet": "This week, the most humiliating, unfortunate and regrettable things on the internet that simply will not come down. Also: the father who scours the internet for lost memories.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "39636100-c70f-11e8-8ec5-13ac50ad00d0",
             "isoDate": "2019-06-13T10:00:00.000Z",
@@ -1243,6 +1618,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT2308185098.mp3?updated=1644002321"
             },
+            "entities": ["Canada", "This week", "Alex Goldman", "Sal"],
             "content:encodedSnippet": "This week, an epic Yes Yes No spanning an entire galaxy of internet fights. Plus, Alex Goldman reveals a dark personal secret. And an update on Sal\u2019s quest to get into college in Canada.\nSee the tweet here. \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "395e3f7c-c70f-11e8-8ec5-a39dc482e4c4",
             "isoDate": "2019-05-23T10:00:00.000Z",
@@ -1266,6 +1642,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT3802332036.mp3?updated=1614851044"
             },
+            "entities": ["Adam Pisces", "This week", "America", "he", "flood"],
             "content:encodedSnippet": "This week, a flood of mysterious orders plague Domino\u2019s Pizza stores across America. Who is Adam Pisces, and why is he ordering so many cokes?\n\n\nDomino's Responsible Disclosure to report any vulnerabilities on their app\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "3956a550-c70f-11e8-8ec5-4f90769c73ee",
             "isoDate": "2019-04-25T10:00:00.000Z",
@@ -1288,6 +1665,30 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT8937432626.mp3?updated=1644002283"
             },
+            "entities": [
+                "This week",
+                "100%",
+                "https://feeds.megaphone.fm/greaterless",
+                "https://podcasts.apple.com/us/podcast/space/id1458545673",
+                "88%",
+                "one",
+                "Ben",
+                "https://feeds.megaphone.fm/carrotspacecarrot",
+                "https://podcasts.apple.com/us/podcast/100-related/id1458542752",
+                "https://podcasts.apple.com/us/podcast/less-than-approximately-greater-than/id1458541805",
+                "https://podcasts.apple.com/us/podcast/88-parentheticals/id1458545680",
+                "https://feeds.megaphone.fm/100pr",
+                "his",
+                "Roman Mars",
+                "Super Tech Support",
+                "2016",
+                "https://feeds.megaphone.fm/88pr",
+                "' 99%",
+                "https://podcasts.apple.com/us/podcast/blank-blank-fun/id1458544361",
+                "https://feeds.megaphone.fm/blankblankfun",
+                "he",
+                "99 %"
+            ],
             "content:encodedSnippet": "Ben loves podcasts, but he has a problem. When he tries to listen to one podcast in particular, his car stereo completely breaks. This week, Super Tech Support takes on one of its strangest cases \u2014 Roman Mars versus a 2016 Mazda sedan.\nLISTEN TO 99 % Invisible!\nRoman Mars' 99% Invisible podcast\nPodcasts featured in this episode\niTunes:\n^space^ - https://podcasts.apple.com/us/podcast/space/id1458545673\n<~> - https://podcasts.apple.com/us/podcast/less-than-approximately-greater-than/id1458541805\n100% Related? - https://podcasts.apple.com/us/podcast/100-related/id1458542752\n88% Parentheticals - https://podcasts.apple.com/us/podcast/88-parentheticals/id1458545680\nBONUS PODCAST!:\n{Blank} + {Blank} = FUN - https://podcasts.apple.com/us/podcast/blank-blank-fun/id1458544361\nRSS:\n^space^ - https://feeds.megaphone.fm/carrotspacecarrot\n<~> - https://feeds.megaphone.fm/greaterless\n100% Related? - https://feeds.megaphone.fm/100pr\n88% Parentheticals - https://feeds.megaphone.fm/88pr\nBONUS PODCAST!:\n{Blank} + {Blank} = FUN - https://feeds.megaphone.fm/blankblankfun\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "3953247a-c70f-11e8-8ec5-07e787adf8ed",
             "isoDate": "2019-04-11T10:00:00.000Z",
@@ -1310,6 +1711,12 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT3066541700.mp3?updated=1644002244"
             },
+            "entities": [
+                "Alex",
+                "This week",
+                "Jusoor\nInstitute of International Education PEER \nMichael Bazzel",
+                "PJ"
+            ],
             "content:encodedSnippet": "This week, PJ and Alex open up the phone lines and try to solve your problems, big and small. Don\u2019t type like my brother.\nFurther Reading:\nJusoor\nInstitute of International Education PEER \nMichael Bazzel's workbook to remove your personal information online\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "394f83ec-c70f-11e8-8ec5-eb4481f2ccbf",
             "isoDate": "2019-03-28T10:00:00.000Z",
@@ -1332,6 +1739,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT6727517266.mp3?updated=1644002200"
             },
+            "entities": [],
             "content:encodedSnippet": "We investigate the mystery of why parents across the world became convinced that a half-bird/half-woman monster was going to harm their kids over the internet.\nAnd we answer the question of how robocallers are able to fake your telephone number when they call you.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "394aba60-c70f-11e8-8ec5-2fa8b1bc1f84",
             "isoDate": "2019-03-14T20:41:00.000Z",
@@ -1354,6 +1762,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5874396058.mp3?updated=1644002186"
             },
+            "entities": ["Alex Blumberg"],
             "content:encodedSnippet": "Yes Yes No returns and Alex Blumberg takes us on a journey from secret celebrity love letters to the biggest, strangest rock band you\u2019ve never heard of. Also, basketball.\nSee the tweet here.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "3946c482-c70f-11e8-8ec5-07c4b90517f9",
             "isoDate": "2019-02-28T11:00:00.000Z",
@@ -1376,6 +1785,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT6159649196.mp3?updated=1614850860"
             },
+            "entities": ["Paul Le Roux", "Evan"],
             "content:encodedSnippet": "The story of a person who wanted to change the world using the internet \u2014 by committing crimes on an unprecedented global scale.\nCheck out Evan's book on Paul Le Roux, The Mastermind, here. \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "3942f28a-c70f-11e8-8ec5-2b64bb5bc643",
             "isoDate": "2019-02-14T11:00:00.000Z",
@@ -1398,6 +1808,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9227985493.mp3?updated=1614850824"
             },
+            "entities": ["Alex", "This week", "his", "Damiano", "one"],
             "content:encodedSnippet": "This week, Alex investigates the rise of one of the most hated businesses: Robocalls. And Damiano tries to figure out if a robocaller is tracking his every move.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "393f1930-c70f-11e8-8ec5-c76ac169d407",
             "isoDate": "2019-01-31T11:00:00.000Z",
@@ -1420,6 +1831,12 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT4737660384.mp3?updated=1644002104"
             },
+            "entities": [
+                "New Year",
+                "Jason Mantzoukas",
+                "Azkaban Yes",
+                "Alex Goldman"
+            ],
             "content:encodedSnippet": "New Year! Alex Goldman\u2019s audacious plan to get punched in the face, plus special guest Jason Mantzoukas returns for a very Azkaban Yes Yes No.\nTweet from the episode\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "393a2b46-c70f-11e8-8ec5-0f4e689646e9",
             "isoDate": "2019-01-17T21:40:00.000Z",
@@ -1442,6 +1859,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT2969136347.mp3?updated=1644002022"
             },
+            "entities": ["the year"],
             "content:encodedSnippet": "In our final episode of the year, we revisit some stories, talk to old friends, and hear from the most remote places on the planet.\nFor a list of all the episodes we referenced, check out our website reply.soy. \n\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "5cc95d32-c0e6-11e7-9927-035e34bc4385",
             "isoDate": "2018-12-20T11:00:00.000Z",
@@ -1465,6 +1883,13 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9539271079.mp3?updated=1645028284"
             },
+            "entities": [
+                "Larry Tabak",
+                "Journalist",
+                "Better Mount Pleasant\nLet",
+                "Foxconn",
+                "Wisconsin"
+            ],
             "content:encodedSnippet": "A small town in Wisconsin becomes the site of a completely unprecedented experiment. \nA Better Mount Pleasant\nLet's Make A Better Mount Pleasant\nJournalist Larry Tabak's Series on Foxconn in Wisconsin\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "5cc0fa70-c0e6-11e7-9927-7fcbb007149b",
             "isoDate": "2018-12-06T11:00:00.000Z",
@@ -1486,6 +1911,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9173401630.mp3?updated=1614850660"
             },
+            "entities": ["This week", "FBI"],
             "content:encodedSnippet": "This week, the return of YYN: from a deranged mascot to the top of the FBI\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "5cb165c4-c0e6-11e7-9927-bbde6591f853",
             "isoDate": "2018-11-15T11:00:00.000Z",
@@ -1508,6 +1934,24 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT8967905844.mp3?updated=1644000913"
             },
+            "entities": [
+                "Alex",
+                "Right Now",
+                "This week",
+                "Michael Bazzell Gave Alex",
+                "$14 Million",
+                "Lizzie",
+                "Michael Bazzell",
+                "Manager",
+                "Hacker",
+                "Google Authenticator\nYubikey\nMichael",
+                "Joseph Cox",
+                "19-Year-Old",
+                "Could Ruin Your Business",
+                "Hijacking Phone Numbers\nHow Criminals Recruit Telecom Employees",
+                "Lorenzo Francheschi-Bicchierai",
+                "US"
+            ],
             "content:encodedSnippet": "This week, a new Super Tech Support: after Lizzie's Snapchat gets hacked, things start getting really creepy. Alex investigates.\nMichael Bazzell's Podcast\nThe complete Security and Privacy Podcast\nSteps Michael Bazzell Gave Alex to Protect Himself\nHow to port your phone number\nPassword Manager\nGoogle Authenticator\nYubikey\nMichael's workbook to freeze your credit and remove yourself from public records websites\nSudo\nStories about Sim Swapping and OGUsers by Vice/Motherboard\nBy Lorenzo Francheschi-Bicchierai\nThe SIM Hijackers\nHow to Protect Yourself From SIM Swapping Hacks\n\u2018TELL YOUR DAD TO GIVE US BITCOIN:\u2019 How a Hacker Allegedly Stole Millions by Hijacking Phone Numbers\nHow Criminals Recruit Telecom Employees to Help Them Hijack SIM Cards\nAlleged 19-Year-Old SIM Swapper Used Stolen Bitcoin to Buy Luxury Cars\nCops Arrest Infamous SIM Swapper Who Allegedly Stole $14 Million in Cryptocurrency\nBy Joseph Cox\n'I Could Ruin Your Business Right Now': Listen to a SIM-Jacking, Account-Stealing Ransom\nThe Organization that Lizzie Donated To\nByte Back\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "5caadfa6-c0e6-11e7-9927-930f96e8fab4",
             "isoDate": "2018-11-08T11:00:00.000Z",
@@ -1530,6 +1974,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT3820580190.mp3?updated=1614850636"
             },
+            "entities": ["she", "her", "13-year-old", "Cowboy", "one day"],
             "content:encodedSnippet": "A 13-year-old girl builds a tiny world that she has complete, perfect control over. And then one day, that world forces her to make an impossible decision.\nEpisodes of The Nod you should check out:Cowboy of the West Village\nPeak Reality\nThe Paradise Garage\nKnuck if you Buck\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "5ca3bf46-c0e6-11e7-9927-0f6a6008fa7c",
             "isoDate": "2018-10-25T10:00:00.000Z",
@@ -1553,6 +1998,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT1842321506.mp3?updated=1614850506"
             },
+            "entities": ["New York City"],
             "content:encodedSnippet": "New York City cops are in a fight against their own police department. They say it\u2019s under the control of a broken computer system that punishes cops who refuse to engage in racist, corrupt policing. The story of their fight, and the story of the grouchy idealist who originally built the machine they\u2019re fighting.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "f20fee22-ad55-11e8-89b7-2f041d33f3de",
             "isoDate": "2018-10-12T06:32:00.000Z",
@@ -1576,6 +2022,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT1353849859.mp3?updated=1644000728"
             },
+            "entities": ["New York City"],
             "content:encodedSnippet": "New York City cops are in a fight against their own police department. They say it\u2019s under the control of a broken computer system that punishes cops who refuse to engage in racist, corrupt policing. The story of their fight, and the story of the grouchy idealist who originally built the machine they\u2019re fighting.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "00dd8856-ad56-11e8-aefe-fb23151fd026",
             "isoDate": "2018-10-12T04:37:00.000Z",
@@ -1598,6 +2045,17 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT8925233017.mp3?updated=1614850413"
             },
+            "entities": [
+                "Alex",
+                "Senate",
+                "Alex Blumberg",
+                "Anna Foley",
+                "this week",
+                "Beauty YouTube",
+                "producer",
+                "PJ",
+                "Alex Jones"
+            ],
             "content:encodedSnippet": "We're back this week with a Yes Yes No. Alex takes PJ and Alex Blumberg through Alex Jones's visit to the Senate. And producer Anna Foley helps us unpack the scandal that's engulfed Beauty YouTube.\nAlex Jones tweet\nBeautube tweet\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "5c96a748-c0e6-11e7-9927-e32a00921a3d",
             "isoDate": "2018-09-13T10:00:00.000Z",
@@ -1619,6 +2077,15 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT3657421259.mp3?updated=1614850372"
             },
+            "entities": [
+                "she",
+                "Youtube Channel\nVote",
+                "her",
+                "Taylor",
+                "Taylor Nicole Dean",
+                "YouTube",
+                "August"
+            ],
             "content:encodedSnippet": "Taylor Nicole Dean was a self-described shut-in, a teenager who lived in her parent's home, surrounded by exotic pets. And then she started making videos on YouTube.\nTaylor's Youtube Channel\nVote for your favorite reply all episodes - we'll run the winners in August!\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "5c7619ec-c0e6-11e7-9927-2f64e49104f6",
             "isoDate": "2018-07-26T21:58:00.000Z",
@@ -1641,6 +2108,15 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT4555536143.mp3?updated=1644000589"
             },
+            "entities": [
+                "Sruthi",
+                "Alex",
+                "Elizabeth Dwoskin",
+                "Amazon\nBuzzfeed",
+                "Amazon Fake Reviewers\nLearn",
+                "Amazon",
+                "Nicole Nguyen"
+            ],
             "content:encodedSnippet": "Sruthi asks a question \u201cwhy does it seem like Amazon has suddenly gotten a lot sketchier?\u201c Alex investigates.\nFurther Reading:\nElizabeth Dwoskin on Amazon\nBuzzfeed's Nicole Nguyen on Amazon Fake Reviewers\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "5c6f19c6-c0e6-11e7-9927-af24351f7fea",
             "isoDate": "2018-07-13T00:31:00.000Z",
@@ -1664,6 +2140,16 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT2783061836.mp3?updated=1644000515"
             },
+            "entities": [
+                "Matt",
+                "a decade ago",
+                "This week",
+                "her",
+                "Super Tech Support",
+                "Now",
+                "he",
+                "Liz Logelin Foundation\nLearn"
+            ],
             "content:encodedSnippet": "Matt\u2019s wife died a decade ago. Now, everywhere he goes on the internet, he can\u2019t escape advertisements for clickbait sites with her picture on it. This week, Super Tech Support tries to help out.\nMatt's non-profit, the Liz Logelin Foundation\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "5c68c6ac-c0e6-11e7-9927-fb028123824a",
             "isoDate": "2018-06-21T10:00:00.000Z",
@@ -1686,6 +2172,22 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT4961071835.mp3?updated=1644000474"
             },
+            "entities": [
+                "Alex",
+                "New York",
+                "This week",
+                "Gene Demby",
+                "Martineau",
+                "Ben Detrick",
+                "Bryan Colangelo",
+                "Alex Blumberg",
+                "conspiracy",
+                "Alex Goldman",
+                "PJ",
+                "Paris Martineau",
+                "Magazine",
+                "Paris"
+            ],
             "content:encodedSnippet": "This week, to celebrate Alex Goldman\u2019s return from paternity leave, a Yes Yes No extravaganza. Alex takes PJ and Alex Blumberg through the internet\u2019s most encompassing conspiracy theory to date, and then Gene Demby joins us to help unpack a very different kind of conspiracy.\nParis Martineau's Qanon explainer in New York Magazine\nParis Martineau's Reporting on Roseanne and QAnon for The Outline\nBen Detrick on Bryan Colangelo\nThe Yes Yes No Blog\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "5c626438-c0e6-11e7-9927-873feb4f7297",
             "isoDate": "2018-06-07T10:00:00.000Z",
@@ -1707,6 +2209,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5434393623.mp3?updated=1614850130"
             },
+            "entities": ["Wayne"],
             "content:encodedSnippet": "Who was Wayne?\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "5c5bfea4-c0e6-11e7-9927-cf0a55f60dbe",
             "isoDate": "2018-05-31T10:00:00.000Z",
@@ -1729,6 +2232,18 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9587621985.mp3?updated=1614850099"
             },
+            "entities": [
+                "II",
+                "Google",
+                "David Segal",
+                "American",
+                "New York Times",
+                "Opioid Addiction Crisis\nPalm Beach Post",
+                "Cat Ferguson",
+                "Ryan Hampton",
+                "Florida",
+                "he"
+            ],
             "content:encodedSnippet": "An ambitious plan to help people goes off the rails, and a man from Florida tries to fix things the only way he knows how: with prank phone calls.\nFurther reading:\nCat Ferguson's reporting on Google and Rehab (The Verge) - Part I\nCat Ferguson's reporting on Google and Rehab (The Verge) - Part II\nDavid Segal's series on the business around addiction (New York Times)\nRyan Hampton's American Fix: Inside the Opioid Addiction Crisis\nPalm Beach Post's Reporting on the Sober Home Crisis \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "5c550004-c0e6-11e7-9927-cba7ce3f4cba",
             "isoDate": "2018-05-18T02:05:00.000Z",
@@ -1750,6 +2265,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT4413144515.mp3?updated=1643999174"
             },
+            "entities": ["Canadian", "one"],
             "content:encodedSnippet": "How a shy, queer Canadian woman accidentally invented one of the internet\u2019s most toxic male communities.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "5c4df714-c0e6-11e7-9927-876ff78970a4",
             "isoDate": "2018-05-10T10:00:00.000Z",
@@ -1772,6 +2288,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT2084498231.mp3?updated=1614849673"
             },
+            "entities": ["Last month", "sexual assault", "backpage.com"],
             "content:encodedSnippet": "Last month, the government shut down backpage.com, a site where people advertised sex with children. We talk to a group of people who say that was a huge mistake.\nTrigger warning: sexual assault.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "5c44f984-c0e6-11e7-9927-2f294a6d2ae5",
             "isoDate": "2018-04-20T05:29:00.000Z",
@@ -1794,6 +2311,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5587369271.mp3?updated=1643999065"
             },
+            "entities": ["Alex", "One day", "Old Loves", "4", "5", "Cayden"],
             "content:encodedSnippet": "One day, Cayden received an email from their internet provider that said \"stop pirating TV shows or we'll cut off your internet!\" Cayden had no idea what they were talking about. So Alex decided to investigate.\nFurther Reading\nVulture's recap of \"Old Loves\" (Girls Season 5, Episode 4)\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "5c2d368c-c0e6-11e7-9927-2fea8872efcd",
             "isoDate": "2018-03-15T10:00:00.000Z",
@@ -1816,6 +2334,15 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT3957623885.mp3?updated=1643999014"
             },
+            "entities": [
+                "This week",
+                "No Such Thing As A Free Watch",
+                "Instagram",
+                "Alexis Madrigal",
+                "Jenny ODell",
+                "he",
+                "summer"
+            ],
             "content:encodedSnippet": "This week, the story of a man who made the extremely dubious decision to order a watch that he found in an Instagram ad. We explore the strange world that watch came from.\nFurther Reading\nJenny ODell's \"There's No Such Thing As A Free Watch\"\nAlexis Madrigal's dropshipping article\nApply here for the Reply All summer internship!\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "5c270578-c0e6-11e7-9927-4bbb04d0cbf2",
             "isoDate": "2018-03-01T11:00:00.000Z",
@@ -1839,6 +2366,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT2241590142.mp3?updated=1643998982"
             },
+            "entities": ["general manager", "This week", "NBA", "he", "Harley"],
             "content:encodedSnippet": "This week, we meet a dominatrix who dominates computers, instead of just people. Plus, the story of a man who hatches a plot to destroy a beloved NBA team, using the best advantage he has \u2014 the fact that he\u2019s their general manager.\nFurther Reading:\nMistress Harley's Website (very NSFW)\nThe Yes Yes Nos tumblr\nThe tweet in question\nThe Code Switch blog\nThe Code Switch podcast\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "5c208a9a-c0e6-11e7-9927-e717ffcc115e",
             "isoDate": "2018-02-15T11:00:00.000Z",
@@ -1862,6 +2390,13 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5036262853.mp3?updated=1643998950"
             },
+            "entities": [
+                "she",
+                "six years ago",
+                "Jia Tolentino",
+                "Jia Tolentino\nLearn",
+                "Writer"
+            ],
             "content:encodedSnippet": "Writer Jia Tolentino has a new case for Super Tech Support: where are all those bitcoin she bought six years ago?\n\n\nFurther Reading\nPlanet Money's bitcoin story\nStories by Jia Tolentino\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "5c13425e-c0e6-11e7-9927-677df7e6d9ee",
             "isoDate": "2018-01-25T11:00:00.000Z",
@@ -1885,6 +2420,16 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT3407800731.mp3?updated=1614849382"
             },
+            "entities": [
+                "Knuckles",
+                "Alex",
+                "This week",
+                "2017",
+                "year",
+                "Youtube Touched My Spaget",
+                "Uganda",
+                "Captain"
+            ],
             "content:encodedSnippet": "This week: Yes Yes No returns and takes us to the brink of apocalypse.\n\n\nFurther Reading\nreplyall.fyi\nThe yes yes nos tumblr\nThe tweet in question\nTide Pod Pizza Tweet\nUganda Knuckles in VR Chat\nWho Killed Captain Alex trailer\nLogan Paul \"Why 2017 was the best year of my life\" video\n\"Somebody touch my spaghett!\" tweet\nSmashmouth spaghett\nKirby spaghett\nFull Metal Jacket Spaghett\nPewDiePie's \"Youtube Touched My Spaget[sic]\" video\n \n \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "5c0a8fe2-c0e6-11e7-9927-ebf5d9334abc",
             "isoDate": "2018-01-18T11:00:00.000Z",
@@ -1908,6 +2453,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5792600426.mp3?updated=1614849322"
             },
+            "entities": ["the year"],
             "content:encodedSnippet": "Our finale for the year! We solve some unsolved mysteries, call up some of our favorite people, and answer questions about stories listeners are still wondering about. Plus many weird surprises.\n \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "3f6c3de6-affc-11e6-892a-e7be7eca3a85",
             "isoDate": "2017-12-21T11:00:00.000Z",
@@ -1931,6 +2477,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9712727323.mp3?updated=1643998790"
             },
+            "entities": ["she", "her", "one", "Mexico", "City", "Andrea"],
             "content:encodedSnippet": "After Andrea is attacked by a stranger in Mexico City, she just wants to figure out who the guy was. Investigating this question drops her right into the middle of one of Mexico\u2019s biggest conspiracies.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "3f92c564-a453-11e7-ac4a-aff21bca224d",
             "isoDate": "2017-12-15T18:42:00.000Z",
@@ -1954,6 +2501,14 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5352619491.mp3?updated=1643998769"
             },
+            "entities": [
+                "Uber",
+                "Alex Blumberg",
+                "Russian",
+                "#91",
+                "Passenger",
+                "#93"
+            ],
             "content:encodedSnippet": "After a secret breaks in the news, Reply All re-examines how Alex Blumberg's Uber account was hacked.\nThis episode is a follow up to #91 The Russian Passenger and #93 Beware All.\n\n\nFurther reading:\nThe Best Password Managers\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "6d90cdba-6355-11e7-9c4a-7b8a46863476",
             "isoDate": "2017-12-07T11:00:00.000Z",
@@ -1977,6 +2532,21 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT8839871731.mp3?updated=1643998707"
             },
+            "entities": [
+                "Frozen\nOur Yes Yes No blog\nLearn",
+                "Fascism",
+                "Jordan Peltz",
+                "November 4",
+                "Brian Feldman",
+                "Feldman",
+                "November 4th",
+                "Krang T. Nelson",
+                "Ryan Broderick",
+                "his",
+                "Constable",
+                "Alex Jones",
+                "Rich Kyanka"
+            ],
             "content:encodedSnippet": "The return of YYN: The horrifying specter of November 4th and a very disturbing ice cream recipe.\n\n\nFurther Reading\nRich Kyanka's Tweet\nRefuse Fascism announces the November 4 protests\nAn article by Krang T. Nelson about getting banned from twitter for his tweet.\nJordan Peltz' video\nAlex Jones warns of the Antifa uprising\nBrian Feldman's Tweet\nRyan Broderick's \"vore\" theory\nFeldman's follow up article\nConstable Frozen\nOur Yes Yes No blog\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "3f55514e-affc-11e6-892a-87e7e1a03245",
             "isoDate": "2017-11-16T11:00:00.000Z",
@@ -2000,6 +2570,16 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT8773340180.mp3?updated=1643998669"
             },
+            "entities": [
+                "Alex",
+                "This week",
+                "one",
+                "Rob Goldman",
+                "This year",
+                "http://replyall.limo/donttrackme",
+                "Facebook",
+                "guide"
+            ],
             "content:encodedSnippet": "This year we\u2019ve gotten one question more than any other from listeners: is Facebook eavesdropping on my conversations and showing me ads based on the things that I say? This week, Alex investigates.\n\n\nFurther Reading\nOur guide to keep Facebook from following you around the internet can be found at http://replyall.limo/donttrackme .\nFacebook's official statement that it is not listening to users.\nFacebook's Rob Goldman (no relation) denying the same thing.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "6d827c10-6355-11e7-9c4a-f39af556854b",
             "isoDate": "2017-11-02T10:00:00.000Z",
@@ -2023,6 +2603,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9226577712.mp3?updated=1614849035"
             },
+            "entities": ["bounty hunter", "Sruthi Pinnamaneni"],
             "content:encodedSnippet": "Continued: Sruthi Pinnamaneni follows the world's best bounty hunter on a peculiar case.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "3f3db412-affc-11e6-892a-eb3e779bf729",
             "isoDate": "2017-10-19T11:00:00.000Z",
@@ -2046,6 +2627,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT7804818405.mp3?updated=1614848996"
             },
+            "entities": ["bounty hunter", "Sruthi Pinnamaneni"],
             "content:encodedSnippet": "Sruthi Pinnamaneni follows the world's best bounty hunter on a peculiar case.\n \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "aba51084-6355-11e7-87c8-4377afef8e6b",
             "isoDate": "2017-10-19T10:00:00.000Z",
@@ -2069,6 +2651,17 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT8821084677.mp3?updated=1614848918"
             },
+            "entities": [
+                "Google",
+                "This week",
+                "Alex Blumberg",
+                "his",
+                "James Damore",
+                "http://yesyesnos.tumblr.com",
+                "KKK",
+                "Kevin Durant",
+                "engineer"
+            ],
             "content:encodedSnippet": "This week, we help Alex Blumberg understand why a Google engineer ended up complimenting the KKK, and then Yes Yes No turns bizarro.\n\n\nFurther Reading\nJames Damore's unedited memo\nLinks to all of the tweets or stories mentioned in Yes Yes No can be found at http://yesyesnos.tumblr.com\nArticle about Kevin Durant (includes screenshots of his tweets)\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "6d7b2ce4-6355-11e7-9c4a-1ff931946c73",
             "isoDate": "2017-09-28T10:00:00.000Z",
@@ -2092,6 +2685,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT2587587615.mp3?updated=1643998567"
             },
+            "entities": [],
             "content:encodedSnippet": "Phia helps a listener track down a mythical, vanished video game.\n \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "3f2db09e-affc-11e6-892a-ab02713e4626",
             "isoDate": "2017-09-21T10:00:00.000Z",
@@ -2115,6 +2709,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT1161019055.mp3?updated=1643998533"
             },
+            "entities": ["she", "her", "New Jersey"],
             "content:encodedSnippet": "A woman in New Jersey is getting strange phone calls to her office from unknown numbers. Every time she picks up, she finds herself eavesdropping on the life of a different stranger. Unsure what else to do, she calls in Super Tech Support.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "3f25eeb8-affc-11e6-892a-43edc8087050",
             "isoDate": "2017-09-07T10:00:00.000Z",
@@ -2137,6 +2732,18 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT7017673177.mp3?updated=1614815799"
             },
+            "entities": [
+                "Alex",
+                "This week",
+                "Hindustan Times",
+                "Apple",
+                "last week",
+                "2016",
+                "Damiano",
+                "fraud",
+                "Microsoft",
+                "Federal Trade Commission"
+            ],
             "content:encodedSnippet": "This week, Alex and Damiano take a trip. This is the conclusion of last week's episode, Long Distance.\n\n\n\nFurther Reading\nSnigdha Poonam's story on tech support scams in the Hindustan Times\nIf you suspect you are a victim of a tech support scammer, you see a suspicious pop-up, or get an unsolicited tech support email, you can make a complaint to the Federal Trade Commission by following this link, or by contacting the company that the call center was impersonating directly.\nMicrosoft fraud report page\nApple fraud report page\nMicrosoft did a global survey of tech support scams in 2016, and the results are pretty interesting. You can find it here.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "3efe98cc-affc-11e6-892a-27f903ab815f",
             "isoDate": "2017-08-03T10:00:00.000Z",
@@ -2159,6 +2766,17 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT1346255265.mp3?updated=1643998480"
             },
+            "entities": [
+                "Alex",
+                "This week",
+                "Apple",
+                "2016",
+                "fraud",
+                "Alex Goldman",
+                "Microsoft",
+                "He",
+                "Federal Trade Commission"
+            ],
             "content:encodedSnippet": "This week, a telephone scammer makes a terrible mistake. He calls Alex Goldman.\n \n\n\nFurther Reading\nIf you suspect you are a victim of a tech support scammer, you see a suspicious pop-up, or get an unsolicited tech support email, you can make a complaint to the Federal Trade Commission by following this link, or by contacting the company that the call center was impersonating directly.\nMicrosoft fraud report page\nApple fraud report page\nMicrosoft did a global survey of tech support scams in 2016, and the results are pretty interesting. You can find it here.\nOh, and don't be like Alex. Never let some stranger remotely connect to your computer.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "7ad78a92-6e5c-11e7-a303-9ffd376c35d8",
             "isoDate": "2017-07-27T10:00:00.000Z",
@@ -2181,6 +2799,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT4715725732.mp3?updated=1643998430"
             },
+            "entities": ["Bill Thomas", "Tammy Marshall", "Jewish"],
             "content:encodedSnippet": "A man takes on an impossible job: fixing the place you go before you die.\nFurther Info\nBill Thomas's website\nBill Thomas on Twitter\nTammy Marshall at The New Jewish Home\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "3ef6e762-affc-11e6-892a-a7dbee30d87d",
             "isoDate": "2017-07-13T23:34:00.000Z",
@@ -2203,6 +2822,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT4097997416.mp3?updated=1614815651"
             },
+            "entities": ["American"],
             "content:encodedSnippet": "An online diary used by American teenagers confronts a strange and terrifying enemy.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "3ee455ca-affc-11e6-892a-4b6880a86814",
             "isoDate": "2017-06-29T06:34:00.000Z",
@@ -2224,6 +2844,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9871843971.mp3?updated=1614815612"
             },
+            "entities": ["Alex", "This week", "his", "clown"],
             "content:encodedSnippet": "A mysterious thief has been using the internet to steal a bizarre array of items - watches, scooter parts, clown costumes. This week, Alex heads straight towards his hideout.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "3edbdc92-affc-11e6-892a-db123ba1f79c",
             "isoDate": "2017-06-15T10:00:00.000Z",
@@ -2246,6 +2867,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT7635617918.mp3?updated=1614815568"
             },
+            "entities": [],
             "content:encodedSnippet": "The last person on earth who has not heard about covfefe walks into a studio, and a strange journey begins.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "ca0bf936-8bf4-11e6-a0e0-ebfc03339140",
             "isoDate": "2017-06-08T10:00:00.000Z",
@@ -2268,6 +2890,14 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9749789991.mp3?updated=1614815493"
             },
+            "entities": [
+                "she",
+                "This week",
+                "her",
+                "Phia",
+                "attacks",
+                "Daniel Boteanu"
+            ],
             "content:encodedSnippet": "This week, Phia wonders what kind of person falls for phishing attacks. Is it only insanely gullible luddites, or can smart, tech savvy people get phished, too? To find out, she conducts an experiment on her poor, unsuspecting coworkers.\nFollow Daniel Boteanu on twitter \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "3ecaf580-affc-11e6-892a-9329b46fee70",
             "isoDate": "2017-05-18T10:00:00.000Z",
@@ -2290,6 +2920,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT8398076260.mp3?updated=1643998248"
             },
+            "entities": ["Alex", "This week", "his", "PJ", "24/7", "him"],
             "content:encodedSnippet": "Alex agreed to let PJ hack his phone, giving him 24/7 uninterrupted surveillance over his life. This week, everything you can learn about someone who completely surrenders their privacy.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "3ec2c662-affc-11e6-892a-1fe00072e82f",
             "isoDate": "2017-05-04T10:50:00.000Z",
@@ -2311,6 +2942,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT7763839026.mp3?updated=1643998229"
             },
+            "entities": ["attorney"],
             "content:encodedSnippet": "A group of elite scientists prepare for the last conversation humans might ever have. Plus, we meet a corporate attorney who mediates family Thanksgivings.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "3ebacac0-affc-11e6-892a-03525536eb3b",
             "isoDate": "2017-04-27T10:00:00.000Z",
@@ -2333,6 +2965,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9298461672.mp3?updated=1643998152"
             },
+            "entities": ["This week", "now"],
             "content:encodedSnippet": "This week, we debut a new segment designed to help you calibrate your anger in a changing world. Plus, how to cloak yourself from all the people who are now allowed to see your internet browsing history.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "c9d297f4-8bf4-11e6-a0e0-cf2356197350",
             "isoDate": "2017-04-12T10:00:00.000Z",
@@ -2355,6 +2988,17 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT7292943721.mp3?updated=1614815345"
             },
+            "entities": [
+                "Alex",
+                "Linda Holmes",
+                "This week",
+                "Uber",
+                "Alex Blumberg",
+                "Russian",
+                "Bell House",
+                "91",
+                "Passenger"
+            ],
             "content:encodedSnippet": "This week, we discover who was actually behind the hack of Alex Blumberg's Uber account. This episode picks up where Episode 91, The Russian Passenger, left off.\n\n\nFurther Info\nCome see Alex and PJ at The Bell House with Linda Holmes!\nWirecutter on password managers\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "3eb1e716-affc-11e6-892a-774c338f31ef",
             "isoDate": "2017-04-06T10:00:00.000Z",
@@ -2377,6 +3021,21 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9760778633.mp3?updated=1643998064"
             },
+            "entities": [
+                "Ecuador",
+                "American",
+                "United States",
+                "Silvia Vinas",
+                "Reply All",
+                "Rafael Correa",
+                "President",
+                "2015",
+                "America",
+                "Latin",
+                "Spanish",
+                "first",
+                "president"
+            ],
             "content:encodedSnippet": "In the United States, the idea of having a conversation with the President is pretty outlandish. But in Latin America, it\u2019s a regular occurrence. The most accessible president on Latin American social media is Ecuador\u2019s Rafael Correa. But what\u2019s it like to get the attention of a head of state when you may not exactly want it? (NOTE: We first broadcast this story in 2015, but we have since gone back and added a new chapter.)\nThis story was originally reported by Silvia Vinas of the radio show Radio Ambulante. Listen to a Spanish language version of the story on their website.\nSubscribe to the Reply All newsletter over at replyall.soy/newsletter!\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "3eaa258a-affc-11e6-892a-6f679588d84c",
             "isoDate": "2017-03-23T10:00:00.000Z",
@@ -2399,6 +3058,13 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9796551346.mp3?updated=1643998005"
             },
+            "entities": [
+                "New York City",
+                "haveibeenpwned.com",
+                "replyall@gimletmedia.com",
+                "Macroform\nLearn",
+                "Russia"
+            ],
             "content:encodedSnippet": "Somewhere in Russia, a man calls for a car. Somewhere in New York City, a stranger's phone buzzes.\nEmail us at replyall@gimletmedia.com and use the subject \"theory\" if you think you can provide us additional information.\n\n\nFurther reading\nhaveibeenpwned.com\nA good article on how and why you should use password managers, and the best password managers out there.\n\n\nFurther listening\nSimplicity by Macroform\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "c9b3fe16-8bf4-11e6-a0e0-df6c5c57bd42",
             "isoDate": "2017-03-16T10:00:00.000Z",
@@ -2421,6 +3087,19 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT7308192459.mp3?updated=1643997932"
             },
+            "entities": [
+                "Alex",
+                "This week",
+                "Mozilla",
+                "Cory Doctorow",
+                "one",
+                "Director",
+                "Tim Berners-Lee",
+                "World Wide Web Consortium",
+                "Challenge of Serving Users",
+                "years",
+                "disaster"
+            ],
             "content:encodedSnippet": "This week, one man has been warning the world about an impending disaster for years, but no one will listen. Also, Alex makes a dumb decision.\n\n\nFurther Reading\nW3C's proposed standard \nW3C Director, Tim Berners-Lee, posts \"On EME in HTML5\"\nMozilla's blog post \"DRM and the Challenge of Serving Users\"\nCory Doctorow's post \"The World Wide Web Consortium at a Crossroads: Arms-Dealers or Standards-Setters?\"\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "3ea24798-affc-11e6-892a-b7a787667dec",
             "isoDate": "2017-03-02T11:00:00.000Z",
@@ -2443,6 +3122,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9889756837.mp3?updated=1643997909"
             },
+            "entities": ["founder", "Lee O'Denat"],
             "content:encodedSnippet": "The unlikely rise of Lee O'Denat, the founder of Worldstar Hip Hop. Also, we reopen a cold case.\nFurther Listening\nQ's interview on Shots Fired\nQ's interview on The Champs\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "3e9a8396-affc-11e6-892a-bf6f4f7bf373",
             "isoDate": "2017-02-23T11:00:00.000Z",
@@ -2465,6 +3145,14 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT6057185822.mp3?updated=1614815105"
             },
+            "entities": [
+                "Sciopen Research Group\nLearn",
+                "her",
+                "Eric",
+                "Twitter\nEric Valor",
+                "first",
+                "Norm Kelly"
+            ],
             "content:encodedSnippet": "A new Yes Yes No, plus Sruthi meets her first fully-functional cyborg.\n\n\nFurther Reading\nNorm Kelly's Twitter\nEric Valor's Website\nEric's non-profit Sciopen Research Group\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "3e926c60-affc-11e6-892a-77a0cf0c38b5",
             "isoDate": "2017-02-09T11:00:00.000Z",
@@ -2487,6 +3175,16 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT7797749695.mp3?updated=1614815070"
             },
+            "entities": [
+                "Alex",
+                "This week",
+                "Dick Dale",
+                "his",
+                "GG Allin",
+                "Nazanin Rafsanjani",
+                "Twitter\nLearn",
+                "Alex Trebek"
+            ],
             "content:encodedSnippet": "This week: Alex meets his hero, the thorn in the side of Dick Dale, GG Allin, and Alex Trebek.\n\n\nFurther Reading\nLongmont Potion Castle's website\nThe Twice Removed podcast\nNazanin Rafsanjani's Twitter\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "3e895256-affc-11e6-892a-67bcf89d6385",
             "isoDate": "2017-02-02T06:00:00.000Z",
@@ -2509,6 +3207,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT1103232835.mp3?updated=1614815032"
             },
+            "entities": ["Pope Brock", "This week", "Penny Lane"],
             "content:encodedSnippet": "This week \u2014 a new technology falls into the wrong hands.\nPope Brock's book, Charlatan\nPenny Lane's documentary, Nuts! \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "3e7f1804-affc-11e6-892a-bb965a8b4a3f",
             "isoDate": "2017-01-19T02:58:00.000Z",
@@ -2531,6 +3230,26 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT1138963105.mp3?updated=1614814994"
             },
+            "entities": [
+                "disease",
+                "New York Times",
+                "Eric Valor",
+                "Fanous",
+                "ALS",
+                "one day",
+                "You Can Walk",
+                "years",
+                "Richard Bedlack",
+                "Fox",
+                "she",
+                "her",
+                "Sruthi Pinnamaneni",
+                "Nelda Buss",
+                "1992",
+                "producer",
+                "he",
+                "Peter Andrey Smith"
+            ],
             "content:encodedSnippet": "For years, Dr. Richard Bedlack has hunted for a cure for ALS, a fatal degenerative disease. And then one day he builds a website called ALS Untangled. That's when strange things start to happen. Reported by Peter Andrey Smith and Reply All producer Sruthi Pinnamaneni.\nFurther Reading\nThe ALS Untangled website\nDr. Richard Bedlack\u2019s ALS Reversals website\nThe PatientsLikeMe website\nThe ALS TDI website\nNelda Buss wrote a book, You Can Walk, about her experience, and she originally appeared on Fox in 1992\nEric Valor\u2019s website \nAngelina Fanous\u2019s reporting on VICE and The New York Times\nPeter Andrey Smith\u2019s website \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "69f7b49c-7932-11e6-8881-97027a4cc86d",
             "isoDate": "2017-01-18T21:32:00.000Z",
@@ -2553,6 +3272,33 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT2437021592.mp3?updated=1643997772"
             },
+            "entities": [
+                "#53",
+                "Singer",
+                "This week",
+                "#76",
+                "#56",
+                "#78",
+                "Illustrator Matt Lubchansky",
+                "#57",
+                "Matt Lubchansky",
+                "the past year",
+                "his",
+                "King",
+                "Matt Farley",
+                "#60",
+                "songwriter",
+                "#83",
+                "#61",
+                "#68",
+                "#47",
+                "#69",
+                "#64-67",
+                "Reply All",
+                "2016",
+                "Lightning",
+                "the future"
+            ],
             "content:encodedSnippet": "This week, updates on some of the stories we\u2019ve done over the past year, some bonuses and surprises, some breakbeats, a motorcycle ride, and we take a glimpse into the future.\nCheck out the amazing 2016 Reply All poster by Matt Lubchansky!\n\n\nThe Episodes\n#56 Zardulu\n#64-67 On the Inside Parts I-IV\n#53 In the Desert\n#68 Vampire Rules\n#57 Milk Wanted\n#47 Quit Already!\n\n\nLightning Round\n#76 Lost in a Cab\n#83 Voyage Into Pizzagate\n#60 A Simple Plan\n#61 Baby King\n#69 Disappeared\n#78 Very Quickly to the Drill\n\n\nFurther Reading\nIllustrator Matt Lubchansky\u2019s website is OVER HERE\nSinger/songwriter Matt Farley can be found on his website or on Spotify.\nOur theme song is by the Mysterious Breakmaster Cylinder.\nOur ad music is by Build Buildings.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "72a1f45e-5fdd-11e6-93f4-93cf6fc57c70",
             "isoDate": "2016-12-22T09:22:00.000Z",
@@ -2575,6 +3321,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT6508571625.mp3?updated=1643997706"
             },
+            "entities": ["This week", "her", "one", "Facebook"],
             "content:encodedSnippet": "Everybody has that one Facebook friend who just won\u2019t stop posting their political opinions. This week, we talk to one of those Facebook friends, someone whose opinions got her into an enormous mess.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "729682c2-5fdd-11e6-93f4-7f6a73a933f0",
             "isoDate": "2016-12-15T00:02:00.000Z",
@@ -2597,6 +3344,16 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9695520801.mp3?updated=1643997702"
             },
+            "entities": [
+                "conspiracy",
+                "Reddit",
+                "30 seconds",
+                "Edgar Welch",
+                "Donald Subreddit",
+                "replyall@gimletmedia.com",
+                "this year",
+                "Bryan Menegus"
+            ],
             "content:encodedSnippet": "A conspiracy theory, a pizza related map, and a website fighting for its very soul.\n\n\nFurther Reading\nBryan Menegus' great article, \"Reddit is Tearing Itself Apart.\"\nAn interview with Edgar Welch, the Pizzagate gunman.\nThe Donald Subreddit\nIf you have a question about a story we've reported this year, please email a voice memo of 30 seconds or less to replyall@gimletmedia.com with the subject line \"updates.\"\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "728c0c34-5fdd-11e6-93f4-ef1bcd70ec7a",
             "isoDate": "2016-12-08T05:30:00.000Z",
@@ -2619,6 +3376,15 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT1756416049.mp3?updated=1643997711"
             },
+            "entities": [
+                "Alex",
+                "48 hours",
+                "his",
+                "this week",
+                "Adam Quinn",
+                "Matt Farley\nJorge Just\nAustin Thompson",
+                "Peter Nelson"
+            ],
             "content:encodedSnippet": "Alex and PJ take calls from anyone, about anything, for 48 hours straight.\n\n\nThank Yous\nAdam Quinn (for setting up our phone system)\nPeter Nelson (for his excellent horn playing)\nThe Mysterious Breakmaster Cylinder (for going above and beyond this week)\nMatt Farley\nJorge Just\nAustin Thompson\nBuild Buildings\nEveryone who called\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "727795ba-5fdd-11e6-93f4-77bd09c15b6a",
             "isoDate": "2016-11-17T08:46:00.000Z",
@@ -2641,6 +3407,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT7149920831.mp3?updated=1614814662"
             },
+            "entities": ["One", "America"],
             "content:encodedSnippet": "One man tries to unite America. One Frog threatens to tear it apart.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "726cdd78-5fdd-11e6-93f4-77ddbb88408d",
             "isoDate": "2016-11-04T00:32:00.000Z",
@@ -2663,6 +3430,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT3776061363.mp3?updated=1614812116"
             },
+            "entities": ["This week", "10 Minutes", "Craigslist"],
             "content:encodedSnippet": "This week: a bitter Yes Yes No rivalry, and the return of 10 Minutes on Craigslist. Someone has gone missing.\n\n\nFurther Reading\nThe original tweet.\nLoss.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "726175be-5fdd-11e6-93f4-4737ab1a3465",
             "isoDate": "2016-10-27T04:56:00.000Z",
@@ -2685,6 +3453,17 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT1792300915.mp3?updated=1614812051"
             },
+            "entities": [
+                "Thomas Oscar",
+                "American",
+                "her",
+                "Australian",
+                "Stackswell and Co.",
+                "producer",
+                "Fast Company",
+                "Karen Duffin",
+                "Facebook"
+            ],
             "content:encodedSnippet": "Thomas Oscar is an Australian teenager who tried to make the most boring Facebook group possible - a group where members pretend to be corporate drones in a non-existent office.\nThe Facts\nKaren Duffin is a producer at This American Life. You can find more stories by Karen Duffin at her website.\nOur theme song is by the mysterious Breakmaster Cylinder.\nOur ad music is by Build Buildings.\nFurther Reading\nYou can check out the Stackswell and Co. Facebook page here.\nRead a story about Stackswell and Co. from Fast Company here.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "7255ac66-5fdd-11e6-93f4-2bad6825ba98",
             "isoDate": "2016-10-20T00:43:00.000Z",
@@ -2707,6 +3486,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT7135156471.mp3?updated=1643997519"
             },
+            "entities": [],
             "content:encodedSnippet": "To reach a port, we must set sail.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "724b45dc-5fdd-11e6-93f4-6bc1df2c1af8",
             "isoDate": "2016-10-13T07:43:00.000Z",
@@ -2729,6 +3509,15 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5347503445.mp3?updated=1643997326"
             },
+            "entities": [
+                "Alex",
+                "David Segal",
+                "Google",
+                "Weird Ads",
+                "1,000",
+                "2015",
+                "780 million"
+            ],
             "content:encodedSnippet": "Alex and PJ chase down the strangest tips from our Weird Ads hotline, and at the bottom of the rabbit hole they find the Mother of All AdWords Scams.\nFuther Reading\nDavid Segal's story on locksmiths \n\nThe Ringfinders website\n\nForm to give feedback on specific ads\n\nGoogle's statement on our episode: \nOur goal is to provide a great experience for the users, advertisers, and publishers that interact with our advertising products everyday. An important part of this work is listening to reactions\u2014good, bad, and in-between\u2014from our users about their experiences online. We appreciate this very much; it helps us make AdWords better. Bad ads are an industry-wide issue and we fight them with considerable fire-power: we\u2019ve invested in best-in-class technology and built a global team of more than 1,000 googlers specifically dedicated to this effort. While this work has produced positive results\u2014we disabled 780 million ads for violating our policies in 2015 alone\u2014we understand this is an ongoing challenge for everyone and we\u2019ll continue to battle it.\n\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "724230aa-5fdd-11e6-93f4-b7dbe468a633",
             "isoDate": "2016-09-29T08:47:00.000Z",
@@ -2751,6 +3540,17 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT7548379356.mp3?updated=1643997273"
             },
+            "entities": [
+                "Forty",
+                "Pepe\n\nMatt Furie",
+                "$10,000",
+                "creator",
+                "$99",
+                "Hillary",
+                "Pepe\n\nSmugmug",
+                "first",
+                "Pepe"
+            ],
             "content:encodedSnippet": "Forty servers full of lost photos, a secret plan, and an unexpected rescue. Also, a Yes Yes No about a frog.\n\nFurther Reading\nHillary on Pepe\n\nMatt Furie (Pepe's creator) on Pepe\n\nSmugmug's statement on Picturelife\n\nOur Sponsors\n99designs \u2013 Visit 99designs.com/reply to get a free $99 upgrade on your first design project.\nHPE - To learn more about how HPE can provide innovative and effective it solutions for your business go to HPE.com/gimlet.\nWealthsimple \u2013 Investing made easy. Get your first $10,000 managed for free.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "723a9282-5fdd-11e6-93f4-e3c71464ed6e",
             "isoDate": "2016-09-22T00:20:00.000Z",
@@ -2773,6 +3573,19 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9011306807.mp3?updated=1643997235"
             },
+            "entities": [
+                "New York City",
+                "she",
+                "Alex",
+                "yellowcabnyc.com",
+                "311",
+                "DCA",
+                "her",
+                "Department of Consumer Affairs",
+                "Taxi",
+                "nyc.gov",
+                "Liz"
+            ],
             "content:encodedSnippet": "Liz lost her camera in a cab, so she went to the New York City Taxi website to submit it to their lost and found database. At least, that's what she thought she did. Alex investigates and finds a big business behind the success of a suspicious little website.\nFurther Reading\nIf you lose something in a cab in New York City, Call 311, or go to this website.\nThe Department of Consumer Affairs encourages anyone who feels they have been misled by yellowcabnyc.com to file a complaint with DCA\u200e online at nyc.gov/consumers or by calling 311. \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "7232752a-5fdd-11e6-93f4-fb116d9660c3",
             "isoDate": "2016-09-08T06:36:00.000Z",
@@ -2795,6 +3608,17 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT7250961898.mp3?updated=1614814733"
             },
+            "entities": [
+                "Executive Producer",
+                "Barry",
+                "Sruthi Pinnamaneni",
+                "Lisa Sanders",
+                "Tim Howard",
+                "Soltero",
+                "Reply All",
+                "him",
+                "this Friday at 12PM"
+            ],
             "content:encodedSnippet": "Barry develops a small but very inconvenient health problem, which becomes so persistent and pernicious that it feels as if someone put a curse on him. Sruthi Pinnamaneni goes deep on a decades-long medical mystery.\nLisa Sanders\u2019 book, Every Patient Tells a Story.\nLisa Sanders\u2019 column, Diagnosis.\nBecome a Gimlet Member to join our Q&A this Friday at 12PM EST!\nListen to Reply All Executive Producer Tim Howard's latest release as Soltero!\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "722a355e-5fdd-11e6-93f4-2f3ff6d24874",
             "isoDate": "2016-09-01T05:59:00.000Z",
@@ -2817,6 +3641,15 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT7330135197.mp3?updated=1614814611"
             },
+            "entities": [
+                "This week",
+                "Mailchimp",
+                "10%",
+                "Reporter",
+                "Laura Klivans",
+                "one",
+                "first"
+            ],
             "content:encodedSnippet": "This week, a story about people who start hearing voices in their heads. But, instead of trying to get rid of the voices, they try to make more. Reporter Laura Klivans has the story.\nOur Sponsors\nMailchimp \u2013 Send better emails. Also visit Mailchimp\u2019s new non-profit online store Freddieand.co.\nFracture \u2013 Get 10% off, and don\u2019t forget to mention Reply All in their one question survey.\nSquarespace \u2013 The easiest way to create a beautiful website, portfolio or online store. Use the offer code \u201cREPLY\u201d to get 10% off your first purchase.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "722119c4-5fdd-11e6-93f4-7bc8d7c1bfcb",
             "isoDate": "2016-08-25T03:18:00.000Z",
@@ -2839,6 +3672,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9312381985.mp3?updated=1643936192"
             },
+            "entities": ["Alex", "her", "last week", "One", "PJ"],
             "content:encodedSnippet": "One twin decides to plug her internal organs directly into the internet so the other twin can monitor her. Plus, PJ and Alex talk to a listener whose heart was broken by last week's episode.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "33e1f158-4dca-11e6-8a94-f7aa9d00c3ca",
             "isoDate": "2016-08-11T07:05:00.000Z",
@@ -2861,6 +3695,13 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT8540693922.mp3?updated=1643936164"
             },
+            "entities": [
+                "YouTube\nArticle on Marina Joyce\nPolice",
+                "This week",
+                "conspiracy",
+                "Marina Joyce\nLearn",
+                "Marina Joyce"
+            ],
             "content:encodedSnippet": "This week, a Yes Yes No about gorillas, conspiracy theories, and glitter.\nFurther Reading\nSee the original tweets on our Yes Yes No tumblr.\nMarina Joyce's YouTube\nArticle on Marina Joyce\nPolice tweeting about Marina Joyce\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "5ec95248-5983-11e6-9934-23c8399957b3",
             "isoDate": "2016-08-04T04:39:00.000Z",
@@ -2883,6 +3724,15 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5679995980.mp3?updated=1643936139"
             },
+            "entities": [
+                "Picturelife",
+                "she",
+                "Alex",
+                "Gimlet",
+                "her",
+                "Rachel",
+                "one day"
+            ],
             "content:encodedSnippet": "Rachel was a faithful user of a photo storage website called Picturelife, until one day all of her photos disappeared. As she investigated, she realized that every Picturelife user was having the same problem. Alex tries to find out if there's any hope of getting her photos back. Also, a preview of the new Gimlet show, Science Vs!\nSubscribe to Science Vs. by clicking this link.\nBecome a Gimlet Member by clicking this link.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "7298dcde-5439-11e6-91b9-57afedc6b0dc",
             "isoDate": "2016-07-28T03:48:00.000Z",
@@ -2905,6 +3755,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT1023057280.mp3?updated=1614814475"
             },
+            "entities": ["PJ", "Dallas"],
             "content:encodedSnippet": "PJ dives into the world of military impostors and the vigilantes who hunt them. Plus, a dispatch from Dallas.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "b16eee36-4957-11e6-ae94-df3e9072d178",
             "isoDate": "2016-07-14T18:28:00.000Z",
@@ -2927,6 +3778,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT7155540804.mp3?updated=1614814428"
             },
+            "entities": ["This week", "PJ", "he"],
             "content:encodedSnippet": "This week a man decides to sabotage the entire internet. Plus, PJ discovers the secret code he\u2019s accidentally been speaking, and learns about the people who created it.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "25104ac4-43cc-11e6-a9c4-83bc6986a30e",
             "isoDate": "2016-07-07T07:00:00.000Z",
@@ -2949,6 +3801,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT8277010860.mp3?updated=1643936060"
             },
+            "entities": ["one", "Two"],
             "content:encodedSnippet": "It\u2019s an old story. Two people date, they break up, they both go on Tinder. And on Tinder, one of them stumbles across an incredibly creepy photo, taken inside the apartment they used to share.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "c240fb42-3330-11e6-9fc7-c3767957a7ad",
             "isoDate": "2016-06-16T02:03:00.000Z",
@@ -2971,6 +3824,18 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT6182751769.mp3?updated=1614814286"
             },
+            "entities": [
+                "Sruthi",
+                "murder",
+                "she",
+                "This week",
+                "Paul Modrowski",
+                "his",
+                "night",
+                "he",
+                "Paul",
+                "Dean Fawcett"
+            ],
             "content:encodedSnippet": "Paul Modrowski is in prison for a murder he claims he didn't commit, and he says he\u2019s been misunderstood because of his autism. This week, we bring you the conclusion of our story. Sruthi meets Paul in prison and explains what she thinks really happened the night of Dean Fawcett\u2019s murder.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "87a87e5c-2d94-11e6-99bd-fb39da46bc2a",
             "isoDate": "2016-06-09T08:57:00.000Z",
@@ -2993,6 +3858,18 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT7182154429.mp3?updated=1643936021"
             },
+            "entities": [
+                "Blogger",
+                "murder",
+                "This week",
+                "Paul Modrowski",
+                "his",
+                "Sruthi Pinnamaneni",
+                "one",
+                "producer",
+                "Inside",
+                "he"
+            ],
             "content:encodedSnippet": "Blogger Paul Modrowski is in prison for a murder he claims he didn't commit. This week, producer Sruthi Pinnamaneni looks at his trial, and speaks to the one person who witnessed the murder.\nOn the Inside, Part I\nOn the Inside, Part II\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "5f74fefe-22dd-11e6-a81f-4fb58fddc8d9",
             "isoDate": "2016-05-27T03:26:00.000Z",
@@ -3015,6 +3892,19 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT2399727069.mp3?updated=1643935968"
             },
+            "entities": [
+                "Blogger",
+                "murder",
+                "This week",
+                "Paul Modrowski",
+                "his",
+                "Sruthi Pinnamaneni",
+                "producer",
+                "Inside",
+                "he",
+                "Paul",
+                "him"
+            ],
             "content:encodedSnippet": "Blogger Paul Modrowski is in prison for a murder he claims that he didn't commit. This week, producer Sruthi Pinnamaneni looks at Paul's life before his conviction, and the crime that landed him behind bars.\nOn the Inside, Part I\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "4aa7967e-1d08-11e6-bd6a-57f04923e228",
             "isoDate": "2016-05-19T06:17:00.000Z",
@@ -3037,6 +3927,17 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9771075560.mp3?updated=1643935925"
             },
+            "entities": [
+                "Paul Modrowski",
+                "her",
+                "Sruthi Pinnamaneni",
+                "18",
+                "one",
+                "he",
+                "next year",
+                "him",
+                "years"
+            ],
             "content:encodedSnippet": "For years, Paul Modrowski has been writing a blog from inside a maximum security prison. Only thing is, he was arrested when he was 18 and has never seen the internet. Sruthi Pinnamaneni reaches out to him with one small question that alters the course of her next year.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "95e87db0-16e6-11e6-96e2-2bef4a08153e",
             "isoDate": "2016-05-12T05:56:00.000Z",
@@ -3059,6 +3960,13 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT7997868119.mp3?updated=1476300585"
             },
+            "entities": [
+                "the day",
+                "Email Debt Forgiveness",
+                "April 30th",
+                "Day",
+                "three"
+            ],
             "content:encodedSnippet": "Email Debt Forgiveness Day is April 30th. It\u2019s the day when people around the world will send the emails they\u2019ve been putting off, without guilt and without consequence (hopefully). To observe the holiday, we talk to three people with plans to send delinquent messages.\n\nLink to our Email Debt Forgiveness Day page.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "0e342b1c-0cb4-11e6-98d2-17d1d378c8f3",
             "isoDate": "2016-04-27T19:39:00.000Z",
@@ -3081,6 +3989,14 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT8648289650.mp3?updated=1614814149"
             },
+            "entities": [
+                "Recently",
+                "she",
+                "attacks",
+                "ISIS",
+                "Reporter",
+                "Rukmini Callimachi"
+            ],
             "content:encodedSnippet": "Reporter Rukmini Callimachi is always looking for new ways to eavesdrop on ISIS operatives online. Recently, she got a new look into how ISIS members might be using the internet to coordinate their attacks. Plus, a new Yes, Yes, No. \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "64f66328-078e-11e6-a9ec-5f9dc8e7e557",
             "isoDate": "2016-04-21T07:00:00.000Z",
@@ -3103,6 +4019,13 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT7857791852.mp3?updated=1614813315"
             },
+            "entities": [
+                "Alex",
+                "This week",
+                "https://pv.webbyawards.com/2016/mobile-sites-apps/features-categories/best-podcast",
+                "Webbys",
+                "http://replyall.diamonds"
+            ],
             "content:encodedSnippet": "This week, Alex stumbles upon the weirdest gifs ever made, and goes hunting for their creators. Also, a new Yes Yes No.\nCheck out our website, http://replyall.diamonds for links to some of the gifs discussed in this episode, or to hear the alternate 'jif' version.\nAnd you can vote for us in the Webbys here! \nhttps://pv.webbyawards.com/2016/mobile-sites-apps/features-categories/best-podcast\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "f4c546ca-01c3-11e6-90a1-5f02e343e139",
             "isoDate": "2016-04-14T16:02:00.000Z",
@@ -3125,6 +4048,14 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT3455573436.mp3?updated=1476300604"
             },
+            "entities": [
+                "Matt",
+                "This week",
+                "this week",
+                "PJ & Alex",
+                "Sampler",
+                "PJ"
+            ],
             "content:encodedSnippet": "This week, PJ helps a listener named Matt ask a very large company a very simple question. Are you telling me the truth? \nAlso! PJ & Alex are on Sampler this week. You can listen here. \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "43037aaa-f71a-11e5-8b32-d32749396a13",
             "isoDate": "2016-03-31T04:24:00.000Z",
@@ -3147,6 +4078,16 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT2456458687.mp3?updated=1614813254"
             },
+            "entities": [
+                "Alex",
+                "This week",
+                "replyall@gimletmedia.com",
+                "another year",
+                "Email Debt Forgiveness",
+                "him",
+                "Day",
+                "day"
+            ],
             "content:encodedSnippet": "This week, Alex tries to solve a problem and PJ insults him. Also the return of Email Debt Forgiveness Day.\nIf you\u2019re thinking about sending an email, or if you receive an email for Email Debt Forgiveness day, tell us about it by emailing replyall@gimletmedia.com. We might end up contacting you to appear on the show! Together, we can all make our inboxes less stressful for another year.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "57ffaee0-f159-11e5-9eda-93f95e7c91de",
             "isoDate": "2016-03-24T00:42:00.000Z",
@@ -3169,6 +4110,20 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT1365408381.mp3?updated=1614813192"
             },
+            "entities": [
+                "comedian",
+                "actor",
+                "This week",
+                "Carl Diggler",
+                "Twitter\nFelix",
+                "Virgil",
+                "Jason Mantzoukas",
+                "@RoyCalbeck",
+                "Mailchimp\nMinistry of Supply\nSquarespace\nLearn",
+                "@SatelliteHigh",
+                "Twitter\nColumns",
+                "forecaster"
+            ],
             "content:encodedSnippet": "This week we learn the truth behind Carl Diggler, the internet's most successful election forecaster. And a special Yes Yes No featuring comedian/actor/podcaster Jason Mantzoukas.\nFurther Listening\nJason Mantzoukas' How Did This Get Made Podcast\nFurther Reading\nVirgil on Twitter\nFelix on Twitter\nColumns by Carl Diggler\nSuperforecasting\nThe Good Judgment Project\n@SatelliteHigh's YesYesNo Tweet\n@RoyCalbeck's YesYesNo Tweet\nSponsors\nMailchimp\nMinistry of Supply\nSquarespace\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "0883bf72-ebfb-11e5-ab55-b366a4b077a5",
             "isoDate": "2016-03-17T04:20:00.000Z",
@@ -3191,6 +4146,17 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT1997277266.mp3?updated=1614813151"
             },
+            "entities": [
+                "Phia Bennin",
+                "Producer",
+                "Facts\nOur",
+                "United States",
+                "Liquid Gold Concept\nAmbrosia Milk",
+                "Kara Swanson",
+                "Body\nLearn",
+                "US",
+                "Anna"
+            ],
             "content:encodedSnippet": "There are parents in the US desperate for breast milk and others who have too much milk and end up pouring it down the sink. Reply All Producer Phia Bennin wades into the world of breast milk markets, and discovers a breast milk paradise, shady breastmilk scammers, and the surprising history of breast milk in the United States.\nThe Facts\nOur theme music is by the mysterious Breakmaster Cylinder.\nOur ad music is by Build Buildings.\nFurther Reading\nAnna's Website, Liquid Gold Concept\nAmbrosia Milk\nKara Swanson's book Banking on the Body\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "b78985ba-e674-11e5-9521-ff4cd659e974",
             "isoDate": "2016-03-10T03:57:00.000Z",
@@ -3213,6 +4179,14 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT4197606898.mp3?updated=1614813084"
             },
+            "entities": [
+                "Eric Yearwood",
+                "Twitter and Facebook",
+                "this week",
+                "Zardulu",
+                "Matt Little",
+                "Half Press"
+            ],
             "content:encodedSnippet": "The rats are not what they seem. Also a new Yes Yes No.\nZardulu's Twitter and Facebook accounts.\nEric Yearwood's website.\nMatt Little's website.\nThe Half Press tweet discussed on this week's Yes Yes No.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "86706658-db8c-11e5-b4fe-cf5867c829db",
             "isoDate": "2016-02-25T05:00:00.000Z",
@@ -3235,6 +4209,13 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT7762575107.mp3?updated=1643935681"
             },
+            "entities": [
+                "This week",
+                "Mormons",
+                "one",
+                "Reporter",
+                "Karen Duffin"
+            ],
             "content:encodedSnippet": "This week we have a story about a big group of people with the same questions. Difficult, complicated, heartbreaking ones. These people all have one thing in common \u2014 they\u2019re Mormons. Reporter Karen Duffin tells their story.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "9422a342-d61e-11e5-ae62-4f7a9f9944a0",
             "isoDate": "2016-02-18T11:00:00.000Z",
@@ -3257,6 +4238,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT4547523086.mp3"
             },
+            "entities": ["This week"],
             "content:encodedSnippet": "This week, we fix an embarrassing oversight.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "585d79ca-d053-11e5-9bb1-8337e449c8d2",
             "isoDate": "2016-02-11T00:00:00.000Z",
@@ -3279,6 +4261,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT6195792999.mp3"
             },
+            "entities": ["Mike", "Atlanta", "Kashmir Hill", "Christina"],
             "content:encodedSnippet": "Strangers keep coming to Mike and Christina\u2019s house looking for their stolen cell phones. Nobody knows why. We travel to Atlanta to find out what\u2019s going on, in our thorniest Super Tech Support yet.\nBe sure to check out Kashmir Hill's story on Fusion. \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "9fbe371e-cb12-11e5-9ace-93cd9b18f81f",
             "isoDate": "2016-02-04T05:00:00.000Z",
@@ -3301,6 +4284,20 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT4156421709.mp3"
             },
+            "entities": [
+                "TLDR",
+                "#4",
+                "#11",
+                "this week",
+                "38",
+                "#14",
+                "#36",
+                "next week",
+                "#10 100",
+                "#29",
+                "Reply All",
+                "a Day"
+            ],
             "content:encodedSnippet": "Hi. We're off this week, but we have a little secret: We actually used to have another podcast about the internet for 38 episodes, called TLDR. So If you've already listened to all of Reply All, why not give TLDR a try? You can subscribe on iTunes or any other podcatcher, and here are links to some of our favorite episodes:\n\n#10 100 Songs in a Day\n#11 RIP Vile Rat\n#14 The Knowledge\n#4 The Unicorn\n#29 Olivia Taters, Robot Teenager\n#36 The Mystery of Childish Gambino\nThanks for listening, and see you next week!\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "a66edd66-c54a-11e5-9819-17d166da5f39",
             "isoDate": "2016-01-27T23:00:00.000Z",
@@ -3323,6 +4320,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT1800547590.mp3?updated=1614812964"
             },
+            "entities": ["Twitter", "Leslie Miley", "engineer", "he"],
             "content:encodedSnippet": "Leslie Miley went from being a college dropout to Twitter's only black engineer in a leadership position. So why did he quit? Also a brand new Yes Yes No.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "e56c8a08-bffb-11e5-a7cc-bbf8a4e9420f",
             "isoDate": "2016-01-21T05:00:00.000Z",
@@ -3345,6 +4343,15 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT1258078236.mp3?updated=1643935574"
             },
+            "entities": [
+                "Sampler\nSinger",
+                "Every night",
+                "his",
+                "her",
+                "Matt Farley",
+                "Catherine Russell",
+                "songwriter"
+            ],
             "content:encodedSnippet": "Every night, Catherine Russell puts on a wig, picks up a gun, and ignores her critics.\nFurther Reading\nPerfect Crime\nSampler\nSinger/songwriter Matt Farley can be found on his website or on Spotify.\nOur theme song is by the Mysterious Breakmaster Cylinder.\nOur ad music is by Build Buildings.\nSponsors\nMailchimp\nSeeso\nAudible\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "8fe2d2f2-ba8a-11e5-adbf-f3fecba7995e",
             "isoDate": "2016-01-14T05:00:00.000Z",
@@ -3367,6 +4374,15 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT8130079917.mp3?updated=1614812849"
             },
+            "entities": [
+                "Ryan Green",
+                "Ryan",
+                "one",
+                "night",
+                "cancer",
+                "Amy",
+                "one-year-old"
+            ],
             "content:encodedSnippet": "Amy and Ryan Green\u2019s one-year-old son is diagnosed with cancer and begins an agonizing period of treatment.\nAnd then, one night in the hospital, Ryan has a strange epiphany: this whole terrible ordeal should be a video game.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "1daaf3fa-b589-11e5-9577-eb6b6892d2dc",
             "isoDate": "2016-01-07T22:00:00.000Z",
@@ -3389,6 +4405,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5009753642.mp3?updated=1614812801"
             },
+            "entities": ["This week", "the past year"],
             "content:encodedSnippet": "This week, updates on some of the stories we've done over the past year, some bonuses and surprises, and the most beautiful song ever written about ping pong balls and a clarinet.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/237927212",
             "isoDate": "2015-12-16T01:00:00.000Z",
@@ -3411,6 +4428,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5482137365.mp3?updated=1614812748"
             },
+            "entities": ["this week"],
             "content:encodedSnippet": "On this week's episode, a new Yes Yes No, and we revisit our \"Undo, Undo, Undo\" segment to find out listeners most cringeworthy accidental messages.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/236873046",
             "isoDate": "2015-12-07T01:00:00.000Z",
@@ -3433,6 +4451,13 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT6574966237.mp3?updated=1614812648"
             },
+            "entities": [
+                "This week",
+                "her",
+                "one",
+                "http://radioambulante.org/audio/renunciaya",
+                "Facebook"
+            ],
             "content:encodedSnippet": "Everybody has that one Facebook friend who just won't stop posting their political opinions. This week, we talk to one of those Facebook friends, someone whose opinions got her into an enormous mess.\n(ALSO, be sure to check out the Radio Ambulante story this-a-way: http://radioambulante.org/audio/renunciaya)\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/235845770",
             "isoDate": "2015-11-30T04:00:00.000Z",
@@ -3455,6 +4480,22 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9253973535.mp3?updated=1614812609"
             },
+            "entities": [
+                "10-mile",
+                "Colgate",
+                "The past month",
+                "Yale",
+                "flood",
+                "second",
+                "Jamil Smith",
+                "this week",
+                "Yik Yak",
+                "Colgate University",
+                "January",
+                "first",
+                "University of Missouri",
+                "Georgetown"
+            ],
             "content:encodedSnippet": "Yik Yak is an app that allows users to communicate anonymously with anyone within a 10-mile radius. In the first part of this week's show, we revisit a story we did in January, about how the app brought out a particularly vicious strain of racism at Colgate University. And in the second half of the show - The past month has seen a flood of similar stories at colleges like University of Missouri, Yale, and Georgetown. So we go beyond Colgate and talk to Jamil Smith of the Intersection podcast to try to understand Colgate in the context of these recent events. \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/233702752",
             "isoDate": "2015-11-15T01:00:00.000Z",
@@ -3477,6 +4518,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT7966287666.mp3?updated=1614812563"
             },
+            "entities": ["Jade Davis", "This week", "her"],
             "content:encodedSnippet": "This week, Jade Davis loses her dog on the internet, and we go looking for it.\nAfter you listen to the episode, here is a place to visit: http://rainbowpugs.limo \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/232708448",
             "isoDate": "2015-11-10T01:00:00.000Z",
@@ -3499,6 +4541,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT7115509348.mp3?updated=1643935364"
             },
+            "entities": ["http://tripsit.me", "Tripsit"],
             "content:encodedSnippet": "A website for people who are way too high. Plus, could LSD unlock our better selves? Does PJ even have a better self? We investigate.\nYou can find Tripsit here: http://tripsit.me.\nThe floating orb lives here: http://madebyevan.com/webgl-water/. \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/231633531",
             "isoDate": "2015-11-03T01:00:00.000Z",
@@ -3521,6 +4564,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT4372469350.mp3?updated=1643935336"
             },
+            "entities": ["30 years", "Fraud"],
             "content:encodedSnippet": "The Computer Fraud and Abuse Act is a law. It's been on the books for almost 30 years. And it makes totally mundane online behavior illegal.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/230557423",
             "isoDate": "2015-10-26T01:00:00.000Z",
@@ -3543,6 +4587,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT3147237038.mp3?updated=1643935312"
             },
+            "entities": ["One day", "her", "photographer"],
             "content:encodedSnippet": "Hope is a photographer. One day her body begins to betray her. It starts with her eyes.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/228464253",
             "isoDate": "2015-10-12T01:00:00.000Z",
@@ -3565,6 +4610,23 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT3303645905.mp3?updated=1643935277"
             },
+            "entities": [
+                "http://www.crisistextline.org/",
+                "Jamie Keiles",
+                "Suicide",
+                "https://medium.com/message/depressiongrams-7f22011d6113",
+                "1800",
+                "Jamie",
+                "Her",
+                "1800-273-8255",
+                "7",
+                "Instagram",
+                "http://www.depressiontribe.com/",
+                "www.7cupsoftea.com",
+                "writer",
+                "https://instagram.com/jamielaurenkeiles/",
+                "http://www.suicidepreventionlifeline.org/"
+            ],
             "content:encodedSnippet": "Jamie Keiles is a writer who decided to photograph something that\u2019s practically invisible. Her story plus a new Yes Yes No.\nRead Jamie Keiles' article about Instagram here: https://medium.com/message/depressiongrams-7f22011d6113\nFollow Jamie on Instagram here: \nhttps://instagram.com/jamielaurenkeiles/\nIf you\u2019re feeling depressed or want to talk to someone, here are some resources:\nThe National Suicide Prevention Lifeline - 1800-273-8255 (1800-273-TALK) http://www.suicidepreventionlifeline.org/\nThe Crisis Text Line http://www.crisistextline.org/\n7 Cups of Tea www.7cupsoftea.com/\nDepression Tribe http://www.depressiontribe.com/\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/227433515",
             "isoDate": "2015-10-05T01:00:00.000Z",
@@ -3587,6 +4649,14 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9594387040.mp3?updated=1643935252"
             },
+            "entities": [
+                "villain",
+                "his",
+                "Sruthi Pinnamaneni",
+                "one",
+                "producer",
+                "Keyser Söze"
+            ],
             "content:encodedSnippet": "Ripoff Report is one of the original complaint websites. It\u2019s basically the work of one person, a man whom the internet describes as a kind of mythical villain, a Keyser Söze who wields power from behind his janky website. Reply All producer Sruthi Pinnamaneni visits his bunker.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/225320538",
             "isoDate": "2015-09-22T01:00:00.000Z",
@@ -3609,6 +4679,15 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT2584914634.mp3?updated=1643935226"
             },
+            "entities": [
+                "http://songexploder.net/",
+                "This week",
+                "his",
+                "https://soundcloud.com/breakmaster-cylinder/reply-all-theme-song",
+                "one",
+                "Phil Elverum",
+                "Host"
+            ],
             "content:encodedSnippet": "This week, one of our favorite podcasts, Song Exploder, takes over Reply All. Host Hrishikesh Hirway interviews the mysterious Breakmaster Cylinder about coming up with our theme song. Then, we air one of our very favorite episodes of Song Exploder, an interview with Phil Elverum of the Microphones about his song \"I Want Wind to Blow\"\nYou can find our theme song here:\nhttps://soundcloud.com/breakmaster-cylinder/reply-all-theme-song\nYou can find Song Exploder here:\nhttp://songexploder.net/\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/224193652",
             "isoDate": "2015-09-16T13:00:00.000Z",
@@ -3631,6 +4710,20 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT7371817244.mp3?updated=1614812008"
             },
+            "entities": [
+                "www.castparty.org",
+                "NPR",
+                "www.npr.org/programs/invisibilia/",
+                "Lulu Miller",
+                "undo@gimletmedia.com",
+                "this week",
+                "Invisibilia",
+                "Alix Spiegel",
+                "www.twitter.com/maxsilvestri",
+                "one",
+                "Max Silvestri",
+                "Reply All"
+            ],
             "content:encodedSnippet": "On this week's episode of Reply All, we do a Yes Yes No with Alix Spiegel and Lulu Miller of NPR's Invisibilia, and we discuss the one message you've sent across the internet you wish you could take back.\nEmail us a voice memo about the things you wish you could most undo at undo@gimletmedia.com\nSubscribe to Invisibilia: www.npr.org/programs/invisibilia/\nWatch us in Cast Party: www.castparty.org\nFollow Max Silvestri: www.twitter.com/maxsilvestri\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/223160005",
             "isoDate": "2015-09-07T01:00:00.000Z",
@@ -3653,6 +4746,16 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT3984618103.mp3?updated=1614811967"
             },
+            "entities": [
+                "his",
+                "Chris",
+                "Twitter",
+                "PJ",
+                "Duck Army",
+                "He",
+                "he",
+                "https://www.youtube.com/watch?v=nHc288IPFzk"
+            ],
             "content:encodedSnippet": "Chris complained about his cable company on Twitter. He was surprised to get a phone call demanding he delete the tweets or else be banned from the service. PJ looks into the story, and things get much stranger. Plus, a new Yes Yes No.\nDuck Army (https://www.youtube.com/watch?v=nHc288IPFzk)\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/222144038",
             "isoDate": "2015-09-01T01:00:00.000Z",
@@ -3675,6 +4778,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT1429011650.mp3"
             },
+            "entities": ["Alex", "this week", "Reply All"],
             "content:encodedSnippet": "On this week's episode of Reply All, PJ and Alex go outside.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/221098069",
             "isoDate": "2015-08-25T01:00:00.000Z",
@@ -3697,6 +4801,27 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9813019209.mp3?updated=1643935133"
             },
+            "entities": [
+                "This week",
+                "America Online",
+                "Preston",
+                "10 Minutes",
+                "http://www.callmeluckymovie.com",
+                "sexual abuse",
+                "Sylvie Douglis",
+                "second",
+                "comedian",
+                "http://www.audible.com/replyall",
+                "300",
+                "http://www.slack.com/replyall",
+                "Barry Crimmins",
+                "Squarespace",
+                "http://www.squarespace.com",
+                "Craigslist",
+                "He",
+                "he",
+                "one-man"
+            ],
             "content:encodedSnippet": "This week, 10 Minutes On Craigslist is back! Preston has posted the same ad to Craigslist over 300 times. He speaks to Sylvie Douglis about why he keeps posting.\nAnd in the second half of the show: Barry Crimmins is an influential comedian, and a survivor of sexual abuse. In the mid-90's he embarked on a one-man crusade to stop child pornographers who were operating with impunity on America Online.\nYou can find tickets and showtimes for the Barry Crimmins documentary by going to http://www.callmeluckymovie.com\nSponsors:\nAudible (http://www.audible.com/replyall)\nSlack (http://www.slack.com/replyall)\nSquarespace (http://www.squarespace.com)\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/219008367",
             "isoDate": "2015-08-10T01:00:00.000Z",
@@ -3719,6 +4844,18 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT8646971809.mp3?updated=1614811877"
             },
+            "entities": [
+                "the past",
+                "Gimlet",
+                "this Monday, August 10th",
+                "technologist",
+                "Clay Johnson",
+                "A year",
+                "about a decade",
+                "the next couple of days",
+                "US",
+                "http://gimletmedia.com/join"
+            ],
             "content:encodedSnippet": "Even though technology evolves at a rapid clip, US government agencies seem trapped about a decade in the past. PJ talks to technologist Clay Johnson about why the government is so unable to adapt, and what it would look like if it could keep pace with the rest of the world.\nIf you want to become a gimlet member, you can go here: http://gimletmedia.com/join. A year membership will get you a t-shirt, early access to pilots, and much more. Also, this Monday, August 10th, we'll be doing a live chat for members only. If you're already a Gimlet member, you'll find information about it on the gimlet page in the next couple of days.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/218017796",
             "isoDate": "2015-08-04T01:00:00.000Z",
@@ -3741,6 +4878,26 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT1169652291.mp3?updated=1643935019"
             },
+            "entities": [
+                "#33",
+                "independent",
+                "Harry",
+                "film producer",
+                "Keith Calder",
+                "Eleanor Calder",
+                "One",
+                "She",
+                "his",
+                "Keith",
+                "Louis Tomlinson",
+                "conspiracy",
+                "last week",
+                "today",
+                "Eleanor",
+                "model",
+                "@ISIS",
+                "Louis"
+            ],
             "content:encodedSnippet": "Keith Calder is known in some circles for his work as an independent film producer. In other, much bigger circles, Keith\u2019s known for having the same last name as Eleanor Calder. She\u2019s a model who dates One Direction\u2019s Louis Tomlinson. Hundreds of thousands of 1D fans maintain that Eleanor is a fake girlfriend, and that Louis is actually secretly dating his bandmate Harry. In today\u2019s episode, we talk to Keith about what life\u2019s like when you\u2019re on the wrong end of a widely-held conspiracy theory, and we talk to some of the fans who believe it.\nAlso - we give an update about the amazing hold music in last week's show (episode #33 @ISIS)\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/216952021",
             "isoDate": "2015-07-29T13:00:00.000Z",
@@ -3763,6 +4920,26 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT7799728065.mp3?updated=1614811794"
             },
+            "entities": [
+                "NY Times",
+                "http://longform.org/posts/longform-podcast-129-rukmini-callimachi-part-1",
+                "Next week",
+                "Islamic",
+                "https://www.touchofmodern.com/sales",
+                "http://castparty.org",
+                "http://stamps.com",
+                "https://gimletmedia.com/join-gimlet/",
+                "she",
+                "She",
+                "her",
+                "https://www.justworks.com/",
+                "terrorism",
+                "https://twitter.com/rcallimachi",
+                "Stamps.com",
+                "PJ",
+                "Reply All T-shirt",
+                "Rukmini Callimachi"
+            ],
             "content:encodedSnippet": "Rukmini Callimachi covers Islamic terrorism for the NY Times, and she seems to have access that other reporters just don't have. Part of the way she gets that access is by communicating with Islamic extremists online. She talks to PJ about how she communicates with her sources.\nAlso - we debut a new segment that we're calling \"Super Tech Support.\"\nYou can find Rukmini Callimachi on Twitter here:\nhttps://twitter.com/rcallimachi\nYou can also listen to an interview with her on the Longform podcast here:\nhttp://longform.org/posts/longform-podcast-129-rukmini-callimachi-part-1\nDon't forget! Next week you can see us live on stage performing a new story! Go to http://castparty.org for tickets and theater locations.\nAlso, if you want to become a member of Gimlet and get a Reply All T-shirt, you can do so by going here: https://gimletmedia.com/join-gimlet/\nSponsors:\nJustworks (https://www.justworks.com/)\nTouch of Modern (https://www.touchofmodern.com/sales)\nStamps.com (http://stamps.com)\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/215946412",
             "isoDate": "2015-07-20T01:00:00.000Z",
@@ -3785,6 +4962,16 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5839219654.mp3?updated=1643934962"
             },
+            "entities": [
+                "www.castparty.org",
+                "July 5th",
+                "hacker",
+                "www.mailchimp.com",
+                "Invisibilia",
+                "Stamps.com www.stamps.com",
+                "www.hover.com",
+                "Radiolab"
+            ],
             "content:encodedSnippet": "On July 5th, a hacker leaked hundreds of gigabytes of information stolen from a company that sells surveillance software to some of the most oppressive regimes in the world. We look into what journalists have found so far.\nAlso, a new Yes Yes No!\nDon't forget to go to your local movie theater and check out Cast Party! You can see Reply All, Invisibilia, Radiolab, and more, LIVE ON STAGE! www.castparty.org\nSponsors:\nHover www.hover.com (offer code \"discrection\")\nStamps.com www.stamps.com (offer code \"reply\")\nMailchimp www.mailchimp.com\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/214926459",
             "isoDate": "2015-07-13T01:00:00.000Z",
@@ -3807,6 +4994,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT4792575822.mp3"
             },
+            "entities": ["a week", "this week", "Reddit"],
             "content:encodedSnippet": "We meant to take a week off, but we just couldn't help ourselves. Our entire episode this week is a Yes Yes No about the recent (and massive) dustup on Reddit.\nNote: This episode has been updated to include a correction\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/214034901",
             "isoDate": "2015-07-09T13:00:00.000Z",
@@ -3829,6 +5017,19 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5773876684.mp3?updated=1614811679"
             },
+            "entities": [
+                "www.castparty.org",
+                "www.mailchimp.com/replyall",
+                "Robert Hoquim",
+                "Harry",
+                "Cast Party",
+                "Android\nMailchimp",
+                "http://www.bbsdocumentary.com/library/CONTROVERSY/PERSONALITIES/ALESHE/",
+                "www.deathsexmoney.org",
+                "him",
+                "John Aleshe",
+                "entrepreneur"
+            ],
             "content:encodedSnippet": "When successful internet entrepreneur Robert Hoquim died, the people who knew him found out they actually didn't know him at all.\nFor more about John Aleshe, go here:\nhttp://www.bbsdocumentary.com/library/CONTROVERSY/PERSONALITIES/ALESHE/\nFor tickets to Cast Party, go to www.castparty.org\nCheck out Death, Sex & Money at www.deathsexmoney.org\nSponsors:\nThe Outlook app for iOS and Android\nMailchimp (www.mailchimp.com/replyall)\nHarry's Razors (www.harrys.com/reply)\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/212888710",
             "isoDate": "2015-06-29T01:00:00.000Z",
@@ -3851,6 +5052,19 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT2310421934.mp3?updated=1643934898"
             },
+            "entities": [
+                "Thomas Oscar",
+                "This week",
+                "www.stamps.com",
+                "Australian",
+                "Stamps.com",
+                "www.squarespace.com",
+                "Karen Duffin",
+                "Squarespace",
+                "www.karenbduffin.com",
+                "Facebook",
+                "www.xero.com/podcasts"
+            ],
             "content:encodedSnippet": "Thomas Oscar is an Australian teenager who tried to make the most boring Facebook group possible - a group where members pretend to be corporate drones in a non-existent office.\nThis week's episode was reported by Karen Duffin (www.karenbduffin.com). \nSponsors:\nXero (www.xero.com/podcasts)\nStamps.com (www.stamps.com, offer code 'reply')\nSquarespace (www.squarespace.com, offer code 'reply')\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/211889383",
             "isoDate": "2015-06-23T01:00:00.000Z",
@@ -3873,6 +5087,12 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT6610195739.mp3?updated=1614811589"
             },
+            "entities": [
+                "http://www.weihsien-paintings.org",
+                "Leopold",
+                "http://castparty.org",
+                "http://www.mailchimp.com\nStamps.com http://www.stamps.com"
+            ],
             "content:encodedSnippet": "An email to the wrong address sends us hurtling into the world of professional cookie advisors. \nLeopold's website: \nhttp://www.weihsien-paintings.org\nCast Party Tickets: \nhttp://castparty.org\nSponsors: \nMailchimp http://www.mailchimp.com\nStamps.com http://www.stamps.com\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/210837835",
             "isoDate": "2015-06-15T01:00:00.000Z",
@@ -3895,6 +5115,15 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT2766239281.mp3?updated=1614811552"
             },
+            "entities": [
+                "http://www.mailchimp.com",
+                "http://www.stamps.com",
+                "http://www.xero.com/podcasts",
+                "This week",
+                "Stephanie Foo",
+                "Stamps.com",
+                "producer"
+            ],
             "content:encodedSnippet": "This week, producer Stephanie Foo tells a story about dating online that is unlike any we've ever heard before.\nSponsors:\nXero (http://www.xero.com/podcasts)\nMailchimp (http://www.mailchimp.com)\nStamps.com (http://www.stamps.com, offer code \"reply\")\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/208729058",
             "isoDate": "2015-06-02T01:00:00.000Z",
@@ -3917,6 +5146,29 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT4783292606.mp3?updated=1643934833"
             },
+            "entities": [
+                "Neal Horsley",
+                "activist",
+                "New York",
+                "This week",
+                "last month",
+                "one",
+                "Reporter",
+                "Bianca Giaever",
+                "mobile",
+                "Jennifer Boulanger",
+                "two",
+                "http://www.highfive.com/reply",
+                "filmmaker",
+                "second",
+                "http://www.mailchimp.com/replyall",
+                "his",
+                "producer",
+                "http://www.biancagiaever.com/",
+                "Craigslist",
+                "He",
+                "Horsley"
+            ],
             "content:encodedSnippet": "Craigslist is the internet\u2019s classifieds section, but it\u2019s also one of its more shadowy corners, where the ads are anonymous and ephemeral. So we found ourselves wondering - what would we find if we replied to a couple? This week, we track down the people behind two intriguing ads.\nAnd in the second half of the show - Neal Horsley was an anti-abortion activist who created a website called \"The Nuremberg Files,\" a website that listed the names and addresses of abortion providers around the country. He died last month, but the legacy of his website lives on. We talked to Jennifer Boulanger, a woman who works at a number of abortion clinics, and whose name ended up on Horsley's website in the 90's.\nReporter Bianca Giaever is a filmmaker and radio producer in New York.\nhttp://www.biancagiaever.com/\nSponsors\nHighfive (http://www.highfive.com/reply)\nOutlook for mobile devices (download for free for iOS or Android)\nMailchimp (http://www.mailchimp.com/replyall)\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/207570057",
             "isoDate": "2015-05-24T01:00:00.000Z",
@@ -3939,6 +5191,24 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT3012530603.mp3?updated=1643934261"
             },
+            "entities": [
+                "Ecuador",
+                "American",
+                "United States",
+                "http://radioambulante.org/en/audio-en/correa-vs-crudo",
+                "http://animoto.com",
+                "http://stamps.com",
+                "Rafael Correa",
+                "President",
+                "http://framebridge.com",
+                "Language",
+                "America",
+                "Stamps.com",
+                "Latin",
+                "Spanish",
+                "Animoto",
+                "president"
+            ],
             "content:encodedSnippet": "In the United States, the idea of having a conversation with the President is pretty outlandish. But in Latin America, it's a regular occurrence. The most accessible president on Latin American social media is Ecuador's Rafael Correa. But what's it like to get the attention of a head of state when you may not exactly want it?\nThis story was adapted from a Spanish Language version that originally appeared on the radio show Radio Ambulante. Listen to that here: http://radioambulante.org/en/audio-en/correa-vs-crudo\nSPONSORS:\nFramebridge: http://framebridge.com (offer code \"reply\")\nStamps.com: http://stamps.com (offer code \"reply\")\nAnimoto: http://animoto.com (offer code \"replyall\")\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/206464247",
             "isoDate": "2015-05-18T01:00:00.000Z",
@@ -3961,6 +5231,21 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT1111607383.mp3?updated=1614811290"
             },
+            "entities": [
+                "II",
+                "This week",
+                "Hasidic",
+                "Shulem",
+                "Shulem Deen",
+                "him",
+                "www.itunes.com/replyall",
+                "his",
+                "www.mailchimp.com",
+                "www.stamps.com",
+                "Sruthi Pinnamaneni",
+                "he",
+                "www.framebridge.com"
+            ],
             "content:encodedSnippet": "This week, we conclude Shulem Deen\u2019s story. In part I, we heard how the internet led him on a path where he was exiled from his community and separated from his family. In part II, Sruthi Pinnamaneni tells the story of how the Hasidic community has tried to block off a corner of the internet for itself, and how this new, informal Hasidic internet might offer Shulem a way back. \nThanks for listening! Subscribe to our podcast at www.itunes.com/replyall!\nSponsors:\nwww.framebridge.com (offer code 'reply')\nwww.stamps.com (offer code 'reply')\nwww.mailchimp.com\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/205406871",
             "isoDate": "2015-05-12T01:00:00.000Z",
@@ -3983,6 +5268,22 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5135235717.mp3?updated=1614811250"
             },
+            "entities": [
+                "http://www.mailchimp.com",
+                "America Online",
+                "http://blueapron.com",
+                "Hasidic",
+                "http://www.itunes.com/replyall",
+                "Shulem Deen",
+                "Jewish",
+                "1996",
+                "his",
+                "Mailchimp",
+                "Sruthi Pinnamaneni",
+                "http://harrys.com",
+                "22-year old",
+                "he"
+            ],
             "content:encodedSnippet": "Shulem Deen was a 22-year old and ultra-religious, a Hasidic Jewish person, when he bought a computer and signed up for America Online in 1996. Until then he'd never had a real conversation with someone outside his community. Sruthi Pinnamaneni tells the story of how the internet ruined his life and how it might save it.\nThanks for listening! Subscribe to our podcast at http://www.itunes.com/replyall!\nSponsors: \nMailchimp (http://www.mailchimp.com)\nBlue Apron (http://blueapron.com - coupon code 'reply')\nHarrys Razors (http://harrys.com - coupon code 'reply')\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/204317695",
             "isoDate": "2015-05-05T01:00:00.000Z",
@@ -4005,6 +5306,24 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT7317894781.mp3?updated=1643934179"
             },
+            "entities": [
+                "http://www.mailchimp.com",
+                "http://www.newyorker.com/culture/cultural-comment/every-day-should-be-e-mail-debt-forgiveness-day",
+                "Buzzfeed",
+                "him",
+                "Bureau chief",
+                "San Francisco",
+                "his",
+                "Mat Honan",
+                "Reeves Weideman",
+                "New Yorker",
+                "Email Debt Forgiveness",
+                "First",
+                "http://www.squarespace.com",
+                "Day",
+                "day",
+                "next year"
+            ],
             "content:encodedSnippet": "A special bonus Email Debt Forgiveness Day themed episide! First, PJ talks to Buzzfeed San Francisco Bureau chief Mat Honan about his decision to abandon personal email entirely, and his agonizing fear that it makes him seem like a douche.\nThen we listen to some of the voicemails people left us on our Email Debt Forgiveness Day hotline.\nThanks for participating in the inaugural email debt forgiveness day! We can't wait until next year.\nCheck out this great New Yorker article about Email Debt Forgiveness Day by Reeves Weideman: http://www.newyorker.com/culture/cultural-comment/every-day-should-be-e-mail-debt-forgiveness-day\nSponsors:\nMailchimp: http://www.mailchimp.com\nSquarespace: http://www.squarespace.com (offer code reply)\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/203933597",
             "isoDate": "2015-05-04T13:00:00.000Z",
@@ -4027,6 +5346,27 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT6720486672.mp3?updated=1643934157"
             },
+            "entities": [
+                "http://www.mailchimp.com",
+                "Alex",
+                "Meerkat",
+                "Jennifer Ringley",
+                "Tomorrow",
+                "this weekend",
+                "http://www.stamps.com",
+                "24-hour",
+                "she",
+                "1996",
+                "19-year-old",
+                "her",
+                "http://www.framebridge.com",
+                "PJ",
+                "the past five months",
+                "Email Debt Forgiveness",
+                "Seven years later",
+                "he",
+                "Day"
+            ],
             "content:encodedSnippet": "In 1996, 19-year-old Jennifer Ringley started the Jennicam, a 24-hour online chronicle of her life. Seven years later, she disappeared entirely from the internet. But why?\nAlso, PJ and Alex discuss how even in the past five months, the landscape of \"lifecasting\" has changed. And PJ puts Alex on Meerkat and he gets very uncomfortable.\nDon't forget! Tomorrow is Email Debt Forgiveness Day! Leave us a voicemail at (917) 475-6668 about your most anxiety inducing unanswered email. We will post a special mini-episode that is Email Debt Forgiveness Day-themed this weekend.\nOur Sponsors:\nhttp://www.framebridge.com (offer code 'reply')\nhttp://www.stamps.com (offer code 'reply')\nhttp://www.mailchimp.com\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/203201240",
             "isoDate": "2015-04-27T01:00:00.000Z",
@@ -4049,6 +5389,21 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5811550315.mp3?updated=1614811089"
             },
+            "entities": [
+                "Higinio Ochoa",
+                "http://mailchimp.com/replyall",
+                "one",
+                "http://digg.com/tag/reply-all",
+                "September of 2014",
+                "Next week",
+                "Austin",
+                "his",
+                "https://www.dropbox.com/business\nhttp://stamps.com",
+                "2015",
+                "Email Debt Forgiveness",
+                "he",
+                "Day"
+            ],
             "content:encodedSnippet": "When Higinio Ochoa got out of prison for hacking in September of 2014, one of the terms of his parole was that he is not allowed to use any internet connected device. We went to his home in Austin to find out how he got caught and what it's like - in 2015 - to go from living online to not having any internet access.\nNext week we celebrate Email Debt Forgiveness Day! Leave us a voicemail at (917) 475-6668 about your most anxiety inducing unanswered email. All will be forgiven, we promise. \nTo see a written version of this story, go to http://digg.com/tag/reply-all\nCheck out our sponsors!\nhttps://www.dropbox.com/business\nhttp://stamps.com (offer code reply)\nhttp://mailchimp.com/replyall (get a free freddy!)\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/202131021",
             "isoDate": "2015-04-20T01:00:00.000Z",
@@ -4071,6 +5426,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT7771689440.mp3?updated=1643934090"
             },
+            "entities": ["Email Debt Forgiveness", "two", "Day"],
             "content:encodedSnippet": "Yes Yes No returns, and the story of two people who created a company designed to ghostwrite people\u2019s emotionally difficult emails.\nDon\u2019t forget to participate in Email Debt Forgiveness Day! Leave us a voicemail at (917) 475-6668 about your most anxiety inducing unanswered email. All will be forgiven, we promise.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/201021868",
             "isoDate": "2015-04-13T01:00:00.000Z",
@@ -4093,6 +5449,23 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT4146139309.mp3?updated=1614810325"
             },
+            "entities": [
+                "week",
+                "one",
+                "Two years ago",
+                "www.itunes.com/replyall",
+                "digg.com",
+                "she",
+                "1",
+                "Marnie the Dog",
+                "1.2 million",
+                "Connecticut",
+                "now",
+                "Instagram",
+                "Email Debt Forgiveness",
+                "http://digg.com/2015/how-a-dog-goes-from-0-to-1-2-million-instagram-followers-in-a-year",
+                "Day"
+            ],
             "content:encodedSnippet": "Marnie the Dog is one of the most famous dogs on Instagram. Two years ago, she was near death at an animal shelter in Connecticut, now she has 1.2 million followers and hangs out with human celebrities.This week, we investigate the formula for internet dog fame, and look at how having a famous dog will completely upend your life.\nThanks for listening. Subscribe to the show at www.itunes.com/replyall, or anywhere else you listen to podcasts. Help us with Email Debt Forgiveness Day by telling us about your email anxieties! Leave a voicemail at 1 (917) 475-6668. Also, to see an article about this episode on digg.com with tons more cute dog content, go to http://digg.com/2015/how-a-dog-goes-from-0-to-1-2-million-instagram-followers-in-a-year\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/199936588",
             "isoDate": "2015-04-04T01:00:00.000Z",
@@ -4115,6 +5488,18 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT1782229482.mp3?updated=1614810254"
             },
+            "entities": [
+                "journalist",
+                "she",
+                "her",
+                "Jon Ronson",
+                "attack",
+                "author",
+                "Lindsey",
+                "2012",
+                "Lindsey Stone",
+                "A month later"
+            ],
             "content:encodedSnippet": "In 2012, a woman named Lindsey Stone posted a picture she took as a joke to her Facebook page. A month later, she was under attack from all corners of the internet, out of a job, hounded by the press. The internet had targeted her for a public shaming. Jon Ronson, journalist and author of the new book \"So You've Been Publicly Shamed\", walks us through Lindsey's story and introduces us to the sometimes sketchy world of online reputation management.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/198833495",
             "isoDate": "2015-03-29T01:00:00.000Z",
@@ -4137,6 +5522,12 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT6373264624.mp3?updated=1643934003"
             },
+            "entities": [
+                "1997",
+                "Backwoods Home Magazine",
+                "John Silveira",
+                "him"
+            ],
             "content:encodedSnippet": "In 1997, John Silveira wrote a joke classified ad in a tiny publication called Backwoods Home Magazine asking if anyone wanted to travel back in time with him. A lot of people took him seriously. What do you do when everyone wants you to fix the worst mistakes they've ever made.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/197700619",
             "isoDate": "2015-03-22T00:00:00.000Z",
@@ -4159,6 +5550,18 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT8397657778.mp3?updated=1614810136"
             },
+            "entities": [
+                "actor",
+                "Jonathan",
+                "Reese",
+                "now",
+                "40 years",
+                "Mason Reese",
+                "he",
+                "a few months ago",
+                "YouTube",
+                "Jonathan Goldstein"
+            ],
             "content:encodedSnippet": "For Jonathan Goldstein, YouTube offers endless nostalgia, but he always finds himself returning to the same subject - a precocious child actor from the early 70\u2019s named Mason Reese. And then a few months ago, new clips of Reese began popping up on YouTube. What's more, they appeared to be uploaded by Reese himself. Jonathan sets out to discover why - and why now, after 40 years.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/196589773",
             "isoDate": "2015-03-15T01:00:00.000Z",
@@ -4181,6 +5584,17 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT8677260464.mp3?updated=1614809783"
             },
+            "entities": [
+                "Blair Myhand",
+                "42,000",
+                "his",
+                "Myhand",
+                "NC",
+                "police officer",
+                "One",
+                "night",
+                "he"
+            ],
             "content:encodedSnippet": "Blair Myhand is a police officer in the sleepy, 42,000 person town of Apex, NC. One night, he received an unusually disturbing phone call where a person claimed to be holding a woman hostage after murdering several people. Myhand assembled his team, and went to the house, but what they ended up finding was much more bizarre.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/194299308",
             "isoDate": "2015-02-28T01:00:00.000Z",
@@ -4203,6 +5617,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT6340458262.mp3?updated=1614809759"
             },
+            "entities": ["saint", "Wikipedia"],
             "content:encodedSnippet": "A social media mistake for the record books, and a quiet saint of Wikipedia. \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/193085946",
             "isoDate": "2015-02-21T01:00:00.000Z",
@@ -4225,6 +5640,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT6036164557.mp3?updated=1643933901"
             },
+            "entities": ["her", "fifteen-year old", "60"],
             "content:encodedSnippet": "A woman starts dating again at 60 after her marriage falls apart. We follow her into a world of millionaire import/export moguls and fifteen-year old internet scammers.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/191872238",
             "isoDate": "2015-02-15T01:00:00.000Z",
@@ -4247,6 +5663,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5761684390.mp3?updated=1643933876"
             },
+            "entities": ["she", "her", "him"],
             "content:encodedSnippet": "What happens when a woman sends a stocky blond stranger to tell her ex she loves him. (Updated with a new interview!)\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/190683115",
             "isoDate": "2015-02-08T01:00:00.000Z",
@@ -4269,6 +5686,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT3557899897.mp3?updated=1643933845"
             },
+            "entities": ["one", "One", "Kardashian"],
             "content:encodedSnippet": "The entire internet decides to look at one famous butt at the same time. One man has to ensure that the website hosting Kardashian butt pictures doesn't crash. The sheer terror and joy of solving that problem. (Plus, a new Yes/Yes/No.) \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/189566019",
             "isoDate": "2015-02-01T01:00:00.000Z",
@@ -4291,6 +5709,14 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5195275467.mp3?updated=1614808725"
             },
+            "entities": [
+                "Decades",
+                "his",
+                "Errol",
+                "Errol Morris",
+                "Noel",
+                "he"
+            ],
             "content:encodedSnippet": "There was a lot that Errol Morris never knew about his brilliant, distant older brother Noel. Decades after Noel's death, Errol read an internet comment that said his brother had invented email. So he launched an investigation to find out if it was true.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/188420184",
             "isoDate": "2015-01-24T01:00:00.000Z",
@@ -4313,6 +5739,15 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT3729464097.mp3?updated=1643933789"
             },
+            "entities": [
+                "Carla Green",
+                "French",
+                "Producer",
+                "decades",
+                "reporter",
+                "$200",
+                "Jean-Marc Manach"
+            ],
             "content:encodedSnippet": "In the early 80's, way before the world wide web existed, the French government shipped a $200 terminal to every home with a phone line, and created a service that for decades ran alongside the internet. It was called The Minitel. Producer Carla Green speaks to reporter Jean-Marc Manach, who, in the early 90's, made a living posing as a woman in sex chat rooms on Minitel.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/187231371",
             "isoDate": "2015-01-18T01:00:00.000Z",
@@ -4335,6 +5770,12 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT4952699229.mp3?updated=1614808646"
             },
+            "entities": [
+                "New York",
+                "10-mile",
+                "Yik Yak",
+                "Colgate University"
+            ],
             "content:encodedSnippet": "Yik Yak is a an app that allows users to communicate anonymously with anyone within a 10-mile radius. At Colgate University in upstate New York, the anonymity brought out a particularly vicious strain of racism that shook the school.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/186102399",
             "isoDate": "2015-01-10T01:00:00.000Z",
@@ -4357,6 +5798,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT3835035821.mp3?updated=1614808609"
             },
+            "entities": ["his", "His", "Paul", "him", "Paul Ford"],
             "content:encodedSnippet": "Sometimes, on his way to work, a feeling of pressure begins thumping in Paul Ford\u2019s chest. His breaths shorten. They speed up. And sometimes, in those moments of extreme anxiety, Paul\u2019s phone talks to him. It tells him everything that\u2019s wrong with him.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/185096537",
             "isoDate": "2015-01-08T13:00:00.000Z",
@@ -4379,6 +5821,13 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT9420071792.mp3?updated=1643933686"
             },
+            "entities": [
+                "This week",
+                "A few years ago",
+                "longform.org",
+                "Derek Jeter",
+                "longform.com"
+            ],
             "content:encodedSnippet": "This week we enter the mysterious, Byzantine underworld of domain sales, where people make money speculating on the website naming market. A few years ago, the owners of the popular journalism website longform.org blundered into this world when they innocently tried to procure longform.com. In this episode, we find out about their misadventures, and we hear from the Derek Jeter of URL purchases.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/183982208",
             "isoDate": "2014-12-29T01:00:00.000Z",
@@ -4401,6 +5850,13 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT6561192141.mp3?updated=1643933657"
             },
+            "entities": [
+                "conspiracy",
+                "35-year old",
+                "film producer",
+                "Keith Calder",
+                "one"
+            ],
             "content:encodedSnippet": "Depending on who you ask, Keith Calder is either a 35-year old film producer, or one of the players in a vast international conspiracy designed to conceal the greatest love story never told.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/183060239",
             "isoDate": "2014-12-21T01:00:00.000Z",
@@ -4423,6 +5879,16 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT6431860932.mp3"
             },
+            "entities": [
+                "she",
+                "1996",
+                "her",
+                "Jennifer Ringley",
+                "Alex Goldman",
+                "one day",
+                "Jennicam.org",
+                "24/7"
+            ],
             "content:encodedSnippet": "In 1996 Jennifer Ringley started Jennicam.org, where she recorded and broadcast her entire life, 24/7. It made her famous. And then, one day, she disappeared from the internet entirely. What'd she figure out about the perils of living publicly before the rest of us did? Alex Goldman tracks her down.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/182021929",
             "isoDate": "2014-12-15T01:00:00.000Z",
@@ -4445,6 +5911,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5212159015.mp3?updated=1614808487"
             },
+            "entities": ["She", "This week", "Venmo", "Chiara Atik", "Writer"],
             "content:encodedSnippet": "Writer Chiara Atik has a hobby -- spying on the financial transactions of friends and strangers. She thinks that Venmo, more than any other social media site, is the place you can find actual, accidental truth online. This week we investigate that claim. \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/180955849",
             "isoDate": "2014-12-08T01:00:00.000Z",
@@ -4467,6 +5934,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT2117109866.mp3?updated=1643933568"
             },
+            "entities": ["Twenty years ago", "Ethan Zuckerman", "he"],
             "content:encodedSnippet": "Twenty years ago, Ethan Zuckerman did something terrible on the internet. And he's still living with the consequences.\n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/179851815",
             "isoDate": "2014-12-03T13:00:00.000Z",
@@ -4489,6 +5957,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT5626794585.mp3"
             },
+            "entities": ["One", "one", "Instagram"],
             "content:encodedSnippet": "An app called Figure One wants to be Instagram, but for doctors. Why would doctors need their own Instagram? We spy on the secret & disgusting medical internet, plus we speak to one of its residents. \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/178489631",
             "isoDate": "2014-11-24T13:00:00.000Z",
@@ -4511,6 +5980,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/GLT4726279763.mp3"
             },
+            "entities": ["she", "her", "him"],
             "content:encodedSnippet": "What happens when a woman sends a stocky blond stranger to tell her ex she loves him. \n \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
             "guid": "tag:soundcloud,2010:tracks/178485892",
             "isoDate": "2014-11-24T13:00:00.000Z",

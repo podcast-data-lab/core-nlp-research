@@ -45,6 +45,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-aurevoir/media.mp3"
             },
+            "entities": ["3", "404", "Digit@lement"],
             "link": "https://play.acast.com/s/studio-404/studio404-aurevoir",
             "guid": "5d0c1098719f61a47b293fb4",
             "isoDate": "2019-06-21T06:00:56.000Z",
@@ -66,6 +67,18 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-67-janvier2019-lesmillenials-lesmillenials-lesrobotsetlafrenchtech/media.mp3"
             },
+            "entities": [
+                "2019",
+                "Tech",
+                "Dans",
+                "French",
+                "Au",
+                "404",
+                "Ghislain",
+                "250",
+                "Sam",
+                "Janvier"
+            ],
             "link": "https://play.acast.com/s/studio-404/studio404-67-janvier2019-lesmillenials-lesmillenials-lesrobotsetlafrenchtech",
             "guid": "5c50d4e3c354c40967030992",
             "isoDate": "2019-01-30T06:00:58.000Z",
@@ -87,6 +100,19 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-66-decembre2018-404christmasspecial/media.mp3"
             },
+            "entities": [
+                "2019",
+                "Christmas",
+                "2017",
+                "Samora",
+                "Valley",
+                "La",
+                "Karen et Stéphane",
+                "404",
+                "Dans Ton Rade",
+                "Silicon",
+                "Cette"
+            ],
             "link": "https://play.acast.com/s/studio-404/studio404-66-decembre2018-404christmasspecial",
             "guid": "5c1abd9d2454abe07e02aa43",
             "isoDate": "2018-12-20T07:00:09.000Z",
@@ -108,6 +134,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-65-novembre2018-leco-living-lafinduscoring-leshouldersurfingetlesafe-spacing/media.mp3"
             },
+            "entities": ["Au", "Nicoling", "404"],
             "link": "https://play.acast.com/s/studio-404/studio404-65-novembre2018-leco-living-lafinduscoring-leshouldersurfingetlesafe-spacing",
             "guid": "5bfc6eae690503213d3db1ac",
             "isoDate": "2018-11-27T07:00:12.000Z",
@@ -129,6 +156,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-64-octobre2018-studio404xsurfrider/media.mp3"
             },
+            "entities": ["#64", "Au", "4", "Europe", "404", "64"],
             "link": "https://play.acast.com/s/studio-404/studio404-64-octobre2018-studio404xsurfrider",
             "guid": "5bc3af025840c11d736078eb",
             "isoDate": "2018-10-15T05:30:53.000Z",
@@ -150,6 +178,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-63-septembre2018-googleetlaville-lefree-floating-scannerpourmieuxmanger-tousespions/media.mp3"
             },
+            "entities": ["SEPT", "Au", "404", "Quand Google"],
             "link": "https://play.acast.com/s/studio-404/studio404-63-septembre2018-googleetlaville-lefree-floating-scannerpourmieuxmanger-tousespions",
             "guid": "5ba6caec2ee387243268b9b0",
             "isoDate": "2018-09-24T05:00:07.000Z",
@@ -171,6 +200,16 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-62-juillaout2018-404summerspecial/media.mp3"
             },
+            "entities": [
+                "Jasmine Autier",
+                "Dans",
+                "#55",
+                "4",
+                "Miko",
+                "Jean-Xavier Arobasian",
+                "Loïc Barbier",
+                "404"
+            ],
             "link": "https://play.acast.com/s/studio-404/studio404-62-juillaout2018-404summerspecial",
             "guid": "5b830cdf32806ecc6a5e0894",
             "isoDate": "2018-08-27T05:30:16.000Z",
@@ -192,6 +231,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-61-juin2018-earlyadoption-villesfantomesduweb-enquetesurlesreseauxetgigeconomy2/media.mp3"
             },
+            "entities": ["2016", "404", "Internet", "61", "40"],
             "link": "https://play.acast.com/s/studio-404/studio404-61-juin2018-earlyadoption-villesfantomesduweb-enquetesurlesreseauxetgigeconomy2",
             "guid": "5b2bad1b649115bf6e137288",
             "isoDate": "2018-06-22T06:00:05.000Z",
@@ -213,6 +253,15 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-60-mai2018-voixdia-rgpd-communitymanagementetinfluenceusesvirtuelles/media.mp3"
             },
+            "entities": [
+                "forum.dequaliter.com",
+                "Mai",
+                "manager",
+                "IA",
+                "404",
+                "Nous",
+                "60"
+            ],
             "link": "https://play.acast.com/s/studio-404/studio404-60-mai2018-voixdia-rgpd-communitymanagementetinfluenceusesvirtuelles",
             "guid": "5b100ad90372226f4661c6d1",
             "isoDate": "2018-05-31T15:00:36.000Z",
@@ -234,6 +283,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-59-avril2018-morningroutine-communaute-attentionetfindinternet/media.mp3"
             },
+            "entities": ["2018", "404", "Internet", "morning"],
             "link": "https://play.acast.com/s/studio-404/studio404-59-avril2018-morningroutine-communaute-attentionetfindinternet",
             "guid": "5ae1ed273dac0d943363cffe",
             "isoDate": "2018-04-26T16:00:00.000Z",
@@ -255,6 +305,14 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-58-mars2018-emissionspecialemobilite/media.mp3"
             },
+            "entities": [
+                "Model",
+                "404",
+                "@Misterboxthebox",
+                "Viens",
+                "@Monsieurboite",
+                "@Monsieurbox"
+            ],
             "link": "https://play.acast.com/s/studio-404/studio404-58-mars2018-emissionspecialemobilite",
             "guid": "5abd61acdd30d7a452caa924",
             "isoDate": "2018-03-30T05:00:00.000Z",
@@ -276,6 +334,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-57-fevrier2018-chine-cloud-mailetprison/media.mp3"
             },
+            "entities": ["four", "404", "Paris"],
             "link": "https://play.acast.com/s/studio-404/studio404-57-fevrier2018-chine-cloud-mailetprison",
             "guid": "5a9524277d67930b0781145d",
             "isoDate": "2018-02-27T10:15:16.000Z",
@@ -297,6 +356,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/unebellerencontre-studiodetente/media.mp3"
             },
+            "entities": ["404", "premier", "Henry"],
             "link": "https://play.acast.com/s/studio-404/unebellerencontre-studiodetente",
             "guid": "5a80df9f9c83db4745794945",
             "isoDate": "2018-02-12T10:00:00.000Z",
@@ -318,6 +378,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-56-janvier2018-livealille/media.mp3"
             },
+            "entities": ["2018", "Lille", "www.patreon.com/qualiter"],
             "link": "https://play.acast.com/s/studio-404/studio404-56-janvier2018-livealille",
             "guid": "5a6ecc53a3ef60fb619a3101",
             "isoDate": "2018-01-29T09:46:56.000Z",
@@ -339,6 +400,16 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-55-decembre2017-404christmasspecial/media.mp3"
             },
+            "entities": [
+                "Melissa",
+                "Dans",
+                "2018",
+                "Valley",
+                "Silicon",
+                "Ghislain",
+                "Daz",
+                "Quentin"
+            ],
             "link": "https://play.acast.com/s/studio-404/studio404-55-decembre2017-404christmasspecial",
             "guid": "5a3fdcc3bd483dcc52390025",
             "isoDate": "2017-12-25T09:00:00.000Z",
@@ -360,6 +431,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-54-novembre2017-emissionspeciale-/media.mp3"
             },
+            "entities": ["Mort", "www.patreon.com/qualiter"],
             "link": "https://play.acast.com/s/studio-404/studio404-54-novembre2017-emissionspeciale-",
             "guid": "5a16db0d622e95701844d726",
             "isoDate": "2017-11-27T06:00:00.000Z",
@@ -381,6 +453,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-53-octobre2017-googlehome-cashlesssociety-growthhacking-culturesiliconvalley/media.mp3"
             },
+            "entities": ["2017", "Valley", "Silicon", "Hacker", "Sylvain"],
             "link": "https://play.acast.com/s/studio-404/studio404-53-octobre2017-googlehome-cashlesssociety-growthhacking-culturesiliconvalley",
             "guid": "59ef88bd6a56eba371b694df",
             "isoDate": "2017-10-27T10:01:00.000Z",
@@ -402,6 +475,16 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-52-septembre2017-cestlarentree-emissionclassique/media.mp3"
             },
+            "entities": [
+                "Melissa",
+                "1",
+                "OU",
+                "404",
+                "0/33",
+                "Fourberie",
+                "Cette",
+                "10"
+            ],
             "link": "https://play.acast.com/s/studio-404/studio404-52-septembre2017-cestlarentree-emissionclassique",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Septembre2017.mp3",
             "isoDate": "2017-09-26T10:00:00.000Z",
@@ -423,6 +506,15 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-51-juillaout2017-emissionspecialepost-qamp/media.mp3"
             },
+            "entities": [
+                "Mélissa",
+                "France",
+                "Daz",
+                "Cette",
+                "Tous",
+                "Sylvain",
+                "www.patreon.com/qualiter"
+            ],
             "link": "https://play.acast.com/s/studio-404/studio404-51-juillaout2017-emissionspecialepost-qamp",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Juillet2017_v2.mp3",
             "isoDate": "2017-08-04T22:30:00.000Z",
@@ -444,6 +536,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-50-juin2017-emission50-lemissiondelamaturiter/media.mp3"
             },
+            "entities": ["Melissa", "404", "50", "150", "Sylvain"],
             "link": "https://play.acast.com/s/studio-404/studio404-50-juin2017-emission50-lemissiondelamaturiter",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Juin2017.mp3",
             "isoDate": "2017-06-29T00:30:00.000Z",
@@ -465,6 +558,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-49-mai2017-presidentielles-legranddebat404/media.mp3"
             },
+            "entities": ["Dans", "49", "404", "2022"],
             "link": "https://play.acast.com/s/studio-404/studio404-49-mai2017-presidentielles-legranddebat404",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Mai2017.mp3",
             "isoDate": "2017-05-22T00:30:00.000Z",
@@ -486,6 +580,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-48-avril2017-jeuvideoarty-ecouteacceleree-streamingettranshumanisme/media.mp3"
             },
+            "entities": ["Melissa", "director", "Daz"],
             "link": "https://play.acast.com/s/studio-404/studio404-48-avril2017-jeuvideoarty-ecouteacceleree-streamingettranshumanisme",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Avril2017.mp3",
             "isoDate": "2017-04-25T07:00:00.000Z",
@@ -507,6 +602,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-47-mars2017-poopculture-crowdfunding-ponctuationetslacktivisme/media.mp3"
             },
+            "entities": ["Melissa", "La", "Daz", "Sylvain"],
             "link": "https://play.acast.com/s/studio-404/studio404-47-mars2017-poopculture-crowdfunding-ponctuationetslacktivisme",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Mars2017.mp3",
             "isoDate": "2017-03-28T20:00:00.000Z",
@@ -528,6 +624,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-46-fevrier2017-hackingdelattention-multijoueurcanape-qualifiedselfeteducationnationale/media.mp3"
             },
+            "entities": ["Melissa", "hacker", "Daz", "Sylvain"],
             "link": "https://play.acast.com/s/studio-404/studio404-46-fevrier2017-hackingdelattention-multijoueurcanape-qualifiedselfeteducationnationale",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Fevrier2017.mp3",
             "isoDate": "2017-02-21T08:00:00.000Z",
@@ -549,6 +646,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-45-janvier2017-emissionpredictions/media.mp3"
             },
+            "entities": ["404", "20"],
             "link": "https://play.acast.com/s/studio-404/studio404-45-janvier2017-emissionpredictions",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Janvier2017.mp3",
             "isoDate": "2017-01-17T02:00:00.000Z",
@@ -570,6 +668,15 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-44-decembre2016-lenoeldespodcasts-saison2/media.mp3"
             },
+            "entities": [
+                "13",
+                "2",
+                "25",
+                "3",
+                "Le Rendez-vous Tech",
+                "Heures De Perdues",
+                "Nouvelles Ecoutes"
+            ],
             "link": "https://play.acast.com/s/studio-404/studio404-44-decembre2016-lenoeldespodcasts-saison2",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Decembre2016.mp3",
             "isoDate": "2016-12-25T01:00:00.000Z",
@@ -591,6 +698,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-43-novembre2016-post-elections-bullefiltrante-tes-scrutin2.0/media.mp3"
             },
+            "entities": ["Melissa", "Marine", "2017", "2.0", "Daz", "mon"],
             "link": "https://play.acast.com/s/studio-404/studio404-43-novembre2016-post-elections-bullefiltrante-tes-scrutin2.0",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Novembre2016.mp3",
             "isoDate": "2016-11-29T17:00:00.000Z",
@@ -612,6 +720,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-42-octobre2016-emissionspecialestalking/media.mp3"
             },
+            "entities": ["Melissa", "Stalking", "guide", "Sylvain"],
             "link": "https://play.acast.com/s/studio-404/studio404-42-octobre2016-emissionspecialestalking",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Octobre2016.mp3",
             "isoDate": "2016-10-25T08:00:00.000Z",
@@ -633,6 +742,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-41-septembre2016-monstresvirtuels-detressedulike-musiciensdevs-airspace/media.mp3"
             },
+            "entities": ["Melissa", "Daz"],
             "link": "https://play.acast.com/s/studio-404/studio404-41-septembre2016-monstresvirtuels-detressedulike-musiciensdevs-airspace",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Septembre2016.mp3",
             "isoDate": "2016-09-26T08:00:00.000Z",
@@ -654,6 +764,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-40-juin2016-webdecentralise-devices-modeavion-transhumanisme/media.mp3"
             },
+            "entities": [],
             "link": "https://play.acast.com/s/studio-404/studio404-40-juin2016-webdecentralise-devices-modeavion-transhumanisme",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Juin2016.mp3",
             "isoDate": "2016-06-23T00:00:00.000Z",
@@ -675,6 +786,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-39-mai2016-qualiter-periscope-pseudos-medium-petitsjobs/media.mp3"
             },
+            "entities": [],
             "link": "https://play.acast.com/s/studio-404/studio404-39-mai2016-qualiter-periscope-pseudos-medium-petitsjobs",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Mai2016.mp3",
             "isoDate": "2016-05-14T07:00:00.000Z",
@@ -696,6 +808,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-38-avril2016-emissionspecialeyoutubersaveccyprien/media.mp3"
             },
+            "entities": ["Cyprien"],
             "link": "https://play.acast.com/s/studio-404/studio404-38-avril2016-emissionspecialeyoutubersaveccyprien",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Avril2016.mp3",
             "isoDate": "2016-04-14T07:00:00.000Z",
@@ -717,6 +830,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-37-mars2016-elegance-gamification-autonomie-materialisme/media.mp3"
             },
+            "entities": ["Melissa"],
             "link": "https://play.acast.com/s/studio-404/studio404-37-mars2016-elegance-gamification-autonomie-materialisme",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Mars2016.mp3",
             "isoDate": "2016-03-29T07:00:00.000Z",
@@ -738,6 +852,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-fevrier2016-emissionspecialediscussions/media.mp3"
             },
+            "entities": ["Melissa", "IA", "Internet", "Daz"],
             "link": "https://play.acast.com/s/studio-404/studio404-fevrier2016-emissionspecialediscussions",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Fevrier2016.mp3",
             "isoDate": "2016-02-29T07:00:00.000Z",
@@ -759,6 +874,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-janvier2016-snapchat-notation-verite-gooqlecar/media.mp3"
             },
+            "entities": ["Melissa", "La", "Daz", "Mon", "Sylvain", "10"],
             "link": "https://play.acast.com/s/studio-404/studio404-janvier2016-snapchat-notation-verite-gooqlecar",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Janvier2016.mp3",
             "isoDate": "2016-01-20T07:00:00.000Z",
@@ -780,6 +896,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-decembre2015-lenoeldespodcasts/media.mp3"
             },
+            "entities": ["2015"],
             "link": "https://play.acast.com/s/studio-404/studio404-decembre2015-lenoeldespodcasts",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Decembre2015.mp3",
             "isoDate": "2015-11-26T07:00:00.000Z",
@@ -801,6 +918,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-novembre2015-lafranceetinternetapreslesattentatsdu13novembre/media.mp3"
             },
+            "entities": ["13", "La", "France"],
             "link": "https://play.acast.com/s/studio-404/studio404-novembre2015-lafranceetinternetapreslesattentatsdu13novembre",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Novembre2015.mp3",
             "isoDate": "2015-11-26T07:00:00.000Z",
@@ -822,6 +940,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-octobre2015-linkedin-onglets-foietplagiat/media.mp3"
             },
+            "entities": ["Linkedin", "Foi"],
             "link": "https://play.acast.com/s/studio-404/studio404-octobre2015-linkedin-onglets-foietplagiat",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Octobre2015.mp3",
             "isoDate": "2015-10-27T07:00:00.000Z",
@@ -843,6 +962,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-septembre2015indignement/media.mp3"
             },
+            "entities": ["Uber", "Rentree"],
             "link": "https://play.acast.com/s/studio-404/studio404-septembre2015indignement",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Septembre2015.mp3",
             "isoDate": "2015-09-29T07:00:00.000Z",
@@ -864,6 +984,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-juin2015specialsexeetsummeroflove/media.mp3"
             },
+            "entities": [],
             "link": "https://play.acast.com/s/studio-404/studio404-juin2015specialsexeetsummeroflove",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Juin2015.mp3",
             "isoDate": "2015-06-22T07:00:00.000Z",
@@ -885,6 +1006,9 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-mai2015azertyrannie-notifications-commentateurs-imprimerinternet/media.mp3"
             },
+            "entities": [
+                "Azertyrannie / Notifications / Commentateurs / Imprimer"
+            ],
             "link": "https://play.acast.com/s/studio-404/studio404-mai2015azertyrannie-notifications-commentateurs-imprimerinternet",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Mai2015.mp3",
             "isoDate": "2015-06-01T07:00:00.000Z",
@@ -906,6 +1030,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-avril2015competences-deconnectionistes-specsetpjlrenseignement/media.mp3"
             },
+            "entities": [],
             "link": "https://play.acast.com/s/studio-404/studio404-avril2015competences-deconnectionistes-specsetpjlrenseignement",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Avril2015.mp3",
             "isoDate": "2015-04-20T07:00:00.000Z",
@@ -927,6 +1052,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-mars2015vrenvrai-fanfics-fnsurlenet-pcmasterrace/media.mp3"
             },
+            "entities": ["FN"],
             "link": "https://play.acast.com/s/studio-404/studio404-mars2015vrenvrai-fanfics-fnsurlenet-pcmasterrace",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Mars2015.mp3",
             "isoDate": "2015-04-01T07:00:00.000Z",
@@ -948,6 +1074,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-fevrier2015complots-elitedangerous-coachingpolitique-startupcools/media.mp3"
             },
+            "entities": ["Coaching Politique"],
             "link": "https://play.acast.com/s/studio-404/studio404-fevrier2015complots-elitedangerous-coachingpolitique-startupcools",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Fevrier2015.mp3",
             "isoDate": "2015-02-21T07:00:00.000Z",
@@ -969,6 +1096,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-janvier2015grandsmedias-vieillissementdesobjets-surveillanceinternetetloadings/media.mp3"
             },
+            "entities": [],
             "link": "https://play.acast.com/s/studio-404/studio404-janvier2015grandsmedias-vieillissementdesobjets-surveillanceinternetetloadings",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Janvier2015.mp3",
             "isoDate": "2015-01-27T07:00:00.000Z",
@@ -990,6 +1118,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-decembre2014hate-reading-forums-jargoninternet-feministe-uber/media.mp3"
             },
+            "entities": [],
             "link": "https://play.acast.com/s/studio-404/studio404-decembre2014hate-reading-forums-jargoninternet-feministe-uber",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Decembre2014.mp3",
             "isoDate": "2014-12-15T07:00:00.000Z",
@@ -1011,6 +1140,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-novembre2014f2p-webdeloubli-robotstwitteurs-adblock/media.mp3"
             },
+            "entities": [],
             "link": "https://play.acast.com/s/studio-404/studio404-novembre2014f2p-webdeloubli-robotstwitteurs-adblock",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Novembre2014.mp3",
             "isoDate": "2014-12-01T07:00:00.000Z",
@@ -1032,6 +1162,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-octobre2014ruralite-transmedia-ellolesamis-etsimulations/media.mp3"
             },
+            "entities": ["Simulations", "Transmedia", "Ello"],
             "link": "https://play.acast.com/s/studio-404/studio404-octobre2014ruralite-transmedia-ellolesamis-etsimulations",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Octobre2014.mp3",
             "isoDate": "2014-10-13T07:00:00.000Z",
@@ -1053,6 +1184,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-septembre2014appanti-leak-villageglobal-heritageinternet-misogynie/media.mp3"
             },
+            "entities": [],
             "link": "https://play.acast.com/s/studio-404/studio404-septembre2014appanti-leak-villageglobal-heritageinternet-misogynie",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Septembre2014.mp3",
             "isoDate": "2014-09-09T07:00:00.000Z",
@@ -1074,6 +1206,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-juin2014avecpourinvitevinvin-emissionendirectdepuislagaitelyrique/media.mp3"
             },
+            "entities": [],
             "link": "https://play.acast.com/s/studio-404/studio404-juin2014avecpourinvitevinvin-emissionendirectdepuislagaitelyrique",
             "guid": "http://podcasts.dequaliter.com/Studio404/404etVous_Juin2014.mp3",
             "isoDate": "2014-06-16T07:00:00.000Z",
@@ -1095,6 +1228,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-mai2014partie2avecpourinviteepenelopebagieu-emissionendirectdepuislagaitelyrique/media.mp3"
             },
+            "entities": ["Savoir", "Facebook"],
             "link": "https://play.acast.com/s/studio-404/studio404-mai2014partie2avecpourinviteepenelopebagieu-emissionendirectdepuislagaitelyrique",
             "guid": "http://podcasts.dequaliter.com/Studio404/404etVousMai2014_Part2.mp3",
             "isoDate": "2014-06-05T07:00:00.000Z",
@@ -1116,6 +1250,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-mai2014partie1avecpourinviteepenelopebagieu-emissionendirectdepuislagaitelyrique/media.mp3"
             },
+            "entities": ["Savoir", "Facebook"],
             "link": "https://play.acast.com/s/studio-404/studio404-mai2014partie1avecpourinviteepenelopebagieu-emissionendirectdepuislagaitelyrique",
             "guid": "http://podcasts.dequaliter.com/Studio404/404etVousMai2014_Part1.mp3",
             "isoDate": "2014-06-05T07:00:00.000Z",
@@ -1136,6 +1271,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-4-14saga-cyberespace-montage-motsdepasse/media.mp3"
             },
+            "entities": [],
             "link": "https://play.acast.com/s/studio-404/studio404-4-14saga-cyberespace-montage-motsdepasse",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Avril2014.mp3",
             "isoDate": "2014-04-28T01:00:00.000Z",
@@ -1156,6 +1292,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-avril2014-emissionendirectdepuislagaitelyrique/media.mp3"
             },
+            "entities": [],
             "link": "https://play.acast.com/s/studio-404/studio404-avril2014-emissionendirectdepuislagaitelyrique",
             "guid": "http://podcasts.dequaliter.com/Studio404/404etVous_Avril2014.mp3",
             "isoDate": "2014-04-15T07:00:00.000Z",
@@ -1176,6 +1313,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-mars2014-emissionendirectdepuislagaitelyrique/media.mp3"
             },
+            "entities": [],
             "link": "https://play.acast.com/s/studio-404/studio404-mars2014-emissionendirectdepuislagaitelyrique",
             "guid": "http://podcasts.dequaliter.com/Studio404/404etVous_Mars2014.mp3",
             "isoDate": "2014-03-24T07:00:00.000Z",
@@ -1197,6 +1335,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-fevrier2014-pseudonymat-windowscool-loietmorale-webchinois/media.mp3"
             },
+            "entities": [],
             "link": "https://play.acast.com/s/studio-404/studio404-fevrier2014-pseudonymat-windowscool-loietmorale-webchinois",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Fevrier2014.mp3",
             "isoDate": "2014-02-14T07:00:00.000Z",
@@ -1218,6 +1357,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-janvier2014-pixels-dataviz-bd-twitchettechnosmettables/media.mp3"
             },
+            "entities": [],
             "link": "https://play.acast.com/s/studio-404/studio404-janvier2014-pixels-dataviz-bd-twitchettechnosmettables",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Janvier2014.mp3",
             "isoDate": "2014-01-16T07:00:00.000Z",
@@ -1238,6 +1378,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-decembre2013-specialnoel/media.mp3"
             },
+            "entities": ["Decembre"],
             "link": "https://play.acast.com/s/studio-404/studio404-decembre2013-specialnoel",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Decembre2013.mp3",
             "isoDate": "2013-12-16T07:00:00.000Z",
@@ -1258,6 +1399,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-novembre2013-gamersreacs-old-selfie-telechargements/media.mp3"
             },
+            "entities": [],
             "link": "https://play.acast.com/s/studio-404/studio404-novembre2013-gamersreacs-old-selfie-telechargements",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Novembre2013.mp3",
             "isoDate": "2013-11-13T07:00:00.000Z",
@@ -1279,6 +1421,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-octobre2013-specialeadossurinternet/media.mp3"
             },
+            "entities": ["PEGI", "14", "50"],
             "link": "https://play.acast.com/s/studio-404/studio404-octobre2013-specialeadossurinternet",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Octobre2013.mp3",
             "isoDate": "2013-10-09T07:00:00.000Z",
@@ -1299,6 +1442,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-septembre2013-specialevacancesetrentree/media.mp3"
             },
+            "entities": ["Instagram"],
             "link": "https://play.acast.com/s/studio-404/studio404-septembre2013-specialevacancesetrentree",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Septembre2013.mp3",
             "isoDate": "2013-09-04T07:00:00.000Z",
@@ -1320,6 +1464,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-mai2013-presseetclics-esthetiquedelappli-ladefaitedulibre-generationsav/media.mp3"
             },
+            "entities": ["Google"],
             "link": "https://play.acast.com/s/studio-404/studio404-mai2013-presseetclics-esthetiquedelappli-ladefaitedulibre-generationsav",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Mai2013.mp3",
             "isoDate": "2013-05-21T18:00:00.000Z",
@@ -1340,6 +1485,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-avril2013-specialecommunication-commentlenumeriquemodifienoscomportements/media.mp3"
             },
+            "entities": ["404"],
             "link": "https://play.acast.com/s/studio-404/studio404-avril2013-specialecommunication-commentlenumeriquemodifienoscomportements",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_avril.mp3",
             "isoDate": "2013-04-16T18:00:00.000Z",
@@ -1361,6 +1507,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-mars2013-depirateapayeur-attentionwhores-googleglass-lesstatistiquesquiguidentnosvies/media.mp3"
             },
+            "entities": ["pirate"],
             "link": "https://play.acast.com/s/studio-404/studio404-mars2013-depirateapayeur-attentionwhores-googleglass-lesstatistiquesquiguidentnosvies",
             "guid": "http://podcasts.dequaliter.com/Studio404/studio404_mars.mp3",
             "isoDate": "2013-03-13T00:00:00.000Z",
@@ -1382,6 +1529,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-fevrier2013-specialesexualiteetculturenumerique-/media.mp3"
             },
+            "entities": [],
             "link": "https://play.acast.com/s/studio-404/studio404-fevrier2013-specialesexualiteetculturenumerique-",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404-fevrier.mp3",
             "isoDate": "2013-02-14T00:00:00.000Z",
@@ -1402,6 +1550,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-janvier2013-stalking-googlelegentilgeant-lasciencecool-youtube-tvdufutur-/media.mp3"
             },
+            "entities": ["Google", "Youtube"],
             "link": "https://play.acast.com/s/studio-404/studio404-janvier2013-stalking-googlelegentilgeant-lasciencecool-youtube-tvdufutur-",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Janvier2013.mp3",
             "isoDate": "2013-01-16T10:00:00.000Z",
@@ -1422,6 +1571,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-decembre2012-googleetlapressepapier-cyberflaneren2012-lawii-u-free-notorieteinternetetnotorietereelle-/media.mp3"
             },
+            "entities": ["Google", "2012"],
             "link": "https://play.acast.com/s/studio-404/studio404-decembre2012-googleetlapressepapier-cyberflaneren2012-lawii-u-free-notorieteinternetetnotorietereelle-",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Decembre2012.mp3",
             "isoDate": "2012-12-11T10:00:00.000Z",
@@ -1443,6 +1593,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-novembre2012-lapolitessenumerique-facebook-jeuxvideos-free-lesjusticiersdinternet/media.mp3"
             },
+            "entities": [],
             "link": "https://play.acast.com/s/studio-404/studio404-novembre2012-lapolitessenumerique-facebook-jeuxvideos-free-lesjusticiersdinternet",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_Novembre2012.mp3",
             "isoDate": "2012-11-13T10:00:00.000Z",
@@ -1464,6 +1615,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/studio-404/studio404-octobre2012-solitude-tempsreel-celebritesonline-francehigh-techetblogueusesmode/media.mp3"
             },
+            "entities": ["France"],
             "link": "https://play.acast.com/s/studio-404/studio404-octobre2012-solitude-tempsreel-celebritesonline-francehigh-techetblogueusesmode",
             "guid": "http://podcasts.dequaliter.com/Studio404/Studio404_1.mp3",
             "isoDate": "2012-10-15T10:00:00.000Z",

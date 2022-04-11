@@ -53,6 +53,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/50293513/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-8%2F7071577e-ceb4-e593-1bee-4fc90066d33b.mp3"
             },
+            "entities": ["today", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/154---Kuoga-Na-Karudi-Soko-e1gtba9",
             "guid": "c68a363e-c8ab-4bba-ac3d-3ab063b9040c",
@@ -75,6 +76,15 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/50093627/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-4%2F87b33c1f-c91f-4971-73cf-e565f493dd5a.mp3"
             },
+            "entities": [
+                "Nairobi",
+                "Calvin",
+                "the weekend",
+                "today",
+                "https://anchor.fm/conrad-gray4/support",
+                "Dubai",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/114---Wait--Who-Won-The-Reggae-Grammy----The-Monday-Minisode-e1gn83r",
             "guid": "7bd98ad3-0544-4511-80a5-6ef1a39d21e8",
@@ -97,6 +107,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/49939049/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-1%2F01126d9f-adbc-6a67-1f55-f56e69921627.mp3"
             },
+            "entities": [
+                "Oscars",
+                "fall",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/153---Stay-Slapped-e1gih59",
             "guid": "0a4ad3aa-521a-4f03-9732-a9cecff8cc05",
@@ -119,6 +135,17 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/49736154/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-28%2F586a0bfe-4612-ba78-ac8c-b6eec73c3830.mp3"
             },
+            "entities": [
+                "This week",
+                "Nakuru",
+                "Will Smith",
+                "Monday",
+                "once",
+                "https://anchor.fm/conrad-gray4/support",
+                "weekly",
+                "Minisode",
+                "Chris Rock"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/113---Fight-Club----The-Monday-Minisode-e1gcb0q",
             "guid": "6447d384-51b0-4924-8434-e5201f17fc11",
@@ -141,6 +168,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/49584132/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-25%2F181fbc91-777d-903f-07de-0c363b43f6a1.mp3"
             },
+            "entities": ["today", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/152---Rich-Family--Broke-You-e1g7mi4",
             "guid": "4de08c3f-775a-4e62-8197-cfc7cca89c97",
@@ -163,6 +191,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/49390729/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-21%2Fe57919e1-e566-363a-0c1b-018e944ee02a.mp3"
             },
+            "entities": [
+                "Calvin",
+                "https://anchor.fm/conrad-gray4/support",
+                "he",
+                "Karura"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/112---Call-Her-Right-Now---The-Monday-Minisode-e1g1pm9",
             "guid": "7595a6f2-d74e-4dcf-895f-6abbe92d963e",
@@ -185,6 +219,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/49230990/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-18%2F1bf113ce-ad38-0cff-76a5-ca451791829c.mp3"
             },
+            "entities": ["today", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/151---Love-Is-So-Simple-----When-Youre-Broke-e1fstme",
             "guid": "a8b5f3d3-45af-4cf8-9253-7bc2a281e5bf",
@@ -207,6 +242,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/49040491/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-14%2F1b4b0f44-fa45-8434-484e-d2723afc109f.mp3"
             },
+            "entities": [
+                "3 years",
+                "Kenya",
+                "https://anchor.fm/conrad-gray4/support",
+                "Mics Are Open"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/111---My-Swimming-Pool-Is-Bigger-Than-Yours----The-Monday-Minisode-e1fn3lb",
             "guid": "c8b9034e-46c8-4cd6-96b0-b78ac4c5aac6",
@@ -229,6 +270,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/48885097/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-11%2Fea701332-2ab4-e09c-5e9d-ffdc0820e287.mp3"
             },
+            "entities": ["3", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/150---No-Androids-Here-e1fibt9",
             "guid": "daad8d8d-aef6-4582-868b-832bc54513c9",
@@ -251,6 +293,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/48796048/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-9%2F6e4d3083-33bb-d714-734a-3bfb71b5efa0.mp3"
             },
+            "entities": [
+                "69",
+                "March 20",
+                "https://docs.google.com/forms/d/e/1FAIpQLSeGj6NL-mrr3oqLYAIpXkcOT1QGvQ70i0M4Wv4RwbtVr2kuvA/viewform",
+                "https://anchor.fm/conrad-gray4/support",
+                "Mics Are Open"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/110---Women-Love-Men-who-Podcast--They-Just-Dont-Know-How-to-Show-It-----The-Wheneversode-e1ffkug",
             "guid": "9e00e4b7-1649-4611-bb19-b9d7777e87ff",
@@ -273,6 +322,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/48531726/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-4%2F437c699c-2506-3bdc-61ed-ecafb8ec2903.mp3"
             },
+            "entities": [
+                "Open Mics",
+                "this week",
+                "today",
+                "Kanye Documentary",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/149---Do-You-Really-Want-It-e1f7iqe",
             "guid": "9ea3c06a-0e7c-48fd-8696-9066a4de6cff",
@@ -295,6 +351,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/48394943/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-1%2F129b11a3-5d93-01de-d23a-48e061e7ee35.mp3"
             },
+            "entities": ["https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/109---The-Last-Ever-Monday-Minisode---The-Monday-Minisode-e1f3d7v",
             "guid": "ffed7fb2-238e-4613-a5fd-809911b5c971",
@@ -317,6 +374,15 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/48189233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-25%2F17e80654-1a17-9d19-c2f6-9bc952d0c98a.mp3"
             },
+            "entities": [
+                "3",
+                "Andrew",
+                "one",
+                "War",
+                "Putin",
+                "World",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/148---You-Buy-Strangers-Drinks--What-About-Us-e1et4bh",
             "guid": "2b91c2fd-9179-4228-b0d0-a10bcb153ee9",
@@ -339,6 +405,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/47985693/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-21%2Feea44a96-0221-c251-a761-4a4d3cd8ef6d.mp3"
             },
+            "entities": [
+                "Calvin",
+                "his",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/108---G--Tell-Us-Who-Snitched------The-Monday-Minisode-e1emtit",
             "guid": "d08dc5fb-942c-4e2b-98b1-544386958cc9",
@@ -361,6 +433,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/47840342/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-18%2F35970945-d472-c93a-2681-611ff16ba4d6.mp3"
             },
+            "entities": [
+                "today",
+                "count",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/147---Your-Bodycount-Is-6--Let-Me-Be-7-e1eifkm",
             "guid": "02ece75a-bb8a-4818-bb3d-19a8887c0489",
@@ -383,6 +460,10 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/47650758/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-14%2Fcece6b74-d3c4-fc03-70f7-01ee271d8b1a.mp3"
             },
+            "entities": [
+                "https://anchor.fm/conrad-gray4/support",
+                "Valentine's Day"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/107---Valentines-is-coming--where-is-your-Podcast----The-Monday-Minisode-e1ecmg6",
             "guid": "e43d71dd-65d4-44b6-8ceb-03e58a7f33dd",
@@ -405,6 +486,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/47499850/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-11%2Fd29717a2-c04e-eb55-05ab-b1bdf40f4575.mp3"
             },
+            "entities": ["Netflix", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/146---The-Price-Of-Trust-Tinder-Swindler-e1e834a",
             "guid": "0090cb36-5482-4ae0-b90c-77917b01f017",
@@ -427,6 +509,7 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/47377192/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-8%2F246861502-44100-2-daf9bd3a10af2.m4a"
             },
+            "entities": ["https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/106---The-Quickest-Quickie---The-Monday-Minisode-e1e4bb8",
             "guid": "ffc2e0e6-a573-4340-b646-b4d088e811c2",
@@ -449,6 +532,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/47101398/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-3%2F3fbc8d3e-ca60-285e-ac97-703496c1f099.mp3"
             },
+            "entities": [
+                "her",
+                "https://anchor.fm/conrad-gray4/support",
+                "this weeks"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/145---Shes-Out-Of-Your-League-Bruh-e1dru0m",
             "guid": "a1add266-0e0c-43c7-b305-1dd6b760d3db",
@@ -471,6 +559,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/47015484/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-1%2Fb2926f44-7206-8872-497b-b117a488ee98.mp3"
             },
+            "entities": [
+                "Rihanna",
+                "https://anchor.fm/conrad-gray4/support",
+                "Mauritius"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/105---Calvin-Loves-Rihanna-----The-Monday-Minisode-e1dpa3s",
             "guid": "cdb037c1-8364-4d8e-a35a-258b5d13259f",
@@ -493,6 +586,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/46770960/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-27%2F31cbb624-e7b0-7ed3-feba-b30857d9b542.mp3"
             },
+            "entities": [
+                "Nairobi",
+                "https://anchor.fm/conrad-gray4/support",
+                "first"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/144---No-Pillow-Talk-e1dhrag",
             "guid": "5009667f-9885-48d4-8f8f-d3d68a52272b",
@@ -515,6 +613,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/46667573/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-25%2Fc18d967f-5287-6ed6-6593-f48d6aa82f66.mp3"
             },
+            "entities": [
+                "2 years",
+                "Monday",
+                "now",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/104---Then-She-Dropped-The-F-Bomb-----The-Monday-Minisode-e1dembl",
             "guid": "481971dc-d660-4c39-a511-32f6452f8130",
@@ -537,6 +641,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/46457605/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-21%2F864d6b44-5436-47fd-ab08-cca268872ef5.mp3"
             },
+            "entities": ["today", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/143---I-Broke-Up-With-You--Not-Your-Family-e1d89a5",
             "guid": "edccf2c9-6a92-4261-bc14-bba2184a4934",
@@ -559,6 +664,16 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/46283440/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-17%2F67a63585-7d4b-cecb-3303-db8e5dbef697.mp3"
             },
+            "entities": [
+                "Today",
+                "Nairobi",
+                "Calvin",
+                "his",
+                "Monday",
+                "security guard",
+                "https://anchor.fm/conrad-gray4/support",
+                "him"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/103---My-Askari-Broke-My-Heart----The-Monday-Minisode-e1d2v7g",
             "guid": "3ac0c613-a1b1-4df9-8112-8a9dbdad1ed5",
@@ -581,6 +696,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/46134705/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-14%2Fa9558cf8-e54d-e2fe-a69a-aff05d2789c9.mp3"
             },
+            "entities": [
+                "Calvin",
+                "Naija",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "Drake"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/142---Ive-Got-Hot-Sauce-In-My-Bag-e1cudvh",
             "guid": "d1205db7-d3df-4519-ac00-0ee38d581142",
@@ -603,6 +725,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/45951080/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-10%2F665f65a3-f6cb-3b14-8315-002806f7fdc5.mp3"
             },
+            "entities": [
+                "Calvin",
+                "Lagos",
+                "Nigeria",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/102---They-Let-Calvin-Loose-In-Lagos-----The-Monday-Minisode-e1coql8",
             "guid": "4f0e77b7-9c20-4320-8ffa-aced41fea7a9",
@@ -625,6 +753,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/45821768/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-7%2F5047de0a-badc-8c0c-393b-0adb120bbd4f.mp3"
             },
+            "entities": [
+                "2022",
+                "Jay Z",
+                "https://anchor.fm/conrad-gray4/support",
+                "first"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/141---Women-Should-Pay-For-Dates-e1cksc8",
             "guid": "38a1791c-2e9e-4aeb-a54c-3c1edbf2e13b",
@@ -647,6 +781,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/45693365/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-4%2F8e306a8d-8427-541a-f0c7-a5b3f5c90212.mp3"
             },
+            "entities": [
+                "4",
+                "KFC",
+                "2022",
+                "https://anchor.fm/conrad-gray4/support",
+                "day",
+                "weekly"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/101---We-Dont-Want-Your-Potatoes---The-Monday-Minisode-e1cguvl",
             "guid": "c9f6a126-8afb-4092-be86-d2561295d50c",
@@ -669,6 +811,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/45516170/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-31%2F651e3389-51bf-e562-ef4a-05e5cfde80bd.mp3"
             },
+            "entities": ["right now", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/140---Theyre-In-Laws--Not-Outlaws-e1cbhua",
             "guid": "69155633-4375-4d26-bce1-0e8cfec24402",
@@ -691,6 +834,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/45422077/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-28%2F7b1abdea-51af-ba9a-d08a-fa5eb6a05626.mp3"
             },
+            "entities": [
+                "Christmas",
+                "today",
+                "the year",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/100---2021--The-Best-Year-Of-My-Life----The-Monday-Minisode-e1c8m1t",
             "guid": "2c8495c0-c5b6-41fa-8091-8e93708fae1f",
@@ -713,6 +862,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/45253310/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-23%2F0c63f2cf-af5b-e255-058c-255657ed8c77.mp3"
             },
+            "entities": ["https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/139---Women-Gossip--Men-Podcast-e1c3h7u",
             "guid": "88e52d30-6789-4906-a643-1700ca4374e9",
@@ -735,6 +885,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/45125822/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-20%2Fa0a72b0d-d1f0-4bcd-7f4e-7a73d43577dc.mp3"
             },
+            "entities": ["Nairobi", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/99---These-Monkeys-Are-Moving-Mad---The-Monday-Minisode-e1bvknu",
             "guid": "21fe7284-d561-4966-a64e-09a0addc8eb8",
@@ -757,6 +908,7 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/44983048/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-17%2F238211286-44100-2-bf3d844ef48d2.m4a"
             },
+            "entities": ["https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/138---We-Cant-Stop-Cheating-e1br9a8",
             "guid": "3a0a666a-a8be-4ff5-bba2-e17508da5328",
@@ -779,6 +931,18 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/44782872/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-13%2F1b629666-b0bb-fb40-debd-6ad1c3770bf1.mp3"
             },
+            "entities": [
+                "G Money",
+                "Calvin",
+                "his",
+                "Monday",
+                "the weekend",
+                "once",
+                "weekend",
+                "evening",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/98-The-Covidsode---The-Monday-Minisode-e1bl5qo",
             "guid": "0102b8ca-8572-4bcc-bc90-b7f62dc8af21",
@@ -801,6 +965,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/44642551/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-10%2Fe61e7b67-f70f-7ab9-06a7-9720b8138160.mp3"
             },
+            "entities": ["https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/137---So-Without-Money-Im-Useless-e1bgspn",
             "guid": "aae0b49c-8d09-4d94-8058-2db48eef17b2",
@@ -823,6 +988,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/44445603/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-6%2Fe187488d-8fcb-4584-fd2d-871a4e9c6c22.mp3"
             },
+            "entities": ["today", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/97---Its-Not-Easy-Being-A-Simp----The-Monday-Minisode-e1basf3",
             "guid": "1a87db09-a428-4c7d-a157-178eb954b749",
@@ -845,6 +1011,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/44291506/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-3%2F5dfb0a92-57c9-0b8d-4349-cc80edd857dd.mp3"
             },
+            "entities": ["Today", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/136---Dad--How-Much-Do-You-Earn-e1b65vi",
             "guid": "007d716c-fd9c-40a1-8f0f-c04f14c304a2",
@@ -867,6 +1034,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/44090127/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-29%2F5134242f-84ec-1e79-cc04-690c622af4ca.mp3"
             },
+            "entities": [
+                "Monday",
+                "<p>The quickest",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/96---The-Quickie---The-Monday-Minisode-e1b01af",
             "guid": "442a7ee8-c748-4525-9026-71b1a8f6ad50",
@@ -889,6 +1061,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/43908997/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-25%2Fbd3cc6b2-9505-c920-b8b6-57c1e65c4442.mp3"
             },
+            "entities": [
+                "Christmas",
+                "2021",
+                "https://anchor.fm/conrad-gray4/support",
+                "summer"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/135---Speaking-In-Tongues-e1aqge5",
             "guid": "58b252c6-58ca-4b84-b38b-99dd1c4bfcb2",
@@ -911,6 +1089,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/43804143/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-23%2Fddece401-481e-538f-202e-601bd4c51178.mp3"
             },
+            "entities": [
+                "Mike Sonko",
+                "this week",
+                "Adele",
+                "https://anchor.fm/conrad-gray4/support",
+                "first"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/95---Be-Easy-On-Me-Adele-----The-Late-Monday-Minisode-e1ana1f",
             "guid": "b5e3594f-681b-48c9-9fa6-dba52e1194bd",
@@ -933,6 +1118,10 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/43593064/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-19%2F7dece0a3-5f12-3afd-52ec-78507cff6fe1.mp3"
             },
+            "entities": [
+                "the weekend",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/134--For-Once-Weve-Got-The-Tea-e1agrt8",
             "guid": "e9b96765-7762-400e-b148-6e2a964449c3",
@@ -955,6 +1144,16 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/43379059/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-15%2F86b90a45-cbc0-f09b-be56-4800371adf50.mp3"
             },
+            "entities": [
+                "Nairobi",
+                "Calvin",
+                "his",
+                "Monday",
+                "Grauchi",
+                "https://anchor.fm/conrad-gray4/support",
+                "Adekunle Gold Concert",
+                "dentist"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/94---Through-The-Wire---The-Monday-Minisode-e1aaatj",
             "guid": "aa2e01dc-4e21-4931-9b9e-aa602ad6cd98",
@@ -977,6 +1176,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/43222243/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-12%2F12e9a41d-25f3-3280-1a23-514139001ca1.mp3"
             },
+            "entities": [
+                "week",
+                "Friday",
+                "https://anchor.fm/conrad-gray4/support",
+                "Mics Are Open"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/133---It-Is-What-It-Is-e1a5hp3",
             "guid": "759148b5-d27b-4f64-a9eb-0e10dad87935",
@@ -999,6 +1204,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/43034458/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-9%2Fecbaed3e-2f5b-55a5-b499-223ad6c9c0b3.mp3"
             },
+            "entities": [
+                "Crypto Currency",
+                "Jay Z",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/93---Soft-Life-Ambassadors---The-Monday-Minisode-e19vqcq",
             "guid": "0238c5b1-2a20-4fcc-b59d-58e6c9db1c7a",
@@ -1021,6 +1231,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/42852965/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-5%2Ff83930bf-0f22-f8a3-b79b-15f0b5f74d75.mp3"
             },
+            "entities": ["Today", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/132---When-I-Glow--Im-Gone-e19q955",
             "guid": "bdc35e1e-1090-42d0-9146-6a2478c913a0",
@@ -1043,6 +1254,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/42656005/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-1%2F1b1c70d7-e6b1-f0c9-1c40-964c218a9558.mp3"
             },
+            "entities": [
+                "weekends",
+                "Calvin",
+                "fires",
+                "Monday",
+                "the weekend",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/82---No-Iphones-Anywhere----The-Monday-Minisode-e19k8q5",
             "guid": "a16eeffe-1450-41e1-956d-0b1cdb9e967f",
@@ -1065,6 +1284,10 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/42508046/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-29%2F6248782c-b7d9-b706-3859-b3650424ac36.mp3"
             },
+            "entities": [
+                "Mics Are Open Podcast",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/131---You-Can-Have-My-House-e19foae",
             "guid": "9d0a9f00-af5e-4c55-a612-07798bf4deb4",
@@ -1087,6 +1310,16 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/42302633/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-25%2F941b74bb-480b-61eb-0acc-eef38e8a76f2.mp3"
             },
+            "entities": [
+                "Uber",
+                "Calvin",
+                "Weekly",
+                "Atlanta",
+                "Kanairo",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "him"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/91---What-Time-Is-It-Over-There----The-Monday-Minisode-e199fn9",
             "guid": "1dd34408-1462-410e-9623-bdd4644d7c2b",
@@ -1109,6 +1342,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/42159755/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-22%2F57c536d4-c8db-2df4-f488-df2a4b05e513.mp3"
             },
+            "entities": ["Kenya", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/130---When-Jesus-Comes-Back-e19546b",
             "guid": "ead85e98-cc57-4e7a-aac8-89737c9adfea",
@@ -1131,6 +1365,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/41966986/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-18%2F858a54fb-2b7e-17e5-949e-372ca552636d.mp3"
             },
+            "entities": [
+                "3",
+                "Nairobi",
+                "Monday",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/90---Its-Politics-Time-Again--Give-Me-My-6K----The-Monday-Minisode-e18v7ua",
             "guid": "cf240d90-6ca4-475c-8104-7a6bddbbffe2",
@@ -1153,6 +1393,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/41818336/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-15%2Ffc8e69a5-46b0-f729-02bf-a8dcf8618e4d.mp3"
             },
+            "entities": ["https://anchor.fm/conrad-gray4/support", "first"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/129---Take-Your-Boxers-with-You-e18qmp0",
             "guid": "d4107ffb-29d7-4550-b254-72034dc8d9c7",
@@ -1175,6 +1416,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/41634367/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-11%2F356da3b4-65bb-7f0f-011f-b4ea47694296.mp3"
             },
+            "entities": [
+                "Dave Chappelle",
+                "Adelle Onyango",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/89---Twitter-Isnt-A-Real-Place---The-Monday-Minisode-e18l33v",
             "guid": "f3b6d579-5ae2-4110-a44a-3109b766665f",
@@ -1197,6 +1443,15 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/41465332/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-8%2Fa1adeaaa-9a15-8b7d-7f2b-5a89736f9421.mp3"
             },
+            "entities": [
+                "today",
+                "Teacher",
+                "days",
+                "World",
+                "https://anchor.fm/conrad-gray4/support",
+                "Week",
+                "the last 7 days"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/128---Back-To-School-e18fu1k",
             "guid": "6b3847ef-d65a-418d-8000-e3467085d87a",
@@ -1219,6 +1474,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/41326336/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-5%2F8e3d0f6a-a251-38be-99da-3787abe2d5f2.mp3"
             },
+            "entities": [
+                "The late Monday",
+                "<p>",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/88-Only-30-Million----The-Monday-Minisode-e18bma0",
             "guid": "37843af5-4290-449e-b62f-d892eb90cac4",
@@ -1241,6 +1501,15 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/41118194/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-1%2F3d017fe0-30bd-7853-5534-5d6e498415ad.mp3"
             },
+            "entities": [
+                "Lads",
+                "Maina",
+                "Javahouse",
+                "Upper Hill",
+                "today",
+                "https://anchor.fm/conrad-gray4/support",
+                "10"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/127---Mbogi-Ya-Madenge-e185b1i",
             "guid": "9ab72e2b-de50-4b0b-ad24-2fde692dfdfc",
@@ -1263,6 +1532,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/40919395/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-27%2Fdbdc7648-29f5-dbd2-47d0-2ae20d7168b4.mp3"
             },
+            "entities": ["https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/87---Dont-Ask-About-Our-Rate-Card---The-Monday-Minisode-e17v8t3",
             "guid": "3f764093-be5b-4186-8a67-048b0e3ed833",
@@ -1285,6 +1555,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/40722128/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-23%2F8b963a3f-5234-4fd4-db99-a7f1c2558ddb.mp3"
             },
+            "entities": [
+                "now",
+                "This weeks",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/126---Youre-Supposed-To-Feed-Your-Kids-e17p88g",
             "guid": "5819127f-d0b1-47b1-90e6-e0ab3c4166db",
@@ -1307,6 +1582,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/40564714/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-20%2F514cc15c-2183-51b6-49c5-1307a725bddc.mp3"
             },
+            "entities": ["https://anchor.fm/conrad-gray4/support", "Open"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/85---Just-slide-Into-My-DMs---The-Monday-Minisode-e17keha",
             "guid": "c77b4931-29e0-4ace-b4c8-c8de86215857",
@@ -1329,6 +1605,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/40417801/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-17%2F4c791f04-607b-96ff-200c-773c234aef17.mp3"
             },
+            "entities": [
+                "This week",
+                "Ricardo",
+                "Ricardos Podcast",
+                "https://anchor.fm/conrad-gray4/support",
+                "Drake"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/125---Character-Development-101-e17fv29",
             "guid": "f1eacc7b-507f-4bf7-9ca2-41ded89a0b76",
@@ -1351,6 +1634,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/40235970/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-13%2Fe1ce79c8-7cb1-3cab-9ca2-2f1708875d7a.mp3"
             },
+            "entities": ["https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/85---Whats-Your-Star-Sign----The-Monday-Minisode-e17adg2",
             "guid": "20b58d3a-d229-46c3-9bdd-5accd9ef012c",
@@ -1373,6 +1657,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/40077107/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-10%2F273b8065-3234-45a5-62ed-0b075f00efb0.mp3"
             },
+            "entities": [
+                "This week",
+                "Nairobi",
+                "Calvin",
+                "Hafare",
+                "https://anchor.fm/conrad-gray4/support",
+                "Drake"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/124---Certified-Lover-Boyz-e175ibj",
             "guid": "806ea01f-5970-41fe-abb2-3e07d9fd29e0",
@@ -1395,6 +1687,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/39901342/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-6%2F85a95bb5-377c-d095-0388-a1f777516fa7.mp3"
             },
+            "entities": [
+                "<p>Welcome",
+                "Monday",
+                "20 mins",
+                "https://anchor.fm/conrad-gray4/support",
+                "him",
+                "Drake"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/84---9pm-In-Nairobi---The-Monday-Minisode-e1706mu",
             "guid": "8b2cf098-0578-453e-b63d-5da1797a8aa1",
@@ -1417,6 +1717,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/39746978/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-3%2Fd234bf02-c1fc-f190-8631-4850cc09467e.mp3"
             },
+            "entities": [
+                "This week",
+                "2",
+                "Wash Wash",
+                "this week",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/123---Dont-Leave-Me-Out-Of-The-Wash-Wash-e16rfv2",
             "guid": "67af317c-ff35-4625-8cd4-08ccd4b3b53e",
@@ -1439,6 +1746,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/39617498/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-31%2F5dc0a379-d020-6519-8e75-945eb4d22ad0.mp3"
             },
+            "entities": ["https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/83---The-Roasting-Of-Calvins-Mom----The-Monday-Minisode-e16nhgq",
             "guid": "23670c8e-9de4-42ba-af11-e86ed01eb471",
@@ -1461,6 +1769,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/39412957/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-27%2Fab5c2352-b32b-66bf-7c88-d8a9b7c5c187.mp3"
             },
+            "entities": [
+                "Java",
+                "22 years",
+                "Nairobi",
+                "today",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/122---If-I-Cheat--Will-You-Snitch-e16h9ot",
             "guid": "a7ed1186-52e8-43f0-abec-cfa4b648a0ee",
@@ -1483,6 +1798,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/39262119/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-24%2F6f627eb9-be9c-e3a3-7b79-24880d105379.mp3"
             },
+            "entities": [
+                "Today",
+                "Monday",
+                "episode of the",
+                "natural disasters",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/82---Ashy-Elbows---The-Monday-Minisode-e16cmf7",
             "guid": "16f9c9fc-63ec-42a9-a519-1a0cd3d7280e",
@@ -1505,6 +1828,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/39058190/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-20%2F1982079c-0700-581b-d1f7-40f23775ace9.mp3"
             },
+            "entities": [
+                "This weeks",
+                "Kenya",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/121---Men-Love-Men-e166fae",
             "guid": "05b8ca70-92d0-4816-a9c8-1a4f1a20d077",
@@ -1527,6 +1855,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/38865570/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-16%2F2ddfec04-d9c8-6e36-210b-2a75fe1197f6.mp3"
             },
+            "entities": [
+                "Monday",
+                "today",
+                "days",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/81---The-Monday-Blues---The-Monday-Minisode-e160j72",
             "guid": "3c8b54f7-c56c-4905-9804-78349eac5a33",
@@ -1549,6 +1883,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/38714540/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-13%2F63feeb3b-744a-607b-8fd6-022187047323.mp3"
             },
+            "entities": ["19", "https://anchor.fm/conrad-gray4/support", "him"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/120-Fight-Your-Own-Battles-e15rvnc",
             "guid": "63a0fbbe-197d-4b06-b33b-c60b8cd4b88c",
@@ -1571,6 +1906,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/38525371/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-9%2Fd8ef2116-8517-3c12-1c71-fe8926ea5bb4.mp3"
             },
+            "entities": [
+                "3",
+                "Nairobi",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/80---Why-Good-Looking-Women-Marry-Shrek----The-Monday-Minisode-e15m6vr",
             "guid": "02759b57-b6cf-4585-adcc-a584dfb17c58",
@@ -1593,6 +1933,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/38371469/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-6%2F7a9a4e0f-ed19-1174-cfbb-df4c172fb482.mp3"
             },
+            "entities": [
+                "this week",
+                "https://anchor.fm/conrad-gray4/support",
+                "roller"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/119---The-Mics-Are-Open---The-Battle-For-Clean-Boxers-e15hgmd",
             "guid": "7dd84d5f-1c3c-4d77-8bd6-0c953cb82310",
@@ -1615,6 +1960,13 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/38190084/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-2%2F209729335-44100-2-421331a0e3cdb.m4a"
             },
+            "entities": [
+                "his",
+                "this week",
+                "Kenyan",
+                "https://anchor.fm/conrad-gray4/support",
+                "Olympic"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/79---Youd-Fail-A-Doping-Test-Too----The-Monday-Minisode-e15bvi4",
             "guid": "0a55a88d-8ffe-488a-ba1f-ef0499861773",
@@ -1637,6 +1989,15 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/38038314/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-30%2Fd678bc9e-323a-0d19-55a9-039d52100fb4.mp3"
             },
+            "entities": [
+                "English",
+                "Calvin",
+                "month",
+                "Neville",
+                "https://anchor.fm/conrad-gray4/support",
+                "he",
+                "first"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/118---Tuko-Ndani-Bana-e157bba",
             "guid": "fc4afa46-c2cd-4b43-8f9e-87957c9000ca",
@@ -1659,6 +2020,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/37859803/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-26%2F009acbf2-fa65-be76-a05b-b03c1d4fff10.mp3"
             },
+            "entities": [
+                "5,000,040",
+                "today",
+                "Sean Paul",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/78---Five-Million-And-Forty-Naughty-Shorties----The-Monday-Minisode-e151t0r",
             "guid": "b0eac26e-13aa-49c3-83d6-9f4c82487198",
@@ -1681,6 +2048,16 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/37691413/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-23%2F9f3b7b5e-bae5-9c1f-1822-e769ba14e8ed.mp3"
             },
+            "entities": [
+                "Calvin",
+                "his",
+                "one",
+                "23 years",
+                "https://anchor.fm/conrad-gray4/support",
+                "Week",
+                "Nev",
+                "first"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/117---My-First-Time-e14soil",
             "guid": "d3c7b3a0-e371-46f8-b613-3dc98f1f8a41",
@@ -1703,6 +2080,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/37557864/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-20%2F4cfd4afb-65d2-a66e-2107-ccd38d22341e.mp3"
             },
+            "entities": [
+                "Lads",
+                "Today",
+                "Jeff Besos",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/77-Space-2021-Just-Put-The-Tip-In----The-Monday-Minisode-e14om58",
             "guid": "f71f0b29-e3d7-4c7b-9224-3245f050a33e",
@@ -1725,6 +2108,16 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/37348947/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-16%2F9a62051a-7e0b-0e65-de7f-310d84958b7d.mp3"
             },
+            "entities": [
+                "Neville",
+                "Mics are Open",
+                "now",
+                "https://anchor.fm/conrad-gray4/support",
+                "Week",
+                "Andy",
+                "he",
+                "ON"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/116---If-You-Like-Me-Shoot-Your-Shot-e14ia4j",
             "guid": "902cb0ce-5dd6-46a8-b585-c3e6de29fe4a",
@@ -1747,6 +2140,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/37120453/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-12%2Fc71eb3c9-8cd0-aeb9-a7e3-55c435f8c4b9.mp3"
             },
+            "entities": ["Calvin", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/76---We-Will-Rig-This-Election-If-We-Have-To----The-Monday-Minsode-e14bb05",
             "guid": "15d0d450-9d45-4c86-bea9-891c6735a307",
@@ -1769,6 +2163,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/36941779/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-9%2Fd8023ff9-84b6-116f-d6ca-136d85b217b4.mp3"
             },
+            "entities": [
+                "she",
+                "Nairobi",
+                "his",
+                "Neville",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/115---You-Bathe-Twice-A-Week-e145sgj",
             "guid": "0bb4938b-45a3-493b-94a1-0f42db84cc67",
@@ -1791,6 +2193,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/36729881/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2Fc1bd21e9-01cf-7c8e-8da8-34b483107beb.mp3"
             },
+            "entities": [
+                "The Monday Weekend",
+                "3",
+                "King",
+                "Lion",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/75---I-Wanna-Make-Love-In-This-Club----The-Monday-Minisode-e13vdip",
             "guid": "289649e2-4446-4880-abb6-ce12d4d93b24",
@@ -1813,6 +2222,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/36563470/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-2%2Fa56b85b6-6825-3de4-91ef-d07dacb9d711.mp3"
             },
+            "entities": [
+                "his",
+                "Neville",
+                "today",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/114---This-Is-For-Omosh-e13qb2e",
             "guid": "42d6e892-770a-445d-ad6a-45cc52b6ef44",
@@ -1835,6 +2250,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/36329984/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-28%2Fc7cbaf2c-eaf4-0611-560c-0891ffd046c3.mp3"
             },
+            "entities": [
+                "This week",
+                "Monday",
+                "weekend",
+                "Kenya Revenue Authority",
+                "https://anchor.fm/conrad-gray4/support",
+                "three"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/74---I-Must-Be-In-A-Relationship-with-The-KRA-----The-Monday-Minisode-e13j720",
             "guid": "3a1c12f8-5a49-4126-a91c-53344284630c",
@@ -1857,6 +2280,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/36041333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-23%2Fe1e541a0-7b28-c78d-ca44-909c13f569e3.mp3"
             },
+            "entities": [
+                "one",
+                "war",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/113---I-Declare-War-e13ad5l",
             "guid": "9395f9ce-06ab-4721-ab87-851c4ad805d8",
@@ -1879,6 +2307,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/35910987/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-21%2F211cdd74-a1d0-3cb6-41f4-d9da370dc558.mp3"
             },
+            "entities": ["https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/73---Set-A-Fing-Goal----The-Monday-Minisode-e136dsb",
             "guid": "8f4ff611-d940-4a26-96a3-600e75dac283",
@@ -1901,6 +2330,10 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/35717034/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-18%2Fe72dd92c-82f4-8aed-9240-1a7789c36c6e.mp3"
             },
+            "entities": [
+                "Father's Day",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/112---Your-Dad-Is-Dead--Not-Deadbeat-e130gfa",
             "guid": "91ccc632-6abd-4dde-b332-aa028cf62e2c",
@@ -1923,6 +2356,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/35453683/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-14%2F285e2607-c423-02c1-089d-ffdcdfa39e79.mp3"
             },
+            "entities": ["https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/72---Heaven-Needs-To-Update-Its-Powerpoint-Yu-Pum-Pum-Bring-Life----The-Monday-Minisode-e12of9j",
             "guid": "dea24966-8e15-4a65-9550-1146a18c15ed",
@@ -1945,6 +2379,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/35259065/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-11%2F36e6c0c4-31eb-73c4-dfa2-c0c4a860e259.mp3"
             },
+            "entities": [
+                "Neville",
+                "today",
+                "This weeks",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/111---Im-Not-Crying--Youre-Crying-e12ih7p",
             "guid": "373b3a4e-1b3c-40a1-93ca-d7903458b27d",
@@ -1967,6 +2407,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/35017747/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-7%2F827cf08d-f0d8-d27f-6b86-432166204b25.mp3"
             },
+            "entities": ["https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/71---Dont-Swipe-Right----The-Monday-Minisode-e12b5ij",
             "guid": "e6a6d9e1-e5f0-4c1b-9f28-ff81d3e6a7b7",
@@ -1989,6 +2430,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/34807201/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-4%2F6943b3c7-c4a8-fdd6-bd44-240288044990.mp3"
             },
+            "entities": ["this week", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/110---Men-And-Women-Cannot-Be-Best-Friends-e124nv1",
             "guid": "78984b01-8f99-41e7-a713-9d8c4312a810",
@@ -2011,6 +2453,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/34597161/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-31%2Fbe8b28d7-f1bc-0c5d-6cc4-358f552d412e.mp3"
             },
+            "entities": [
+                "Calvin",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "he"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/70---Calvin--The-Strokemaster--is-missing----The-Monday-Minisode-e11uar9",
             "guid": "d6d3b1d0-24c4-45f7-8457-5c6349f4e738",
@@ -2033,6 +2481,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/34359143/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-27%2F1b4db4ba-cfe2-1d94-82ac-9946855cede7.mp3"
             },
+            "entities": ["https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/109---And-Then-She-Went-Down-On-Her-Knees-e11n2d7",
             "guid": "cfbafc97-0c92-408d-8168-ff252c7d00bb",
@@ -2055,6 +2504,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/34138467/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-24%2F0b61a287-537e-aacf-49c4-6ccaafb9fcad.mp3"
             },
+            "entities": [
+                "Calvin",
+                "Monday",
+                "the weekend",
+                "https://anchor.fm/conrad-gray4/support",
+                "weekly"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/69---What-Shall-We-Name-This-Podcast----The-Monday-Minisode-e11gat3",
             "guid": "c4c4fa9b-b8a3-4770-be12-5fa14c7287e7",
@@ -2077,6 +2533,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/33939777/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-21%2F868c1868-5285-62ca-0cdd-3c3690c1ab15.mp3"
             },
+            "entities": [
+                "Calvin",
+                "his",
+                "today",
+                "Joe Budden",
+                "Black Tax",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/108---We-Had-Sex-Because-You-Felt-Sorry-For-Me-e11a8s1",
             "guid": "45a3f0bc-5896-4c06-b1a3-d8fcb0981351",
@@ -2099,6 +2563,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/33679537/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-17%2Fd1ec437a-6e95-164b-3da0-0b6b48320b55.mp3"
             },
+            "entities": [
+                "Tammy Abraham",
+                "Joe Budden",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/68---Dont-Fight-For-Me----The-Monday-Minisode-e112anh",
             "guid": "1c9b985b-10b6-4dc0-8119-182511e6f38d",
@@ -2121,6 +2590,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/33461430/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-14%2Fc928dea3-abf2-4081-0cd9-1c5caef7da2f.mp3"
             },
+            "entities": [
+                "Hypergamy",
+                "this morning",
+                "one",
+                "Ashley",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/107---Spend-On-Me-Because-Im-Your-Baby---featuring-Ashley-e10rlnm",
             "guid": "11db536b-0433-40ce-9b74-1fb84fab4e63",
@@ -2143,6 +2619,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/33229466/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-10%2F504b7ed8-6139-3952-56ae-e56bee486ee2.mp3"
             },
+            "entities": [
+                "Monday",
+                "Night",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/67---God-Created-Tinder---The-Monday-Minisode-e10kj6q",
             "guid": "2b9ed6f2-6831-43f0-aa5a-4e2a1837df92",
@@ -2165,6 +2646,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/33001865/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-7%2Fe21a04cb-47eb-9527-3a5f-a7c7ca4e39cb.mp3"
             },
+            "entities": [
+                "Bill",
+                "the future",
+                "Melinda Gates",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/106---Money-Cant-Buy-You-Love-e10dku9",
             "guid": "7670a46a-9197-446c-8c16-ad041b20bc00",
@@ -2187,6 +2674,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/32749558/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-3%2Fe9d92903-7855-df27-c645-df3f7fa6cc25.mp3"
             },
+            "entities": [
+                "This week",
+                "Nairobi",
+                "Monday",
+                "night",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/66---Banged-Up-Abroad----The-Monday-Minisode-e105uhm",
             "guid": "05b3328e-beef-4197-be80-a164eb35fa59",
@@ -2209,6 +2703,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/32418105/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-28%2F872ef9c1-02bb-9ae2-7cf2-8d14a8ba0589.mp3"
             },
+            "entities": ["this week", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/105---Never-Trust-A-Man-Who-Cant-Buy-His-Own-Boxers-evrqrp",
             "guid": "c9108baf-3023-47d7-b27f-c1f60d93f692",
@@ -2231,6 +2726,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/32250241/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-26%2F36b23a47-3fcb-b1fc-cc1d-9056bcf102cb.mp3"
             },
+            "entities": ["this week", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/65---Sex-In-Space-As-We-Get-Ready-For-The-End-Of-The-World----The-Monday-Minisode-evmmu1",
             "guid": "4510b9e8-1728-4198-bcf7-9b815ec4997c",
@@ -2253,6 +2749,10 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/32021349/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-23%2F73964505-16a6-9e49-1666-b12e57dd3c21.mp3"
             },
+            "entities": [
+                "2 years old today",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/104---We-Are-2-Years-Old-Today--Its-Our-Longest-Relationship---The-Cash-Giveaway-Edition-evfnd5",
             "guid": "3ba1755d-694d-4433-a618-72a94c485d40",
@@ -2275,6 +2775,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/31741934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-19%2Fb8e8158f-9e21-ec11-67fe-43ff2b28a80e.mp3"
             },
+            "entities": [
+                "KSH",
+                "Road",
+                "daily",
+                "Thika",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/64---Roadblocks-Are-The-Least-Of-Our-Problems--Were-At-A-Dead-End----The-Monday-Minisode-ev76he",
             "guid": "4f6b31d5-88dd-4d0b-8284-0db294530896",
@@ -2297,6 +2804,13 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/31465459/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-14%2F175509519-44100-2-5a4a1898d1349.m4a"
             },
+            "entities": [
+                "This week",
+                "his",
+                "Calvin",
+                "https://anchor.fm/conrad-gray4/support",
+                "he"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/103---I-Didnt-Steal-Anything--I-Just-Borrowed-It-Permanently-euuohj",
             "guid": "f771f0d3-04e4-4b7b-a2a8-85b6fcd04a2e",
@@ -2319,6 +2833,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/31263952/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-12%2F74544bc4-c64e-e1cf-1ab9-abfde1b8ee51.mp3"
             },
+            "entities": [
+                "Calvin",
+                "his",
+                "Monday",
+                "today",
+                "https://anchor.fm/conrad-gray4/support",
+                "DMX"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/63---The-Gospel-According-To-DMX---The-Monday-Minisode-euojog",
             "guid": "d7b574a6-fa0f-4024-be4e-69c333237b47",
@@ -2341,6 +2863,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/30996911/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-8%2Faa8e7904-7245-f673-cc5d-9f494c9740a7.mp3"
             },
+            "entities": [
+                "week",
+                "This weeks",
+                "Joe Budden",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/102---Date-My-Mom--Just-Never-Call-Me-Son-eugevf",
             "guid": "b68a106e-6bb7-4b96-8186-fd3a34f82bff",
@@ -2363,6 +2891,15 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/30763314/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-5%2F0a3551e9-c54e-9abe-f9be-9eb40c2b171f.mp3"
             },
+            "entities": [
+                "Monday",
+                "UK",
+                "19",
+                "<p>Random",
+                "evening",
+                "Kenya",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/62---They-Call-Me-Lil-Smokie---The-Monday-Minisode-eu9ari",
             "guid": "53a6fc15-ff29-41e1-97a0-2f0b3b587d2f",
@@ -2385,6 +2922,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/30522672/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-1%2F223f743d-ee7a-c27e-aa4a-e97815b1b674.mp3"
             },
+            "entities": [
+                "this week",
+                "19",
+                "https://anchor.fm/conrad-gray4/support",
+                "first",
+                "18 months"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/101---A-Little-Bit-Of-Jealousy-Never-Ruined-A-Relationship-eu1vrg",
             "guid": "6c11c8d1-8a7e-47cb-aed0-09335fc55ba8",
@@ -2407,6 +2951,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/30256336/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-29%2F62333c6f-ff3c-5bea-73e8-2635a971bbf6.mp3"
             },
+            "entities": [
+                "3",
+                "Monday",
+                "<p>A",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/61---Your-Dk-Still-Works-Post-Vaccine-etprog",
             "guid": "be6d2f76-1c0b-4903-b7da-67516f186fa7",
@@ -2429,6 +2979,22 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/29988232/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-26%2Fa6663962-dd28-6906-d373-dff6af8445ad.mp3"
             },
+            "entities": [
+                "one",
+                "count",
+                "8 Years Old",
+                "100th",
+                "Jino Tamu",
+                "100",
+                "Prince",
+                "his",
+                "Calvin",
+                "once",
+                "A century",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "he"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/100---Bodycount-100-ethlu8",
             "guid": "23049257-7343-4212-8da6-fff242692456",
@@ -2451,6 +3017,15 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/29662019/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-22%2F66e715a4-e71d-54bb-10c4-efe6d72c25a1.mp3"
             },
+            "entities": [
+                "Monday",
+                "19",
+                "episode of the",
+                "fire",
+                "Quavo",
+                "Saweetie",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/61-Men-Cheat--Its-What-We-do----The-Monday-Minisode-et7nc3",
             "guid": "1019a0e8-25b9-4adc-b1bb-7f4f2d4ff43c",
@@ -2473,6 +3048,15 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/29392735/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-19%2F166737382-44100-2-1a9ab90734df4.m4a"
             },
+            "entities": [
+                "Episode",
+                "100",
+                "christian",
+                "today",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "Panda"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/99---This-Is-Not-A-Sextape--We-Promise-esvgcv",
             "guid": "b73037a5-ab47-4176-8fda-bef0523936ee",
@@ -2495,6 +3079,15 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/29037158/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-15%2Fe31539a1-ba26-c87b-25fa-5418226ef821.mp3"
             },
+            "entities": [
+                "254",
+                "sailor",
+                "today",
+                "Grammy Music Awards",
+                "https://anchor.fm/conrad-gray4/support",
+                "Kirk Franklin",
+                "last nights"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/59---You-Cant-Cancel-Gods-Property---The-Monday-Minisode-eskl56",
             "guid": "40762b6a-2f0b-418a-ba58-2293a801f464",
@@ -2517,6 +3110,15 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/28721288/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-12%2F2db5f66b-f51c-9c31-2f01-8fab31435dbc.mp3"
             },
+            "entities": [
+                "This week",
+                "Calvin",
+                "this week",
+                "10 pm",
+                "Ashley",
+                "Quellie",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/98---If-You-Smash-My-Ex--Do-It-On-The-Low-Low-esb0m8",
             "guid": "0697c812-0b9b-436a-9313-1e549dd1bd0c",
@@ -2539,6 +3141,16 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/28496687/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-9%2Fd1419253-84a8-7bab-91ef-4ad1e2be0dbc.mp3"
             },
+            "entities": [
+                "Meghan",
+                "Calvin",
+                "Monday",
+                "the weekend",
+                "Oprah",
+                "one",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/58---NOT-Coming-2-America-and-other-short-stories----The-Monday-Minisode-es45bf",
             "guid": "7824f02a-453d-45e5-b55b-7aef02121ce0",
@@ -2561,6 +3173,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/27945942/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-4%2Fa19c77c5-6e58-919f-23e9-fd3e8c141084.mp3"
             },
+            "entities": [
+                "Calvin",
+                "Topics",
+                "Caller",
+                "today",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/97--Youll-Never-Guess-Whos-Getting-The-Vaccine-First-erjbgm",
             "guid": "0e40bfce-1ca3-411a-bf31-b01d46e56084",
@@ -2583,6 +3203,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/27625612/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-1%2F8e66a65b-2634-e0f2-2b9e-e2f1ae3ac318.mp3"
             },
+            "entities": [
+                "Covid",
+                "weekends",
+                "Calvin",
+                "19",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/57-Honey--I-shrunk-My-Dick---The-Monday-Minisode-er9imc",
             "guid": "eee977f0-d83c-4e38-a57d-ddfcc6393efd",
@@ -2605,6 +3233,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/27436260/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-26%2F89f4d95b-1f30-f262-8bdd-8a9a69593037.mp3"
             },
+            "entities": [
+                "Today",
+                "his",
+                "19",
+                "Kenya",
+                "https://anchor.fm/conrad-gray4/support",
+                "African"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/96---Just-Vibes-And-InShallah-er3pp4",
             "guid": "bc183633-740b-4362-92fa-9c3572ae1594",
@@ -2627,6 +3263,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/27100167/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-22%2F2e6ac196-5675-1950-5687-98d90a2a8efe.mp3"
             },
+            "entities": [
+                "Calvin",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/56---Dont-Call-Me-Bro---The-Monday-MiniSode-eqphi7",
             "guid": "6312e23a-32bc-4296-a83e-b8b5d08c1e73",
@@ -2649,6 +3290,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/26931115/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-19%2F0b1867a3-0916-8324-9054-47ff84120c43.mp3"
             },
+            "entities": [
+                "his",
+                "Calvin",
+                "19",
+                "https://anchor.fm/conrad-gray4/support",
+                "he",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/95-My-House--My-Rules-eqkcfb",
             "guid": "0ec9ccfb-2091-41fc-85e7-3c68a772239a",
@@ -2671,6 +3320,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/26746072/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-15%2Fb2086a1e-6cbf-f4e4-1117-1491336ce5d8.mp3"
             },
+            "entities": ["https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/55---And-Then-There-Were-Two---The-Monday-MiniSode-eqenoo",
             "guid": "b9ee47e8-fede-4cc7-b61d-b291eeff15a9",
@@ -2693,6 +3343,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/26589536/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-12%2F5e175c58-7dc9-f76e-9699-be6bd76a6c92.mp3"
             },
+            "entities": [
+                "Covid",
+                "Calvin",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/94---Sex-Lies-And-Covid-eq9ut0",
             "guid": "490ed476-b135-494c-b096-ca8b2ce15e01",
@@ -2715,6 +3371,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/26398139/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-8%2Fcf796341-9575-3eb7-c1f2-a8b1c911bcc2.mp3"
             },
+            "entities": [
+                "his",
+                "Calvin",
+                "19",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/54---Covid-19--Back-Like-It-Never-Left----The-Monday-Minisode-eq43vr",
             "guid": "e5d8cf5d-6815-4de3-88ce-d00560d55bec",
@@ -2737,6 +3400,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/26219073/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-4%2F5c8de6e4-ea75-bea6-6dbc-85dc29a20d9d.mp3"
             },
+            "entities": [
+                "Today",
+                "Another day",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/93---The-Day-We-Did-The-Silhouette-Challenge-epul41",
             "guid": "699b69b4-21f0-4f5f-8863-0c4efff81f8a",
@@ -2759,6 +3427,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/26052323/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-1%2Fb3a43995-3076-b64a-1af6-fc625e2c38c7.mp3"
             },
+            "entities": ["https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/53---Being-Body-Shamed-By-A-Dog---The-Monday-Minisode-eppi93",
             "guid": "a6803a46-0660-4141-a9bd-471a4440c0b4",
@@ -2781,6 +3450,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/25874673/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-28%2F5a6b5a1d-61df-e135-f593-3bb161db02d9.mp3"
             },
+            "entities": [
+                "once",
+                "This weeks",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/92---Jesus-Didnt-Have-Disciples--He-Had-Mandem-epk4ph",
             "guid": "c06a8cc0-2e53-4db3-a84a-6ae866cf345c",
@@ -2803,6 +3477,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/25700894/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-25%2Fefb91e16-6465-a1cf-5dfd-f210c82a212a.mp3"
             },
+            "entities": ["boss", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/52---When-Its-Time-For-Your-Appraisal----The-Monday-Minisode-eper2u",
             "guid": "bfbbb104-865e-47ca-8134-f3a5db960d63",
@@ -2825,6 +3500,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/25530194/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-21%2Fd00396a9-d87b-8a53-a004-741b4b51d9cd.mp3"
             },
+            "entities": [
+                "Donald Trump",
+                "White House",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "he"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/91---Corruption-Only-Sucks-When-Youre-Left-Out-ep9kci",
             "guid": "3c176673-aad5-411c-865d-6c36efc37ee6",
@@ -2847,6 +3529,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/25367759/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-18%2F48d0038b-e40f-6ea1-0fab-327c31892d96.mp3"
             },
+            "entities": [
+                "she",
+                "Today",
+                "Monday",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/51---I-Cant-Talk--My-Moms-Listening---The-Monday-Minisode-ep4lof",
             "guid": "23e59c42-33e8-41c2-b92a-1f0996ec160a",
@@ -2869,6 +3557,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/25201382/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-14%2F18cc7518-ba2c-c26a-671b-f13dffe78142.mp3"
             },
+            "entities": [
+                "This week",
+                "Ambassador",
+                "Brand New International Mics are Open",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/90---Not-Even-Viagra-Can-Prevent-Soft-Life--feat-Big-Bear-eovj96",
             "guid": "40d3828b-da9b-49a3-8d1a-c025f40edc60",
@@ -2891,6 +3585,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/25045317/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-11%2F2db6cc02-667c-8330-1650-9cc78403f6b5.mp3"
             },
+            "entities": [
+                "Today",
+                "Calvin",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/50---Yes--Kenyan-Men-Are-Stingy--Fight-Me----The-Monday-Minisode-eoqqs5",
             "guid": "04358fb9-a392-4e72-8ac2-285a70bf6817",
@@ -2913,6 +3613,16 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/24889459/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-7%2F8832d5a5-e3b8-4d8e-65f5-bdb9671ad9eb.mp3"
             },
+            "entities": [
+                "Calvin",
+                "2021",
+                "Kanye",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "he",
+                "Kim",
+                "Trump"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/89---Mandem--Tell-Me-You-Love-Me-eom2lj",
             "guid": "a61b2213-786b-4a2b-9468-7b0a502d37fc",
@@ -2935,6 +3645,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/24752073/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-4%2F3ef92e30-46f9-66c3-daa4-0f380b68ce89.mp3"
             },
+            "entities": ["one", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/49---I-Only-Need-5-Years-As-President----The-Monday-Minisode-eohsg9",
             "guid": "35ca7d27-aa48-486b-a706-d1c7361c4acf",
@@ -2957,6 +3668,16 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/24610092/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-31%2F97ab6103-fd2a-1d9e-af4d-db6273eeb361.mp3"
             },
+            "entities": [
+                "New Year",
+                "Social Media",
+                "MIcs Are Open",
+                "2021",
+                "the future",
+                "https://anchor.fm/conrad-gray4/support",
+                "first",
+                "new year"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/88---New-Year--Same-Old-Us--The-Slumber-Party-eodhrc",
             "guid": "1d340475-6bd5-4d99-9309-5925979baa88",
@@ -2979,6 +3700,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/24498526/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-28%2Fc0e0c798-18df-06ca-de2b-659d21e2b8d2.mp3"
             },
+            "entities": [
+                "Christmas",
+                "Elsa Majimbo",
+                "https://anchor.fm/conrad-gray4/support",
+                "Xmas"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/48---People-Just-Want-To-Talk----The-Monday-Minisode-eoa4su",
             "guid": "67440808-920c-4bc3-87cc-b9b79430ae0c",
@@ -3001,6 +3728,15 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/24383608/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-24%2F15faf418-79e5-d204-d84c-960766db2418.mp3"
             },
+            "entities": [
+                "the end of year",
+                "One day",
+                "boss",
+                "now",
+                "https://anchor.fm/conrad-gray4/support",
+                "Xmas",
+                "XMAS"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/87-The-Not-So-Secret-Santa-Office-Party-Edition-eo6klo",
             "guid": "9371900b-bfc3-4748-933c-ff5a027b87ed",
@@ -3023,6 +3759,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/24268900/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-21%2F3fb8b115-4188-a7e6-bd1f-aea39053367a.mp3"
             },
+            "entities": [
+                "Calvin",
+                "<p>Normal",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "Day"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/47---FK-Them-Kids----The-Monday-Minisode-eo34l4",
             "guid": "91193868-54d5-4934-9247-6954de71cf45",
@@ -3045,6 +3788,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/24119997/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-17%2Fd81ad762-d244-4318-7770-b9c3489f3464.mp3"
             },
+            "entities": [
+                "Christmas",
+                "https://anchor.fm/conrad-gray4/support",
+                "Mics Are Open"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/86---And-Then-My-Mom-Found-My-Nudes-enuj7t",
             "guid": "68f27cfb-383e-4d69-9ea6-949216623824",
@@ -3067,6 +3815,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/23966788/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-14%2F415e60ee-bd3a-eb03-c81d-55504d26bc4c.mp3"
             },
+            "entities": [
+                "weekends",
+                "today",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/46---There-Is-Nothing-Wrong-With-Being-A-House-Husband----The-Monday-Minisode-enptk4",
             "guid": "b6896abc-26af-448d-a5d1-6c5b23cba40a",
@@ -3089,6 +3842,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/23799778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-10%2Fea527455-0549-ab21-03ed-83e605914c84.mp3"
             },
+            "entities": [
+                "Today",
+                "World Cup",
+                "Manchester United",
+                "https://anchor.fm/conrad-gray4/support",
+                "Adidas"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/85---All-Day-I-Dream-About-Sex-A-D-I-D-A-S-enkqh2",
             "guid": "4889d345-347f-4798-8209-26cbe7c3961d",
@@ -3111,6 +3871,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/23636001/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-7%2F837fb204-2725-5246-6e99-dcd830adae4d.mp3"
             },
+            "entities": [
+                "www.themicsareopenpodcast.com",
+                "Mics Are Open Merchandise",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/45---Its-2020--Share-Your-Passwords-With-Her----The-Monday-Not-So-Minisode-enfqj1",
             "guid": "9861eab8-bf9d-404c-bd30-a77d15665a12",
@@ -3133,6 +3898,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/23468912/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-3%2Fe51aef78-48e7-2610-5e5b-d6d5b633abf3.mp3"
             },
+            "entities": [
+                "Today",
+                "https://anchor.fm/conrad-gray4/support",
+                "YouTube"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/84---When-Its-Time-To-Go--Its-Time-To-Go-enandg",
             "guid": "fb823f79-9953-4e50-808f-74306edc0ef5",
@@ -3155,6 +3925,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/23305599/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-30%2F446cb933-ffd1-61fe-4acb-29c10fd90ac5.mp3"
             },
+            "entities": ["https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/44---Ego-Death---The-Monday-Minisode-en5ntv",
             "guid": "3c7b6e1b-17b7-4dcc-a55e-67121a1fd147",
@@ -3177,6 +3948,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/23155380/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-26%2Fffba6228-c469-33e6-847f-f7ac10713840.mp3"
             },
+            "entities": [
+                "Gengetone",
+                "This weeks",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/83---Real-Men-Dont-Do-That-en157k",
             "guid": "68744270-6a0d-49b2-9791-42e8720817ce",
@@ -3199,6 +3975,15 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/23104546/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-25%2F3a6aae53-35eb-c005-54a9-caa9922271a3.mp3"
             },
+            "entities": [
+                "Head of Brand Marketing and Communications",
+                "the future",
+                "Kenya",
+                "Kenyan",
+                "https://anchor.fm/conrad-gray4/support",
+                "20 years",
+                "Safaricom House"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/The-Mics-Are-Open---Safaricom--20-Edition---Special-guest-Caroline-Kendi-emvjj2",
             "guid": "6e7762e7-3e90-4921-a748-f265f60f41a3",
@@ -3221,6 +4006,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/23009939/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-23%2F2ed698d6-d749-4539-45fe-f7584912324a.mp3"
             },
+            "entities": [
+                "Monday",
+                "today",
+                "Kenya",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/43---At-Least-Two-Of-Us-Are-Legal----The-Monday-Minisode-emsn6j",
             "guid": "1ec6e00e-53b4-4dfb-92be-0c9a3b2b7f96",
@@ -3243,6 +4034,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/22836146/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-19%2F12b38f2d-3bab-c601-c3c6-a47c8ba4eae6.mp3"
             },
+            "entities": [
+                "today",
+                "Holy Books",
+                "Ark",
+                "https://anchor.fm/conrad-gray4/support",
+                "Noah"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/82---Fam---Ive-Had-To-Put-My-DMs-On-Private--Im-Hot-Property-emndfi",
             "guid": "7c63bed5-ea33-4820-889a-1dd5474675fb",
@@ -3265,6 +4063,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/22666098/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-16%2F0f42b2fe-f776-5f47-6a48-2b76e056aa23.mp3"
             },
+            "entities": [
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "2 years later",
+                "this weeks"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/42---Whipping-The-Head-In-The-Whip----The-Monday-Minisode-emi7di",
             "guid": "45c94e05-fe71-4f28-b344-bc5220363c34",
@@ -3287,6 +4091,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/22500802/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-12%2F76a8f1b5-ebfd-d698-1298-a545ae5a33d5.mp3"
             },
+            "entities": [
+                "This week",
+                "Calvin",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/81---The-Night-G-Money-Slapped-Big-C-emd602",
             "guid": "ff069117-8cfa-4353-9542-1ffc0c2490e1",
@@ -3309,6 +4118,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/22335844/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-9%2F7bd2743b-0f75-2288-03dd-d7f77f95d104.mp3"
             },
+            "entities": ["https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/41---Calvin-Confesses---The-Monday-Minisode-em84t4",
             "guid": "17a5e95d-8bdf-4b5c-b201-c5bddefcb58e",
@@ -3331,6 +4141,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/22164483/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-5%2F5b916eb8-535a-3426-5dc9-d5d27bb3ad61.mp3"
             },
+            "entities": [
+                "Calvin",
+                "his",
+                "Eric Njiru",
+                "https://anchor.fm/conrad-gray4/support",
+                "8 years",
+                "morning"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/80---Calvin-Leaves-Orange-House----Featuring-Eric-Njiru-em2ti3",
             "guid": "3fac844c-1268-4027-841c-99b41f1ff6b9",
@@ -3353,6 +4171,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/21995202/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-2%2F6ad1b3cb-617c-dd75-b339-7b0cff12376e.mp3"
             },
+            "entities": ["Today", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/40---Its-Candy-Andy-Baby--Drop-Dem-Drawers----The-Monday-Minisode-elto82",
             "guid": "b2b6a847-74cc-4b16-b8a1-14fc0c716647",
@@ -3375,6 +4194,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/21835550/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-29%2F52a1ffba-9ac4-8fa1-c110-76d71e42a89d.mp3"
             },
+            "entities": [
+                "This week",
+                "Calvin",
+                "today",
+                "Ashley",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/79---Is-It-Okay-To-Belong-To-The-Streets----Feat-Ashley-elosau",
             "guid": "c78d5537-eb06-4187-86da-67f2d987a8aa",
@@ -3397,6 +4223,12 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/21664346/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-26%2F122249971-44100-2-9c5bc77d5d353.m4a"
             },
+            "entities": [
+                "Monday",
+                "Evening",
+                "HIV",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/39---And-Now-Youre-Positive-At-3-33am---The-Monday-Minisode-eljl4q",
             "guid": "09ce7cf5-e9ed-4981-8d48-4d8e05d9881b",
@@ -3419,6 +4251,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/21498596/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-22%2Fd8516d39-0896-c109-7598-94a9b83e9a4a.mp3"
             },
+            "entities": [
+                "this week",
+                "https://anchor.fm/conrad-gray4/support",
+                "Two"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/78---If-You-Wash-My-Chest--Ill-Wash-Your-Titties-elej94",
             "guid": "64a682d7-eae5-4264-89d9-1d482b0d660a",
@@ -3441,6 +4278,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/21330071/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-19%2F8b90fe45-9182-2ee5-0ee5-a731e8daa371.mp3"
             },
+            "entities": [
+                "<p>It's",
+                "Monday",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/38---Just--Me---The-Monday-Minisode-el9emn",
             "guid": "572b7264-e944-495a-820b-aa9158557f3e",
@@ -3463,6 +4305,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/21149261/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-15%2Fedaff7a9-b0e0-00a4-c770-0f2c48fc5e21.mp3"
             },
+            "entities": [
+                "his",
+                "guard",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/77---For-Me--Its-When-Andy-Said-The-Condom-Burst-el3u4d",
             "guid": "8f7ec110-13f8-4297-a60a-f93e51eb6190",
@@ -3485,6 +4333,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/20977891/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-12%2F28c5436d-4a8f-d9a6-1bf3-b19502691ef4.mp3"
             },
+            "entities": [
+                "Monday",
+                "Mondays",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/37---The-Heartbreak-Hotel---The-Monday-Minisode-ekump3",
             "guid": "9a6f23d1-a8f4-4e2e-92bf-77c9880da941",
@@ -3507,6 +4360,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/20803705/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-8%2Fcfcd7a07-d062-4600-4b5b-bfabbaebbab2.mp3"
             },
+            "entities": ["https://anchor.fm/conrad-gray4/support", "Andy"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/76---Lions-Eat-Alone-ekpclp",
             "guid": "ab63fe78-c30c-4e2e-9eac-a2325b1bf2a1",
@@ -3529,6 +4383,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/20644268/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-5%2F185ba2e1-105e-ee5d-ceea-d07d53960e0e.mp3"
             },
+            "entities": [
+                "3",
+                "Donald Trump",
+                "the weekend",
+                "today",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/36---Do-You-Believe-In-Ghosts----The-Monday-Minisode-ekkgvc",
             "guid": "dc85ffcf-913b-49b7-9a58-95353bafc15e",
@@ -3551,6 +4412,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/20464290/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-1%2F41d3c4c5-b429-aeb4-a16f-f191f3486e49.mp3"
             },
+            "entities": [
+                "Biden",
+                "Nigerian",
+                "https://anchor.fm/conrad-gray4/support",
+                "Trump"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/75-No-Plan--Just-Vibes-ekf172",
             "guid": "dc033c58-23ba-49c4-8a67-27e02f3ffed8",
@@ -3573,6 +4440,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/20293343/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-28%2Ff813d382-f754-8ac8-ed0c-a9b1187d5fb6.mp3"
             },
+            "entities": [
+                "night",
+                "https://anchor.fm/conrad-gray4/support",
+                "Mombasa"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/35-We-Are-Free--The-Bars-Are-Open----The-Monday-Minisode-ek9q8v",
             "guid": "1ce582e0-4022-4f99-a58f-9cc657cd5a63",
@@ -3595,6 +4467,16 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/20115477/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-24%2Fb23833bc-b16d-803d-bad7-7ef75eb1c197.mp3"
             },
+            "entities": [
+                "she",
+                "Today",
+                "Calvin",
+                "today",
+                "Ashley",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "day"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/74---If-I-Was-A-Girl------And-Other-Short-Stories-ek4cil",
             "guid": "fb43b01c-c08e-419a-9ede-342391fba791",
@@ -3617,6 +4499,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/19940565/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-21%2Fe6c54dfb-44f4-3633-e270-74fd4c54f221.mp3"
             },
+            "entities": ["https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/34--Mandem--Buy-Your-Own-PS5----The-Monday-Mini-Sode-ejv1ol",
             "guid": "26917e1c-38f2-4e17-b122-5691d875e39c",
@@ -3639,6 +4522,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/19765873/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-17%2F564ac01b-e771-cf94-1664-63e1fa74d2f7.mp3"
             },
+            "entities": [
+                "Cardi",
+                "today",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/73---I-Just-Wanna-See-My-Kids---ejpn5h",
             "guid": "03e88007-2ff5-4206-a9b7-6c6e1c06a072",
@@ -3661,6 +4549,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/19580979/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-14%2Fee42e61f-c957-5c93-1c7c-529fe49101bd.mp3"
             },
+            "entities": [
+                "This week",
+                "fire",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/33---Only-Nia-In-1st-Class---the-Monday-Minisode-ejk2jj",
             "guid": "734d53ba-ffa7-46ab-ac72-b98ecdb2ffd9",
@@ -3683,6 +4576,7 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/19213863/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-09-13%2F55c39de7ea6364baaecb996868cebce4.m4a"
             },
+            "entities": ["https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/32-Who-Gave-You-Permission-To-Slide-Into-Our-DMs----The-Monday-Minisode-ej8s37",
             "guid": "6299d72c-24a6-4ff9-b8b3-c1724f1ab55f",
@@ -3705,6 +4599,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/19384050/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-10%2Fba1c32ba-a37e-80d2-5cc4-c8d6f8237313.mp3"
             },
+            "entities": [
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "Drake"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/72---Broke-People-Need-Love-Too-eje29i",
             "guid": "e284b17c-0b15-4bb9-8426-b0c06604317d",
@@ -3727,6 +4626,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/19054969/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-4%2Fd703fc2b-89bf-db93-c381-4504fb71e6f6.mp3"
             },
+            "entities": [
+                "Bruce",
+                "Neville",
+                "today",
+                "Capital FM",
+                "https://anchor.fm/conrad-gray4/support",
+                "Dubai"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/71---No-Masks--No-Love-ej40tp",
             "guid": "9bc63bf3-69a6-44a1-a8bb-b061740629ea",
@@ -3749,6 +4656,10 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/18860300/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-31%2F77b457fb-08c5-6efc-cecf-169eb8ad26b1.mp3"
             },
+            "entities": [
+                "Chadwick Boseman",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/31---Wakanda-Forever-----The-Monday-Minisode-eiu2qc",
             "guid": "214c2ef3-5d3d-4f11-8d78-52642e06f746",
@@ -3771,6 +4682,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/18666084/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-27%2F21a09704-354d-2e90-af5e-80fe0ef733be.mp3"
             },
+            "entities": [
+                "Today",
+                "Athletics",
+                "Fire",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/70-How-To-Marinate-Your-Housey--The-Gospel-According-To-Calvin-eio554",
             "guid": "d8581af6-b88d-4f70-ae28-5880b9d0803c",
@@ -3793,6 +4710,11 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/18512903/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-24%2F101117059-44100-2-139092afa5892.m4a"
             },
+            "entities": [
+                "Episode",
+                "https://anchor.fm/conrad-gray4/support",
+                "Mics Are Open"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/30---I-Went-To-Day-School--I-Cant-Relate---Clap-Them-Cheeks-Part-2---The-Monday-Minisode-eijfi7",
             "guid": "97aeaf93-f1f4-472d-b5d8-78b015737439",
@@ -3815,6 +4737,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/18332550/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-20%2Fb098d34e-cf89-c841-3987-b12e718fa07f.mp3"
             },
+            "entities": ["intern", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/69-Clap-Those-Cheeks-eidve6",
             "guid": "50291449-d9cb-438f-9cb7-dcbf86cf4fa5",
@@ -3837,6 +4760,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/18171609/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-17%2F834d0315-3b5d-1131-08be-c47f52004457.mp3"
             },
+            "entities": [
+                "1st",
+                "10 mins",
+                "Calvin",
+                "this week",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/29-Poor-People-Land---The-Monday-Minisode-ei928p",
             "guid": "3b46da03-61dd-448a-b1a5-7a23e2ed67f7",
@@ -3859,6 +4789,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/17993616/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-13%2Fa5935dcf-8e8a-8847-4765-53a82a6730d1.mp3"
             },
+            "entities": [
+                "Calvin",
+                "the day",
+                "https://anchor.fm/conrad-gray4/support",
+                "two"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/68-No-More-Excuses--Hand-In-Your-Homework-Now-ei3keg",
             "guid": "a59fb22d-d7af-49b6-b9f4-87d4bc92779b",
@@ -3881,6 +4817,10 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/17832885/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-10%2F1cf94b56-b5a6-f579-1381-ca0821a83d50.mp3"
             },
+            "entities": [
+                "This weeks",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/28---What-Do-You-Call-A-Na-On-A-Bike----The-Monday-Minisode-ehunfl",
             "guid": "74450790-2da8-481d-a52d-9ccf80e7ce35",
@@ -3903,6 +4843,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/17697910/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-7%2Febce8b3c-8ebc-13c8-f3b8-1f5619ac5972.mp3"
             },
+            "entities": [
+                "Bruh",
+                "https://anchor.fm/conrad-gray4/support",
+                "this weeks"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/67---Yo-2020--Man-Up-And-Just-Send-In-The-Aliens--Lets-Finish-This-Story-ehqjlm",
             "guid": "9bee74f0-0374-4258-89f2-88b2633c64d5",
@@ -3925,6 +4870,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/17496552/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-3%2F74b5e2b1-baf4-b48f-a64d-cec3ba834cd6.mp3"
             },
+            "entities": [
+                "Wiley",
+                "Beyonce",
+                "today",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/27---Black-Is-King--But-Bey-Aint-Mama-Africa----The-Monday-Minisode-ehkf18",
             "guid": "63465b99-84d3-483c-9e41-c1480599372a",
@@ -3947,6 +4898,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/17344143/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-31%2F6f13b2f1-1448-2d04-7b4c-01a20311890d.mp3"
             },
+            "entities": [
+                "This weeks",
+                "https://anchor.fm/conrad-gray4/support",
+                "stroke"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/66---So-What-If-The-Kid-Aint-Mine--The-Podcast-that-should-never-have-been-made-ehfq6f",
             "guid": "1694af1e-3c4e-40cf-a00f-005d392f3b6d",
@@ -3969,6 +4925,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/17221087/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-28%2F52607fde-6e4b-fd88-359b-729e8aaecffb.mp3"
             },
+            "entities": [
+                "Wiley",
+                "Anti Semitism",
+                "today",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/26---If-Your-Mom-In-Law-Has-Tattoos--She-Gets-The-Front-Seat----The-Late-Monday-Minisode-ehc20v",
             "guid": "831b5310-cd44-4d8f-bfb0-00d9adf25a59",
@@ -3991,6 +4953,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/17164658/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-27%2Fcc42ae17-9501-3689-7aeb-696aab8400ae.mp3"
             },
+            "entities": ["https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/NOT-THE-MONDAY-MINISODE-ehaati",
             "guid": "a20df77d-b929-4f6a-9baa-64f7d07ea4b8",
@@ -4013,6 +4976,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/16986868/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-23%2F4a9979c0-f5e4-8635-d614-cc60b7d9ef0a.mp3"
             },
+            "entities": [
+                "This week",
+                "Nairobi",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/65---Sometimes-Its-Not-About-Who-Hit-It-First-eh4t9k",
             "guid": "5ecc5382-6330-412a-8d12-accdf4680f87",
@@ -4035,6 +5003,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/16835172/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-20%2F08bdddc3-51b4-309d-fdff-9dccaa1eb47e.mp3"
             },
+            "entities": ["this week", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/25---Friends--how-many-of-us-have-them----The-Monday-Minisode-eh0954",
             "guid": "1eb2ad7a-4bbe-4f86-b24a-fc32377397c9",
@@ -4057,6 +5026,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/16664858/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-16%2Ff93ed001-f818-5d23-c7a9-718f37a97a8b.mp3"
             },
+            "entities": ["she", "9", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/64---Sextoy-Shopping-egr2qq",
             "guid": "e31f9e5b-b0c3-4ec7-95be-bc6b82f34170",
@@ -4079,6 +5049,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/16510739/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-13%2Ff4368dbc-51ef-6d08-5552-7afcaa62f392.mp3"
             },
+            "entities": [
+                "this week",
+                "one",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/24---Say-No-To-That-Will-and-Jada-Type-Love---The-Monday-Minisode-egmcaj",
             "guid": "261d1ca8-89b4-43bd-92de-0d929629c489",
@@ -4101,6 +5076,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/16387252/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-10%2F9e22052f-52a2-3f19-c461-73612ee6be55.mp3"
             },
+            "entities": ["https://anchor.fm/conrad-gray4/support", "Andy"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/63---BREAKING-NEWS--Andy-belongs-the-streets--Finally-egijnk",
             "guid": "8e5ac2c5-53a5-41d4-a285-cf8a97eabb24",
@@ -4123,6 +5099,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/16203770/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-6-6%2F88081032-48000-2-a5c3a3a092581.mp3"
             },
+            "entities": [
+                "President",
+                "Nairobi",
+                "Calvin",
+                "Will Smith",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/23---I-Only-Have-One-Wife----The-Monday-Minisode-egd0hq",
             "guid": "58220267-3ea6-47a6-a9ae-3ff7ae2d80f0",
@@ -4145,6 +5129,15 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/16022982/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-6-2%2F87068833-48000-2-ee7c59684de4c.mp3"
             },
+            "entities": [
+                "she",
+                "Jada",
+                "about",
+                "Villain",
+                "August Alsina",
+                "https://anchor.fm/conrad-gray4/support",
+                "he"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/62---Fk-That-Woman-In-Silence-eg7g06",
             "guid": "8fe5441b-5aa8-49e3-a207-f88e5e27021f",
@@ -4167,6 +5160,15 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/15886961/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-29%2F86293319-48000-2-388f502a2bcc7.mp3"
             },
+            "entities": [
+                "She",
+                "she",
+                "Calvin",
+                "her",
+                "Ashley",
+                "https://anchor.fm/conrad-gray4/support",
+                "FIFA"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/22-Ashley-Shot-Her-Shot----The-Monday-Minisode-eg3b5h",
             "guid": "07f4e0c8-48b9-422f-9de1-fd9613211de5",
@@ -4189,6 +5191,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/15735037/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-26%2F85445481-48000-2-7d342b372f01c.mp3"
             },
+            "entities": [
+                "Calvin",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "this weeks",
+                "Christ"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/61---Dating-in-Nairobi-and-Other-Short-Stories-efumpt",
             "guid": "b0ba56a7-4ffa-4e62-940c-1143fce3cdd1",
@@ -4211,6 +5220,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/15599211/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-23%2F84672855-48000-2-63fcfdf57c86a.mp3"
             },
+            "entities": ["https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/21---F---Ck-Off-With-Your-Socks----The-Late-Monday-Minisode-efqi5b",
             "guid": "633f2290-1849-482d-b719-74c40030cac9",
@@ -4233,6 +5243,16 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/15407324/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-19%2F83578886-44100-2-6ffdb63c0f0f5.mp3"
             },
+            "entities": [
+                "Lads",
+                "ASHLEY",
+                "10 minutes",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "him",
+                "he",
+                "first"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/60---Someone-Save-Andy--We-Need-An-Intervention-efkmos",
             "guid": "8f0309ba-06cd-4c19-906f-768a6c40112b",
@@ -4255,6 +5275,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/15214235/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-15%2F82436330-48000-2-99980f3a4c7d7.mp3"
             },
+            "entities": [
+                "1",
+                "2",
+                "3",
+                "today",
+                "https://anchor.fm/conrad-gray4/support",
+                "Dave Chapelle"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/20---Im-Rich-Bitch----The-Monday-Minisode-efeq6r",
             "guid": "086b654c-c477-47a3-b8e2-c7810eae6f05",
@@ -4277,6 +5305,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/15075366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-12%2F81602262-48000-2-ec12ee99d16f8.mp3"
             },
+            "entities": [
+                "Calvin",
+                "Friday",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "Mics Are Open",
+                "Mics Are Open Crew"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/59---Black--Beautiful-and-Pissed-Off-efaij6",
             "guid": "67af420c-bd13-43bc-98a2-f451ecc842e9",
@@ -4299,6 +5335,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/14915761/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-8%2F80590837-44100-2-2b4e8dc115b92.mp3"
             },
+            "entities": ["Rambo", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/19---Tinky-Winky--Dipsy--Lala-and-Po---The-Monday-Minisode-ef5mnh",
             "guid": "14088268-eecd-43e3-8d52-8026cdf53207",
@@ -4321,6 +5358,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/14751261/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-4%2F79503810-44100-2-c1c1871a6fc5.mp3"
             },
+            "entities": ["3", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/58---Yo--2020-IS-WILD-ef0m2t",
             "guid": "adcb944f-0728-4fd0-a8ae-1cbd239d5116",
@@ -4343,6 +5381,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/14594948/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-1%2F78604385-44100-2-c2c135ee21711.mp3"
             },
+            "entities": ["This week", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/18---Do-White-People-Even-Get-it----The-Monday-Minisode-eerte4",
             "guid": "99110c02-d8bb-4fd2-9401-faa3c09e55ad",
@@ -4365,6 +5404,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/14452548/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-29%2F77701844-48000-2-2dc6ad38793a6.mp3"
             },
+            "entities": [
+                "murder",
+                "Calvin",
+                "George Floyd",
+                "DJ",
+                "https://anchor.fm/conrad-gray4/support",
+                "about this week"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/57---Meet-Me-At-The-Altar-In-Your-White-Dress-Calvins-Room-eenic4",
             "guid": "1fb3c13e-932e-4c5f-81a9-e04b9dca9658",
@@ -4387,6 +5434,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/14263021/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-25%2F76475455-48000-2-e143754bd091a.mp3"
             },
+            "entities": [
+                "weekend",
+                "Bounti Killa",
+                "Beenie Man",
+                "https://anchor.fm/conrad-gray4/support",
+                "first"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/17-Do-You-Want-To-Be-That-Guy--The-Monday-Minisode-eehp9d",
             "guid": "7c4d5e87-1c68-4839-8786-e7c4f09643f9",
@@ -4409,6 +5463,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/14121716/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-22%2F75586469-48000-2-c00d3872de542.mp3"
             },
+            "entities": [
+                "R. Kelly",
+                "Boys Club",
+                "start this week",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/56---1-800-Dial-A-Dick-eedf9k",
             "guid": "96ae2899-c342-465c-8cd5-5fa75ee39036",
@@ -4431,6 +5492,10 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/13929230/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-18%2F74345645-48000-2-8eb8f7d75e08b.mp3"
             },
+            "entities": [
+                "Michael Jordan",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/16---Keep-White-People-Away-From-Wildlife---The-Monday-Minisode-ee7jae",
             "guid": "9f8b1de4-9959-4114-b380-6d9ec4317369",
@@ -4453,6 +5518,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/13786409/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-15%2F73381574-48000-2-bd5bcfd591f35.mp3"
             },
+            "entities": [
+                "This week",
+                "Calvin",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/55---I-Prefer-My-Nuts-Unlicked-ee37r9",
             "guid": "9ebce6fc-8a5a-40bd-9e89-5620100e33d1",
@@ -4475,6 +5546,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/13595744/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-11%2F72141845-48000-2-2ddcaa77d42d7.mp3"
             },
+            "entities": ["https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/15---Im-Not-A-Snitch--Just-dont-let-me-see-you-doing-it-edtdl0",
             "guid": "0f80bc3a-7c44-4cc0-9023-700e0e4c20f1",
@@ -4497,6 +5569,10 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/13423414/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-7%2F71008184-48000-2-2b2d082452c78.mp3"
             },
+            "entities": [
+                "Mariah Carey",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/54---We-Belong-Together-edo5bm",
             "guid": "55b4312d-ad60-4b4c-a689-b996c0f7cada",
@@ -4519,6 +5595,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/13276657/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-4%2F70085706-44100-2-5b07669fd126a.mp3"
             },
+            "entities": [
+                "Today",
+                "https://anchor.fm/conrad-gray4/support",
+                "Wiz Kid",
+                "Vybz Kartel"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/14---I-Am-Tired-Of-This-Shit---The-Monday-Minisode-edjm1h",
             "guid": "9a462c7c-1ef8-4dde-95c8-9a1ba85b3035",
@@ -4541,6 +5623,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/13149925/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-1%2F69218125-48000-2-1558e95ce3aca.mp3"
             },
+            "entities": [
+                "This week",
+                "Calvin",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "he"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/53-Are-We-Still-Kissing-edfq95",
             "guid": "2fe5451e-78ba-4fe7-a38d-9b53a86e601d",
@@ -4563,6 +5652,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/12976506/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-27%2F68064255-48000-2-5b93dde680264.mp3"
             },
+            "entities": ["https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/13---I-dont-really-miss-you--Im-just-horny-edagtq",
             "guid": "704319aa-718d-4ae5-a8db-daf92e4c0ea7",
@@ -4585,6 +5675,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/12845430/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-24%2F67188872-48000-2-d47b75b6ba42e.mp3"
             },
+            "entities": [
+                "year",
+                "One",
+                "https://anchor.fm/conrad-gray4/support",
+                "52"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/52---Are-you-still-waiting-for-us-to-break-up-ed6gtm",
             "guid": "fd052ae3-73b3-43a5-ad81-67331a5e5355",
@@ -4607,6 +5703,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/12672531/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-20%2F66092699-48000-2-5187dace3a825.mp3"
             },
+            "entities": ["https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/12-Fam--you-cant-call-my-Mom-by-her-first-name-ed182j",
             "guid": "61a3a75a-3cac-4f67-b672-40d57d656b64",
@@ -4629,6 +5726,16 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/12536004/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-17%2F65239059-48000-2-e2836796bdd8d.mp3"
             },
+            "entities": [
+                "Covid",
+                "This week",
+                "Calvin",
+                "his",
+                "a month",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "flood"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/51---The-Day-Andy-Made-it-Rain-ect2o4",
             "guid": "3fd5c271-d761-477f-9073-b8c8ae9c6e6f",
@@ -4651,6 +5758,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/12369443/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-13%2F64165854-48000-2-f0036a39a586.mp3"
             },
+            "entities": [
+                "3",
+                "Calvin",
+                "Corona House",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/11-Guess-Whos-Coming-To-Dinner----The-Monday-Minisode-eco033",
             "guid": "d72cf05d-58dc-4a07-bfc5-96b13feec0dd",
@@ -4673,6 +5786,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/12257487/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-10%2F63378906-48000-2-0208cbee8fb4e.mp3"
             },
+            "entities": ["This week", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/50---We-are-in-ISO-LOTION-eckiof",
             "guid": "05c65ad7-eb77-4018-8798-a8f515160cc5",
@@ -4695,6 +5809,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/12081561/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-6%2F62221646-48000-2-69a3b1b3ce1aa.mp3"
             },
+            "entities": [
+                "ONCE",
+                "today",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/10---Distant-Podcasters----The-Monday-Minisode-ecf6up",
             "guid": "9ac6026f-c6ca-480e-9a9e-fccf516c843f",
@@ -4717,6 +5836,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/11941971/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-3%2F61370201-48000-2-18d1d3072197b.mp3"
             },
+            "entities": [
+                "Lads",
+                "3",
+                "Calvin",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "he"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/49-Corona-Lite--Corona-Malt--Corona-Stout-ecaukj",
             "guid": "017e4c4d-a6d2-4fec-a36a-f041103bfc28",
@@ -4739,6 +5866,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/11758397/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-2-30%2F60238008-48000-2-86d71755bf6a3.mp3"
             },
+            "entities": ["Monday", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/09---F-k-Dem-Kids----The-Monday-Minisode-ec5bbt",
             "guid": "6afe90cb-0c28-4a68-b686-e2c3e2c59d8a",
@@ -4761,6 +5889,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/11665350/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-2-28%2F59724420-48000-2-2089edeae7a7a.mp3"
             },
+            "entities": [
+                "this week",
+                "19",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/48---Covid-19-will-make-me-better-ec2gg6",
             "guid": "33841516-6cac-4dce-a25a-cf01895803be",
@@ -4783,6 +5916,15 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/11417805/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-2-23%2F58361448-48000-2-451c18f110121.mp3"
             },
+            "entities": [
+                "This weeks Monday",
+                "20 minutes",
+                "now",
+                "<p>",
+                "Corona",
+                "https://anchor.fm/conrad-gray4/support",
+                "Fapping"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/08---Stay-Home--Stay-Safe---Stay-The-F--k-Away-From-Me---The-Monday-Minisode-ebquod",
             "guid": "https://anchor.fm/conrad-gray4/episodes/08---Stay-Home--Stay-Safe---Stay-The-F--k-Away-From-Me---The-Monday-Minisode-ebquod",
@@ -4805,6 +5947,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/11288700/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-2-20%2F57661793-48000-2-fb78e183303de.mp3"
             },
+            "entities": [
+                "G Money",
+                "his",
+                "Usher",
+                "today",
+                "https://anchor.fm/conrad-gray4/support",
+                "him"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/47---Its-Not-Quarantine--We-Just-Dont-like-You-ebn0ls",
             "guid": "https://anchor.fm/conrad-gray4/episodes/47---Its-Not-Quarantine--We-Just-Dont-like-You-ebn0ls",
@@ -4827,6 +5977,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/11009504/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-2-11%2F56003695-48000-2-9c9c91e01a697.mp3"
             },
+            "entities": [
+                "Monday",
+                "<p>Another",
+                "West Africa",
+                "Morning",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/07-Fake-G-Exposed-----The-Monday-Minisode-ebeg10",
             "guid": "https://anchor.fm/conrad-gray4/episodes/07-Fake-G-Exposed-----The-Monday-Minisode-ebeg10",
@@ -4849,6 +6006,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/11009639/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-2-11%2F56004448-48000-2-8704d7393a5bb.mp3"
             },
+            "entities": [
+                "This week",
+                "Nairobi",
+                "West Africa",
+                "Lagos",
+                "https://anchor.fm/conrad-gray4/support",
+                "Bill Clinton"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/46-Cheating-Cured-My-Anxiety-ebeg57",
             "guid": "https://anchor.fm/conrad-gray4/episodes/46-Cheating-Cured-My-Anxiety-ebeg57",
@@ -4871,6 +6036,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/10861135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-2-6%2F54895356-48000-2-23a471dad2433.mp3"
             },
+            "entities": ["Today", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/06---We-Love-The-Police---The-Monday-Minisode-eb9v4f",
             "guid": "3c73fa6f-ffa8-40ee-b019-8c3748972030",
@@ -4893,6 +6059,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/10843255/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-2-5%2F54744172-48000-2-34139a32ae422.mp3"
             },
+            "entities": [
+                "Lads",
+                "today",
+                "50 percent",
+                "50",
+                "https://anchor.fm/conrad-gray4/support",
+                "50/50"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/45-No-Rubbers--but-youre-wearing-a-face-mask-eb9dln",
             "guid": "19312242-7b99-45ed-8bfe-2f6007fd5e85",
@@ -4915,6 +6089,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/10663188/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-27%2F52798538-48000-2-065f8cdc693d7.mp3"
             },
+            "entities": [
+                "MONDAY",
+                "10 MINS",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/05---Who-Can-Give-Up-Pum-Pum-For-Lent----The-Monday-Minisode-eb3tqk",
             "guid": "f29b722a-bdc6-417c-93ee-c78d1054ccb4",
@@ -4937,6 +6116,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/10663116/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-28%2F53124713-48000-2-f0ff6f7d79aaf.mp3"
             },
+            "entities": [
+                "This week",
+                "Calvin",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/44---What-The-F----k-Is-A-Sister-Wife-eb3toc",
             "guid": "406a4a83-7ee7-4b64-97c3-9aae77e15679",
@@ -4959,6 +6144,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/10504004/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-20%2F51407106-48000-2-78c55ba4e1d67.mp3"
             },
+            "entities": [
+                "Monday",
+                "TODAY",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/04---We-survived-Syphillis--WTF-is-Corona----The-Monday-Minisode-eav2c4",
             "guid": "8adf559b-70e4-4f8c-b274-1855130d92f1",
@@ -4981,6 +6171,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/10503534/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-20%2F51401330-48000-2-80579a56931c5.mp3"
             },
+            "entities": [
+                "six",
+                "Calvin",
+                "his",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/43---Nobodys-Wife-Is-Safe-eav1te",
             "guid": "acc91e3b-f36d-4928-a756-da5737d7d4ff",
@@ -5003,6 +6200,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/10427703/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-17%2F50251704-48000-2-a1301e786e8a.mp3"
             },
+            "entities": [
+                "Today",
+                "Nairobi",
+                "Monday",
+                "Kenya",
+                "https://anchor.fm/conrad-gray4/support",
+                "surgery"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/03-Where-has-all-the-Viagra-gone----The-Monday-Minisode-easnrn",
             "guid": "83d4d4a9-3ccf-4ead-ab2d-ef4fe5c1252e",
@@ -5025,6 +6230,15 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/10375275/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-14%2F49045080-48000-2-df52705302aa6.mp3"
             },
+            "entities": [
+                "Calvin",
+                "today",
+                "night",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "him",
+                "morning"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/42---Andy-has-left-the-building-and-now-we-all-need-therapy---ear4lb",
             "guid": "c2362372-6479-4e26-9702-776382b2880d",
@@ -5047,6 +6261,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/10282328/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-10%2F47624795-48000-2-0b85fdbb6e681.mp3"
             },
+            "entities": [
+                "<p>Time to kickstart",
+                "Monday",
+                "this week",
+                "Moi",
+                "https://anchor.fm/conrad-gray4/support",
+                "Ruaka"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/02-Dead-Presidents---The-Monday-Minisode-eao9so",
             "guid": "6853fec5-a4fd-400d-a102-775bbac48583",
@@ -5069,6 +6291,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/10224937/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-7%2F47191629-48000-2-71b0cb4353a3d.mp3"
             },
+            "entities": [
+                "Uber",
+                "this week",
+                "Kenyan",
+                "ODB",
+                "https://anchor.fm/conrad-gray4/support",
+                "roller"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/41-The-Triple-P-Edition-Pum-Pum--Porn-and-Positivity-eamhr9",
             "guid": "f72d06ed-0ebf-41f7-a434-e74e2826da4a",
@@ -5091,6 +6321,15 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/10059061/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-30%2F45896595-48000-2-aa4b374a13d82.mp3"
             },
+            "entities": [
+                "This week",
+                "right now",
+                "3",
+                "his",
+                "Jesus",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/40-Corona-Cant-Stop-Us-eahfrl",
             "guid": "6c7cb3d3-01c7-497d-8a5e-d7a95330844e",
@@ -5113,6 +6352,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/9976117/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-27%2F45352412-48000-2-7151d21dd35f.mp3"
             },
+            "entities": [
+                "Monday",
+                "Friday",
+                "Mics are Open",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/01-Smoke-and-Mirrors---The-Monday-Mini-sode-eaeurl",
             "guid": "5f8e14d7-b357-4f0a-b9ca-7b6700dc2e20",
@@ -5135,6 +6380,16 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/9911358/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-24%2F44931300-48000-2-ac47fa5dbede5.mp3"
             },
+            "entities": [
+                "G Money",
+                "Calvin",
+                "today",
+                "Africa",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "he",
+                "him"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/39---Dont-Leave-Your-Mom-Around-Me--True-Player-for-real-eacvju",
             "guid": "0edac897-0748-4f4a-9544-e612892ed977",
@@ -5157,6 +6412,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/9751105/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-17%2F43862571-44100-2-14c548956b55c.mp3"
             },
+            "entities": [
+                "Calvin",
+                "today",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/38---Witch-Doctor-Vs-Which-Doctor-ea8341",
             "guid": "6e16bb79-f98f-489c-a7a1-a32ad77de601",
@@ -5179,6 +6440,20 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/9600739/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-10%2F42847161-48000-2-d6082797e7dc7.mp3"
             },
+            "entities": [
+                "G Money",
+                "Prince",
+                "3",
+                "Calvin",
+                "Harry",
+                "This weeks",
+                "Pum Pum",
+                "War",
+                "World",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "he"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/37---Choke-The-Monkey-Before-World-War-3-ea3g93",
             "guid": "fcf7b6ce-45a8-470d-aa16-30c01c846247",
@@ -5201,6 +6476,15 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/9464672/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-3%2F41801823-44100-2-2264149cbac4d.mp3"
             },
+            "entities": [
+                "This week",
+                "2",
+                "Accra",
+                "Nairobi",
+                "Calvin",
+                "https://anchor.fm/conrad-gray4/support",
+                "January"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/36-Lingerie-in-the-Living-Room-e9vbd0",
             "guid": "7e8ed43a-cdd8-4ecd-9aa5-f1a26ac46ff6",
@@ -5223,6 +6507,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/9333646/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-27%2F40866914-44100-2-a0e44f61adc6c.mp3"
             },
+            "entities": [
+                "Christmas",
+                "Calvin",
+                "his",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "Afro-Man"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/35-Before-I-Got-High-e9rbee",
             "guid": "674d18d9-e6d8-462d-a1db-bd78249d8bb0",
@@ -5245,6 +6537,16 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/9163752/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-20%2F39893549-48000-2-1e80848aac5e7.mp3"
             },
+            "entities": [
+                "G Money",
+                "Christmas",
+                "Calvin",
+                "12pm",
+                "Ashley",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "3am"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/34-We-Belong-To-the-Streets-e9m5h8",
             "guid": "68f386b6-bfff-4879-a81b-1a797f080b98",
@@ -5267,6 +6569,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/8981428/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-13%2F38422027-48000-2-4336a3a5b4be9.mp3"
             },
+            "entities": [
+                "This week",
+                "Calvin",
+                "muslim",
+                "100000",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/33---Your-Moms-Hot-e9gjfk",
             "guid": "a511f377-d29a-251c-52ab-3553bebd8a09",
@@ -5289,6 +6599,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/8843493/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-6%2F36874720-48000-2-aeaa56cbf45fb.mp3"
             },
+            "entities": ["This week", "https://anchor.fm/conrad-gray4/support"],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/32-I-Love-You--I-Just-Cant-Say-It-e9ccp5",
             "guid": "0b5c34d1-8b56-a68f-6301-4ac35a38e18d",
@@ -5311,6 +6622,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/8615177/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-23%2F35379937-48000-2-12ec7e347b2a.mp3"
             },
+            "entities": [
+                "This week",
+                "Summer",
+                "https://anchor.fm/conrad-gray4/support",
+                "this December"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/31-Bitch-Better-Have-My-Money-e95dq9",
             "guid": "14c060f0-3cf6-17bd-d5d2-cf1036038176",
@@ -5333,6 +6650,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/8596034/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-22%2F35242166-48000-2-5dc245e7abfbc.mp3"
             },
+            "entities": [
+                "2019",
+                "This week",
+                "Calvin",
+                "his",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/30-I-Wouldnt-Smash-Your-Ex----------But-e94r42",
             "guid": "2e4e8cf0-357c-84ef-0d93-028cc0d4de27",
@@ -5356,6 +6681,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/8464885/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-15%2F34307224-48000-2-e8f3b94d85b0b.mp3"
             },
+            "entities": [
+                "psychiatrist",
+                "Calvin",
+                "John Legends",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "this weeks"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/29-I-promise---Im-Not-A-Hoe---I-just-have-commitment-issues-e90r1l",
             "guid": "8df30e94-de6f-2dd8-9a5a-f1f94a4869b7",
@@ -5378,6 +6711,16 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/8331814/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-8%2F33342125-48000-2-a709b04538738.mp3"
             },
+            "entities": [
+                "Things Fall Apart",
+                "Calvin",
+                "a second",
+                "This weeks",
+                "Okonkwo",
+                "https://anchor.fm/conrad-gray4/support",
+                "he",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/28-Youve-Never-Been-Faithful--why-start-now-e8sp36",
             "guid": "acff85c5-cc91-81a7-e991-c6d2bd82aa84",
@@ -5400,6 +6743,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/7947947/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-1%2F32044070-48000-2-fbeb708b3bfdd.mp3"
             },
+            "entities": [
+                "This week",
+                "Calvin",
+                "one",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/27-Redeem-Those-Pum-Pum-Bonus-Points-e8h27b",
             "guid": "a374c2ef-0c5b-d086-2799-fcddeb96ccdb",
@@ -5422,6 +6772,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/7563500/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-25%2F30827688-48000-2-2aeaf8e1731bd.mp3"
             },
+            "entities": [
+                "Calvin",
+                "last week",
+                "today",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/26-Missionary-Position-Vs-Backshot---A-True-Love-Story-e85apc",
             "guid": "3195cb1a-762f-4c60-767b-4bc4bbf949b9",
@@ -5444,6 +6801,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/6000380/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-11%2F27708611-48000-2-60f24af8e6108.mp3"
             },
+            "entities": [
+                "Calvin",
+                "his",
+                "Jesus",
+                "This weeks",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/25-If-I-didnt-fap-I-could-move-mountains-e6lk9s",
             "guid": "45dc42f9-8488-091d-d1ad-ded415c80f03",
@@ -5466,6 +6831,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/5186929/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-4%2F26041202-48000-2-b319ab232112c.mp3"
             },
+            "entities": [
+                "This week",
+                "Calvin",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/24-You-cant-use-my-toothbrush-e5spth",
             "guid": "ccfc3632-c589-9046-ae93-466eb1f38ca2",
@@ -5488,6 +6859,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/4898390/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-27%2F25113582-48000-2-e1133b7d09e3e.mp3"
             },
+            "entities": [
+                "This week",
+                "Calvin",
+                "his",
+                "count",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/23-Wait-16-months-for-Pum-Pum----Are-you-mad-e5k04m",
             "guid": "ffbc0b20-8583-503d-50cd-a7efb1e7823c",
@@ -5510,6 +6889,16 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/4742620/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-20%2F24378394-48000-2-415d9b9b24afa.mp3"
             },
+            "entities": [
+                "This week",
+                "Calvin",
+                "his",
+                "k",
+                "https://anchor.fm/conrad-gray4/support",
+                "three",
+                "Andy",
+                "he"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/22-The-Royal-Penis-is-Clean-Your-Highness-e5f80s",
             "guid": "1b60deec-b976-3227-a0e0-6af281ddf7b3",
@@ -5532,6 +6921,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/4635827/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-13%2F23568849-48000-2-483028a7cf949.mp3"
             },
+            "entities": [
+                "Calvin",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "him",
+                "this weeks"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/21---Buy-Your-Own-Data-Bitch-e5bvnj",
             "guid": "edfb5206-db78-8421-348f-1fb32568119a",
@@ -5554,6 +6950,17 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/4526442/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-6%2F22631388-48000-2-1967bb2ed8b3c.mp3"
             },
+            "entities": [
+                "This week",
+                "smoker",
+                "Nairobi",
+                "Calvin",
+                "the weekend",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "Boma",
+                "Hotel"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/20-But-Just-In-Case-the-Feds-are-Listening-e58kta",
             "guid": "6428f18b-93d4-c3cf-9139-aede648f5b0b",
@@ -5576,6 +6983,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/4427135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-30%2F22097530-48000-2-2fd0354f7aa38.mp3"
             },
+            "entities": [
+                "This week",
+                "Instagram",
+                "a few weeks ago",
+                "https://anchor.fm/conrad-gray4/support"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/19---Everyones-got-a-f--king-question-e55jtv",
             "guid": "8997ca49-84aa-10ae-bed7-1a164bccdc63",
@@ -5598,6 +7011,20 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/4332749/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-23%2F21560326-44100-2-e71c838915d8a.mp3"
             },
+            "entities": [
+                "City Boy",
+                "Nairobi",
+                "Calvin",
+                "his",
+                "MNE",
+                "once",
+                "Bari",
+                "Summer",
+                "Man",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "African"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/18-We-Dont-Harm-Civilians-e52nod",
             "guid": "fae982b2-79b8-0cd8-3a24-4377c759eb44",
@@ -5620,6 +7047,15 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/4241370/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-16%2F21058974-44100-2-40501cb66189b.mp3"
             },
+            "entities": [
+                "G Money",
+                "This week",
+                "Calvin",
+                "days",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "FIFA"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/17---This-Podcast-Is-Full-of-Sht-e4vugq",
             "guid": "225a0c46-bd52-6c9b-a36d-d3d20f0fda13",
@@ -5642,6 +7078,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/4194504/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-7-12%2F20788112-44100-2-239f5818ee4bb.mp3"
             },
+            "entities": [
+                "This week",
+                "Calvin",
+                "PH",
+                "30 mins",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/16-Wash-Your-Balls-e4ugo8",
             "guid": "tag:soundcloud,2010:tracks/663346238",
@@ -5664,6 +7108,15 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/4194505/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-7-12%2F20788113-44100-2-dc68ce33064b9.mp3"
             },
+            "entities": [
+                "This week",
+                "Calvin",
+                "his",
+                "Ark",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "Noah"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/15-Tie-me-up-but-dont-choke-me-e4ugo9",
             "guid": "tag:soundcloud,2010:tracks/660017108",
@@ -5686,6 +7139,12 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/4194506/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-7-12%2F20788114-44100-2-7e3bc32be3766.mp3"
             },
+            "entities": [
+                "This week",
+                "Calvin",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/14---What-are-we-e4ugoa",
             "guid": "tag:soundcloud,2010:tracks/653384825",
@@ -5708,6 +7167,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/4194507/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-7-12%2F20788115-44100-2-22083439e883d.mp3"
             },
+            "entities": [
+                "This week",
+                "saint",
+                "Calvin",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "he"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/13---Imagine-No-e4ugob",
             "guid": "tag:soundcloud,2010:tracks/650030606",
@@ -5730,6 +7197,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/4194508/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-7-12%2F20788116-44100-2-3b787ea90a7e.mp3"
             },
+            "entities": [
+                "This week",
+                "Calvin",
+                "Bob Collymore",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/12---Sorry--we-dont-date-broke-guys-e4ugoc",
             "guid": "tag:soundcloud,2010:tracks/647801475",
@@ -5752,6 +7226,15 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/4194509/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-7-12%2F20788117-44100-2-4229d5769a86b.mp3"
             },
+            "entities": [
+                "Calvin",
+                "soldier",
+                "today",
+                "war",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "first"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/11---Sex-on-the-1st-Date--Who-does-that-e4ugod",
             "guid": "tag:soundcloud,2010:tracks/643334523",
@@ -5774,6 +7257,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/4194510/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-7-12%2F20788118-44100-2-b1282be7697c6.mp3"
             },
+            "entities": [
+                "This week",
+                "Calvin",
+                "his",
+                "1000",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/10---Mandem--STOP----Dont-Buy-That-Girl-That-Drink-e4ugoe",
             "guid": "tag:soundcloud,2010:tracks/640031223",
@@ -5796,6 +7287,15 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/4194518/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-7-12%2F20788119-44100-2-0fccb983f9ca7.mp3"
             },
+            "entities": [
+                "This week",
+                "Calvin",
+                "his",
+                "Big Dick Energy",
+                "Kenya",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/09---Big-Dick-Energy-e4ugom",
             "guid": "tag:soundcloud,2010:tracks/636504669",
@@ -5818,6 +7318,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/4194511/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-7-12%2F20788120-44100-2-8441533d25283.mp3"
             },
+            "entities": [
+                "This week",
+                "Calvin",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "he"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/08-More-Rounds-Than-AJ-e4ugof",
             "guid": "tag:soundcloud,2010:tracks/633083520",
@@ -5840,6 +7347,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/4194512/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-7-12%2F20788121-44100-2-64cdcbe806a61.mp3"
             },
+            "entities": [
+                "Calvin",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/07---We-Dont-Eat-White-Meat-e4ugog",
             "guid": "tag:soundcloud,2010:tracks/629440698",
@@ -5862,6 +7374,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/4194513/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-7-12%2F20788122-44100-2-964f380d252a3.mp3"
             },
+            "entities": [
+                "G Money",
+                "This week",
+                "Calvin",
+                "his",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/06---These-Are-My-Confessions-e4ugoh",
             "guid": "tag:soundcloud,2010:tracks/627766926",
@@ -5884,6 +7404,16 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/4194514/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-7-12%2F20788123-44100-2-dd98c160052ad.mp3"
             },
+            "entities": [
+                "Calvin",
+                "his",
+                "this week",
+                "one",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "he",
+                "him"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/05-Weed--Sex-and-Freaky-Andy-e4ugoi",
             "guid": "tag:soundcloud,2010:tracks/620522505",
@@ -5906,6 +7436,17 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/4194515/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-7-12%2F20788124-44100-2-b54d6022465d1.mp3"
             },
+            "entities": [
+                "King",
+                "her",
+                "one",
+                "crashes",
+                "Kenya",
+                "https://anchor.fm/conrad-gray4/support",
+                "him",
+                "he",
+                "Kaka"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/04-Polygamy-for-Dummies-e4ugoj",
             "guid": "tag:soundcloud,2010:tracks/618395949",
@@ -5928,6 +7469,17 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/4194516/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-7-12%2F20788125-44100-2-1e3fcca28955b.mp3"
             },
+            "entities": [
+                "This week",
+                "his",
+                "Calvin",
+                "night",
+                "prostitute",
+                "10am",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "he"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/03-Were-gonna-need-more-rubbers-e4ugok",
             "guid": "tag:soundcloud,2010:tracks/614031879",
@@ -5950,6 +7502,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/4194517/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-7-12%2F20788126-44100-2-68768b4de3ae4.mp3"
             },
+            "entities": [
+                "This week",
+                "Calvin",
+                "his",
+                "https://anchor.fm/conrad-gray4/support",
+                "Andy",
+                "he"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/02-Send-Nudes-e4ugol",
             "guid": "tag:soundcloud,2010:tracks/611651430",
@@ -5972,6 +7532,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/d5ebd7c/podcast/play/4194519/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-7-12%2F20788127-44100-2-d2eb0c54247db.mp3"
             },
+            "entities": [
+                "Episode",
+                "his",
+                "Calvin",
+                "One",
+                "https://anchor.fm/conrad-gray4/support",
+                "he"
+            ],
             "dc:creator": "The Mics Are Open",
             "link": "https://anchor.fm/conrad-gray4/episodes/01-Tinder-or-STDs---You-choose-e4ugon",
             "guid": "tag:soundcloud,2010:tracks/608320482",

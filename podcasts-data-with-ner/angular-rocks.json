@@ -62,6 +62,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/54b6d935/ea9e35a5.mp3"
             },
+            "entities": ["Angular API", "days"],
             "content:encodedSnippet": "There is a lot of buzz around reactivity and reactive programming these days.\nAll reactive Angular API is built on top of RxJS library so there is a lot of reactivity built-in within Angular. \nWhat do you think, should Angular have First-class RxJS support, should it be optional or may be Angular should support both options?\nLets discuss   👉 Twitter thread \nLinks\nThe RxJS library\nProposal: Input as Observable \n\nAngular Getting Started Workshop\nngstart.dev\nAliaksei's mailing list\nkuncevic.dev",
             "guid": "58f7913d-d413-4dee-9aab-c0b255069a23",
             "isoDate": "2021-08-11T11:00:00.000Z",
@@ -90,6 +91,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/5cf8cd1a/28bd163e.mp3"
             },
+            "entities": ["folder", "Tomas", "Custom", "Aliaksei"],
             "content:encodedSnippet": "Component is the central piece in Angular. Sometimes you want to generalize a particular component, to make it shareable across your application or to move into a custom component library to share it around multiple applications. It is important to understand how to approach shareable components in your particular use-case.\nIn this episode we are discussing:\n\nComponents and Components composition\nShared folder, Shared library, ngModules\nTemplate context\nCustom component libraries\nDesigning components for scale\nBest practices, tips and tricks and common pitfalls\nArticles\nCustom Angular Component Library (Best practices)\nAngular Library Architecture (sub-entries)\nAngular Application Architecture\nMore from Tomas\nTwitter\nGithub\nWebsite\nOmniboard \nAngular Self-Paced Workshops from Aliaksei\nngstart.dev",
             "guid": "b31ca7c9-de02-413a-b69f-0fce88ecd742",
             "isoDate": "2021-08-04T10:00:00.000Z",
@@ -118,6 +120,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/25dd015a/7722bdec.mp3"
             },
+            "entities": ["Developer", "Aliaksei"],
             "content:encodedSnippet": "Web Components are also known as Custom Elements. \nCustom Element is a web standard for defining new HTML elements in a framework-agnostic way.\nThere are a set of different techniques that allow you to build Web Components or Custom Elements. \nBeing an Angular Developer you can easily get into Web Components by using Angular Elements.\nLinks:\nWeb Components\nCan I use Web Components\nPolymer\nLit\nPolymer vs Lit\nAngular Elements\nAngular Self-Paced Workshops from Aliaksei\nngstart.dev",
             "guid": "25253e3f-8a1f-46e3-9e72-43dd483818a1",
             "isoDate": "2021-07-28T10:00:00.000Z",
@@ -146,6 +149,16 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/a21f025f/360c0131.mp3"
             },
+            "entities": [
+                "right now",
+                "modern Tools",
+                "developer",
+                "Alan Agius",
+                "inspector",
+                "Aliaksei",
+                "Douglas Crockford",
+                "Angular"
+            ],
             "content:encodedSnippet": "I split up the developer tools into multiple categories \n\nDevelopment and productivity\nDebugging\nPerformance\nTesting\nIn this episode we discuss each category in details as well as answering the following questions:\n\n\nWhy do we need developer tools?\nCan you imagine a dev life without modern tooling?\nWhat are the modern Tools for Angular developers?\nHow to debug a memory leak?\n\nAlso we talk about some cool insights about what Angular Team is working on right now to improve the Angular developer experience even more.\nTools \nAngular CLI\nAngular language service (vscode extension)\nCodelyzer\nPrettier\nNgrev\nAngular state inspector (chrome extension)\nAngular DevTools  (chrome extension)\nJest\nCypress\nPeople mentioned\nMisko Havery\nJohn Papa\nWard Bell\nAlan Agius\nDouglas Crockford\nMore from Minko\nTwitter\nBlog\nAngular Self-Paced Workshops from Aliaksei\nngstart.dev",
             "guid": "5e724aa6-549f-490e-8c85-b53cd43e61a0",
             "isoDate": "2021-07-21T10:00:00.000Z",
@@ -174,6 +187,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/8d700232/cecbd02a.mp3"
             },
+            "entities": ["Multi-project Workspace", "Angular"],
             "content:encodedSnippet": "Every time you scaffold a new project with Angular CLI ng new command, the CLI, by default, produces an Angular CLI workspace for that project. \nIn some cases when you are working on multiple Angular projects under the same solution you may want to try out a Multi-project Workspace. This approach is also suitable for many enterprise projects.\nng new my-solution --create-application false\ncd my-solution\nng g application my-app\nng g library my-shared-library\nLinks\nMulti-project workspace\nAngular Getting Started Workshop\nngstart.dev\nAliaksei's mailing list\nkuncevic.dev",
             "guid": "a53fb462-7e77-4eb0-a7a7-69f62f472e8b",
             "isoDate": "2021-07-14T11:00:00.000Z",
@@ -202,6 +216,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/175f39e7/5d449a16.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "Change Detection is a mechanism built into Angular that allows Angular to decide what actions to be performed when the state of the app changes. Most of the time developers do not have to deal with change detection manually.\nIn this episode we are talking about a quick history of change detection and what problem it solves. We also discuss change detection strategies, when you should tap in to change detection manually and tips and tricks. \n\nPeople mentioned\n\n\nJohn Papa\nMisko Hevery\nElon Musk\n\nTwitter Discussion\nAngular Change Detection Edge Cases\n\nLinks\nAngular Change Detection Infographic\nChangeDetectorRef\nApplicationRef\nNgZone\n\n\nMore from Wassim\nTwitter \nBlog\nWebsite\n\nAliaksei's mailing list\nkuncevic.dev",
             "guid": "e5cd4e0e-4035-4698-80d4-7c4eaf334a7b",
             "isoDate": "2021-07-07T10:00:00.000Z",
@@ -230,6 +245,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/e6be7da6/29a94b3b.mp3"
             },
+            "entities": ["guide"],
             "content:encodedSnippet": "Angular is continuously evolving together with the entire web ecosystem. \nTherefore, it is a recommended best practice to keep up your Angular projects up to date with the latest Angular version.\nIn this episode, you will learn why updating to a new Angular version is a good idea. Also, I will provide some tips that will help you to achieve that.\nLinks:\nAngular versioning and releases\nAngular update guide\nDeprecated APIs and features\nng update\nAngular,  Angular CLI, NodeJS compatibility list \nAngular CLI diff",
             "guid": "3f3423cc-b9c8-47b0-82cc-f08002b32b35",
             "isoDate": "2021-06-30T10:00:00.000Z",
@@ -258,6 +274,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/acc568ba/b3d34ce2.mp3"
             },
+            "entities": ["1285", "Juan", "guide"],
             "content:encodedSnippet": "Animation is a great solution to improve the application experience.\nYou can add animations to your web applications using CSS animations, browsers web animations API or by using third-party libraries.\nJuan talking bout different aspects of animations, how it works and how to get started.\nLinks\nangular.io/guide/animations\nauth0.com/blog/get-better-angular-ux-using-animation-techniques\nindepth.dev/posts/1285/in-depth-guide-into-animations-in-angular\nwilliamjuan027.github.io/angular-animations-explorer\nPopmotion\nlottie\nTailwind\nMore from Juan\nTwitter\nWebsite",
             "guid": "7b000315-6b56-4c2f-abcb-2a0d44cd1e1d",
             "isoDate": "2021-06-23T10:00:00.000Z",
@@ -286,6 +303,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/de7d20b8/f41e0d2d.mp3"
             },
+            "entities": ["days"],
             "content:encodedSnippet": "These days, people use different devices to access the web. Therefore, every web application should be adapted to all screen sizes.\nResponsive Design is a technique that allows screens to adjust to different sizes accordingly.\nThere are a few techniques to make your Angular Apps responsive. You can choose from several libraries specifically built for that purpose or just do plain CSS by writing CSS Media Queries.\nLets discuss that  👉 Twitter thread \nLinks\nAngular Flex Layout\nAngular CDK Layout\nTailwind Responsive Design\nBootstrap Layout Utilities \nCSS Media Queries\nTwitter Pool\nAngular Flex Layout / CDK vs Tailwind / Bootstrap Utilities vs Media Queries",
             "guid": "6c587d9a-6ce6-43ef-bc78-0c05255fa996",
             "isoDate": "2021-06-16T10:00:00.000Z",
@@ -314,6 +332,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/f8e4f706/e7910046.mp3"
             },
+            "entities": ["Google", "Jeremy", "Angular Team", "the future"],
             "content:encodedSnippet": "Angular Material is the most popular UI library available for Angular. It contains a set of high-quality components implementing Google Material Design specification, built by the Angular Team.\nThink of Angular Material as a foundation that you can use to build your own custom components.\nJeremy touched on a quick history about Angular Material, its continuous evolution and what to expect in the future.\nLinks\nmaterial.angular.io\nguides\nMore from Jeremy\ntwitter",
             "guid": "3b74ee83-36f3-4714-80f8-7c936b3eddf9",
             "isoDate": "2021-06-09T10:00:00.000Z",
@@ -342,6 +361,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/1a83686c/2426770b.mp3"
             },
+            "entities": ["developer"],
             "content:encodedSnippet": "CDK stands for Component Development Kit. CDK is something that not every Angular developer knows about.\nCDK contains a set of building blocks for creating your own UI components that could be great foundation for your custom components of any sort or a custom component library.\nLinks\nAngular CDK",
             "guid": "bbc65b93-9c36-4cfd-b177-21b34236fd79",
             "isoDate": "2021-06-02T10:00:00.000Z",
@@ -370,6 +390,20 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/28cff55e/dbd67bd2.mp3"
             },
+            "entities": [
+                "Google",
+                "Miško Hevery",
+                "creator",
+                "his",
+                "now",
+                "today",
+                "one",
+                "Adam Abrons",
+                "Igor Minar",
+                "Miško",
+                "years",
+                "first"
+            ],
             "content:encodedSnippet": "Angular has been around for many years now.  There are a lot of decisions that were made within the Angular team that made Angular so successful today.\nAngularJS referring to v1 - the first version of the framework\nAngular referring to v2 and up, which is the new modern framework which is completely different to AngularJS\nThis time Miško Hevery, the creator of Angular will tell about Angular history and share insights on his journey working at Google creating one the coolest front-end framework!\nLinks:\nangular.io\nPeople mentioned\nAdam Abrons\nIgor Minar\nMore from Miško:\nbuilder.io\ntwitter",
             "guid": "434c61da-9b7b-4d7b-8454-b59783839a73",
             "isoDate": "2021-05-26T11:25:23.000Z",
@@ -398,6 +432,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/85965a75/11791184.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "Component communication is the most common challenge developers face building single page applications.\nThere are several techniques that you can use to approach components communication building Angular applications.\nIn this episode I am discussing basic component communication techniques.\nLinks\nInputs and Outputs\nAsync Pipe\nReactive Services Technique\nRx-service",
             "guid": "838e4765-070a-40cd-8326-66ea08abd3d2",
             "isoDate": "2021-05-19T10:00:00.000Z",
@@ -426,6 +461,14 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/a8529b85/fc9f04a7.mp3"
             },
+            "entities": [
+                "router",
+                "Victor Savkin",
+                "Mike Ryan<br>Brandon Roberts",
+                "Michael Karén",
+                "Router",
+                "Justin"
+            ],
             "content:encodedSnippet": "Angular router solves a lot of problems in client facing single-page web applications. \nThe router helps to control the page content by dynamically displaying the components without a need to request pages from the server.  \nWithout an Angular router the user navigation experience in Angular application would be hard to achieve.\nLinks\nAngular Router\nRevisiting a Reactive Router with Ivy\nPeople mentioned\nMike Ryan\nBrandon Roberts\nVictor Savkin\nMichael Karén\n\nMore from Justin\nTwitter\nWebsite\nAliaksei's mailing list\nkuncevic.dev",
             "guid": "83305973-e80b-470b-81cd-d0f2d4ebd4fa",
             "isoDate": "2021-05-12T10:00:00.000Z",
@@ -454,6 +497,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/673f492a/c3e3b091.mp3"
             },
+            "entities": ["folder"],
             "content:encodedSnippet": "Have you ever asked yourself the following question, what is the best way to structure an Angular application?\nIn this episode you will find out why you should care about the folder structure and what are the benefits of the proper folder structure.\nLinks\nFeature modules",
             "guid": "94b89791-a3d0-4ebf-a77f-9d914a8f8ff6",
             "isoDate": "2021-05-05T10:00:00.000Z",
@@ -482,6 +526,13 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/078a4111/b1d010c2.mp3"
             },
+            "entities": [
+                "Michael",
+                "Handler",
+                "21 Jan 2021",
+                "David Herges",
+                "first"
+            ],
             "content:encodedSnippet": "Error handling is a fundamental part of any real-world web application.\nIn this episode, you will find everything you need to know about error handling in Angular and more.\nFun fact: That is literally the first ever episode of Angular Rocks, recorded on 21 Jan 2021\nLinks\nError Handler Class\nAngular Errors List \nAngular Debugging Guides\nBest practices for Error handling in Angular\nPeople mentioned\nDavid Herges\nMore from Michael\nTwitter\nBlog\nAliaksei's mailing list\nkuncevic.dev",
             "guid": "d2172918-a5ce-4a03-9d8a-501f7725a5ec",
             "isoDate": "2021-04-28T10:00:00.000Z",
@@ -510,6 +561,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/038001ab/2396924a.mp3"
             },
+            "entities": ["10"],
             "content:encodedSnippet": "Every real-world web application has to communicate with backend API. \nDevelopers building web applications with Angular usually interact with the backend API using HttpClient.\nIn this episode I am explaining the basic HttpClient features and HTTP methods.\nLinks\nAngular HttpClient\nHTTP Methods\nTop 10 ways to use Interceptors in Angular",
             "guid": "73487c0f-0bf7-4f52-a4ce-6531f9bc04e1",
             "isoDate": "2021-04-21T10:00:00.000Z",
@@ -538,6 +590,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/a71260d9/e8051808.mp3"
             },
+            "entities": ["Dmytro", "Dmytro Mezhenskyi"],
             "content:encodedSnippet": "Dependency Injection is a design pattern that creates objects and provides them to consumer classes that depend on those objects. \nDependency Injection is widely used in Angular.\nIn this episode you will find everything you need to know about Dependency Injection and how it works in Angular\nLinks\nDependency Injection\nDependency Injection YouTube Series by Dmytro Mezhenskyi\nMore from Dmytro\nTwitter\nYouTube\nBlog\nAliaksei's mailing list\nkuncevic.dev",
             "guid": "1c87b505-6c42-4a98-93cb-20a1bdc3cfe4",
             "isoDate": "2021-04-14T22:00:00.000Z",
@@ -566,6 +619,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/b6cb66f1/27e21c00.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "Lifecycle hooks allow you to tap into the Angular lifecycle events to get more control.\n\nIn this episode I am explaining the nature of lifecycle hooks in Angular and walking through the essential lifecycle hooks like ngOnInit and ngOnDestroy. \n\nLinks\nAngular Lifecycle Hooks",
             "guid": "f3d757b6-028e-4195-aca9-33f5e8d75c3c",
             "isoDate": "2021-04-07T10:20:00.000Z",
@@ -594,6 +648,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/80128b9b/6c982e2e.mp3"
             },
+            "entities": ["Alan Agius", "The future", "David Herges", "Tips"],
             "content:encodedSnippet": "Angular CLI is the most important piece of Angular ecosystem. \nIn this episode you will find everything you need to know about Angular CLI: \n\nBrief history\nTop features\nMonorepos \nTips and tricks\nThe future\n\nLinks\nAlan Agius on Twitter\nSetup Multi Project Workspace\nAngular Package Format (APF) Spec \nng-packagr\nng-packagr with David Herges on ngAir\nOptimizing Apps with Resource Inlining\nBonus \nAngular CLI Cheat Sheet",
             "guid": "35b361bb-3e22-416c-9fb0-ea82312c0cb9",
             "isoDate": "2021-04-01T11:00:00.000Z",
@@ -622,6 +677,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/3155d8cf/d3699285.mp3"
             },
+            "entities": ["Demo App"],
             "content:encodedSnippet": "Angular template syntax powered by Angular built-in directives helps to do a lot of things within a component template.\nIn this episode I am talking about the main features of an Angular template syntax.\nIf you want to learn more, have a look in to Angular Cheat Sheet and the Demo App I created specifically for this episode\nLinks\nCheat Sheet",
             "guid": "fafcc6f6-6f16-4775-8523-b6bd44fa7dee",
             "isoDate": "2021-03-24T09:00:00.000Z",
@@ -650,6 +706,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/dd9f4c31/b8d8371c.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "There is a number of building blocks in Angular:\n\nComponents\nServices\nModules\nPipes\nDirectives\nIn this episode I am walking through the essential Angular building blocks and concepts. \nLinks\nIntroduction to Angular Concepts",
             "guid": "f5886ef7-c473-4eab-ad81-ae8b2dd5a7f6",
             "isoDate": "2021-03-17T09:00:00.000Z",
@@ -678,6 +735,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/fea8502b/afd940ec.mp3"
             },
+            "entities": ["Guide", "Gitter", "@angular", "Angular"],
             "content:encodedSnippet": "In this episode I am explaining what is Angular and answering the following questions:\n\nWhat does single-page client-side really means?\nAre there any differences between Angular and AngularJS?\nWhat are the benefits of using Angular? \nWhy developers and companies choosing Angular? \nLinks\n\nWhat Are The Benefits Of Using Angular\nAngular Docs\nAngular Roadmap\nAngular Versioning and Releases\nAngular Packages\nAngular Update Guide\nKeeping Angular Up-to-Date\nAngular on Gitter\nAngular Community on Discord\nAngular Meetups List\nFinding an Angular latest version\nin terminal or console:\nnpm show @angular/core\nin web browser:\ngithub.com/angular/angular\nangular latest version",
             "guid": "7f8fa968-14bf-4b8d-b081-8afbb4cdb116",
             "isoDate": "2021-03-10T09:00:00.000Z",
@@ -706,6 +764,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/e6bde206/c9179281.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "Angular Rocks: who it's for and what it's about. Hosted by kuncevic.dev",
             "guid": "1fc9941c-4340-4dca-beb6-4805c572f615",
             "isoDate": "2021-03-02T00:11:27.000Z",

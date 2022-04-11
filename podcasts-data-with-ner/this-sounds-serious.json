@@ -67,6 +67,21 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/53b342d7-cbbf-4815-99b6-6e35a59a4003/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=53b342d7-cbbf-4815-99b6-6e35a59a4003&feed=f4SRmbbd"
             },
+            "entities": [
+                "pilot",
+                "Queen",
+                "Mark",
+                "Jem Gerrard",
+                "three",
+                "Maddy",
+                "Hollywood",
+                "Ryan",
+                "Producer",
+                "Dave Shumka",
+                "Catherine Winder",
+                "eight-part",
+                "first"
+            ],
             "content:encodedSnippet": "Producer Dave Shumka introduces a new show from the team behind This Sounds Serious: Let's Make a Sci-Fi, an eight-part adventure through the creative process as three comedians try writing a successful sci-fi pilot\u2014 with help from scientific experts and Hollywood screenwriting pros.\nIn the first episode, hosts Ryan, Mark, and Maddy talk to producers Catherine Winder (Star Wars) and Jem Gerrard (Vagrant Queen) and learn how to identify great story ideas. Then, they pitch each other concepts for their science fiction pilot and land on a winning idea.\nSubscribe to Let's Make a Sci-Fi : Apple Podcasts | Spotify",
             "guid": "46271b09-1469-4b53-a720-950bd1ff934c",
             "isoDate": "2022-03-01T08:20:00.000Z",
@@ -93,6 +108,7 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/986da195-3b27-4983-a537-e588db7beadf/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=986da195-3b27-4983-a537-e588db7beadf&feed=f4SRmbbd"
             },
+            "entities": ["2021", "Kirk Todd", "he", "He"],
             "content:encodedSnippet": "Kirk Todd is back in jail and he has an important message for you: He wants you to vote for This Sounds Serious in the 2021 Webb Awards for Best Writing in a Podcast.  Click here to vote.",
             "guid": "c5024b57-4111-4c84-bd92-7fc2c5f1c4a0",
             "isoDate": "2021-04-29T08:00:00.000Z",
@@ -121,6 +137,7 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/178a33fb-ed29-48eb-9cb3-f1629ea7f1b7/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=178a33fb-ed29-48eb-9cb3-f1629ea7f1b7&feed=f4SRmbbd"
             },
+            "entities": ["Kirk", "premier"],
             "content:encodedSnippet": "With Kirk\u2019s release from prison and a movie premier in the works, the truth comes into focus.",
             "guid": "403c2811-30f3-4109-9e48-2db79830cc93",
             "isoDate": "2020-10-20T07:00:00.000Z",
@@ -149,6 +166,16 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/28a3fc91-10fa-46e8-a378-778d0f6ca419/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=28a3fc91-10fa-46e8-a378-778d0f6ca419&feed=f4SRmbbd"
             },
+            "entities": [
+                "right now",
+                "Kirk",
+                "her",
+                "Frank Reeves",
+                "Gwen",
+                "writer",
+                "robbery",
+                "Las Vegas"
+            ],
             "content:encodedSnippet": "Gwen travels to Las Vegas, where crime writer Frank Reeves tells her that a casino robbery took place during the film shoot, and Kirk buried the movie to hide the evidence.\nClick here to get the entire season right now, ad-free.",
             "guid": "944e8bad-8975-4e48-9d24-b6417d4cdc97",
             "isoDate": "2020-10-13T07:00:00.000Z",
@@ -177,6 +204,16 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/126618a5-d0fb-4a5c-a6a8-47571fb1a561/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=126618a5-d0fb-4a5c-a6a8-47571fb1a561&feed=f4SRmbbd"
             },
+            "entities": [
+                "Grand",
+                "She",
+                "right now",
+                "Casino",
+                "Kirk",
+                "one",
+                "Rotten Popcorn",
+                "Gwen"
+            ],
             "content:encodedSnippet": "After tracking down Grand Casino, Gwen watches the movie and is underwhelmed. She calls on the goofball hosts of the \u201cRotten Popcorn\u201d podcast to weigh in, and investigates a theory that maybe Kirk was the one who buried the movie.\nClick here to get the entire season right now, ad-free.",
             "guid": "6a36204a-7cc8-4132-ac92-2a8a7fdcc5df",
             "isoDate": "2020-10-06T07:00:00.000Z",
@@ -205,6 +242,15 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/6c3b9150-e718-4e9e-a9e4-68255a10e801/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=6c3b9150-e718-4e9e-a9e4-68255a10e801&feed=f4SRmbbd"
             },
+            "entities": [
+                "Grand",
+                "his",
+                "right now",
+                "Kirk",
+                "Casino",
+                "Gwen",
+                "Con Man\u2019s Handbook"
+            ],
             "content:encodedSnippet": "Gwen finds out how Kirk finally got caught. Kirk insists Grand Casino exists and invites Gwen to use his \u201cCon Man\u2019s Handbook\u201d dictaphone recordings to help uncover it.\nClick here to get the entire season right now, ad-free.",
             "guid": "3b3e85dc-1b4d-4ded-8244-0a82b21ef00e",
             "isoDate": "2020-09-29T07:00:20.000Z",
@@ -233,6 +279,15 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/57a57459-409b-4ec3-b004-8e8efa1f0b5c/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=57a57459-409b-4ec3-b004-8e8efa1f0b5c&feed=f4SRmbbd"
             },
+            "entities": [
+                "She",
+                "Maricopa County Prison",
+                "his",
+                "right now",
+                "Gwen",
+                "Kirk Todd",
+                "Helen Chatham"
+            ],
             "content:encodedSnippet": "Gwen travels to Maricopa County Prison to meet Kirk Todd and get inside the mind of a con man. She learns about his marriage to art forger Helen Chatham and the events that tore them apart.\nClick here to get the entire season right now, ad-free.",
             "guid": "dd032de5-d495-4d77-a60a-024caa31e443",
             "isoDate": "2020-09-22T07:00:17.000Z",
@@ -261,6 +316,7 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/bb18a4a5-259a-4995-8d8f-d8e551af4b3a/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=bb18a4a5-259a-4995-8d8f-d8e551af4b3a&feed=f4SRmbbd"
             },
+            "entities": ["Grand Casino con", "right now", "Kirk", "he"],
             "content:encodedSnippet": "In order to pull off the Grand Casino con, Kirk had to convince the studio and the crew that he was making the movie. How did nobody catch on?\nClick here to get the entire season right now, ad-free.",
             "guid": "685c12c1-23be-4d29-9ff5-28f0b4c5c3db",
             "isoDate": "2020-09-15T07:00:02.000Z",
@@ -289,6 +345,13 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/2a4099cb-770b-48e4-b87c-c8250028ea4b/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=2a4099cb-770b-48e4-b87c-c8250028ea4b&feed=f4SRmbbd"
             },
+            "entities": [
+                "right now",
+                "premier",
+                "Kirk Todd",
+                "Gwen",
+                "Grand Casino"
+            ],
             "content:encodedSnippet": "Click here to get the entire season right now, ad-free.\nHow did Kirk Todd put himself in the position to pull off this con? Gwen answers that question and reveals the events of the Grand Casino premier from the red carpet to the chaos in the lobby after the crime is discovered.",
             "guid": "1142b56a-7a1c-4ac2-b06e-569b64e1dea6",
             "isoDate": "2020-09-08T07:00:25.000Z",
@@ -318,6 +381,21 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/30431aa4-fcd1-4201-b5bf-9d5feacf41fa/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=30431aa4-fcd1-4201-b5bf-9d5feacf41fa&feed=f4SRmbbd"
             },
+            "entities": [
+                "heart attack",
+                "Kirk Todd",
+                "journalist",
+                "Grand",
+                "his",
+                "right now",
+                "Casino",
+                "1991",
+                "Gwen Radford",
+                "9",
+                "producer",
+                "-1-1",
+                "he"
+            ],
             "content:encodedSnippet": "A 9-1-1 call about a heart attack at a 1991 movie screening leads investigative journalist Gwen Radford to unearth the life story of con man, Kirk Todd, from his childhood crimes through his career as a TV producer, up to Grand Casino, the movie he never made.\nClick here to get the entire season right now, ad-free.",
             "guid": "de3b4cc0-d470-4a48-9658-f6fbcfd0c861",
             "isoDate": "2020-09-01T07:00:15.000Z",
@@ -345,6 +423,21 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/0889839f-7a38-46af-baa2-b45d64889333/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=0889839f-7a38-46af-baa2-b45d64889333&feed=f4SRmbbd"
             },
+            "entities": [
+                "Jeremy Weaver",
+                "Kirk Todd",
+                "three decades later",
+                "she",
+                "right now",
+                "his",
+                "Kirk",
+                "1991",
+                "host",
+                "Gwen Radford",
+                "producer",
+                "first",
+                "Grand Casino"
+            ],
             "content:encodedSnippet": "Click here to get the entire season right now, ad-free.\nIn 1991, TV producer Kirk Todd was supposed to direct his first movie, Grand Casino, but the movie was never made. Kirk disappeared with the film\u2019s budget and was revealed to be a con man named Jeremy Weaver. We follow host Gwen Radford as she tracks down the victims and puts together the pieces of this con three decades later.",
             "guid": "93c29966-1ee0-40a5-a3c1-0aa5fc17ef0f",
             "isoDate": "2020-08-25T07:00:05.000Z",
@@ -372,6 +465,12 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/ddb7e924-c0bb-4f02-aabf-31dc6aecf826/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=ddb7e924-c0bb-4f02-aabf-31dc6aecf826&feed=f4SRmbbd"
             },
+            "entities": [
+                "Louise Burns",
+                "Record Club",
+                "Kelly&Kelly",
+                "musician"
+            ],
             "content:encodedSnippet": "From Kelly&Kelly, the studio that brought you This Sounds Serious comes Record Club - a live storytelling podcast that celebrates seminal albums and explores how these albums affect our lives. Hosted by musician Louise Burns, each episode features storytellers telling a true, personal story about how a particular record shaped them. \nSubscribe to Record Club here.",
             "guid": "8a4813b2-6981-488a-8489-20fb89925687",
             "isoDate": "2020-06-25T08:00:21.000Z",
@@ -400,6 +499,7 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/5b9e4d2c-da76-4cb9-ad44-8ba0a1b50e0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=5b9e4d2c-da76-4cb9-ad44-8ba0a1b50e0c&feed=f4SRmbbd"
             },
+            "entities": [],
             "content:encodedSnippet": "Seriously, what is in those barrels? Surprise evidence found in the quarry leads to a confession, but maybe not justice.",
             "guid": "b2e34a10-9147-11e9-a16c-b329bef40b0a",
             "isoDate": "2019-07-16T06:01:00.000Z",
@@ -428,6 +528,7 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/c987bd86-b633-4e91-8b68-33994c89ac08/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=c987bd86-b633-4e91-8b68-33994c89ac08&feed=f4SRmbbd"
             },
+            "entities": ["Rhoda Day", "Melissa Turner", "Gwen"],
             "content:encodedSnippet": "The barrels in Rhoda Day\u2019s backyard may hold the key to Melissa Turner\u2019s disappearance. Gwen wants to find out what\u2019s inside them, but it\u2019s not going to be easy.",
             "guid": "b2de2530-9147-11e9-a16c-433228a30617",
             "isoDate": "2019-07-09T05:00:00.000Z",
@@ -456,6 +557,7 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/5635d74c-ebcc-4b1f-ad98-364b20befae1/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=5635d74c-ebcc-4b1f-ad98-364b20befae1&feed=f4SRmbbd"
             },
+            "entities": ["Melissa Turner", "one", "Gwen"],
             "content:encodedSnippet": "Gwen outlines the most likely scenarios about what happened to Melissa Turner. A surprise phone call by a key player bolsters one theory.",
             "guid": "0264c492-9c56-11e9-b48e-ebca83f94091",
             "isoDate": "2019-07-02T05:01:00.000Z",
@@ -484,6 +586,15 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/f58e8612-601d-4be7-b482-317d90092e8e/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=f58e8612-601d-4be7-b482-317d90092e8e&feed=f4SRmbbd"
             },
+            "entities": [
+                "Rhoda",
+                "mayor",
+                "Rhoda Day",
+                "Tom Day",
+                "Gwen",
+                "Day",
+                "Jimmy"
+            ],
             "content:encodedSnippet": "Gwen\u2019s focus turns to Rhoda Day, Jimmy\u2019s mother and the longtime mayor of Tom Day. Just how many strings is Rhoda Day pulling in this town? And are they about to snap?",
             "guid": "b2d4c4ea-9147-11e9-a16c-ef0c6261a994",
             "isoDate": "2019-06-25T05:01:00.000Z",
@@ -512,6 +623,7 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/d3f61cbb-f5b9-4723-a98e-a281e334f65d/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=d3f61cbb-f5b9-4723-a98e-a281e334f65d&feed=f4SRmbbd"
             },
+            "entities": ["Melissa", "TSS", "Manhattan Media", "Jimmy"],
             "content:encodedSnippet": "Manhattan Media podcast \u201cHere\u2019s Some Information\u201d teams up with TSS to learn about the online society of scent fanatics that could possibly link Jimmy and Melissa.",
             "guid": "b2c4f448-9147-11e9-a16c-b7b9e11630b7",
             "isoDate": "2019-06-18T05:01:00.000Z",
@@ -540,6 +652,14 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/12c39bc0-9b58-48d0-ae80-752bb509f27c/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=12c39bc0-9b58-48d0-ae80-752bb509f27c&feed=f4SRmbbd"
             },
+            "entities": [
+                "Oregon",
+                "his",
+                "Jimmy Kline",
+                "past",
+                "Tom Day",
+                "Gwen"
+            ],
             "content:encodedSnippet": "Gwen travels to Tom Day, Oregon the home of serial hostage-taker Jimmy Kline and learns about his criminal past through his mother, his neighbors, and the man himself.",
             "guid": "2c5fdebc-8bfd-11e9-8e4c-bb2aced9f277",
             "isoDate": "2019-06-11T14:07:00.000Z",
@@ -568,6 +688,19 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/8c5e1a25-d742-43cc-9d21-1ba514f46064/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=8c5e1a25-d742-43cc-9d21-1ba514f46064&feed=f4SRmbbd"
             },
+            "entities": [
+                "Oregon",
+                "Tom",
+                "his",
+                "the 36 hours",
+                "mayor",
+                "Jimmy Kline",
+                "Melissa Turner",
+                "9",
+                "Gwen",
+                "-1-1",
+                "Day"
+            ],
             "content:encodedSnippet": "Gwen takes us on an audio tour of an incredibly bizarre 9-1-1 call that chronicles the 36 hours that Jimmy Kline held a bank hostage in Tom Day, Oregon, claiming the mayor killed his girlfriend, Melissa Turner.",
             "guid": "77315666-8647-11e9-aee7-3f6e242e6b5e",
             "isoDate": "2019-06-04T07:10:00.000Z",
@@ -596,6 +729,16 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/f88dd233-59e5-4c46-af6a-1c23d33f2320/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=f88dd233-59e5-4c46-af6a-1c23d33f2320&feed=f4SRmbbd"
             },
+            "entities": [
+                "journalist",
+                "Melissa",
+                "2017",
+                "Melissa Turner",
+                "now",
+                "Gwen Radford",
+                "9",
+                "-1-1"
+            ],
             "content:encodedSnippet": "A 9-1-1 call from a 2017 bank heist leads investigative journalist Gwen Radford to the story of the country\u2019s most missing person, Melissa Turner. And now Melissa has disappeared again, only this time it\u2019s different.",
             "guid": "ee666146-8646-11e9-80ca-379217a98e03",
             "isoDate": "2019-06-04T07:01:00.000Z",
@@ -624,6 +767,15 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/7b1f3210-c6fc-4009-9214-ad6799161efd/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=7b1f3210-c6fc-4009-9214-ad6799161efd&feed=f4SRmbbd"
             },
+            "entities": [
+                "Oregon",
+                "2",
+                "June 2019",
+                "America",
+                "9",
+                "Gwen",
+                "-1-1"
+            ],
             "content:encodedSnippet": "After listening to a 9-1-1 call from the longest hostage situation in Oregon history, Gwen finds herself on the trail of America\u2019s most missing person. Season 2 brings you another story so believable it can\u2019t be true. Launching June 2019.",
             "guid": "343d29fc-80b6-11e9-b6c4-73323adbc971",
             "isoDate": "2019-05-28T07:01:00.000Z",
@@ -652,6 +804,7 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/ef59f843-b272-430f-9550-c37554946501/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=ef59f843-b272-430f-9550-c37554946501&feed=f4SRmbbd"
             },
+            "entities": ["her", "911", "Daniel", "Gwen"],
             "content:encodedSnippet": "Daniel travels to Gwen to confront her about the podcast, the 911 call, and the truth.",
             "guid": "5b27fc79cd887e060a629e0d",
             "isoDate": "2018-06-16T17:00:00.000Z",
@@ -680,6 +833,7 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/fd372e77-1d3f-4cfc-a011-6583163bbf23/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=fd372e77-1d3f-4cfc-a011-6583163bbf23&feed=f4SRmbbd"
             },
+            "entities": ["murder", "his", "attorney", "Daniel Bronstadt", "he"],
             "content:encodedSnippet": "After all the other suspects were ruled out, Daniel Bronstadt went on trial for murder. With his life on the line, he decided to use a rookie attorney\u2026 himself.",
             "guid": "5b241b0222ae330612983923",
             "isoDate": "2018-06-12T13:30:00.000Z",
@@ -708,6 +862,14 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/6d5b2398-54f3-460e-8bd2-556de8918f74/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=6d5b2398-54f3-460e-8bd2-556de8918f74&feed=f4SRmbbd"
             },
+            "entities": [
+                "murder",
+                "Lauren Ash",
+                "Chuck Bronstadt",
+                "serial killer",
+                "Gwen",
+                "NBC"
+            ],
             "content:encodedSnippet": "Could a serial killer who targeted weathermen be responsible for Chuck Bronstadt\u2019s murder? Gwen looks to the classic true crime TV show, Last Known Whereabouts, for answers. Featuring Lauren Ash (NBC's Superstore).",
             "guid": "5b1e3d0eb0ff07290322b046",
             "isoDate": "2018-06-05T08:00:00.000Z",
@@ -736,6 +898,14 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/eee30afb-4452-4bc6-acca-30d7f3417d7a/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=eee30afb-4452-4bc6-acca-30d7f3417d7a&feed=f4SRmbbd"
             },
+            "entities": [
+                "Chuck",
+                "Daniel",
+                "Graham Clark",
+                "Paul F. Tompkins",
+                "him",
+                "he"
+            ],
             "content:encodedSnippet": "Despite the mountain of evidence against him, Daniel has always maintained that he didn\u2019t kill Chuck. But if he didn\u2019t, who else could have? Featuring: Paul F. Tompkins, Graham Clark.",
             "guid": "5b0ed1469f4094060b4de1be",
             "isoDate": "2018-05-29T08:00:00.000Z",
@@ -764,6 +934,13 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/e15c9c24-4e98-467b-b9f6-c7d347157522/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=e15c9c24-4e98-467b-b9f6-c7d347157522&feed=f4SRmbbd"
             },
+            "entities": [
+                "weatherman",
+                "cult",
+                "Chuck",
+                "Daniel",
+                "Paul F. Tompkins"
+            ],
             "content:encodedSnippet": "While Daniel was in a cult, Chuck\u2019s career as a weatherman was on the rise. But then Daniel returned. Guest star: Paul F. Tompkins.",
             "guid": "5b0ed1469f4094060b4de1bf",
             "isoDate": "2018-05-22T08:00:00.000Z",
@@ -792,6 +969,7 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/6eb2dfff-5603-42dc-b124-b4526ea2d58e/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=6eb2dfff-5603-42dc-b124-b4526ea2d58e&feed=f4SRmbbd"
             },
+            "entities": ["cult", "Daniel Bronstadt", "the 1990s"],
             "content:encodedSnippet": "In the 1990s, a cult known as \u201cthe Mandala\u201d was infamous for trying to rebuild the lost city of Atlantis. Was Daniel Bronstadt a key member?",
             "guid": "5b0ed1469f4094060b4de1bc",
             "isoDate": "2018-05-15T08:00:00.000Z",
@@ -820,6 +998,15 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/a24212c2-6c0b-4fc2-bb0a-1c78424b23a7/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=a24212c2-6c0b-4fc2-bb0a-1c78424b23a7&feed=f4SRmbbd"
             },
+            "entities": [
+                "she",
+                "his",
+                "Journalist",
+                "past",
+                "Gwen Radford",
+                "Daniel Bronstadt",
+                "Florida"
+            ],
             "content:encodedSnippet": "Journalist Gwen Radford travels to Florida to finally meet Daniel Bronstadt. While at his creepy ranch she learns about the brothers\u2019 past: their boy bands, their twin pranks and their falling out.",
             "guid": "5b0ed1469f4094060b4de1c0",
             "isoDate": "2018-05-08T08:00:00.000Z",
@@ -848,6 +1035,17 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/494c2a11-0c2f-4df6-b850-f03936201550/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=494c2a11-0c2f-4df6-b850-f03936201550&feed=f4SRmbbd"
             },
+            "entities": [
+                "murder",
+                "weatherman",
+                "caller",
+                "Journalist",
+                "Chuck Bronstadt",
+                "Gwen Radford",
+                "9",
+                "Florida",
+                "-1-1"
+            ],
             "content:encodedSnippet": "A confusing 9-1-1 call is placed to report the murder of Florida weatherman, Chuck Bronstadt. Journalist Gwen Radford tries to track down the caller only to meet a man who is even more fascinating than the murder itself.",
             "guid": "5b0ed1469f4094060b4de1bb",
             "isoDate": "2018-05-01T08:00:00.000Z",
@@ -876,6 +1074,7 @@
                 "type": "audio/mpeg",
                 "url": "https://pdcn.co/e/injector.simplecastaudio.com/4dd2487f-fe0a-44e6-a365-6d164ec2c178/episodes/3573e5b5-1ad5-4fc7-88ce-d217a7e8c2af/audio/128/default.mp3?aid=rss_feed&awCollectionId=4dd2487f-fe0a-44e6-a365-6d164ec2c178&awEpisodeId=3573e5b5-1ad5-4fc7-88ce-d217a7e8c2af&feed=f4SRmbbd"
             },
+            "entities": ["April, 2018", "Daniel Bronstadt"],
             "content:encodedSnippet": "This Sounds Serious: The Case of Daniel Bronstadt is a comedic take on the mystery and crime genre that promises to be both gripping and hilarious. This Castbox Original launches in April, 2018.",
             "guid": "5b0ed1469f4094060b4de1bd",
             "isoDate": "2018-04-01T06:50:00.000Z",

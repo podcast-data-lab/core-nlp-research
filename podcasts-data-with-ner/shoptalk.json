@@ -46,6 +46,15 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5781/509.mp3"
             },
+            "entities": [
+                "Mexican",
+                "Chris",
+                "18",
+                "Safari Tech",
+                "Austin",
+                "Dave",
+                "JSX"
+            ],
             "content:encodedSnippet": "Dave might try no coffee, Safari inert follow-up, Dialog element, Safari Tech preview with subgrid, can we put JSX in the browser? React 18 has dropped. What about font streaming? Smashing Conf is coming to Austin, and Mexican travel tips with Chris.",
             "guid": "https://shoptalkshow.com/?p=5781",
             "isoDate": "2022-04-04T09:00:38.000Z",
@@ -73,6 +82,14 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5764/508.mp3"
             },
+            "entities": [
+                "Digital Ocean",
+                "2022",
+                "Dave",
+                "CSS Tricks",
+                "15.4",
+                "liberal"
+            ],
             "content:encodedSnippet": "Dave has questions about CSS Tricks sale to Digital Ocean, what's involved in selling a blog in 2022, the tech behind CSS Tricks, liberal coding to accept more than you anticipate, hidden attributes in HTML, and Inert in Safari 15.4.",
             "guid": "https://shoptalkshow.com/?p=5764",
             "isoDate": "2022-03-28T16:02:50.000Z",
@@ -98,6 +115,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5747/507.mp3"
             },
+            "entities": ["Dave"],
             "content:encodedSnippet": "Do you even metaverse? Dave's got GitHub issues, building in 3D for the web, and should you always write in plain text files?",
             "guid": "https://shoptalkshow.com/?p=5747",
             "isoDate": "2022-03-21T09:00:39.000Z",
@@ -124,6 +142,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5727/506.mp3"
             },
+            "entities": ["30 day", "15m", "Kirby", "Prisma", "Dave"],
             "content:encodedSnippet": "We're talking Dave's 15m fix vs 30 day fix article, experiences with Prisma and Terraform, Edge becoming more popular than Safari, microbetting, and Kirby CMS.",
             "guid": "https://shoptalkshow.com/?p=5727",
             "isoDate": "2022-03-14T10:30:46.000Z",
@@ -151,6 +170,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5703/505.mp3"
             },
+            "entities": ["PWA"],
             "content:encodedSnippet": "A bit of follow up from last episode on passing props, Node shipped fetch, intentional digital rot on the web, and how hard could it be to make CodePen a PWA?",
             "guid": "https://shoptalkshow.com/?p=5703",
             "isoDate": "2022-03-07T14:02:43.000Z",
@@ -178,6 +198,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5670/504.mp3"
             },
+            "entities": ["Jim Nielsen", "his", "future", "he"],
             "content:encodedSnippet": "Jim Nielsen stops by to talk about blogging, writing a book on app icons, how he archives his part of the web, whether browsers are evergreen, future vs backwards proofing, color, and images on the web.",
             "guid": "https://shoptalkshow.com/?p=5670",
             "isoDate": "2022-02-28T14:02:28.000Z",
@@ -204,6 +225,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5653/503.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "We check in with Pull Request Issues guy, should you check in Node dependencies, how to pick technology to learn, and what does Nuxt or Vue do for PropTypes?",
             "guid": "https://shoptalkshow.com/?p=5653",
             "isoDate": "2022-02-21T15:37:56.000Z",
@@ -231,6 +253,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5637/502.mp3"
             },
+            "entities": ["Apple", "mobile"],
             "content:encodedSnippet": "We're talking Safari drama, wondering why Apple won't support other browsers on mobile, some solutions to writing in VS Code, and solving problems in isolation.",
             "guid": "https://shoptalkshow.com/?p=5637",
             "isoDate": "2022-02-14T14:01:08.000Z",
@@ -257,6 +280,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5620/501.mp3"
             },
+            "entities": ["Twitter"],
             "content:encodedSnippet": "We're comparing our 'fits, deleting Twitter, and lurking in Discords. And wondering about how much customization you should have over an app's UI? Do you expect it? Is taking ownership of Babel transform a smart thing to do? What are design tokens really? And how do we get to cyber pink?",
             "guid": "https://shoptalkshow.com/?p=5620",
             "isoDate": "2022-02-07T18:33:51.000Z",
@@ -284,6 +308,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5575/500.mp3"
             },
+            "entities": ["the years", "500"],
             "content:encodedSnippet": "We're celebrating episode 500 by looking back at the previous eras of ShopTalk Show including why we started the show, how it's changed over the years, and how the tech and our lives have changed as well.",
             "guid": "https://shoptalkshow.com/?p=5575",
             "isoDate": "2022-01-31T13:00:36.000Z",
@@ -311,6 +336,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5548/499.mp3"
             },
+            "entities": ["her", "Melanie Sumner", "first"],
             "content:encodedSnippet": "Long time listener, first time guest Melanie Sumner joins us to chat about her work on Ember, enterprise work, the importance of accessibility, and the web.",
             "guid": "https://shoptalkshow.com/?p=5548",
             "isoDate": "2022-01-24T14:00:37.000Z",
@@ -338,6 +364,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5520/498.mp3"
             },
+            "entities": ["Seattle", "Chris", "Parcel CSS", "Dave"],
             "content:encodedSnippet": "Chris and Dave are speaking at An Event Apart Seattle - you should come! We've got some COVID updates, Chris' Git journey, issues with Git Hooks, Commit Lint, take a look at Parcel CSS, and pick some fav things.",
             "guid": "https://shoptalkshow.com/?p=5520",
             "isoDate": "2022-01-17T14:00:00.000Z",
@@ -364,6 +391,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5496/497.mp3"
             },
+            "entities": ["Thomas", "Google", "Thomas Steiner", "he"],
             "content:encodedSnippet": "We're talking with Thomas Steiner of Google's Project Fugu about native apps or web apps. What is Project Fugu? Hardware limitations or requirements for using game controllers on the web. Working with new hardware API's. Reasons to choose a native app. As well as Thomas' SVG web app he's built.",
             "guid": "https://shoptalkshow.com/?p=5496",
             "isoDate": "2022-01-10T13:55:34.000Z",
@@ -390,6 +418,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5463/496.mp3"
             },
+            "entities": ["CSS", "2022", "developer", "designer"],
             "content:encodedSnippet": "We're talking about our predictions for web tech in 2022: Container queries, web3, React, HTML elements, CSS compatibility, utility frameworks, designer and developer tooling, multiple frameworks, and more episodes of ShopTalk Show!",
             "guid": "https://shoptalkshow.com/?p=5463",
             "isoDate": "2022-01-03T15:15:26.000Z",
@@ -416,6 +445,16 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5450/495.mp3"
             },
+            "entities": [
+                "CSS",
+                "his",
+                "3rd",
+                "Chris",
+                "one",
+                "Javascript",
+                "Dave",
+                "CSS Reset"
+            ],
             "content:encodedSnippet": "Chris can't remember how to get his snow blower working, and Dave can't remember how to use Docker. We're also talking CSS Reset, nuking margin, one thing you can do to make your website better, getting rid of 3rd party Javascript, testing your product on a craptop, and defensive CSS.",
             "guid": "https://shoptalkshow.com/?p=5450",
             "isoDate": "2021-12-27T14:01:03.000Z",
@@ -443,6 +482,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5424/494.mp3"
             },
+            "entities": ["author", "Dave"],
             "content:encodedSnippet": "Dave's got some WYSIWYG follow up, thoughts on maintaining open source projects, what role do you assign clients in WordPress, what are micro-frontends, using HTML to author web components, an update on Coil, and Fleet vs GitHub Copilot vs VS Code.",
             "guid": "https://shoptalkshow.com/?p=5424",
             "isoDate": "2021-12-20T14:00:05.000Z",
@@ -470,6 +510,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5401/493.mp3"
             },
+            "entities": ["editor", "Chris", "Dave", "first"],
             "content:encodedSnippet": "Chris has questions about TikTok (bing bong!), a bit of FU on why accessibility isn't treated as a first class citizen, Dave tries to find a good WYSIWYG editor, why does a repo get so many stars, and should you use all: unset on individual entities to clean things up?",
             "guid": "https://shoptalkshow.com/?p=5401",
             "isoDate": "2021-12-13T14:20:39.000Z",
@@ -497,6 +538,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5373/492.mp3"
             },
+            "entities": ["Paravel", "Vite", "Slinkity", "Eleventy"],
             "content:encodedSnippet": "What's the tech stack Paravel's using to build their app? A conversation on AdonisJS, NuxtJS on Vite, side projects in Vue, checking out Bun.sh, Slinkity and Eleventy, and working on quantity to get to quality.",
             "guid": "https://shoptalkshow.com/?p=5373",
             "isoDate": "2021-12-06T13:10:02.000Z",
@@ -524,6 +566,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5353/491.mp3"
             },
+            "entities": ["CSS", "Chris", "one", "2022", "Dave"],
             "content:encodedSnippet": "Dave and Chris are on podcast and YouTube benders, talking CSS performance, CSS contain: Strict, what's new in CSS, how to build a great embed, one thing to make websites better in 2022, dealing with dogma in community, creating great slide decks, and #juicegate.",
             "guid": "https://shoptalkshow.com/?p=5353",
             "isoDate": "2021-11-29T16:20:16.000Z",
@@ -551,6 +594,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5334/490.mp3"
             },
+            "entities": ["the future"],
             "content:encodedSnippet": "How good is web3 really? And is there money to be made without destroying the environment? Is HTML good enough for the future? And what are we excited about in new stuff for CSS?",
             "guid": "https://shoptalkshow.com/?p=5334",
             "isoDate": "2021-11-22T15:21:49.000Z",
@@ -578,6 +622,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5315/489.mp3"
             },
+            "entities": ["2021", "Dave"],
             "content:encodedSnippet": "What's needed to start a tech business in 2021? Is VS Code on the web usable? Why would you choose a native app over a web app in 2021? And be sure to follow Dave on LinkedIn.",
             "guid": "https://shoptalkshow.com/?p=5315",
             "isoDate": "2021-11-15T14:10:44.000Z",
@@ -605,6 +650,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5291/488.mp3"
             },
+            "entities": ["editor", "WordPress", "hacker", "Chris", "Microsoft"],
             "content:encodedSnippet": "Show DescriptionSupporting local sports teams, thoughts on WordPress' full site block editor, advice on convincing clients to move away from WordPress, modern WYSIWYG editors, Microsoft and cloning Notion, an update on Chris' hacker, and what will it take for devs to \u201cfocus\u201d on accessibility? Listen on Website →Links Notion Obsidian Advanced Custom Fields Pell TinyMCE [\u2026]",
             "guid": "https://shoptalkshow.com/?p=5291",
             "isoDate": "2021-11-08T14:00:28.000Z",
@@ -632,6 +678,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5261/487.mp3"
             },
+            "entities": ["Manager"],
             "content:encodedSnippet": "Parenting life update, redundancy for leaves, using a chaos monkey, images not showing up based on ISP, modern image handling workflow options, and discussing The Manager's Path.",
             "guid": "https://shoptalkshow.com/?p=5261",
             "isoDate": "2021-11-01T18:10:26.000Z",
@@ -659,6 +706,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5241/486.mp3"
             },
+            "entities": ["Apple", "Chris", "Dave"],
             "content:encodedSnippet": "It's difficult enough to keep up with new web things, even when it's your job. How do Chris & Dave do it? Dave's blogging on spicy sections, Chris' Cloudinary issues are resolved, and there's some Apple problems to deal with.",
             "guid": "https://shoptalkshow.com/?p=5241",
             "isoDate": "2021-10-25T13:00:37.000Z",
@@ -686,6 +734,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5215/485.mp3"
             },
+            "entities": ["1996", "Chris", "2021", "Dave"],
             "content:encodedSnippet": "Is it harder to make a website in 2021 than in 1996? Are site building tools making life easier? Does Dave use scoped styles in Vue? How could Vue help with design systems? And Chris tries making a CSS Tricks book on the web, while Dave is workshopping a web components talk.",
             "guid": "https://shoptalkshow.com/?p=5215",
             "isoDate": "2021-10-18T13:00:17.000Z",
@@ -713,6 +762,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5196/484.mp3"
             },
+            "entities": ["2", "3", "Chris", "Webhint", "Dave", "Cloudflare"],
             "content:encodedSnippet": "We're talking about Cloudflare product updates, whether you should lie to the browser about image size, Chris is having Cloudinary issues, Dave's answering questions about upgrading from Vue 2 to Vue 3, a question about Font Awesome icons, and what's the deal with Webhint?",
             "guid": "https://shoptalkshow.com/?p=5196",
             "isoDate": "2021-10-11T13:45:36.000Z",
@@ -739,6 +789,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5173/483.mp3"
             },
+            "entities": ["Chris"],
             "content:encodedSnippet": "As Chris says, we're back to the meat 'n potatoes of ShopTalk with a Q&A episode including: XState thoughts, getting comfortable with JavaScript, tips on managing several WordPress sites, the best method to schedule high latency tasks with Node.js, a strategy for background images in CSS, and dealing with landing pages and subpages.",
             "guid": "https://shoptalkshow.com/?p=5173",
             "isoDate": "2021-10-04T13:00:14.000Z",
@@ -766,6 +817,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5147/482.mp3"
             },
+            "entities": ["Google", "CSS", "a week", "YouTube"],
             "content:encodedSnippet": "Join us on YouTube 3x a week for more ShopTalk fun. This episode: How would you build with maximum user growth in mind? Asset pipeline issues, self provisioning runtime, Google ZX, and crazy new CSS.",
             "guid": "https://shoptalkshow.com/?p=5147",
             "isoDate": "2021-09-27T12:48:13.000Z",
@@ -792,6 +844,13 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5127/481.mp3"
             },
+            "entities": [
+                "Amelia",
+                "Dave Rupert",
+                "Scott Tolinski",
+                "Chris Coyier",
+                "Divya"
+            ],
             "content:encodedSnippet": "Crossover! Your favorite web dev podcasts join forces for a super collab that\u2019ll knock you frontend off! Amelia joins Chris Coyier and Dave Rupert from ShopTalk Show while Divya teams up with Wes Bos & Scott Tolinski from Syntax. Let the FEUDing begin!",
             "guid": "https://shoptalkshow.com/?p=5127",
             "isoDate": "2021-09-20T13:25:32.000Z",
@@ -819,6 +878,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5106/480.mp3"
             },
+            "entities": ["Dave"],
             "content:encodedSnippet": "Does forcing users from the website to the app make the web devs feel sad? How do browser devs decide what to add? Having fun with Notion, custom media queries, and Dave's epic Surprise Chain blog post.",
             "guid": "https://shoptalkshow.com/?p=5106",
             "isoDate": "2021-09-13T13:57:32.000Z",
@@ -846,6 +906,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5072/479.mp3"
             },
+            "entities": ["Chrome API"],
             "content:encodedSnippet": "A bit of follow up from the last episode, getting your team on to the same tooling - and cool things in VS Code, import ordering, the new Chrome API eye dropper, and some YouTube thoughts and ideas.",
             "guid": "https://shoptalkshow.com/?p=5072",
             "isoDate": "2021-09-06T13:20:38.000Z",
@@ -873,6 +934,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5052/478.mp3"
             },
+            "entities": ["Google", "Chris"],
             "content:encodedSnippet": "Google is changing page title in search results, celebrating jQuery + Chris' birthday, content that gets too close and kisses, dealing with website sandwiches, using word break break word, and abuse of alerts on the web.",
             "guid": "https://shoptalkshow.com/?p=5052",
             "isoDate": "2021-08-30T13:13:54.000Z",
@@ -899,6 +961,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5039/477.mp3"
             },
+            "entities": ["CSS"],
             "content:encodedSnippet": "We're talking about CSS Module scripts, container query issues, wondering about writing scoped CSS, Tailwind, and custom property gotcha's.",
             "guid": "https://shoptalkshow.com/?p=5039",
             "isoDate": "2021-08-23T15:45:01.000Z",
@@ -926,6 +989,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/5018/476.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "We've got a new ShopTalk Show mug you can order, Safari and Chrome #HotDrama to discuss, what is the modern WordPress build process like, and what's the state of your local bowling alley or pickleball website?",
             "guid": "https://shoptalkshow.com/?p=5018",
             "isoDate": "2021-08-16T13:13:20.000Z",
@@ -953,6 +1017,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4996/475.mp3"
             },
+            "entities": ["2", "3", "Nuxt", "Ben Hong", "days"],
             "content:encodedSnippet": "Ben Hong talks with us about Vue 2 vs Vue 3, Nuxt, VuePress, GridSome, Petite Vue, Headless Shopify + Netlify, is static hosting the right term these days, and what's up with Nuxt 3?",
             "guid": "https://shoptalkshow.com/?p=4996",
             "isoDate": "2021-08-09T17:44:25.000Z",
@@ -980,6 +1045,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4976/474.mp3"
             },
+            "entities": ["Windows PC", "his", "Dave"],
             "content:encodedSnippet": "The D-d-d-d-discord's got threads! Are conferences a thing we're ready for? How was Dave's experience working on a Windows PC? Help Dave figure out his monitor issue on Mac. Are people writing websites without a build step? And what is a good CSS technique for displaying images that could be either horizontal or vertical?",
             "guid": "https://shoptalkshow.com/?p=4976",
             "isoDate": "2021-08-02T13:00:19.000Z",
@@ -1007,6 +1073,16 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4960/473.mp3"
             },
+            "entities": [
+                "meteorologist",
+                "CSS",
+                "Brad Frost",
+                "his",
+                "Ian Frost",
+                "end in 2021",
+                "Javscript",
+                "web developer"
+            ],
             "content:encodedSnippet": "We're chatting with Ian Frost who swapped out his meteorologist career to become a web developer alongside his brother Brad Frost. We talk about getting started learning HTML / CSS, and then Javscript, writing code as a team, navigating the front and back end in 2021, dictating tech stacks to clients, and dealing with turnover and tech changes with clients.",
             "guid": "https://shoptalkshow.com/?p=4960",
             "isoDate": "2021-07-26T12:43:09.000Z",
@@ -1033,6 +1109,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4933/472.mp3"
             },
+            "entities": ["Sarah Drasner", "her", "GitHub", "2021"],
             "content:encodedSnippet": "Sarah Drasner's got a new book and we talk about her article on good meetings. Are front end problems more difficult than back end problems? GitHub's got an upgrade issues feature. How would you design a database for a new project? And where and what is data in 2021?",
             "guid": "https://shoptalkshow.com/?p=4933",
             "isoDate": "2021-07-19T13:23:54.000Z",
@@ -1059,6 +1136,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4916/471.mp3"
             },
+            "entities": ["Streamyard", "2021"],
             "content:encodedSnippet": "Can doing performance audits be a career in 2021? Comparing streaming and recording with Riverside and Streamyard. Is the front of the frontend being consumed by automation? Struggles in hiring and putting together resumes. And how much should freelancers bill clients for their own education and learning?",
             "guid": "https://shoptalkshow.com/?p=4916",
             "isoDate": "2021-07-12T13:00:53.000Z",
@@ -1085,6 +1163,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4875/470.mp3"
             },
+            "entities": ["Web Animation API", "2021"],
             "content:encodedSnippet": "Do you drive or fly in 2021? How do you explain the Shadow DOM? What's LayoutNG? How do iFrames and Accessibility work out? Should we be using CSS Prefers Reduced Motion? And what's up with the Web Animation API?",
             "guid": "https://shoptalkshow.com/?p=4875",
             "isoDate": "2021-07-05T13:00:29.000Z",
@@ -1112,6 +1191,13 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4852/469.mp3"
             },
+            "entities": [
+                "Wes Bos",
+                "Scott Tolinski",
+                "Wes",
+                "developer",
+                "Scott"
+            ],
             "content:encodedSnippet": "We're joined by Wes Bos and Scott Tolinski from Syntax.fm and chat about the fun of developing, SvelteKit, what tools Scott and Wes reach for when building a website, the WordPress developer experience, and some sick picks!",
             "guid": "https://shoptalkshow.com/?p=4852",
             "isoDate": "2021-06-28T13:00:11.000Z",
@@ -1139,6 +1225,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4844/468.mp3"
             },
+            "entities": ["Sass"],
             "content:encodedSnippet": "Let's talk Sass, nesting, animation vs transition, animated tables, scroll snap points, progress meters, viewing emails in dark mode, and coded prototypes.",
             "guid": "https://shoptalkshow.com/?p=4844",
             "isoDate": "2021-06-21T13:00:52.000Z",
@@ -1166,6 +1253,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4820/467.mp3"
             },
+            "entities": ["2021"],
             "content:encodedSnippet": "Where are my paaaants? What to do with new frameworks? What to do with new React? Building in Astro. And WWDC 2021 reactions.",
             "guid": "https://shoptalkshow.com/?p=4820",
             "isoDate": "2021-06-14T13:02:10.000Z",
@@ -1193,6 +1281,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4805/466.mp3"
             },
+            "entities": ["Alex", "@media"],
             "content:encodedSnippet": "What's the best way to include tabs as part of a component library? D-d-d-discord update on Alex's CSS-Trickz clone. Do you group your @media query items together or spread them around? And is software ever truly finished?",
             "guid": "https://shoptalkshow.com/?p=4805",
             "isoDate": "2021-06-07T13:02:24.000Z",
@@ -1220,6 +1309,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4786/465.mp3"
             },
+            "entities": ["general"],
             "content:encodedSnippet": "We're talking about linters, should we deliver single file HTML? Should you focus on a specific tool or be more general? And we revisit social image previews.",
             "guid": "https://shoptalkshow.com/?p=4786",
             "isoDate": "2021-05-31T16:45:40.000Z",
@@ -1247,6 +1337,12 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4748/464.mp3"
             },
+            "entities": [
+                "current",
+                "Jason Lengstorf",
+                "Phil Hawksworth",
+                "Jamstack"
+            ],
             "content:encodedSnippet": "Jason Lengstorf and Phil Hawksworth chat about the current state of the Jamstack including React + Jamstack, Distributed Persistent Rendering, building for ease of use, dealing with minor changes and caching, whether Jamstack needs to do all things, and a big new Netlify features announced!",
             "guid": "https://shoptalkshow.com/?p=4748",
             "isoDate": "2021-05-24T12:00:20.000Z",
@@ -1274,6 +1370,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4720/463.mp3"
             },
+            "entities": ["2021", "Windows"],
             "content:encodedSnippet": "Camera and gear for your desk talk, and answering your questions about build tools, programatically creating social media images, border radius clipping of parents, debugging Safari on Windows, the state of Drupal in 2021, and using code blocks in WordPress.",
             "guid": "https://shoptalkshow.com/?p=4720",
             "isoDate": "2021-05-17T13:03:03.000Z",
@@ -1301,6 +1398,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4706/462.mp3"
             },
+            "entities": ["CSS", "Chris", "2021", "PWA", "Dave", "Spring"],
             "content:encodedSnippet": "Dave and Chris talked at An Event Apart Spring Summit 2021 on the good and bad of the web. They talked about CSS, framework knowledge, more CSS, PWA's for projects, service workers, the language of tooling, and web performance.",
             "guid": "https://shoptalkshow.com/?p=4706",
             "isoDate": "2021-05-10T13:42:37.000Z",
@@ -1328,6 +1426,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4679/461.mp3"
             },
+            "entities": ["Chris", "Dave"],
             "content:encodedSnippet": "Dave's base got camped and Chris tried to improve the WordPress audio player. Also discussed: shared element transitions, Turbo, Astro, typography and fonts, and just simply blogging.",
             "guid": "https://shoptalkshow.com/?p=4679",
             "isoDate": "2021-05-03T13:02:10.000Z",
@@ -1355,6 +1454,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4663/460.mp3"
             },
+            "entities": ["CSS", "Adam Argyle", "2021"],
             "content:encodedSnippet": "Adam Argyle chats with us about CSS features from risky and never in any browser to stable and available in many browsers that are available in 2021.",
             "guid": "https://shoptalkshow.com/?p=4663",
             "isoDate": "2021-04-26T13:35:26.000Z",
@@ -1382,6 +1482,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4643/459.mp3"
             },
+            "entities": ["Dave"],
             "content:encodedSnippet": "Dave's prepping for a talk at An Event Apart about Web Components, and we're answering questions about OAuth, and talking digital art.",
             "guid": "https://shoptalkshow.com/?p=4643",
             "isoDate": "2021-04-19T15:00:19.000Z",
@@ -1409,6 +1510,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4629/458.mp3"
             },
+            "entities": ["her", "Emma Bostian"],
             "content:encodedSnippet": "Special guest Emma Bostian is on to talk about her new book, De-coding the Technical Interview, that will help you never bomb a technical job interview again. How to answer technical questions you don't know, looking for red flags when applying, infinite scrolling question, and how to not be a schlub when applying for a new job.",
             "guid": "https://shoptalkshow.com/?p=4629",
             "isoDate": "2021-04-12T13:00:15.000Z",
@@ -1436,6 +1538,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4620/457.mp3"
             },
+            "entities": ["CSS"],
             "content:encodedSnippet": "We're talking all about fun with colors in CSS, browser updates, the death of AMP (question mark), pseudo selectors, a question about responsive design in vertical space, and linking with _blank.",
             "guid": "https://shoptalkshow.com/?p=4620",
             "isoDate": "2021-04-05T14:04:32.000Z",
@@ -1462,6 +1565,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4602/456.mp3"
             },
+            "entities": ["editor", "leader", "Dave"],
             "content:encodedSnippet": "On this episode: Updates from Dave's shed, camera options for streaming and Zooming, Discord chats, Headless WordPress block editor musings, custom form controls with ElementInternals, going from a coder to a team leader, and container query updates.",
             "guid": "https://shoptalkshow.com/?p=4602",
             "isoDate": "2021-03-28T13:23:34.000Z",
@@ -1489,6 +1593,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4590/455.mp3"
             },
+            "entities": ["Chris", "a day", "Dave"],
             "content:encodedSnippet": "We're talking about threading in Slack or Discord, the continue reading button on a website, Axe software - also a sponsor!, cost benefit of time spent on work, what a day in the life at work is like for Chris and Dave, and musing about whether conferences are going to be a thing again.",
             "guid": "https://shoptalkshow.com/?p=4590",
             "isoDate": "2021-03-22T13:23:10.000Z",
@@ -1516,6 +1621,14 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4570/454.mp3"
             },
+            "entities": [
+                "Evan You",
+                "the future",
+                "Vite",
+                "the first 2 minutes",
+                "ESM",
+                "Evan"
+            ],
             "content:encodedSnippet": "Evan You chats with us about Vite. How is Vite so fast? What about tree shaking? How do you convert various formats into ESM and what does Evan recommend? What is the future of Babel? And what the first 2 minutes of a Vite project are like?",
             "guid": "https://shoptalkshow.com/?p=4570",
             "isoDate": "2021-03-15T15:00:53.000Z",
@@ -1543,6 +1656,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4552/453.mp3"
             },
+            "entities": ["Dave", "YouTube"],
             "content:encodedSnippet": "Dave's got YouTube dreams, a conversation about Babel, trying to generate a goldilocks level of source code a la Backbone and Underscore, power washing WordPress websites as a career, and an update on Dave's desk.",
             "guid": "https://shoptalkshow.com/?p=4552",
             "isoDate": "2021-03-08T14:00:56.000Z",
@@ -1570,6 +1684,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4533/452.mp3"
             },
+            "entities": ["Dave", "Vite"],
             "content:encodedSnippet": "JavaScript and next gen bundlers, Dave's experience using Vite, what are your expectations with stale browser tabs, and what can you do when consultants don't seem to be able to deliver on a project?",
             "guid": "https://shoptalkshow.com/?p=4533",
             "isoDate": "2021-03-01T17:30:02.000Z",
@@ -1597,6 +1712,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4513/451.mp3"
             },
+            "entities": ["Nolan Lawson", "his", "picker", "Dave &#038; Chris"],
             "content:encodedSnippet": "Nolan Lawson talks with Dave & Chris about his emoji picker element and how styling a web component works, why documentation is important, constructable stylesheets, how to build with Svelte, React or other frameworks, and the accessibility story with Web Components.",
             "guid": "https://shoptalkshow.com/?p=4513",
             "isoDate": "2021-02-22T17:19:54.000Z",
@@ -1624,6 +1740,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4489/450.mp3"
             },
+            "entities": ["Patreon", "now", "the future", "Dave"],
             "content:encodedSnippet": "We're officially on Patreon now and we'd love to have you come join us in the ShopTalk Show Discord and help shape the future of the ShopTalk community. We also talk about Dave's office situation, Notion competition, Elastic Search, how should someone specialize to get a job, and breaking news on the pop up element.",
             "guid": "https://shoptalkshow.com/?p=4489",
             "isoDate": "2021-02-15T16:20:31.000Z",
@@ -1651,6 +1768,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4458/449.mp3"
             },
+            "entities": ["Jay Hoffman", "2201", "Javascript", "CMS", "host"],
             "content:encodedSnippet": "More on Javascript in 2201, looking at Jay Hoffman's writing workflow, helping pick a CMS for fun blogging, helping pick a web host and the happiest path involved, and just what the heck are workers on the web?",
             "guid": "https://shoptalkshow.com/?p=4458",
             "isoDate": "2021-02-08T15:57:18.000Z",
@@ -1678,6 +1796,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4416/448.mp3"
             },
+            "entities": ["This week", "two"],
             "content:encodedSnippet": "This week we talk with the maintainers of Snowpack and WMR, two newish flavors bundlers, to discuss how ES Modules change the game for modern JavaScript development.",
             "guid": "https://shoptalkshow.com/?p=4416",
             "isoDate": "2021-02-01T14:00:27.000Z",
@@ -1704,6 +1823,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4397/447.mp3"
             },
+            "entities": ["3"],
             "content:encodedSnippet": "We answer your questions about using a headless WordPress set up, changing WordPress themes and what happens to custom post types, those share buttons on websites, and talk about the 3 recent fav articles that came across our RSS readers.",
             "guid": "https://shoptalkshow.com/?p=4397",
             "isoDate": "2021-01-25T13:00:05.000Z",
@@ -1731,6 +1851,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4381/446.mp3"
             },
+            "entities": ["Chris", "Dave"],
             "content:encodedSnippet": "Dave and Chris talk about recent pandemic purchases, publishing video on the web, more sharing of convoluted processes, some menu bar app ideas, reinvigorating HTML, and writing good git commit messages.",
             "guid": "https://shoptalkshow.com/?p=4381",
             "isoDate": "2021-01-18T13:00:52.000Z",
@@ -1757,6 +1878,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4365/445.mp3"
             },
+            "entities": ["2021", "First", "Dave", "CSS Tricks"],
             "content:encodedSnippet": "First episode of 2021! Dave's 11ty conversion continues, CSS Tricks gets a redesign, art directed blog posts, injecting styles into front matter, building stuff on holidays, and whether you should use open source from organizations that are sketchy?",
             "guid": "https://shoptalkshow.com/?p=4365",
             "isoDate": "2021-01-11T15:39:37.000Z",
@@ -1784,6 +1906,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4341/444.mp3"
             },
+            "entities": ["Puppeteer", "2021", "2020", "Dave"],
             "content:encodedSnippet": "Dave's ongoing Mac adventures, cleaning up old WordPress plugins, sharing a WordPress support tech, a Puppeteer update, and the sliding scale of giving an F in projects. Oh and we review a bit of 2020 and look forward to 2021. Thanks for listening!",
             "guid": "https://shoptalkshow.com/?p=4341",
             "isoDate": "2020-12-21T14:00:43.000Z",
@@ -1811,6 +1934,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4320/443.mp3"
             },
+            "entities": ["Dave"],
             "content:encodedSnippet": "What's the state of the art technique when it comes to asset bundling in WordPress? Should we use grid for every component? How should we test ecommerce site builds? And Dave goes back to the Mac!",
             "guid": "https://shoptalkshow.com/?p=4320",
             "isoDate": "2020-12-14T15:23:23.000Z",
@@ -1838,6 +1962,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4305/442.mp3"
             },
+            "entities": ["his", "Chris", "Dave"],
             "content:encodedSnippet": "Chris wants to upgrade his monitor situation, and Dave wants to update his shed situation. And along the way, they answer a listener question about how to care more about the blogging.",
             "guid": "https://shoptalkshow.com/?p=4305",
             "isoDate": "2020-12-07T14:05:56.000Z",
@@ -1865,6 +1990,15 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4286/441.mp3"
             },
+            "entities": [
+                "Apple",
+                "Chris",
+                "Nuxt",
+                "Auth",
+                "header",
+                "Truths",
+                "processor"
+            ],
             "content:encodedSnippet": "Follow up on Chris' desk adventures, trying to work out Auth and OAuth with Nuxt, fixing a fixed header issue, more on Apple's M1 processor, and a blog post reading of the Truths about Digital Accessibility.",
             "guid": "https://shoptalkshow.com/?p=4286",
             "isoDate": "2020-11-30T16:16:50.000Z",
@@ -1892,6 +2026,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4259/440.mp3"
             },
+            "entities": ["Netlify"],
             "content:encodedSnippet": "Let's talk Serverless - including using WordPress Serverless, how to solve a problem like local databases, and edge functions with Netlify and beyond.",
             "guid": "https://shoptalkshow.com/?p=4259",
             "isoDate": "2020-11-23T15:23:39.000Z",
@@ -1920,6 +2055,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4248/439.mp3"
             },
+            "entities": ["his", "Chris", "Dave"],
             "content:encodedSnippet": "Chris talks about his desk and cable organization in his new office, Dave talks about his new custom keyboard, and then they go for a deep dive into container queries.",
             "guid": "https://shoptalkshow.com/?p=4248",
             "isoDate": "2020-11-16T15:44:31.000Z",
@@ -1947,6 +2083,13 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4230/438.mp3"
             },
+            "entities": [
+                "Chris",
+                "&#038;",
+                "LinkedIn Recruiters",
+                "Dave",
+                "Mac"
+            ],
             "content:encodedSnippet": "Chris & Dave talking SEO, advice for pushing scripts to the end of a page, digital minimalism, LinkedIn Recruiters, ARM based Mac computers, and web monetization.",
             "guid": "https://shoptalkshow.com/?p=4230",
             "isoDate": "2020-11-09T14:00:57.000Z",
@@ -1974,6 +2117,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4211/437.mp3"
             },
+            "entities": ["WordPress", "PHP", "Jamstack"],
             "content:encodedSnippet": "A bit of WordPress vs Jamstack fall out, iPad SVG drawing followup before diving into your questions: Can you use PHP to serve CSS? What's the ideal pipeline from request to deploy? And are there good options for self hosting video?",
             "guid": "https://shoptalkshow.com/?p=4211",
             "isoDate": "2020-11-02T17:43:47.000Z",
@@ -2001,6 +2145,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4189/436.mp3"
             },
+            "entities": ["CSS"],
             "content:encodedSnippet": "This episode is about evolving the web platform. Meaning literally the change process of HTML, CSS, and JavaScript. This is a complicated and sometimes slow process. It involves developers like us (squeaky wheels), standards bodies (the web is bad without governance), browser vendors (whole complicated stew of people), and people like our guest. Outside influencers and shepherds to this process.",
             "guid": "https://shoptalkshow.com/?p=4189",
             "isoDate": "2020-10-26T13:02:32.000Z",
@@ -2028,6 +2173,15 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4166/435.mp3"
             },
+            "entities": [
+                "Magic the Gathering",
+                "3",
+                "his",
+                "Jeremey Keith",
+                "Dave",
+                "he",
+                "ChrisCoyier.net"
+            ],
             "content:encodedSnippet": "Show DescriptionChris is nostalgic for Magic the Gathering, Dave's wishing he hadn't added drawings to his blog, they're both mouthblogging about image compression and AVIF, and Jeremey Keith is back with chapter 3: The Website. Listen on Website →Links Sidecar on iPad A quintessential blogging mistake ChrisCoyier.net ZText Cloudinary Cloudflare Workers AVIF has Landed Sqoosh [\u2026]",
             "guid": "https://shoptalkshow.com/?p=4166",
             "isoDate": "2020-10-19T13:00:29.000Z",
@@ -2054,6 +2208,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4152/434.mp3"
             },
+            "entities": ["her", "New York Times", "Natalya Shelburne", "2020"],
             "content:encodedSnippet": "Natalya Shelburne is out guest to talk about her work at the New York Times, the importance of job titles, design engineering, design systems, and 2020 hot takes and soapboxes: childcare in the pandemic, education, and conferences.",
             "guid": "https://shoptalkshow.com/?p=4152",
             "isoDate": "2020-10-12T15:45:23.000Z",
@@ -2081,6 +2236,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4129/433.mp3"
             },
+            "entities": ["2", "Jeremy Keith", "month of the year"],
             "content:encodedSnippet": "The spookiest month of the year brings discussions of handling pull requests on open source projects, wayfinding on the responsive web, how would having to pay for frameworks change the web, relying on social media for promotion, and chapter 2 of the history of the web as read by Jeremy Keith.",
             "guid": "https://shoptalkshow.com/?p=4129",
             "isoDate": "2020-10-05T13:00:49.000Z",
@@ -2107,6 +2263,17 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4107/432.mp3"
             },
+            "entities": [
+                "his",
+                "Coding Career Handbook",
+                "Shawn Wang",
+                "Chris",
+                "now",
+                "developer",
+                "Wang",
+                "Dave",
+                "Vite"
+            ],
             "content:encodedSnippet": "Shawn Wang, known as Swyx, talks with Dave and Chris about his career path from finance to coding, and now in developer experience. They chat about serverless functions, React, getting a broad sense of technology, Wang's Coding Career Handbook, what's next for SSR, checking out Vite, and what exactly is DevX / developer experience?",
             "guid": "https://shoptalkshow.com/?p=4107",
             "isoDate": "2020-09-28T13:00:53.000Z",
@@ -2134,6 +2301,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4084/431.mp3"
             },
+            "entities": ["1", "Jeremy Keith", "Dave"],
             "content:encodedSnippet": "This episode Dave's been blogging about the tangled webs we weave with dependancies and the internet, we talk more about web workers, and making peace with production code written by your earlier self. And Jeremy Keith kicks off part 1 of a reading of the history of the web.",
             "guid": "https://shoptalkshow.com/?p=4084",
             "isoDate": "2020-09-21T16:03:18.000Z",
@@ -2161,6 +2329,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4065/430.mp3"
             },
+            "entities": ["Chris", "Dave"],
             "content:encodedSnippet": "Chris and Dave are coming to you live (recorded) from Smashing Conf's Live Webinar riffing on the talks and presentations, as well as their own Marketing Cloud Webinar Presentation.",
             "guid": "https://shoptalkshow.com/?p=4065",
             "isoDate": "2020-09-14T13:30:29.000Z",
@@ -2187,6 +2356,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4046/429.mp3"
             },
+            "entities": ["his", "recently", "David Dylan Thomas", "capitalism"],
             "content:encodedSnippet": "David Dylan Thomas stops by to talk about his new book, Design for Cognitive Bias, recently published by A Book Apart. We talk about the illusion of control, confirmation bias, capitalism as a bias, culture fit, bias blindspots, the myth of the self-made man, move fast and break things, dark patterns, and what can we takeaway from learning about bias?",
             "guid": "https://shoptalkshow.com/?p=4046",
             "isoDate": "2020-09-07T13:30:48.000Z",
@@ -2213,6 +2383,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/4016/428.mp3"
             },
+            "entities": ["Mozilla Firefox", "Javascript", "40"],
             "content:encodedSnippet": "We're reflecting on turning 40, code health and integration testing, Mozilla Firefox conversations, the best way to provide an accessible text label to a button, and finding an application that minifies Javascript and images files.",
             "guid": "https://shoptalkshow.com/?p=4016",
             "isoDate": "2020-08-31T19:09:57.000Z",
@@ -2240,6 +2411,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/3990/427.mp3"
             },
+            "entities": ["Chris", "days", "Firefox"],
             "content:encodedSnippet": "We're talking addendum's and corrections, updates on Chris' text game, browsers built for designers, saying farewell to Firefox?, the best way to spin up a brochure website, and how Gutenberg in WordPress is these days.",
             "guid": "https://shoptalkshow.com/?p=3990",
             "isoDate": "2020-08-24T16:54:24.000Z",
@@ -2267,6 +2439,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/3967/426.mp3"
             },
+            "entities": ["Chris", "Dave"],
             "content:encodedSnippet": "Dave's gave a talk on backlogs, Chris has issues with Issues vs Discussions vs Chatting (and GIFs), and trying not to waste your time on ideas and projects when you have limited time to do them in.",
             "guid": "https://shoptalkshow.com/?p=3967",
             "isoDate": "2020-08-17T13:00:46.000Z",
@@ -2294,6 +2467,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/3941/425.mp3"
             },
+            "entities": ["SVG"],
             "content:encodedSnippet": "We're talking about health, Tailwind CSS, getting overwhelmed with where to start on a project, some follow up on SVG sizes and web components, and why isn't there a bigger focus on web workers?",
             "guid": "https://shoptalkshow.com/?p=3941",
             "isoDate": "2020-08-10T13:30:57.000Z",
@@ -2321,6 +2495,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/3917/424.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "We riff on web components and web component libraries, when and why you should use a framework vs vanilla HTML/CSS/JS, how to make phone numbers more accessible, trying to figure out state, and some thoughts on SVG memory usage.",
             "guid": "https://shoptalkshow.com/?p=3917",
             "isoDate": "2020-08-03T12:00:19.000Z",
@@ -2348,6 +2523,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/3897/423.mp3"
             },
+            "entities": ["CSS", "Chris", "2020", "Windows", "Dave", "Ruby"],
             "content:encodedSnippet": "This episode we're talking about why we sleep, Zoom call etiquette and practices, spinning up Discord in 2020, Chris going Ruby, Dave working on CSS for foldable Windows devices, and what's the deal with masonry grid and layout?",
             "guid": "https://shoptalkshow.com/?p=3897",
             "isoDate": "2020-07-27T17:31:17.000Z",
@@ -2375,6 +2551,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/3874/422.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "Is there a way to listen for clicks and defer them until the app becomes available? What's the deal with accessibility widgets for websites? Should the system, browser, or website be responsible for motion settings? And how is Medium as a platform for monetizing your blog?",
             "guid": "https://shoptalkshow.com/?p=3874",
             "isoDate": "2020-07-20T11:00:25.000Z",
@@ -2402,6 +2579,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/3854/421.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "We're talking about how and when to spin down old projects, sun setting GitHub repos, and forums. We also answer your questions about how to educate and bring along the back-end team with tech, and when you should stick with old tech instead of the new hotness.",
             "guid": "https://shoptalkshow.com/?p=3854",
             "isoDate": "2020-07-13T19:46:29.000Z",
@@ -2429,6 +2607,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/3818/420.mp3"
             },
+            "entities": ["Apple", "Chris", "Dave", "CSS Tricks"],
             "content:encodedSnippet": "We're talking about Chris' new book of CSS Tricks, building support for old tech on the web, Apple going Arm and what that might mean for Parallels, and building Dave's magical image machine.",
             "guid": "https://shoptalkshow.com/?p=3818",
             "isoDate": "2020-07-06T16:09:27.000Z",
@@ -2456,6 +2635,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/3791/419.mp3"
             },
+            "entities": ["mobile", "first"],
             "content:encodedSnippet": "We're talking email, custom properties to tame the CSS stack, scroll trigger animation, WordPress blocks, mobile first vs desktop first design, and getting stuff to look nice on mobile Safari. And MORE!",
             "guid": "https://shoptalkshow.com/?p=3791",
             "isoDate": "2020-06-29T14:00:55.000Z",
@@ -2483,6 +2663,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/3773/418.mp3"
             },
+            "entities": ["CSS", "Developer", "LH"],
             "content:encodedSnippet": "Show DescriptionWe read some blogs and have some questions of our own: LH vs RLH? What about styling the shadow DOM with CSS shadow parts? Should you focus your work on what's loaded in your brain already? What is the Developer Experience? RUM and making decisions with or without data. Listen on Website →Links Webplatform [\u2026]",
             "guid": "https://shoptalkshow.com/?p=3773",
             "isoDate": "2020-06-22T13:00:18.000Z",
@@ -2510,6 +2691,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/3745/417.mp3"
             },
+            "entities": ["Jekyll", "Gemstone", "4", "Github", "Microsoft"],
             "content:encodedSnippet": "We're talking RSS feeds, Gemstone 4, MMO games, DnD, Jekyll vs Eleventy performance, email newsletters, Github and Microsoft, and strategies for dealing with Jamstack page jank.",
             "guid": "https://shoptalkshow.com/?p=3745",
             "isoDate": "2020-06-15T13:00:15.000Z",
@@ -2537,6 +2719,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/3716/416.mp3"
             },
+            "entities": ["Google", "WordPress"],
             "content:encodedSnippet": "Show DescriptionWe're talking about what's going on in the world and in our worlds, a bit of banjo talk, building in WordPress and the fancy world of workers, new web performance details from Google, and answering a question about static site generator performance. Listen on Website →Links How to Make this Moment the Turning Point [\u2026]",
             "guid": "https://shoptalkshow.com/?p=3716",
             "isoDate": "2020-06-08T14:01:54.000Z",
@@ -2564,6 +2747,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/3699/415.mp3"
             },
+            "entities": ["her", "Jen Simmons", "HTML Essentials"],
             "content:encodedSnippet": "Jen Simmons is back on the show to talk with us about her new HTML Essentials course, CSS Aspect Ratio, rendering engines vs browsers, and a big announcement from her personally!",
             "guid": "https://shoptalkshow.com/?p=3699",
             "isoDate": "2020-06-01T13:00:59.000Z",
@@ -2591,6 +2775,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/3677/414.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "Is there a way to control text in the prompt for user permissions? Have we tried Emacs? How do you write better words? When is it appropriate to add a new framework to your resume? Do you think there is a front end ceiling?",
             "guid": "https://shoptalkshow.com/?p=3677",
             "isoDate": "2020-05-25T15:00:34.000Z",
@@ -2618,6 +2803,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/3656/413.mp3"
             },
+            "entities": ["Gerry McGovern"],
             "content:encodedSnippet": "Gerry McGovern talks with us about the amount of energy used sending the bits and bytes around the internet, the cost of storage, new phones vs old phones, the scale of data, and how do we adjust our process and culture to make changes?",
             "guid": "https://shoptalkshow.com/?p=3656",
             "isoDate": "2020-05-18T13:00:31.000Z",
@@ -2645,6 +2831,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/3622/412.mp3"
             },
+            "entities": ["his", "Prisma", "Tom Preston-Werner"],
             "content:encodedSnippet": "Tom Preston-Werner joins the show to talk about his latest project, RedwoodJS, and the decisions made about how it works, public APIs, how tied to Netlify RedwoodJS is, and why they're using Prisma.",
             "guid": "https://shoptalkshow.com/?p=3622",
             "isoDate": "2020-05-11T14:00:00.000Z",
@@ -2672,6 +2859,7 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/3589/411.mp3"
             },
+            "entities": ["TwitterVitaly Friedman"],
             "content:encodedSnippet": "Show DescriptionVitaly Friedman talks with us about the changing landscape of publishing on the web, the changes seen in web conferences, the difference between a workshop and a webinar, and keeping up with all the technology in front end development. Listen on Website →GuestsVitaly FriedmanGuest's Main URL \u2022 Guest's TwitterVitaly Friedman loves beautiful content and [\u2026]",
             "guid": "https://shoptalkshow.com/?p=3589",
             "isoDate": "2020-05-04T17:49:19.000Z",
@@ -2699,6 +2887,13 @@
                 "type": "audio/mpeg",
                 "url": "https://shoptalkshow.com/podcast-download/3559/410.mp3"
             },
+            "entities": [
+                "Gulpjs",
+                "Blaine Bublitz",
+                "TwitterMaintainer Relations",
+                "SVG",
+                "the future"
+            ],
             "content:encodedSnippet": "Show DescriptionWe're chatting with Blaine Bublitz, lead at the Gulpjs open source project, about what Gulp is, the lack of money in open source, SVG and Gulp, handling dependencies in Gulp, and what the future of Gulp looks like. Listen on Website →GuestsBlaine BublitzGuest's Main URL \u2022 Guest's TwitterMaintainer Relations, Gulpjs lead. Links Gulp.js Tidelift [\u2026]",
             "guid": "https://shoptalkshow.com/?p=3559",
             "isoDate": "2020-04-27T15:00:00.000Z",

@@ -66,6 +66,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/736CG3/stitcher.simplecastaudio.com/f188706e-d41c-47ad-99de-382848a125bb/episodes/e4f6d2ed-084d-47b9-84eb-d803e4d648b2/audio/128/default.mp3?aid=rss_feed&awCollectionId=f188706e-d41c-47ad-99de-382848a125bb&awEpisodeId=e4f6d2ed-084d-47b9-84eb-d803e4d648b2&feed=4BT6w4BF"
             },
+            "entities": ["She", "director", "Jade Magnus Ogunnaike", "Sudhir"],
             "content:encodedSnippet": "How has activism evolved in our digital society? In this episode, Sudhir talks to Jade Magnus Ogunnaike about the intersection of big tech and civil rights. She is a senior campaign director for Color of Change. It\u2019s a racial justice organization that blends traditional organizing efforts with an updated playbook for how to make change.",
             "guid": "85b602bc-a54a-4c8c-b92f-ad2c002daa55",
             "isoDate": "2021-05-18T03:00:00.000Z",
@@ -92,6 +93,14 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/736CG3/stitcher.simplecastaudio.com/f188706e-d41c-47ad-99de-382848a125bb/episodes/9323f309-d033-40cc-a683-ecbe0f4ad1b0/audio/128/default.mp3?aid=rss_feed&awCollectionId=f188706e-d41c-47ad-99de-382848a125bb&awEpisodeId=9323f309-d033-40cc-a683-ecbe0f4ad1b0&feed=4BT6w4BF"
             },
+            "entities": [
+                "President",
+                "Last week",
+                "Donald Trump",
+                "Noah Feldman",
+                "scholar",
+                "Sudhir"
+            ],
             "content:encodedSnippet": "Last week, the board upheld the ban of former President Donald Trump\u2019s social media accounts. Sudhir talks to Noah Feldman, the constitutional law scholar who helped design this \u201csupreme court\u201d for content moderation. They reveal the inside story of how the idea came about, how the court was built, and ask big questions, like \u2026 will anyone trust it?",
             "guid": "864b90e3-ad1b-44a2-aaa9-ad25001ea8d0",
             "isoDate": "2021-05-11T03:00:00.000Z",
@@ -118,6 +127,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/736CG3/stitcher.simplecastaudio.com/f188706e-d41c-47ad-99de-382848a125bb/episodes/ec8b8673-d785-458c-8c79-d2f56a8b872d/audio/128/default.mp3?aid=rss_feed&awCollectionId=f188706e-d41c-47ad-99de-382848a125bb&awEpisodeId=ec8b8673-d785-458c-8c79-d2f56a8b872d&feed=4BT6w4BF"
             },
+            "entities": ["activist", "Twitter and Facebook", "Sudhir"],
             "content:encodedSnippet": "If the big social-media companies are unable or unwilling to make major changes from within, it may be up to outsiders to create better, healthier digital communities. Whether it\u2019s smaller platforms for like-minded people, a publicly owned social network, self-policing by user groups, or activist campaigns to pressure Twitter and Facebook to improve, Sudhir explores what\u2019s next for social media \u2014 and what makes societies function or fail.",
             "guid": "aac03812-9a20-4cd6-87c5-ad1301798226",
             "isoDate": "2021-04-26T19:00:00.000Z",
@@ -144,6 +154,7 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/736CG3/stitcher.simplecastaudio.com/f188706e-d41c-47ad-99de-382848a125bb/episodes/1dcfcb49-1967-4885-abcf-40a338915fb0/audio/128/default.mp3?aid=rss_feed&awCollectionId=f188706e-d41c-47ad-99de-382848a125bb&awEpisodeId=1dcfcb49-1967-4885-abcf-40a338915fb0&feed=4BT6w4BF"
             },
+            "entities": ["his", "every day", "Sudhir", "Facebook", "he"],
             "content:encodedSnippet": "What's it like to try and police millions of pieces of abusive content every day? Sudhir takes us inside Facebook, as he and his former colleagues recall how hard it was to encourage civility at a company obsessed with growth \u2014 especially when that growth was often driven by some of the most toxic behaviors.",
             "guid": "d8a6b663-0921-4d3d-ac03-ad0c01462ce6",
             "isoDate": "2021-04-19T16:00:00.000Z",
@@ -170,6 +181,18 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/736CG3/stitcher.simplecastaudio.com/f188706e-d41c-47ad-99de-382848a125bb/episodes/cd1f352e-26be-4934-9dd4-8dcd4c29e0c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=f188706e-d41c-47ad-99de-382848a125bb&awEpisodeId=cd1f352e-26be-4934-9dd4-8dcd4c29e0c5&feed=4BT6w4BF"
             },
+            "entities": [
+                "afternoon",
+                "U.S.",
+                "Valley",
+                "one",
+                "Capitol",
+                "Silicon",
+                "January 6",
+                "Sudhir",
+                "violence",
+                "president"
+            ],
             "content:encodedSnippet": "When online anger turned to offline violence at the U.S. Capitol on January 6, the big social media companies responded by kicking some users \u2014 including the president himself \u2014 off their platforms. What led to that decision? Was it an overreach? And what role did they really play in the events that took place? Sudhir explores how social media is built to encourage bad behavior, and why one afternoon of unrest can\u2019t overcome a decades-old mindset in Silicon Valley that blinds them to this reality.",
             "guid": "25e2df64-cae2-4ed9-976d-ad08010eddd8",
             "isoDate": "2021-04-12T19:00:00.000Z",
@@ -196,6 +219,18 @@
                 "type": "audio/mpeg",
                 "url": "https://chtbl.com/track/736CG3/stitcher.simplecastaudio.com/f188706e-d41c-47ad-99de-382848a125bb/episodes/d0845576-fc6d-427a-9476-9accf7f71913/audio/128/default.mp3?aid=rss_feed&awCollectionId=f188706e-d41c-47ad-99de-382848a125bb&awEpisodeId=d0845576-fc6d-427a-9476-9accf7f71913&feed=4BT6w4BF"
             },
+            "entities": [
+                "sociologist",
+                "Valley",
+                "Now",
+                "Twitter",
+                "Silicon",
+                "Internet",
+                "Freakonomics Radio Network",
+                "Sudhir Venkatesh",
+                "Facebook",
+                "he"
+            ],
             "content:encodedSnippet": "Sudhir Venkatesh, a sociologist who has studied crack gangs, sex workers, and gun runners, suddenly found himself working at Facebook, and later at Twitter. Now he\u2019s back from Silicon Valley to explore and explain our overheated digital universe. \u201cSudhir Breaks the Internet\u201d is a production of the Freakonomics Radio Network.",
             "guid": "fd11ae18-bad6-4f23-8be2-acd1011e6990",
             "isoDate": "2021-02-16T18:04:00.000Z",

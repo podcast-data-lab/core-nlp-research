@@ -42,6 +42,16 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/5a87b0f4/podcast/play/45137182/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-20%2F694baaf5-e6de-4876-d11d-5839ae343af3.mp3"
             },
+            "entities": [
+                "Brian",
+                "2",
+                "Christmas",
+                "Neha",
+                "monthly",
+                "Encarta",
+                "https://github.com/readmeign-up",
+                "OSS"
+            ],
             "dc:creator": "GitHub",
             "link": "https://anchor.fm/readmepod/episodes/Hosts-in-the-hot-seat-e1bvvqu",
             "guid": "6b05420d-75f1-4e23-ad58-4ca9ae1030f6",
@@ -66,6 +76,18 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/5a87b0f4/podcast/play/44796073/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-13%2Fb4d5dd60-562c-740f-776c-378562727686.mp3"
             },
+            "entities": [
+                "https://github.com/QuincyLarson",
+                "his",
+                "https://github.com/readme",
+                "https://www.freeCodeCamp.org",
+                "Quincy",
+                "director",
+                "2014",
+                "monthly",
+                "software engineer",
+                "he"
+            ],
             "dc:creator": "GitHub",
             "link": "https://anchor.fm/readmepod/episodes/FreeCodeCamp-For-curious-people--by-curious-people-e1blin9",
             "guid": "305b1bee-f9a3-4593-8448-b94c43a3524a",
@@ -90,6 +112,22 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/5a87b0f4/podcast/play/44559466/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-8%2F9e343fd5-2648-5f29-9244-ed0a9c1cb39b.mp3"
             },
+            "entities": [
+                "the years",
+                "16",
+                "https://jevakallio.dev/",
+                "millions of dollars",
+                "https://github.com/jevakallio",
+                "OSS",
+                "Jani",
+                "his",
+                "currently",
+                "https://github.com/read",
+                "monthly",
+                "Jani Eväkallio",
+                "he",
+                "He"
+            ],
             "dc:creator": "GitHub",
             "link": "https://anchor.fm/readmepod/episodes/Keeping-creativity-alive-while-managing-workloads-e1bebla",
             "guid": "2967404c-f5d0-4bfc-982a-e38e231de81a",
@@ -114,6 +152,20 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/5a87b0f4/podcast/play/43761767/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-30%2F48e0556b-1bbf-b7ba-f84a-9f3195c8d065.mp3"
             },
+            "entities": [
+                "she",
+                "Today",
+                "https://github.com/readme",
+                "twenties",
+                "her",
+                "https://discord.com/invite/theclaw",
+                "https://github.com/whitep4nth3r",
+                "monthly",
+                "https://www.twitch.tv/whitep4nth3r",
+                "the future",
+                "Salma",
+                "Salma Alam-Naylor"
+            ],
             "dc:creator": "GitHub",
             "link": "https://anchor.fm/readmepod/episodes/Three-careers-and-motherhood-are-just-the-start-e1am0l7",
             "guid": "326fd195-ebe9-459a-9aec-2bc9b0b05cf4",
@@ -138,6 +190,18 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/5a87b0f4/podcast/play/43029053/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-9%2F066ee680-7268-0e86-b46c-99e2160c46e7.mp3"
             },
+            "entities": [
+                "https://liyasthomas.com/",
+                "his",
+                "https://github.com/readme",
+                "Liyas Thomas",
+                "https://github.com/liyasthomas",
+                "founder",
+                "Hoppscotch",
+                "now",
+                "he",
+                "Liyas"
+            ],
             "dc:creator": "GitHub",
             "link": "https://anchor.fm/readmepod/episodes/Where-utility-meets-beauty-Hoppscotch-e19vl3t",
             "guid": "92911380-7435-43dd-b225-6ef3821d9d7c",
@@ -162,6 +226,18 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/5a87b0f4/podcast/play/43027958/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-9%2Fecb8376d-e4c7-ef97-fdac-c6620e2beb31.mp3"
             },
+            "entities": [
+                "Google",
+                "https://github.com/fredkschott",
+                "his",
+                "https://github.com/readme",
+                "builder",
+                "Fred",
+                "2021",
+                "Fred Schott",
+                "he",
+                "https://astro.build/blog/introducing-astro/"
+            ],
             "dc:creator": "GitHub",
             "link": "https://anchor.fm/readmepod/episodes/Giving-110-in-the-right-place-at-the-right-time-e19vk1m",
             "guid": "66e67589-4c25-4003-8f2b-aedea2610259",
@@ -186,6 +262,20 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/5a87b0f4/podcast/play/42674360/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-1%2F267d3b20-f63e-1b76-a237-87b138971de8.mp3"
             },
+            "entities": [
+                "she",
+                "A decade later",
+                "WordPress",
+                "https://github.com/readme",
+                "her",
+                "https://github.com/helen",
+                "pianist",
+                "programmer",
+                "Helen Hou-Sandí",
+                "developer",
+                "https://helen.blog/",
+                "Helen"
+            ],
             "dc:creator": "GitHub",
             "link": "https://anchor.fm/readmepod/episodes/A-master-in-both-piano-and-WordPress-e19kqno",
             "guid": "48c11799-7349-405f-b259-c605d35dcb9c",
@@ -210,6 +300,19 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/5a87b0f4/podcast/play/42327541/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-25%2F54e73cc1-0e3d-8e3b-79b6-287e05566755.mp3"
             },
+            "entities": [
+                "his",
+                "https://github.com/readme",
+                "Anthony Sottile",
+                "Anthony",
+                "https://www.twitch.tv/codewithanthony",
+                "two years",
+                "https://github.com/asottile",
+                "He",
+                "him",
+                "he",
+                "first"
+            ],
             "dc:creator": "GitHub",
             "link": "https://anchor.fm/readmepod/episodes/Python-enthusiast--Twitch-streamer--et--al-e19a81l",
             "guid": "e55fe9cb-e41a-4d0c-b475-24156b8c08b1",
@@ -233,6 +336,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/5a87b0f4/podcast/play/41502624/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-8%2Ff1d6154b-97a4-69be-dcdc-e204dedbed81.mp3"
             },
+            "entities": [
+                "2",
+                "Brian Douglas",
+                "Neha Batra",
+                "Tuesday",
+                "October 26th",
+                "every"
+            ],
             "dc:creator": "GitHub",
             "link": "https://anchor.fm/readmepod/episodes/Season-2-Trailer-e18h2f0",
             "guid": "92aa9fde-1b9c-4d9a-9f8c-11153a968a2e",
@@ -257,6 +368,19 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/5a87b0f4/podcast/play/37868962/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-26%2F6b7327fb-68de-bc83-abb8-2e92aa3be38c.mp3"
             },
+            "entities": [
+                "his",
+                "million",
+                "now",
+                "a quarter",
+                "a month",
+                "the future",
+                "Nigeria",
+                "he",
+                "Dubai",
+                "Segun Adebayo",
+                "Segun"
+            ],
             "dc:creator": "GitHub",
             "link": "https://anchor.fm/readmepod/episodes/Prioritizing-empathy-and-taking-risks-to-build-Chakra-UI-e1525v2",
             "guid": "7aa4cccc-8d72-4f28-8b5c-445e89e2f207",
@@ -281,6 +405,18 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/5a87b0f4/podcast/play/37516367/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-19%2F53cda8c3-937d-d7b1-f12b-68f9e0ead87c.mp3"
             },
+            "entities": [
+                "she",
+                "She",
+                "leader",
+                "her",
+                "Ada Nduka Oyom",
+                "Africa",
+                "now",
+                "Lagos",
+                "Nigeria",
+                "Ada"
+            ],
             "dc:creator": "GitHub",
             "link": "https://anchor.fm/readmepod/episodes/Creating-space-and-opportunity-with-She-Code-Africa-e14ndkf",
             "guid": "dfdcb92c-aa54-472c-8560-3f9f902f5ba8",
@@ -305,6 +441,20 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/5a87b0f4/podcast/play/37195065/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-14%2Fdb4d0321-5ca4-6e85-91f7-6415d8655a5d.mp3"
             },
+            "entities": [
+                "PayPal",
+                "100",
+                "New York",
+                "She",
+                "Adafruit",
+                "Limor",
+                "2005",
+                "Limor Fried",
+                "her",
+                "50,000",
+                "now",
+                "MIT"
+            ],
             "dc:creator": "GitHub",
             "link": "https://anchor.fm/readmepod/episodes/Changing-the-hardware-development-game-at-Adafruit-e14djrp",
             "guid": "babf3b67-5281-469f-af66-8a35aad8a461",
@@ -329,6 +479,22 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/5a87b0f4/podcast/play/36226929/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-26%2F7d98e323-02d4-eb3d-f776-a48c7fab2643.mp3"
             },
+            "entities": [
+                "Currently",
+                "Moon",
+                "author",
+                "Facebook\u2019s React Core",
+                "Rachel",
+                "community engagement",
+                "Rachel Nabors",
+                "teacher",
+                "React Core",
+                "now",
+                "developer",
+                "Virginia",
+                "Sailor",
+                "illustrator"
+            ],
             "dc:creator": "GitHub",
             "link": "https://anchor.fm/readmepod/episodes/From-comics-in-Virginia-to-React-Core-at-Facebook-e13g2dh",
             "guid": "d9005992-8ef7-4a20-a5cb-61aa167785a7",
@@ -353,6 +519,21 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/5a87b0f4/podcast/play/35931998/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-21%2Ff293a0d6-6644-f4f3-63b9-619b68474f8b.mp3"
             },
+            "entities": [
+                "recently",
+                "a quarter",
+                "Daniel",
+                "him",
+                "a century",
+                "25 years ago",
+                "1997",
+                "now",
+                "Daniel Stenburg",
+                "the future",
+                "he",
+                "Almost",
+                "first"
+            ],
             "dc:creator": "GitHub",
             "link": "https://anchor.fm/readmepod/episodes/cURL-25-years-and-200-releases-later-e1372cu",
             "guid": "4eca64d0-a989-438c-a105-0b49c0cb11b1",
@@ -377,6 +558,16 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/5a87b0f4/podcast/play/35412095/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-14%2F3300813b-908d-e234-dccb-cf2fe26e026b.mp3"
             },
+            "entities": [
+                "now",
+                "Javascript",
+                "Henry Zhu",
+                "compiler",
+                "him",
+                "he",
+                "Henry",
+                "first"
+            ],
             "dc:creator": "GitHub",
             "link": "https://anchor.fm/readmepod/episodes/Quitting-a-steady-job-to-chase-intuition-e12n6lv",
             "guid": "fec06bd7-bd95-4397-94cc-8da9f94b0423",
@@ -401,6 +592,18 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/5a87b0f4/podcast/play/35091186/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-8%2F60731565-fb20-56d0-7fc2-7e3c0f6282be.mp3"
             },
+            "entities": [
+                "Tobias Koppers",
+                "Vercel",
+                "his",
+                "His",
+                "Tobias",
+                "Sean Larkin",
+                "recently",
+                "now",
+                "he",
+                "Open Collective sponsorships"
+            ],
             "dc:creator": "GitHub",
             "link": "https://anchor.fm/readmepod/episodes/From-a-masters-thesis-to-global-go-to-e12dd9i",
             "guid": "e62444ee-fca5-4439-8e3b-83ee734806da",
@@ -425,6 +628,18 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/5a87b0f4/podcast/play/34131770/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-24%2F98fedf4e-f7e3-4f7a-6784-9268addd397a.mp3"
             },
+            "entities": [
+                "Netherlands",
+                "Today",
+                "his",
+                "Assistant",
+                "Seven years ago",
+                "now",
+                "Paulus",
+                "Paulus Schoutsen",
+                "California",
+                "he"
+            ],
             "dc:creator": "GitHub",
             "link": "https://anchor.fm/readmepod/episodes/Keeping-the-lights-on-with-Home-Assistant-e11g4bq",
             "guid": "4276e64c-4856-4376-ba5a-a364ae4cfb0b",
@@ -449,6 +664,21 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/5a87b0f4/podcast/play/33633556/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-17%2Fbb1e40cb-4e7b-f70f-4f5c-975f5b981239.mp3"
             },
+            "entities": [
+                "GitHub",
+                "Python Software Foundation",
+                "Mariatta Wijaya",
+                "Canada",
+                "she",
+                "She",
+                "Now",
+                "now",
+                "developer",
+                "first",
+                "Indonesia",
+                "Python",
+                "Mariatta"
+            ],
             "dc:creator": "GitHub",
             "link": "https://anchor.fm/readmepod/episodes/Humanizing-bots-and-building-community-e110tqk",
             "guid": "df9b0d41-b875-4ce9-9e46-22fe2abd1672",
@@ -473,6 +703,16 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/5a87b0f4/podcast/play/33633063/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-17%2F78692f27-cb44-5c60-964d-474df22ac8da.mp3"
             },
+            "entities": [
+                "Scott Hanselman",
+                "C#",
+                "now",
+                "Mark Downie",
+                "Mark",
+                "the future",
+                "20 years",
+                "Scott"
+            ],
             "dc:creator": "GitHub",
             "link": "https://anchor.fm/readmepod/episodes/Taking-Das-Blog-into-the-future-e110tb7",
             "guid": "33a040ca-5ac1-4858-8dc1-7cfc8a680bd4",
@@ -497,6 +737,22 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/5a87b0f4/podcast/play/33632066/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-17%2F446c78ab-c15e-f39f-7eb5-b13ca2cb4ec6.mp3"
             },
+            "entities": [
+                "18",
+                "Vue ecosystem",
+                "Evan You",
+                "2020",
+                "U.S.",
+                "his",
+                "China",
+                "Parsons",
+                "now",
+                "Google Creative Lab",
+                "progressive",
+                "he",
+                "He",
+                "Evan"
+            ],
             "dc:creator": "GitHub",
             "link": "https://anchor.fm/readmepod/episodes/How-one-idea-grew-into-a-popular-Javascript-ecosystem-e110sc2",
             "guid": "706d914c-4915-41a4-a415-bc80c87caa6e",
@@ -521,6 +777,17 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/5a87b0f4/podcast/play/33632024/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-17%2Fee4c3229-b4e3-6962-0ebf-86f189ea5c6a.mp3"
             },
+            "entities": [
+                "she",
+                "her",
+                "Gina",
+                "GitHub",
+                "printer",
+                "now",
+                "2012",
+                "first",
+                "Gina Häußge"
+            ],
             "dc:creator": "GitHub",
             "link": "https://anchor.fm/readmepod/episodes/From-a-3D-side-project-to-the-dream-job-e110sao",
             "guid": "afc75700-4ba1-46f1-902f-1bd7d1e27537",
@@ -544,6 +811,7 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/5a87b0f4/podcast/play/33363049/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-12%2F75559c8d-d54e-959d-8efb-f9b8d849a2f9.mp3"
             },
+            "entities": [],
             "dc:creator": "GitHub",
             "link": "https://anchor.fm/readmepod/episodes/Trailer-e10oll9",
             "guid": "2037287f-af5f-47d3-bfc0-98a6f79e23ec",

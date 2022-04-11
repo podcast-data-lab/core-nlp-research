@@ -56,6 +56,15 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15206218/49126633.mp3"
             },
+            "entities": [
+                "nine",
+                "25",
+                "Pastor",
+                "John",
+                "Christian",
+                "Paul",
+                "7:14"
+            ],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15206217/does-romans-7-describe-a-christian",
             "guid": "desiringgod.org-resource-16596",
@@ -81,6 +90,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15201392/49126473.mp3"
             },
+            "entities": ["his"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15201391/whats-lost-when-we-only-pray-alone",
             "guid": "desiringgod.org-resource-16595",
@@ -106,6 +116,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15196923/49126440.mp3"
             },
+            "entities": ["Christians", "Jesus"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15196922/should-we-dramatize-jesuss-life-for-television",
             "guid": "desiringgod.org-resource-16594",
@@ -131,6 +142,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15192454/49110368.mp3"
             },
+            "entities": ["Christians", "his"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15192453/do-christians-still-have-evil-desires",
             "guid": "desiringgod.org-resource-16593",
@@ -156,6 +168,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15186643/48836164.mp3"
             },
+            "entities": [],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15186642/how-fleeting-pleasures-sidetrack-our-love",
             "guid": "desiringgod.org-resource-16523",
@@ -181,6 +194,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15181459/48836008.mp3"
             },
+            "entities": [],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15181458/im-too-distracted-with-life-to-meditate-on-christ",
             "guid": "desiringgod.org-resource-16522",
@@ -206,6 +220,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15175581/48702111.mp3"
             },
+            "entities": ["two"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15175580/on-permanent-birth-control",
             "guid": "desiringgod.org-resource-16500",
@@ -231,6 +246,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15171079/48692487.mp3"
             },
+            "entities": ["daily", "shepherd", "he", "him"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15171078/how-does-god-lead-us-in-daily-decisions",
             "guid": "desiringgod.org-resource-16495",
@@ -256,6 +272,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15166357/48692303.mp3"
             },
+            "entities": ["Christian", "Christ"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15166356/in-our-racial-differences-how-is-christ-all-and-in-all",
             "guid": "desiringgod.org-resource-16494",
@@ -281,6 +298,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15158216/48691562.mp3"
             },
+            "entities": ["Christians", "today"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15158215/what-should-we-make-of-healing-ministries",
             "guid": "desiringgod.org-resource-16493",
@@ -306,6 +324,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15153242/48691325.mp3"
             },
+            "entities": ["Jesus"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15153241/when-will-christ-heal-my-body",
             "guid": "desiringgod.org-resource-16492",
@@ -331,6 +350,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15148029/48691133.mp3"
             },
+            "entities": ["past", "future", "present", "Christ"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15148028/all-my-sins-were-canceled-so-why-continue-to-confess",
             "guid": "desiringgod.org-resource-16491",
@@ -356,6 +376,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15143231/48690765.mp3"
             },
+            "entities": ["Christ", "first"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15143230/my-flesh-was-crucified-so-why-do-i-still-sin",
             "guid": "desiringgod.org-resource-16490",
@@ -381,6 +402,13 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15138465/48690506.mp3"
             },
+            "entities": [
+                "more than thirty years ago",
+                "weeks",
+                "Pastor",
+                "John",
+                "pastor"
+            ],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15138464/how-do-i-know-if-my-good-deeds-are-worthless",
             "guid": "desiringgod.org-resource-16489",
@@ -406,6 +434,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15133535/48774104.mp3"
             },
+            "entities": [],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15133534/if-god-is-sovereign-why-is-his-world-full-of-suffering",
             "guid": "desiringgod.org-resource-16512",
@@ -431,6 +460,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15128682/48773937.mp3"
             },
+            "entities": ["Christ"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15128681/is-there-a-place-for-asceticism-in-the-christian-life",
             "guid": "desiringgod.org-resource-16511",
@@ -456,6 +486,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15119712/48690268.mp3"
             },
+            "entities": ["daily", "Christian", "Christ"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15119711/how-do-i-handle-my-disordered-desires",
             "guid": "desiringgod.org-resource-16488",
@@ -481,6 +512,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15112917/48646994.mp3"
             },
+            "entities": ["Paul"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15112916/how-did-the-cross-disarm-the-devil",
             "guid": "desiringgod.org-resource-16487",
@@ -506,6 +538,14 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15105234/48646757.mp3"
             },
+            "entities": [
+                "2:8",
+                "Christians",
+                "Pastor",
+                "Colossians",
+                "John",
+                "Paul"
+            ],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15105233/how-can-i-avoid-worldly-thinking-in-my-studies",
             "guid": "desiringgod.org-resource-16486",
@@ -531,6 +571,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15099849/48646606.mp3"
             },
+            "entities": ["Today", "1938"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15099848/gods-providence-in-the-ministry-of-crossway-books",
             "guid": "desiringgod.org-resource-16485",
@@ -556,6 +597,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15093864/48589640.mp3"
             },
+            "entities": ["Paul"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15093863/how-did-god-reconcile-all-things-to-himself",
             "guid": "desiringgod.org-resource-16476",
@@ -581,6 +623,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15089042/48393486.mp3"
             },
+            "entities": ["Christians"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15089041/are-divisions-in-the-church-necessary",
             "guid": "desiringgod.org-resource-16441",
@@ -606,6 +649,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15083712/48393399.mp3"
             },
+            "entities": ["Great Commission", "Christ"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15083711/singing-sends-lovers-of-christ-to-the-nations",
             "guid": "desiringgod.org-resource-16440",
@@ -631,6 +675,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15079372/48393178.mp3"
             },
+            "entities": ["Christians", "today"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15079371/can-we-speak-with-angels",
             "guid": "desiringgod.org-resource-16439",
@@ -656,6 +701,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15074485/48393011.mp3"
             },
+            "entities": ["his", "Christ"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15074484/what-does-it-mean-to-cry-abba-father",
             "guid": "desiringgod.org-resource-16438",
@@ -681,6 +727,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15068947/48392838.mp3"
             },
+            "entities": [],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15068946/escaping-the-love-of-comfort-and-safety",
             "guid": "desiringgod.org-resource-16437",
@@ -706,6 +753,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15064073/48392624.mp3"
             },
+            "entities": ["Colossians", "1:23"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15064072/has-the-gospel-already-reached-the-entire-world",
             "guid": "desiringgod.org-resource-16436",
@@ -731,6 +779,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15057605/48368467.mp3"
             },
+            "entities": [],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15057604/is-my-salvation-an-event-or-a-process",
             "guid": "desiringgod.org-resource-16430",
@@ -756,6 +805,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15052113/48368197.mp3"
             },
+            "entities": [],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15052112/embracing-unpopular-truth-in-an-age-of-political-correctness",
             "guid": "desiringgod.org-resource-16428",
@@ -781,6 +831,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15046258/48255218.mp3"
             },
+            "entities": ["Adam", "Eve", "he"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15046257/why-did-god-make-eve-from-part-of-adam",
             "guid": "desiringgod.org-resource-16411",
@@ -806,6 +857,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15040958/48208004.mp3"
             },
+            "entities": ["his"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15040957/if-every-gift-comes-from-god-why-thank-anyone-else",
             "guid": "desiringgod.org-resource-16405",
@@ -831,6 +883,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15035500/48207947.mp3"
             },
+            "entities": ["Tony Reinke", "Pastor", "Scriptures", "John"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15035499/the-god-who-dwarfs-big-tech",
             "guid": "desiringgod.org-resource-16404",
@@ -856,6 +909,12 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15032242/48313731.mp3"
             },
+            "entities": [
+                "Christian Life",
+                "Christians",
+                "Tony Reinke",
+                "the day"
+            ],
             "dc:creator": "Tony Reinke",
             "link": "https://feed.desiringgod.org/link/10715/15032241/is-technology-holy-or-worldly",
             "guid": "desiringgod.org-resource-16421",
@@ -881,6 +940,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15028690/48183618.mp3"
             },
+            "entities": ["adultery", "his", "her", "David", "Bathsheba"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15028689/did-bathsheba-sin-with-david",
             "guid": "desiringgod.org-resource-16403",
@@ -906,6 +966,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15023716/48183343.mp3"
             },
+            "entities": ["Christians", "Christian"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15023715/i-enjoy-being-alone-is-that-unloving",
             "guid": "desiringgod.org-resource-16402",
@@ -931,6 +992,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15018094/48183262.mp3"
             },
+            "entities": ["he"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15018093/when-life-shrinks-to-the-size-of-our-problems",
             "guid": "desiringgod.org-resource-16401",
@@ -956,6 +1018,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15013088/48183142.mp3"
             },
+            "entities": [],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15013087/how-the-lottery-preys-on-the-poor",
             "guid": "desiringgod.org-resource-16400",
@@ -981,6 +1044,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15007428/48165965.mp3"
             },
+            "entities": ["Christian"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15007427/i-have-multiple-disabilities-how-do-i-not-waste-my-life",
             "guid": "desiringgod.org-resource-16399",
@@ -1006,6 +1070,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/15002341/48165669.mp3"
             },
+            "entities": ["Pastor", "preacher", "John"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/15002340/should-i-become-a-preacher",
             "guid": "desiringgod.org-resource-16398",
@@ -1031,6 +1096,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/14998081/48074313.mp3"
             },
+            "entities": ["Christians"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/14998080/should-i-leave-an-inheritance-for-my-children",
             "guid": "desiringgod.org-resource-16392",
@@ -1056,6 +1122,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/14993886/47953635.mp3"
             },
+            "entities": ["his", "he"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/14993885/why-does-god-hide-himself-from-christians",
             "guid": "desiringgod.org-resource-16365",
@@ -1081,6 +1148,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/14989967/47952282.mp3"
             },
+            "entities": [],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/14989966/let-gods-word-dwell-in-you-richly-this-year",
             "guid": "desiringgod.org-resource-16364",
@@ -1106,6 +1174,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/14985805/47952188.mp3"
             },
+            "entities": ["Bible", "today"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/14985804/what-is-an-idol",
             "guid": "desiringgod.org-resource-16363",
@@ -1131,6 +1200,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/14982228/47951960.mp3"
             },
+            "entities": ["past"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/14982227/is-sanctification-the-pursuit-of-perfection",
             "guid": "desiringgod.org-resource-16362",
@@ -1156,6 +1226,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/14978877/47917116.mp3"
             },
+            "entities": ["monthly", "2021"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/14978876/what-desiring-god-wants-to-be-known-for",
             "guid": "desiringgod.org-resource-16354",
@@ -1181,6 +1252,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/14975282/47917022.mp3"
             },
+            "entities": ["Bible", "he"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/14975281/end-of-life-medical-intervention-or-not",
             "guid": "desiringgod.org-resource-16353",
@@ -1206,6 +1278,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/14972037/47875351.mp3"
             },
+            "entities": ["Christmas"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/14972036/why-is-christmas-precious-to-you",
             "guid": "desiringgod.org-resource-16342",
@@ -1231,6 +1304,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/14968368/47875272.mp3"
             },
+            "entities": ["Christmas", "river"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/14968367/history-ended-at-christmas",
             "guid": "desiringgod.org-resource-16341",
@@ -1256,6 +1330,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/14964069/47778754.mp3"
             },
+            "entities": [],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/14964068/do-the-non-elect-have-a-chance-to-repent",
             "guid": "desiringgod.org-resource-16332",
@@ -1281,6 +1356,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/10715/14958801/47778684.mp3"
             },
+            "entities": ["86:11", "one", "Christian"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/10715/14958800/is-it-normal-to-have-a-divided-heart",
             "guid": "desiringgod.org-resource-16331",

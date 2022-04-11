@@ -38,6 +38,15 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD9806601948.mp3"
             },
+            "entities": [
+                "United Nations",
+                "Europe",
+                "Ukraine",
+                "Now",
+                "war",
+                "Federal Reserve",
+                "Russia"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/war-fueled-inflation-is-felt-more-keenly-in-developing-countries",
             "guid": "https://www.marketplace.org/shows/marketplace/war-fueled-inflation-is-felt-more-keenly-in-developing-countries",
             "isoDate": "2022-04-08T22:51:20.000Z",
@@ -60,6 +69,14 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD4452327490.mp3"
             },
+            "entities": [
+                "last month",
+                "now",
+                "Federal Reserve",
+                "50 years",
+                "day",
+                "Major League Baseball"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/the-economy-is-already-responding-to-higher-interest-rates",
             "guid": "https://www.marketplace.org/shows/marketplace/the-economy-is-already-responding-to-higher-interest-rates",
             "isoDate": "2022-04-07T22:28:28.000Z",
@@ -82,6 +99,18 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD3748170895.mp3"
             },
+            "entities": [
+                "Today",
+                "Fed",
+                "month",
+                "Case-Shiller",
+                "minutes",
+                "Federal Reserve",
+                "March",
+                "$95 billion",
+                "Ukrainians",
+                "Afghans"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/the-feds-plan-to-shrink-its-balance-sheet",
             "guid": "https://www.marketplace.org/shows/marketplace/the-feds-plan-to-shrink-its-balance-sheet",
             "isoDate": "2022-04-06T22:45:50.000Z",
@@ -104,6 +133,15 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD3730798580.mp3"
             },
+            "entities": [
+                "Today",
+                "Russian",
+                "European Union",
+                "Ukraine",
+                "war",
+                "Kremlin",
+                "Russia"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/how-the-ruble-rebounded",
             "guid": "https://www.marketplace.org/shows/marketplace/how-the-ruble-rebounded",
             "isoDate": "2022-04-05T22:42:22.000Z",
@@ -126,6 +164,7 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD7986668477.mp3"
             },
+            "entities": ["Today", "U.S.", "Ukraine", "now", "war", "mon"],
             "link": "https://www.marketplace.org/shows/marketplace/to-tackle-inflation-it-helps-to-know-whats-causing-it",
             "guid": "https://www.marketplace.org/shows/marketplace/to-tackle-inflation-it-helps-to-know-whats-causing-it",
             "isoDate": "2022-04-04T22:55:21.000Z",
@@ -148,6 +187,17 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD4762200245.mp3"
             },
+            "entities": [
+                "current",
+                "stand in",
+                "once",
+                "Ukraine",
+                "today",
+                "war",
+                "California",
+                "this year",
+                "&#8217;"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/job-market-recovery-continues-apace",
             "guid": "https://www.marketplace.org/shows/marketplace/job-market-recovery-continues-apace",
             "isoDate": "2022-04-01T23:01:09.000Z",
@@ -170,6 +220,15 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD9647210585.mp3"
             },
+            "entities": [
+                "Gov.",
+                "Greg Abbott",
+                "Today",
+                "child abuse",
+                "Texas",
+                "recently",
+                "now"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/in-texas-parents-of-trans-kids-face-a-costly-choice-stay-or-go",
             "guid": "https://www.marketplace.org/shows/marketplace/in-texas-parents-of-trans-kids-face-a-costly-choice-stay-or-go",
             "isoDate": "2022-03-31T22:56:07.000Z",
@@ -192,6 +251,17 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD7237381927.mp3"
             },
+            "entities": [
+                "Today",
+                "Russian",
+                "American",
+                "Europe",
+                "Ukraine",
+                "war",
+                "OPEC",
+                "three",
+                "Russia"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/lets-talk-about-energy",
             "guid": "https://www.marketplace.org/shows/marketplace/lets-talk-about-energy",
             "isoDate": "2022-03-30T23:00:33.000Z",
@@ -214,6 +284,17 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD4750024156.mp3"
             },
+            "entities": [
+                "75-year-old",
+                "Ukrainian",
+                "Shanghai",
+                "China",
+                "today",
+                "Poland",
+                "reporter",
+                "First",
+                "two"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/view-from-the-ground-in-poland-and-shanghai",
             "guid": "https://www.marketplace.org/shows/marketplace/view-from-the-ground-in-poland-and-shanghai",
             "isoDate": "2022-03-29T22:37:22.000Z",
@@ -236,6 +317,7 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD3989911693.mp3"
             },
+            "entities": ["Oscars", "10%"],
             "link": "https://www.marketplace.org/shows/marketplace/suspending-state-gas-taxes-may-not-do-much-for-pain-at-the-pump",
             "guid": "https://www.marketplace.org/shows/marketplace/suspending-state-gas-taxes-may-not-do-much-for-pain-at-the-pump",
             "isoDate": "2022-03-28T22:57:38.000Z",
@@ -258,6 +340,16 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD9654050828.mp3"
             },
+            "entities": [
+                "Russian",
+                "U.S.",
+                "United States",
+                "Weekly",
+                "Europe",
+                "today",
+                "0.5%",
+                "years"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/itll-take-time-and-money-to-get-american-natural-gas-to-europe",
             "guid": "https://www.marketplace.org/shows/marketplace/itll-take-time-and-money-to-get-american-natural-gas-to-europe",
             "isoDate": "2022-03-25T22:56:51.000Z",
@@ -280,6 +372,16 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD5381675177.mp3"
             },
+            "entities": [
+                "Today",
+                "$119",
+                "Thursday",
+                "Fed",
+                "student",
+                "future",
+                "cleaner",
+                "&#8217;"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/gas-prices-are-just-the-tip-of-the-iceberg",
             "guid": "https://www.marketplace.org/shows/marketplace/gas-prices-are-just-the-tip-of-the-iceberg",
             "isoDate": "2022-03-24T22:42:49.000Z",
@@ -302,6 +404,19 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD8870648708.mp3"
             },
+            "entities": [
+                "Peterson Institute for International Economics",
+                "Today",
+                "independent",
+                "Ukraine",
+                "now",
+                "today",
+                "war",
+                "nearly a month",
+                "Adam Posen",
+                "Russia",
+                "president"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/is-this-the-end-of-globalization",
             "guid": "https://www.marketplace.org/shows/marketplace/is-this-the-end-of-globalization",
             "isoDate": "2022-03-23T23:12:53.000Z",
@@ -324,6 +439,19 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD1790101000.mp3"
             },
+            "entities": [
+                "President",
+                "Today",
+                "Russian",
+                "independent",
+                "Ukraine",
+                "today",
+                "Joe Biden",
+                "war",
+                "earlier this week",
+                "U.S. Securities and Exchange Commission",
+                "years"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/another-day-another-russian-cybersecurity-threat",
             "guid": "https://www.marketplace.org/shows/marketplace/another-day-another-russian-cybersecurity-threat",
             "isoDate": "2022-03-22T22:39:17.000Z",
@@ -346,6 +474,16 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD6123783420.mp3"
             },
+            "entities": [
+                "Today",
+                "Ukrainian",
+                "independent",
+                "finance minister",
+                "Ukraine",
+                "today",
+                "Federal Reserve",
+                "Russia"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/pharmas-tough-exit-strategy-in-russia",
             "guid": "https://www.marketplace.org/shows/marketplace/pharmas-tough-exit-strategy-in-russia",
             "isoDate": "2022-03-21T23:51:54.000Z",
@@ -368,6 +506,21 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD1879193129.mp3"
             },
+            "entities": [
+                "Xi Jinping",
+                "Russian",
+                "two-hour",
+                "Joe Biden",
+                "Federal Reserve",
+                "Russia",
+                "Western",
+                "President",
+                "Today",
+                "China",
+                "Texas",
+                "today",
+                "Chinese"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/what-will-china-do-about-russia",
             "guid": "https://www.marketplace.org/shows/marketplace/what-will-china-do-about-russia",
             "isoDate": "2022-03-18T22:19:03.000Z",
@@ -390,6 +543,19 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD1840476673.mp3"
             },
+            "entities": [
+                "Today",
+                "Iranians",
+                "Jerome Powell",
+                "Fed",
+                "independent",
+                "one",
+                "Ukraine",
+                "today",
+                "Federal Reserve Chair",
+                "war",
+                "the next few years"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/can-the-fed-stick-the-landing",
             "guid": "https://www.marketplace.org/shows/marketplace/can-the-fed-stick-the-landing",
             "isoDate": "2022-03-17T23:34:39.000Z",
@@ -412,6 +578,17 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD7172359123.mp3"
             },
+            "entities": [
+                "Fed",
+                "independent",
+                "Europe",
+                "China",
+                "today",
+                "Ukraine",
+                "Federal Reserve",
+                "war",
+                "0.25%"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/a-small-number-with-a-huge-impact",
             "guid": "https://www.marketplace.org/shows/marketplace/a-small-number-with-a-huge-impact",
             "isoDate": "2022-03-16T23:43:54.000Z",
@@ -434,6 +611,20 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD1138060328.mp3"
             },
+            "entities": [
+                "Today",
+                "U.S.",
+                "Russian",
+                "Zappos",
+                "independent",
+                "Texas",
+                "Tony Hsieh",
+                "today",
+                "$100",
+                "CEO",
+                "$4.33",
+                "$4.32"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/oil-prices-fell-the-price-of-gas-not-so-much",
             "guid": "https://www.marketplace.org/shows/marketplace/oil-prices-fell-the-price-of-gas-not-so-much",
             "isoDate": "2022-03-15T23:01:14.000Z",
@@ -456,6 +647,17 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD9734854091.mp3"
             },
+            "entities": [
+                "Ukrainian",
+                "U.S.",
+                "American",
+                "independent",
+                "Shanghai",
+                "China",
+                "now",
+                "today",
+                "zero-COVID"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/chinese-covid-cases-are-felt-throughout-the-supply-chain",
             "guid": "https://www.marketplace.org/shows/marketplace/chinese-covid-cases-are-felt-throughout-the-supply-chain",
             "isoDate": "2022-03-14T23:04:07.000Z",
@@ -478,6 +680,14 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD7973802257.mp3"
             },
+            "entities": [
+                "New York",
+                "week",
+                "independent",
+                "two weeks ago",
+                "today",
+                "War"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/how-do-you-do-the-numbers-in-times-like-these",
             "guid": "https://www.marketplace.org/shows/marketplace/how-do-you-do-the-numbers-in-times-like-these",
             "isoDate": "2022-03-12T00:05:26.000Z",
@@ -500,6 +710,21 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD7499477312.mp3"
             },
+            "entities": [
+                "Russian",
+                "independent",
+                "United States",
+                "king",
+                "Ukraine",
+                "United Kingdom",
+                "war",
+                "President",
+                "Vladimir Putin",
+                "Today",
+                "Palaces",
+                "European Union",
+                "today"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/the-origin-story-of-russian-oligarchs",
             "guid": "https://www.marketplace.org/shows/marketplace/the-origin-story-of-russian-oligarchs",
             "isoDate": "2022-03-11T00:10:33.000Z",
@@ -522,6 +747,21 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD3510179872.mp3"
             },
+            "entities": [
+                "Russian",
+                "Soviet-era",
+                "author",
+                "Ukraine",
+                "war",
+                "Moscow",
+                "Russia",
+                "McDonald",
+                "Western",
+                "overnight",
+                "U.S.",
+                "now",
+                "today"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/russias-economic-future-could-be-in-its-past",
             "guid": "https://www.marketplace.org/shows/marketplace/russias-economic-future-could-be-in-its-past",
             "isoDate": "2022-03-10T00:34:45.000Z",
@@ -544,6 +784,18 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD2485427819.mp3"
             },
+            "entities": [
+                "President",
+                "Russian",
+                "American",
+                "China",
+                "today",
+                "Americans",
+                "Ukraine",
+                "Joe Biden",
+                "count",
+                "Russia"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/an-oil-shock-in-this-economy",
             "guid": "https://www.marketplace.org/shows/marketplace/an-oil-shock-in-this-economy",
             "isoDate": "2022-03-09T00:08:17.000Z",
@@ -566,6 +818,21 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD3249106794.mp3"
             },
+            "entities": [
+                "Russian",
+                "United States",
+                "one",
+                "war",
+                "Russia",
+                "$4",
+                "San Francisco",
+                "Ukrainian",
+                "U.S.",
+                "&#8221;",
+                "now",
+                "today",
+                "first"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/how-war-ukraine-is-fueling-sky-high-gas-prices",
             "guid": "https://www.marketplace.org/shows/marketplace/how-war-ukraine-is-fueling-sky-high-gas-prices",
             "isoDate": "2022-03-08T00:01:48.000Z",
@@ -588,6 +855,15 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD5379705813.mp3"
             },
+            "entities": [
+                "Russian",
+                "this month",
+                "Ukraine",
+                "today",
+                "London",
+                "war",
+                "First"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/lets-make-crypto-a-little-less-cryptic",
             "guid": "https://www.marketplace.org/shows/marketplace/lets-make-crypto-a-little-less-cryptic",
             "isoDate": "2022-03-05T00:58:21.000Z",
@@ -610,6 +886,15 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD9064824591.mp3"
             },
+            "entities": [
+                "Today",
+                "Russian",
+                "U.S.",
+                "Ukraine",
+                "today",
+                "war",
+                "the past few years"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/tech-companies-scramble-to-aid-their-ukrainian-workers",
             "guid": "https://www.marketplace.org/shows/marketplace/tech-companies-scramble-to-aid-their-ukrainian-workers",
             "isoDate": "2022-03-04T00:07:32.000Z",
@@ -632,6 +917,20 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD5084550138.mp3"
             },
+            "entities": [
+                "Vladimir Putin",
+                "Apple",
+                "Shell",
+                "Russian",
+                "Jerome Powell",
+                "Ukraine",
+                "today",
+                "ExxonMobil",
+                "Federal Reserve",
+                "Ford",
+                "OPEC",
+                "Russia"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/divesting-from-russia-is-easier-said-than-done",
             "guid": "https://www.marketplace.org/shows/marketplace/divesting-from-russia-is-easier-said-than-done",
             "isoDate": "2022-03-03T00:10:56.000Z",
@@ -654,6 +953,15 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD4901667219.mp3"
             },
+            "entities": [
+                "Ukraine",
+                "today",
+                "Twitter",
+                "$20 million",
+                "Russians",
+                "this weekend",
+                "Russia"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/cryptocurrency-is-aiding-ukraine-and-potentially-russian-oligarchs",
             "guid": "https://www.marketplace.org/shows/marketplace/cryptocurrency-is-aiding-ukraine-and-potentially-russian-oligarchs",
             "isoDate": "2022-03-01T23:40:10.000Z",
@@ -676,6 +984,19 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD7965555513.mp3"
             },
+            "entities": [
+                "Russian",
+                "U.S.",
+                "Monday",
+                "future",
+                "Ukraine",
+                "today",
+                "Russians",
+                "day",
+                "Central Bank",
+                "Russia",
+                "$600 billion"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/to-prop-up-the-ruble-russia-beefed-up-its-reserves-now-theyre-inaccessible",
             "guid": "https://www.marketplace.org/shows/marketplace/to-prop-up-the-ruble-russia-beefed-up-its-reserves-now-theyre-inaccessible",
             "isoDate": "2022-03-01T00:19:26.000Z",
@@ -698,6 +1019,18 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD8486100432.mp3"
             },
+            "entities": [
+                "New York City",
+                "President",
+                "Vladimir Putin",
+                "Today",
+                "U.S.",
+                "American",
+                "Ukraine",
+                "Little",
+                "Putin",
+                "Russia"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/how-sanctions-against-russian-oligarchs-work",
             "guid": "https://www.marketplace.org/shows/marketplace/how-sanctions-against-russian-oligarchs-work",
             "isoDate": "2022-02-25T23:29:48.000Z",
@@ -720,6 +1053,15 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD8545593434.mp3"
             },
+            "entities": [
+                "Russian",
+                "U.S.",
+                "Europe",
+                "Ukraine",
+                "today",
+                "war",
+                "Russia"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/russias-invasion-of-ukraine-comes-at-a-global-cost",
             "guid": "https://www.marketplace.org/shows/marketplace/russias-invasion-of-ukraine-comes-at-a-global-cost",
             "isoDate": "2022-02-25T00:20:01.000Z",
@@ -742,6 +1084,19 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD4792285557.mp3"
             },
+            "entities": [
+                "the past couple of days",
+                "President",
+                "Taliban",
+                "six months",
+                "Afghanistan",
+                "Today",
+                "American",
+                "currently",
+                "Ukraine",
+                "Joe Biden",
+                "Russia"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/another-crisis-unfolds-in-afghanistan-while-eyes-are-focused-ukraine",
             "guid": "https://www.marketplace.org/shows/marketplace/another-crisis-unfolds-in-afghanistan-while-eyes-are-focused-ukraine",
             "isoDate": "2022-02-24T00:25:30.000Z",
@@ -764,6 +1119,17 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD1767232397.mp3"
             },
+            "entities": [
+                "President",
+                "Today",
+                "U.S.",
+                "European Union",
+                "&#8221;",
+                "Ukraine",
+                "Joe Biden",
+                "banker",
+                "Russia"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/the-first-tranche-of-sanctions-against-russia-are-here-now-what",
             "guid": "https://www.marketplace.org/shows/marketplace/the-first-tranche-of-sanctions-against-russia-are-here-now-what",
             "isoDate": "2022-02-22T23:57:55.000Z",
@@ -786,6 +1152,19 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD5917973925.mp3"
             },
+            "entities": [
+                "Today",
+                "Russian",
+                "United States",
+                "Stephen Beard",
+                "West",
+                "Texas",
+                "Ukraine",
+                "London",
+                "bureau chief",
+                "Kremlin",
+                "Russia"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/how-effective-would-u-s-sanctions-against-russia-be",
             "guid": "https://www.marketplace.org/shows/marketplace/how-effective-would-u-s-sanctions-against-russia-be",
             "isoDate": "2022-02-22T00:18:21.000Z",
@@ -808,6 +1187,7 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD1055352526.mp3"
             },
+            "entities": ["Today", "right now", "the week"],
             "link": "https://www.marketplace.org/shows/marketplace/the-state-of-the-presidents-day-sale",
             "guid": "https://www.marketplace.org/shows/marketplace/the-state-of-the-presidents-day-sale",
             "isoDate": "2022-02-18T23:54:27.000Z",
@@ -830,6 +1210,7 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD1401020491.mp3"
             },
+            "entities": ["Today", "Americans", "decades", "Brooklyn"],
             "link": "https://www.marketplace.org/shows/marketplace/in-a-tight-job-market-maybe-its-time-to-rethink-degree-requirements",
             "guid": "https://www.marketplace.org/shows/marketplace/in-a-tight-job-market-maybe-its-time-to-rethink-degree-requirements",
             "isoDate": "2022-02-18T01:06:51.000Z",
@@ -852,6 +1233,7 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD3041151765.mp3"
             },
+            "entities": ["Americans", "Federal Reserve", "January"],
             "link": "https://www.marketplace.org/shows/marketplace/your-word-of-the-day-boomflation",
             "guid": "https://www.marketplace.org/shows/marketplace/your-word-of-the-day-boomflation",
             "isoDate": "2022-02-16T23:48:58.000Z",
@@ -874,6 +1256,7 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD3447210694.mp3"
             },
+            "entities": ["Today"],
             "link": "https://www.marketplace.org/shows/marketplace/what-will-the-post-covid-world-look-like",
             "guid": "https://www.marketplace.org/shows/marketplace/what-will-the-post-covid-world-look-like",
             "isoDate": "2022-02-16T01:27:51.000Z",
@@ -896,6 +1279,16 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD3332631558.mp3"
             },
+            "entities": [
+                "Reno",
+                "a decade",
+                "NFL",
+                "today",
+                "Russia-Ukraine",
+                "years",
+                "weekly",
+                "Nevada"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/when-it-comes-to-inflation-its-the-thought-that-counts",
             "guid": "https://www.marketplace.org/shows/marketplace/when-it-comes-to-inflation-its-the-thought-that-counts",
             "isoDate": "2022-02-15T00:34:44.000Z",
@@ -918,6 +1311,13 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD1210913290.mp3"
             },
+            "entities": [
+                "today",
+                "Federal Reserve",
+                "first",
+                "Bengals",
+                "this Sunday"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/tom-bradys-back-at-the-super-bowl-endorsing-crypto",
             "guid": "https://www.marketplace.org/shows/marketplace/tom-bradys-back-at-the-super-bowl-endorsing-crypto",
             "isoDate": "2022-02-12T00:56:54.000Z",
@@ -940,6 +1340,15 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD9711189004.mp3"
             },
+            "entities": [
+                "last quarter",
+                "This morning",
+                "Tyson",
+                "40 years",
+                "the 1970s",
+                "Tyson Foods",
+                "$5 billion"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/whats-driving-meat-prices-up",
             "guid": "https://www.marketplace.org/shows/marketplace/whats-driving-meat-prices-up",
             "isoDate": "2022-02-11T00:56:08.000Z",
@@ -962,6 +1371,22 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD6840531340.mp3"
             },
+            "entities": [
+                "Detroit",
+                "three days",
+                "American",
+                "Canadian",
+                "Ambassador",
+                "Utah",
+                "Canada",
+                "U.S.",
+                "more than a quarter",
+                "now",
+                "today",
+                "Draper",
+                "America",
+                "Ontario"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/canadian-protests-could-wreak-havoc-for-the-auto-industry",
             "guid": "https://www.marketplace.org/shows/marketplace/canadian-protests-could-wreak-havoc-for-the-auto-industry",
             "isoDate": "2022-02-09T23:40:34.000Z",
@@ -984,6 +1409,17 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD2826858627.mp3"
             },
+            "entities": [
+                "San Francisco",
+                "December",
+                "Today",
+                "Detroit",
+                "36%",
+                "Turkey",
+                "Atlanta",
+                "Istanbul",
+                "7%"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/a-road-map-of-inflation",
             "guid": "https://www.marketplace.org/shows/marketplace/a-road-map-of-inflation",
             "isoDate": "2022-02-09T00:47:21.000Z",
@@ -1006,6 +1442,16 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD4431590519.mp3"
             },
+            "entities": [
+                "his",
+                "Joe Rogan",
+                "student",
+                "past",
+                "China",
+                "zero-COVID",
+                "CEO",
+                "this weekend"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/what-spotifys-response-to-joe-rogan-scandals-tells-us-about-the-labor-market",
             "guid": "https://www.marketplace.org/shows/marketplace/what-spotifys-response-to-joe-rogan-scandals-tells-us-about-the-labor-market",
             "isoDate": "2022-02-08T00:50:10.000Z",
@@ -1028,6 +1474,14 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD7966019454.mp3"
             },
+            "entities": [
+                "Today",
+                "this week",
+                "last month",
+                "467,000",
+                "January",
+                "Weekly Wrap"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/jobs-report-quirky-bizarre-unusual-strong",
             "guid": "https://www.marketplace.org/shows/marketplace/jobs-report-quirky-bizarre-unusual-strong",
             "isoDate": "2022-02-05T00:13:02.000Z",
@@ -1050,6 +1504,7 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD2445170735.mp3"
             },
+            "entities": ["now", "today", "the coming year"],
             "link": "https://www.marketplace.org/shows/marketplace/its-a-hot-job-market-but-not-for-everyone",
             "guid": "https://www.marketplace.org/shows/marketplace/its-a-hot-job-market-but-not-for-everyone",
             "isoDate": "2022-02-04T00:28:06.000Z",
@@ -1072,6 +1527,7 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD1014266246.mp3"
             },
+            "entities": ["Today", "one", "two", "January", "10"],
             "link": "https://www.marketplace.org/shows/marketplace/the-difference-paid-medical-leave-made-for-one-family",
             "guid": "https://www.marketplace.org/shows/marketplace/the-difference-paid-medical-leave-made-for-one-family",
             "isoDate": "2022-02-03T00:21:11.000Z",
@@ -1094,6 +1550,17 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD1743490804.mp3"
             },
+            "entities": [
+                "Indians",
+                "Today",
+                "Russian",
+                "American",
+                "Indigenous",
+                "Alaska Natives",
+                "Bureau of Labor Statistics",
+                "Ukraine",
+                "monthly"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/the-data-desert-in-monthly-jobs-reports",
             "guid": "https://www.marketplace.org/shows/marketplace/the-data-desert-in-monthly-jobs-reports",
             "isoDate": "2022-02-02T00:18:09.000Z",
@@ -1116,6 +1583,14 @@
                 "type": "audio/mpeg",
                 "url": "https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD7772432049.mp3"
             },
+            "entities": [
+                "Today",
+                "American",
+                "September 2024",
+                "Fed",
+                "Rescue Plan",
+                "$122 billion"
+            ],
             "link": "https://www.marketplace.org/shows/marketplace/schools-are-struggling-spend-covid-19-stimulus-money-quickly-enough",
             "guid": "https://www.marketplace.org/shows/marketplace/schools-are-struggling-spend-covid-19-stimulus-money-quickly-enough",
             "isoDate": "2022-02-01T00:16:38.000Z",

@@ -48,6 +48,12 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/-bonus-introducingcyber-ahackingpodcastbymotherboard/media.mp3"
             },
+            "entities": [
+                "Joseph Cox",
+                "Host Ben Makuch",
+                "Lorenzo Franceschi-Bicchierai",
+                "every week"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/-bonus-introducingcyber-ahackingpodcastbymotherboard",
             "guid": "9f071b08-cc0f-4a42-9f59-4ccda345cb89",
             "isoDate": "2019-01-23T13:31:45.000Z",
@@ -68,6 +74,20 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/nasaturns60/media.mp3"
             },
+            "entities": [
+                "Earth",
+                "Mars",
+                "Mason Peck",
+                "six",
+                "this week",
+                "NASA",
+                "Moon",
+                "future",
+                "technologist",
+                "International Space Station",
+                "60",
+                "James Webb Space Telescope"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/nasaturns60",
             "guid": "44468336-d0a0-4177-9613-da76be932bfe",
             "isoDate": "2018-10-01T00:21:54.000Z",
@@ -89,6 +109,14 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/-bonus-introducingqueerlybeloved----/media.mp3"
             },
+            "entities": [
+                "editor",
+                "4",
+                "Sarah Burke",
+                "The Past",
+                "Fran Tirado",
+                "first"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/-bonus-introducingqueerlybeloved----",
             "guid": "3b135f20-e0c3-4acd-b368-f737883ede91",
             "isoDate": "2018-09-12T16:44:17.000Z",
@@ -109,6 +137,12 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/motherboardsnewcrosswordpuzzle-solvetheinternet/media.mp3"
             },
+            "entities": [
+                "Marley Randazzo",
+                "Caleb Madison",
+                "Internet",
+                "weekly"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/motherboardsnewcrosswordpuzzle-solvetheinternet",
             "guid": "08636888-b8a4-48dd-a4ba-e76bea7f0cdd",
             "isoDate": "2018-06-12T13:11:15.000Z",
@@ -129,6 +163,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/sexworkerslobbycongressagainstaterribleinternetlaw/media.mp3"
             },
+            "entities": ["Congress", "her", "FOSTA", "Liara Roux", "first"],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/sexworkerslobbycongressagainstaterribleinternetlaw",
             "guid": "e06c4d27-3650-4c86-893a-199e26a04763",
             "isoDate": "2018-06-07T13:13:06.000Z",
@@ -150,6 +185,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/pewdiepie-alinity-andtheburdenofbeingafemalestreamer/media.mp3"
             },
+            "entities": ["harassment", "YouTube"],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/pewdiepie-alinity-andtheburdenofbeingafemalestreamer",
             "guid": "295aa598-169a-4b37-8474-930412694c7c",
             "isoDate": "2018-06-05T12:30:20.000Z",
@@ -170,6 +206,14 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/elonmusk-thenandnow/media.mp3"
             },
+            "entities": [
+                "his",
+                "Musk",
+                "2015",
+                "biographer",
+                "Ashlee Vance",
+                "Elon Musk"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/elonmusk-thenandnow",
             "guid": "e89fbf0f-4af9-4431-8bc5-cd22aaec13fd",
             "isoDate": "2018-05-31T13:07:57.000Z",
@@ -191,6 +235,15 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/facebook-sreckoningwithamericannazis/media.mp3"
             },
+            "entities": [
+                "separatism",
+                "Charlottesville",
+                "2017",
+                "Motherboard",
+                "nationalism",
+                "Facebook",
+                "US"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/facebook-sreckoningwithamericannazis",
             "guid": "9d803b88-be18-4990-9f34-32e26c9a54e8",
             "isoDate": "2018-05-29T13:39:31.000Z",
@@ -212,6 +265,14 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/amplifyingthealt-right/media.mp3"
             },
+            "entities": [
+                "she",
+                "Whitney Phillips",
+                "2016",
+                "author",
+                "Oxygen of Amplification",
+                "50"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/amplifyingthealt-right",
             "guid": "45c1ad35-f0f2-41bb-9005-408b4d053582",
             "isoDate": "2018-05-24T14:02:10.000Z",
@@ -233,6 +294,13 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/whosafraidofkaspersky-/media.mp3"
             },
+            "entities": [
+                "Russian",
+                "SAS",
+                "American",
+                "espionage",
+                "Kaspersky Lab"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/whosafraidofkaspersky-",
             "guid": "b12cd1e4-0881-41df-bb8d-f473f8c5d155",
             "isoDate": "2018-05-22T13:15:26.000Z",
@@ -254,6 +322,13 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/thesenatevotedtosavenetneutrality--hereshowithappened/media.mp3"
             },
+            "entities": [
+                "She",
+                "Senate",
+                "Evan Greer",
+                "the last few months",
+                "the Future"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/thesenatevotedtosavenetneutrality--hereshowithappened",
             "guid": "83f11414-4696-4c5b-9478-93d889900130",
             "isoDate": "2018-05-17T09:00:00.000Z",
@@ -275,6 +350,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/podvoidifremoved/media.mp3"
             },
+            "entities": ["FTC"],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/podvoidifremoved",
             "guid": "356cb8ea-daf8-4d37-b4a3-8b83c7ca9270",
             "isoDate": "2018-05-15T13:18:16.000Z",
@@ -296,6 +372,18 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/howtomakeaphotogoviral/media.mp3"
             },
+            "entities": [
+                "1,000",
+                "his",
+                "Von Wong",
+                "the first 24 hours",
+                "photographer",
+                "Ben Von Wong",
+                "He",
+                "he",
+                "Facebook",
+                "first"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/howtomakeaphotogoviral",
             "guid": "a3bc724c-2b37-4aea-b80c-245709344435",
             "isoDate": "2018-03-14T01:12:39.000Z",
@@ -317,6 +405,24 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/broadband-live-/media.mp3"
             },
+            "entities": [
+                "Claire Evans",
+                "Stacy Horn",
+                "Marisa Bowe",
+                "past",
+                "founder",
+                "one",
+                "Kaleigh Rogers",
+                "Claire",
+                "editor-in-chief",
+                "her",
+                "Motherboard",
+                "today",
+                "1990s",
+                "writer",
+                "present",
+                "first"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/broadband-live-",
             "guid": "8d226c42-1785-4d42-8279-9c10441e2ee4",
             "isoDate": "2018-03-08T02:53:30.000Z",
@@ -338,6 +444,13 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/netneutrality/media.mp3"
             },
+            "entities": [
+                "Cory Doctorow",
+                "later this week",
+                "Electronic Frontier Foundation",
+                "FCC",
+                "co-founder"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/netneutrality",
             "guid": "849b01e7-331b-4130-95fd-2a87a6ce7750",
             "isoDate": "2017-12-12T10:00:54.000Z",
@@ -359,6 +472,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/stressweek-dronetherapy/media.mp3"
             },
+            "entities": ["Kristel Jax", "artist"],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/stressweek-dronetherapy",
             "guid": "29e2d62a-0061-4f5b-b2ac-c97382d92a67",
             "isoDate": "2017-12-08T10:00:00.000Z",
@@ -380,6 +494,14 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/stressweek-howtohacknewyorkstress/media.mp3"
             },
+            "entities": [
+                "Integrative Health",
+                "Ankita",
+                "2017",
+                "her",
+                "Chiti Parikh",
+                "Weill Cornell"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/stressweek-howtohacknewyorkstress",
             "guid": "0138c528-b47c-43a0-89f6-5c35ab948358",
             "isoDate": "2017-12-07T10:00:00.000Z",
@@ -401,6 +523,13 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/bonus-rebuildingtheswamp/media.mp3"
             },
+            "entities": [
+                "Everglades",
+                "motherboard.vice.com",
+                "Ankita Rao",
+                "Army Corps of Engineers",
+                "Florida"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/bonus-rebuildingtheswamp",
             "guid": "f0e26185-8961-4629-8572-eac4a02314bf",
             "isoDate": "2017-11-03T14:25:00.000Z",
@@ -422,6 +551,16 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/janegoodallonchimps-feminismanddonaldtrump/media.mp3"
             },
+            "entities": [
+                "her",
+                "director",
+                "Jane Goodall",
+                "writer",
+                "Brett Morgen",
+                "Jane",
+                "Kaleigh Rogers",
+                "anthropologist"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/janegoodallonchimps-feminismanddonaldtrump",
             "guid": "7748a69d-e189-4fce-8fe2-196d08dae9e5",
             "isoDate": "2017-10-27T11:00:00.000Z",
@@ -443,6 +582,16 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/cyberwar/media.mp3"
             },
+            "entities": [
+                "VICELAND",
+                "Russian",
+                "hacker",
+                "host",
+                "DNC",
+                "he",
+                "Ben Makuch",
+                "Cyberwar"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/cyberwar",
             "guid": "d2b72074-1217-44d2-9f75-555594394f42",
             "isoDate": "2017-10-06T12:00:00.000Z",
@@ -464,6 +613,20 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/thetideisshiftinginsiliconvalley/media.mp3"
             },
+            "entities": [
+                "Franklin Foer",
+                "Google",
+                "his",
+                "once",
+                "Louise Matsakis",
+                "future",
+                "Foer",
+                "correspondent",
+                "Assistant Editor",
+                "Atlantic",
+                "Facebook",
+                "years"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/thetideisshiftinginsiliconvalley",
             "guid": "ae3db6bb-3622-4718-8baf-568a1efb4007",
             "isoDate": "2017-09-25T15:09:22.000Z",
@@ -485,6 +648,14 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/piratesandrobots-aconversationwithannaleenewitz/media.mp3"
             },
+            "entities": [
+                "her",
+                "drugs",
+                "author",
+                "Annalee Newitz",
+                "22nd century",
+                "Autonomous"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/piratesandrobots-aconversationwithannaleenewitz",
             "guid": "7ca9685d-fc06-47f3-92e1-08ab53f4af82",
             "isoDate": "2017-09-18T17:32:45.000Z",
@@ -506,6 +677,18 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/bigtechsblackballingofneo-nazisitesshowswhocontrolstheinternet/media.mp3"
             },
+            "entities": [
+                "Google",
+                "August 12",
+                "terrorist attack",
+                "Daily Stormer",
+                "Charlottesville",
+                "Heather Heyer",
+                "her",
+                "GoDaddy",
+                "neo-Nazi",
+                "Virginia"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/bigtechsblackballingofneo-nazisitesshowswhocontrolstheinternet",
             "guid": "f7152ee8-c0ba-4f8e-b291-316f1b71d358",
             "isoDate": "2017-08-24T01:36:38.000Z",
@@ -527,6 +710,13 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/facebookwantstoconvinceusthatvriscool/media.mp3"
             },
+            "entities": [
+                "Louise Matsakis",
+                "the past several decades",
+                "Facebook",
+                "Social VR",
+                "Rachel Franklin"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/facebookwantstoconvinceusthatvriscool",
             "guid": "99994544-90bc-4208-9b89-0196bd42b134",
             "isoDate": "2017-08-04T13:00:00.000Z",
@@ -548,6 +738,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/infamoushackerkevinmitnicktellsushowhecreatedfakeidentities/media.mp3"
             },
+            "entities": ["hacker", "Kevin Mitnick"],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/infamoushackerkevinmitnicktellsushowhecreatedfakeidentities",
             "guid": "484d9ce4-3431-432a-ac99-4341a7615633",
             "isoDate": "2017-07-28T04:00:00.000Z",
@@ -569,6 +760,21 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/gender-swappingsci-fiwithancillaryjusticeauthorannleckie/media.mp3"
             },
+            "entities": [
+                "September 26",
+                "author",
+                "Motherboard HQ",
+                "episode of Radio Motherboard",
+                "Brooklyn",
+                "she",
+                "Facebook Live",
+                "Leckie",
+                "her",
+                "2013",
+                "today",
+                "Ann Leckie",
+                "novelist"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/gender-swappingsci-fiwithancillaryjusticeauthorannleckie",
             "guid": "14365ba3-e757-40dc-80dc-3b750a105f13",
             "isoDate": "2017-07-21T04:00:00.000Z",
@@ -590,6 +796,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/whatisbitcoinreallyfor-/media.mp3"
             },
+            "entities": ["this week", "Bitcoin", "right-wing", "two"],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/whatisbitcoinreallyfor-",
             "guid": "e144bf71-9a59-4769-b90f-4c2b07a5b1f8",
             "isoDate": "2017-07-14T04:00:00.000Z",
@@ -611,6 +818,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/looking-into-the-future-with-kim-stanley-robinson/media.mp3"
             },
+            "entities": ["New York", "his", "author", "2140"],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/looking-into-the-future-with-kim-stanley-robinson",
             "guid": "2d54fe3c7d73189a279267657953d483",
             "isoDate": "2017-07-07T15:09:32.000Z",
@@ -632,6 +840,14 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/radio-motherboard-live-what-is-the-iphone/media.mp3"
             },
+            "entities": [
+                "Apple",
+                "10th",
+                "Brian Merchant",
+                "author",
+                "One",
+                "Jason Koebler"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/radio-motherboard-live-what-is-the-iphone",
             "guid": "5f1eff240e1fcafc8d1078f9f845ae21",
             "isoDate": "2017-06-29T18:32:17.000Z",
@@ -653,6 +869,15 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/an-update-to-your-motherboard/media.mp3"
             },
+            "entities": [
+                "editor-in-chief",
+                "the last four years",
+                "today",
+                "Jason Koebler",
+                "the future",
+                "he",
+                "Derek Mead"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/an-update-to-your-motherboard",
             "guid": "e444b5c257b0ab012a3b001ce303e28f",
             "isoDate": "2017-06-22T11:41:55.000Z",
@@ -674,6 +899,13 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/how-the-grateful-dead-anticipated-the-future/media.mp3"
             },
+            "entities": [
+                "Martin Scorsese-produced",
+                "future",
+                "director",
+                "Grateful Dead",
+                "Amir Bar-Lev"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/how-the-grateful-dead-anticipated-the-future",
             "guid": "6d88df76ec4f36d51eebe9accb852e65",
             "isoDate": "2017-06-05T15:10:43.000Z",
@@ -695,6 +927,12 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/introducing-science-solved-it/media.mp3"
             },
+            "entities": [
+                "host",
+                "Kaleigh Rogers",
+                "weekly",
+                "https://itunes.apple.com/us/podcast/science-solved-it/id1227816834?mt=2"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/introducing-science-solved-it",
             "guid": "701138e56c79d1217f09054d631d0646",
             "isoDate": "2017-04-24T21:30:16.000Z",
@@ -716,6 +954,14 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/vote-for-motherboard-come-on-our-show/media.mp3"
             },
+            "entities": [
+                "@jason_koebler",
+                "Motherboard",
+                "future",
+                "@motherboard",
+                "one",
+                "tomorrow"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/vote-for-motherboard-come-on-our-show",
             "guid": "a82d8117c09364e1c4d971cb61b47843",
             "isoDate": "2017-04-18T20:43:47.000Z",
@@ -737,6 +983,20 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/wasting-time-on-the-internet/media.mp3"
             },
+            "entities": [
+                "professor",
+                "Kenneth Goldsmith",
+                "Reddit",
+                "University of Pennsylvania",
+                "Goldsmith",
+                "Wasting Time",
+                "Internet",
+                "OK",
+                "Facebook",
+                "He",
+                "he",
+                "day"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/wasting-time-on-the-internet",
             "guid": "adb80d7a2508d93c90006dec41d9b107",
             "isoDate": "2017-04-13T14:03:09.000Z",
@@ -758,6 +1018,21 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/the-only-fcc-commissioner-still-fighting-for-your-online-privacy/media.mp3"
             },
+            "entities": [
+                "Congress",
+                "Sam Gustin",
+                "Last week",
+                "FCC",
+                "Trump",
+                "President",
+                "executive",
+                "Democrat",
+                "Jason Koebler",
+                "the future",
+                "Clyburn",
+                "Editor",
+                "Writer"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/the-only-fcc-commissioner-still-fighting-for-your-online-privacy",
             "guid": "56a3b3a2cc31bf885011af097d18845f",
             "isoDate": "2017-03-30T13:46:50.000Z",
@@ -779,6 +1054,18 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/you-have-the-right-to-repair-your-electronics/media.mp3"
             },
+            "entities": [
+                "Gay Gordon-Byrne",
+                "Apple",
+                "Repair.org",
+                "IBM",
+                "John Deere",
+                "Kyle Wiens",
+                "https://itunes.apple.com/us/podcast/pluspluspodcast/id1210989400?mt=2",
+                "CEO",
+                "executive director",
+                "eight"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/you-have-the-right-to-repair-your-electronics",
             "guid": "bfca0073bfcb49fb80a4b78c0f8ff482",
             "isoDate": "2017-03-03T21:59:29.000Z",
@@ -800,6 +1087,15 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/introducing-pluspluspodcast-a-new-show-from-motherboard/media.mp3"
             },
+            "entities": [
+                "Canada",
+                "United States",
+                "Motherboard",
+                "future",
+                "one",
+                "https://itunes.apple.com/us/podcast/pluspluspodcast/id1210989400?mt=2",
+                "India"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/introducing-pluspluspodcast-a-new-show-from-motherboard",
             "guid": "7be1c87acb13ea2ae07c3942a0860d68",
             "isoDate": "2017-03-02T14:56:49.000Z",
@@ -821,6 +1117,18 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/live-podcast-the-motherboard-guide-to-defending-the-future/media.mp3"
             },
+            "entities": [
+                "Trump's",
+                "general",
+                "Wythe Hotel",
+                "wxwonair.com",
+                "February 12",
+                "America",
+                "the future",
+                "Brooklyn",
+                "Work x Work On Air",
+                "first"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/live-podcast-the-motherboard-guide-to-defending-the-future",
             "guid": "3f53847c11d8f3a00e83b23116b3b9e7",
             "isoDate": "2017-02-15T20:59:17.000Z",
@@ -842,6 +1150,12 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/the-end-of-ownership/media.mp3"
             },
+            "entities": [
+                "Jason Schultz",
+                "End of Ownership",
+                "Aaron Perzanowski",
+                "Digital Rights Management"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/the-end-of-ownership",
             "guid": "d0b0f3f530ec4224d62f65661a8d38d2",
             "isoDate": "2017-02-12T14:50:31.000Z",
@@ -863,6 +1177,16 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/meme-warfare/media.mp3"
             },
+            "entities": [
+                "Charleston",
+                "his",
+                "Milner",
+                "MIT Press",
+                "author",
+                "Ryan Milner",
+                "assistant professor",
+                "World Made Meme"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/meme-warfare",
             "guid": "50d70a817db13024718903d4a61c25b9",
             "isoDate": "2017-01-31T18:01:48.000Z",
@@ -884,6 +1208,13 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/super-mario-is-not-a-human-being/media.mp3"
             },
+            "entities": [
+                "managing editor",
+                "Nintendo Switch",
+                "Danielle Riendeau",
+                "Nintendo",
+                "Zack Kotzer"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/super-mario-is-not-a-human-being",
             "guid": "4bda780a6d56e91d420e06aa4b71edab",
             "isoDate": "2017-01-19T17:01:20.000Z",
@@ -905,6 +1236,15 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/the-race-to-save-government-science-from-trump/media.mp3"
             },
+            "entities": [
+                "Donald Trump",
+                "University of Pennsylvania",
+                "Bethany Wiggin",
+                "Nick Shapiro",
+                "Carnegie Mellon",
+                "University of Toronto",
+                "Trump"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/the-race-to-save-government-science-from-trump",
             "guid": "fc81ebc89dbb5cc49dacd0dca0964563",
             "isoDate": "2017-01-12T00:23:18.000Z",
@@ -926,6 +1266,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/the-disease-were-getting-wrong/media.mp3"
             },
+            "entities": ["disease", "Diabetes", "India"],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/the-disease-were-getting-wrong",
             "guid": "d5fb3a86a1a6a928c9bce1352782f668",
             "isoDate": "2016-12-23T17:33:21.000Z",
@@ -947,6 +1288,21 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/when-will-we-have-westworld-robots/media.mp3"
             },
+            "entities": [
+                "managing editor",
+                "researcher",
+                "Adrianne",
+                "Antoine Bordes",
+                "www.theoutline.com",
+                "https://itunes.apple.com/us/podcast/out-west-westworld-fan-theories/id1167700780?mt=2",
+                "right now",
+                "HBO",
+                "her",
+                "America",
+                "now",
+                "Facebook",
+                "Adrianne Jeffries"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/when-will-we-have-westworld-robots",
             "guid": "ef26812b1482a8eaf087e3b7ac2075b1",
             "isoDate": "2016-12-13T21:37:48.000Z",
@@ -968,6 +1324,14 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/a-public-service-announcement/media.mp3"
             },
+            "entities": [
+                "recently",
+                "http://radiomotherboard.vice-media.libsynpro.com/rss",
+                "now",
+                "Tuesday",
+                "every",
+                "a few days"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/a-public-service-announcement",
             "guid": "4120eb0e703c61dc6af2e92140691c70",
             "isoDate": "2016-12-13T21:30:44.000Z",
@@ -989,6 +1353,14 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/your-next-t-shirt-could-be-made-out-of-seaweed/media.mp3"
             },
+            "entities": [
+                "Parsons School of Design",
+                "Motherboard",
+                "Aaron Nesser",
+                "Kenji Higashi",
+                "Biofabricate",
+                "two"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/your-next-t-shirt-could-be-made-out-of-seaweed",
             "guid": "6c0feb4991d1f4b30583ddbb3c7469b1",
             "isoDate": "2016-12-06T14:42:54.000Z",
@@ -1010,6 +1382,28 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/trumps-powers/media.mp3"
             },
+            "entities": [
+                "Brian Anderson",
+                "Donald Trump",
+                "NASA",
+                "Host",
+                "Kaleigh Rogers",
+                "Trump",
+                "Tim Barnes",
+                "Joseph Cox",
+                "the last week",
+                "Sarah Emerson",
+                "Lorenzo",
+                "drug trafficking",
+                "Becky Ferreira",
+                "Jason Koebler",
+                "producer",
+                "Editor",
+                "Nicholas Deleon",
+                "Ben Sullivan",
+                "January",
+                "he"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/trumps-powers",
             "guid": "4138bcad85ac1b573c4149e65feb4b5a",
             "isoDate": "2016-11-18T17:03:08.000Z",
@@ -1031,6 +1425,13 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/donald-trumps-dystopia-and-black-mirror/media.mp3"
             },
+            "entities": [
+                "his",
+                "San Junipero",
+                "Fire",
+                "Black Mirror",
+                "Trump"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/donald-trumps-dystopia-and-black-mirror",
             "guid": "91993bbf4800dc2650b650683e2c4b33",
             "isoDate": "2016-11-14T16:33:46.000Z",
@@ -1052,6 +1453,22 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/black-mirror-season-3-episodes-1-3/media.mp3"
             },
+            "entities": [
+                "Netflix",
+                "San",
+                "Playtest",
+                "This week",
+                "Charlie Brooker",
+                "Next week",
+                "three",
+                "Today",
+                "this week",
+                "Fifteen Million",
+                "Motherboard",
+                "Fire",
+                "Junipero",
+                "first"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/black-mirror-season-3-episodes-1-3",
             "guid": "8e064625bcbc6734ac0617307bcf467f",
             "isoDate": "2016-11-04T20:59:46.000Z",
@@ -1073,6 +1490,21 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/werner-herzog-on-science-language-mars-and-his-volcano-fever-dreams/media.mp3"
             },
+            "entities": [
+                "Netflix",
+                "http://motherboard.vice.com/read/into-the-herzog-radio-motherboard-podcast",
+                "six",
+                "him",
+                "Into The Inferno",
+                "his",
+                "His",
+                "Werner Herzog",
+                "Editor",
+                "Herzog",
+                "He",
+                "he",
+                "Alex Pasternack"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/werner-herzog-on-science-language-mars-and-his-volcano-fever-dreams",
             "guid": "16babb2d8c8cf29acbdde6aa88061cf5",
             "isoDate": "2016-10-28T22:06:11.000Z",
@@ -1094,6 +1526,15 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/berlin-station-and-americatown/media.mp3"
             },
+            "entities": [
+                "Station",
+                "Larry Cohen",
+                "Berlin",
+                "Americans",
+                "Brad Winters",
+                "EPIX",
+                "CIA"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/berlin-station-and-americatown",
             "guid": "064a44227eeef8186a70e3a9da2d7658",
             "isoDate": "2016-10-21T16:27:04.000Z",
@@ -1115,6 +1556,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/iphone-touch-disease/media.mp3"
             },
+            "entities": ["Apple", "6", "Kyle Wiens", "CEO"],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/iphone-touch-disease",
             "guid": "a600be257fda8d1c8d3dd6fadf5c6ed6",
             "isoDate": "2016-10-15T17:50:53.000Z",
@@ -1136,6 +1578,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/luxury-week/media.mp3"
             },
+            "entities": ["a week"],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/luxury-week",
             "guid": "1fb1455bd3f313e7ad03986c771c79aa",
             "isoDate": "2016-10-12T21:17:32.000Z",
@@ -1157,6 +1600,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/the-future-of-periods/media.mp3"
             },
+            "entities": ["activist", "Kiran Gandhi", "drummer"],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/the-future-of-periods",
             "guid": "9ee8c195bd421097017c88cb46afbb5d",
             "isoDate": "2016-10-07T15:07:02.000Z",
@@ -1178,6 +1622,32 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/why-facts-dont-matter-in-the-2016-presidential-election/media.mp3"
             },
+            "entities": [
+                "the hours of 3 AM",
+                "Donald Trump",
+                "Hillary Clinton",
+                "Republican",
+                "Universe",
+                "University of Copenhagen",
+                "Vincent F. Hendricks",
+                "Center for Information and Bubble Studies",
+                "5 AM",
+                "morning",
+                "Trump",
+                "Alicia Machado",
+                "she",
+                "Infostorms</b>",
+                "his",
+                "her",
+                "Friday",
+                "attacks",
+                "Miss",
+                "Machado",
+                "he",
+                "US",
+                "Hendricks",
+                "about this week"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/why-facts-dont-matter-in-the-2016-presidential-election",
             "guid": "4ba0175a22ab36b851a3fe1e8462acfb",
             "isoDate": "2016-09-30T14:48:24.000Z",
@@ -1199,6 +1669,17 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/can-snowden-the-movie-save-snowden-the-man/media.mp3"
             },
+            "entities": [
+                "Edward Snowden",
+                "Human Rights Watch",
+                "Oliver Stone",
+                "Snowden",
+                "Laura Poitras",
+                "ACLU",
+                "days",
+                "Amnesty International",
+                "him"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/can-snowden-the-movie-save-snowden-the-man",
             "guid": "afa3acee49e60ac5303bb065424e9973",
             "isoDate": "2016-09-23T16:55:49.000Z",
@@ -1220,6 +1701,16 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/rockos-modern-life-predicted-our-lame-future/media.mp3"
             },
+            "entities": [
+                "Joe Murray",
+                "creator",
+                "his",
+                "today",
+                "now",
+                "Sean Yeaton",
+                "Rocko",
+                "Parquet Courts"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/rockos-modern-life-predicted-our-lame-future",
             "guid": "1a89d3e39ccd0057ada6938c50ba4ec1",
             "isoDate": "2016-09-16T14:21:59.000Z",
@@ -1241,6 +1732,20 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/inside-the-tesla-gigafactory/media.mp3"
             },
+            "entities": [
+                "Reno",
+                "Musk",
+                "one",
+                "Tesla",
+                "Model",
+                "the future",
+                "Elon Musk",
+                "150,000",
+                "Gigafactory",
+                "five",
+                "Nevada",
+                "A few weeks ago"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/inside-the-tesla-gigafactory",
             "guid": "d50caabd0be3fb9fe23cca0c8843b11b",
             "isoDate": "2016-09-09T14:29:24.000Z",
@@ -1262,6 +1767,18 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/the-real-impact-your-phone-has-on-the-world/media.mp3"
             },
+            "entities": [
+                "an hour",
+                "This week",
+                "his",
+                "every year",
+                "Energy Star",
+                "Douglas Rushkoff",
+                "future",
+                "two",
+                "a year",
+                "each week"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/the-real-impact-your-phone-has-on-the-world",
             "guid": "c83ddda516b17916e914b668a7c3b48c",
             "isoDate": "2016-09-07T16:17:24.000Z",
@@ -1283,6 +1800,21 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/leslie-jones-and-the-ethics-of-amplifying-online-harassment/media.mp3"
             },
+            "entities": [
+                "Leslie Jones",
+                "Whitney Phillips",
+                "Ghostbusters",
+                "one",
+                "Twitter",
+                "Phillips",
+                "harassment",
+                "she",
+                "Jones",
+                "Harambe",
+                "her",
+                "Motherboard",
+                "now"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/leslie-jones-and-the-ethics-of-amplifying-online-harassment",
             "guid": "de8c7991c2f4c7a7fd67dc429a3ce4cd",
             "isoDate": "2016-08-26T15:52:27.000Z",
@@ -1304,6 +1836,15 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/the-future-of-hacking/media.mp3"
             },
+            "entities": [
+                "week",
+                "researcher",
+                "this week",
+                "daily",
+                "the future",
+                "Morgan Marquis-Boire",
+                "the last few years"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/the-future-of-hacking",
             "guid": "13a1798bdebc781fb5881a0be7a3a088",
             "isoDate": "2016-08-02T17:07:49.000Z",
@@ -1325,6 +1866,25 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/fsociety-episode-1-how-a-motherboarder-became-a-writer-for-mr.-robot/media.mp3"
             },
+            "entities": [
+                "Amy Teitel",
+                "USA",
+                "Broadway",
+                "Radio Motherboard",
+                "Amy",
+                "second",
+                "she",
+                "hacker",
+                "her",
+                "now",
+                "next week",
+                "Jason Koebler",
+                "writer",
+                "Lorenzo Franceschi-Bicchierai",
+                "Robot",
+                "first",
+                "each week"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/fsociety-episode-1-how-a-motherboarder-became-a-writer-for-mr.-robot",
             "guid": "7ded4fcb6f631288e451ccd4fd9921e6",
             "isoDate": "2016-07-25T19:43:18.000Z",
@@ -1346,6 +1906,13 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/hello-world/media.mp3"
             },
+            "entities": [
+                "Jason Koebler",
+                "Lorenzo Franceschi-Bicchierai",
+                "Robot",
+                "two",
+                "summer"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/hello-world",
             "guid": "4712121759da04a9312c8dc0cf0747a7",
             "isoDate": "2016-07-13T18:53:00.000Z",
@@ -1367,6 +1934,19 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/reflecting-on-independence-day-the-greatest-hacking-movie-ever/media.mp3"
             },
+            "entities": [
+                "Earth",
+                "Emmerich",
+                "2",
+                "Independence",
+                "a second",
+                "one",
+                "Roland Emmerich",
+                "Day",
+                "20 years",
+                "first",
+                "second"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/reflecting-on-independence-day-the-greatest-hacking-movie-ever",
             "guid": "a2671a574beca02d526ce51d0329d174",
             "isoDate": "2016-07-08T04:35:31.000Z",
@@ -1388,6 +1968,14 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/inside-the-dark-world-of-online-competitive-tickling/media.mp3"
             },
+            "entities": [
+                "journalist",
+                "David Farrier",
+                "his",
+                "him",
+                "harassment",
+                "filmmaker"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/inside-the-dark-world-of-online-competitive-tickling",
             "guid": "197e216578872d2315b5de0d3331629e",
             "isoDate": "2016-07-01T14:21:21.000Z",
@@ -1409,6 +1997,18 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/i-skipped-showering-for-two-weeks-and-bathed-in-bacteria-instead/media.mp3"
             },
+            "entities": [
+                "Kate Lunau",
+                "two weeks",
+                "13 years",
+                "her",
+                "Her",
+                "Kate",
+                "Chemist",
+                "the future",
+                "writer",
+                "David Whitlock"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/i-skipped-showering-for-two-weeks-and-bathed-in-bacteria-instead",
             "guid": "1af1ce04857b9633663d15a4f78579fa",
             "isoDate": "2016-06-16T19:06:37.000Z",
@@ -1430,6 +2030,31 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/the-case-for-giving-everyone-free-money/media.mp3"
             },
+            "entities": [
+                "the years",
+                "months",
+                "this last weekend",
+                "$1,000",
+                "United States",
+                "one",
+                "Elizabeth Rhodes",
+                "Combinator",
+                "Oakland",
+                "Switzerland",
+                "years",
+                "Matt Krisiloff",
+                "100",
+                "$2,000",
+                "she",
+                "month",
+                "Valley",
+                "future",
+                "now",
+                "monthly",
+                "Silicon",
+                "the last few weeks",
+                "Natalie Foster"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/the-case-for-giving-everyone-free-money",
             "guid": "c9010c612f78dd22a3eebc51552b259f",
             "isoDate": "2016-06-09T15:05:28.000Z",
@@ -1451,6 +2076,29 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/when-uber-left-austin/media.mp3"
             },
+            "entities": [
+                "six",
+                "mayor",
+                "author",
+                "Rick Claypool",
+                "Lee Leffingwell",
+                "Austin",
+                "San Francisco",
+                "overnight",
+                "general",
+                "1",
+                "Uber",
+                "Rideshare Works for Austin",
+                "his",
+                "her",
+                "driver",
+                "Hulu",
+                "$9.1 million",
+                "Texas",
+                "<a href=\"http://austin.culturemap.com/news/city-life/05-13-14-rideshares-uber-city-council-vote-resolutions-black-cars-taxi-cabs/#slide=0\" rel=\"nofollow\" target=\"_blank\">",
+                "early 2014",
+                "Lyft"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/when-uber-left-austin",
             "guid": "39ab0dc1ee05ec1961f45bbb84e630da",
             "isoDate": "2016-05-26T14:33:40.000Z",
@@ -1472,6 +2120,24 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/the-moon-walking-alien-hunting-psychic-astronaut-who-got-sued-by-nasa/media.mp3"
             },
+            "entities": [
+                "14",
+                "ESP",
+                "http://motherboard.vice.com/read/astronaut-edgar-mitchell-outer-space-inner-space-and-aliens",
+                "Boy",
+                "sixth",
+                "Earth",
+                "Mitchell",
+                "Edgar Mitchell",
+                "the future",
+                "protestant",
+                "February",
+                "85",
+                "test pilot",
+                "he",
+                "Scout",
+                "February 1971"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/the-moon-walking-alien-hunting-psychic-astronaut-who-got-sued-by-nasa",
             "guid": "ddc104ddfc1749b2a89b317ac45d040b",
             "isoDate": "2016-05-13T22:06:52.000Z",
@@ -1493,6 +2159,21 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/the-battle-for-klingon/media.mp3"
             },
+            "entities": [
+                "editor",
+                "Language Creation Society",
+                "founder",
+                "copyright infringement",
+                "Cincinnati",
+                "Paramount",
+                "Sarah Jeong",
+                "his",
+                "last week",
+                "Klingons",
+                "Sai",
+                "first",
+                "copyright expert"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/the-battle-for-klingon",
             "guid": "faf49833a34f57aa61783a863f8cf810",
             "isoDate": "2016-05-06T15:06:39.000Z",
@@ -1514,6 +2195,23 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/the-delonge-con/media.mp3"
             },
+            "entities": [
+                "Holocaust",
+                "pilot",
+                "author",
+                "182",
+                "DeLonge",
+                "longestRadio Motherboard episode",
+                "Marine",
+                "His",
+                "conspiracy",
+                "Tom DeLonge",
+                "Motherboard",
+                "AJ Hartley",
+                "he",
+                "guitarist",
+                "first"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/the-delonge-con",
             "guid": "09b447e69623b98c0cfcb411c2d8193e",
             "isoDate": "2016-04-29T18:25:31.000Z",
@@ -1535,6 +2233,20 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/the-silicon-divide/media.mp3"
             },
+            "entities": [
+                "the first few days",
+                "PR",
+                "70 percent",
+                "48",
+                "Valley",
+                "Motherboard",
+                "127",
+                "one",
+                "daily",
+                "early March",
+                "Silicon",
+                "the first 10 days of March"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/the-silicon-divide",
             "guid": "5352fe135678abc449eb1b302493efeb",
             "isoDate": "2016-04-21T14:11:20.000Z",
@@ -1556,6 +2268,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/fronterizas-en-espanol/media.mp3"
             },
+            "entities": ["México", "Estados Unidos"],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/fronterizas-en-espanol",
             "guid": "71cc9a5b192f6e3ba1a43e172b0e518a",
             "isoDate": "2016-04-14T14:18:54.000Z",
@@ -1577,6 +2290,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/border-lines/media.mp3"
             },
+            "entities": ["smuggling", "US-Mexico"],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/border-lines",
             "guid": "5e0aa6d47c6a30e05a306ec9386e4c36",
             "isoDate": "2016-04-14T14:16:53.000Z",
@@ -1598,6 +2312,15 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/song-exploder-exploded/media.mp3"
             },
+            "entities": [
+                "Iggy Pop",
+                "Bjork",
+                "Ghostface Killah",
+                "this week",
+                "Queen",
+                "No Time",
+                "Wilco"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/song-exploder-exploded",
             "guid": "5db8b76acc2c79485a87de411ca4acb2",
             "isoDate": "2016-04-01T15:58:42.000Z",
@@ -1619,6 +2342,13 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/to-block-or-not-to-block-featuring-talib-kweli/media.mp3"
             },
+            "entities": [
+                "Talib Kweli",
+                "this week",
+                "Twitter",
+                "\u2019s Radio Motherboard",
+                "rapper"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/to-block-or-not-to-block-featuring-talib-kweli",
             "guid": "ab088583e9dc7ad6a6e6eb5402c19b1e",
             "isoDate": "2016-03-25T03:05:41.000Z",
@@ -1640,6 +2370,26 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/how-the-x-files-got-its-creepy-theme-music/media.mp3"
             },
+            "entities": [
+                "pilot",
+                "A few minutes after 10pm",
+                "one",
+                "Twilight",
+                "Mark",
+                "Chris Carter",
+                "one day",
+                "Carter",
+                "him",
+                "Hollywood",
+                "1997",
+                "his",
+                "1992",
+                "Mark Snow",
+                "producer",
+                "he",
+                "first",
+                "Disney TV"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/how-the-x-files-got-its-creepy-theme-music",
             "guid": "fb269df2e55962a1fe467b4f21963b3c",
             "isoDate": "2016-03-18T17:51:31.000Z",
@@ -1661,6 +2411,18 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/double-episode-cortana-abusewhy-humans-should-be-more-like-ai/media.mp3"
             },
+            "entities": [
+                "this week",
+                "Louise Matsakis",
+                "assistant",
+                "one",
+                "One",
+                "Jason Koebler",
+                "Microsoft",
+                "second half",
+                "writer",
+                "first"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/double-episode-cortana-abusewhy-humans-should-be-more-like-ai",
             "guid": "12598321a17bbb475299c4b4eed94874",
             "isoDate": "2016-03-11T16:48:54.000Z",
@@ -1682,6 +2444,29 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/how-to-think-about-the-biggest-earthquake-ever/media.mp3"
             },
+            "entities": [
+                "five years",
+                "researcher",
+                "months",
+                "one",
+                "Adam Rothstein",
+                "One",
+                "tomorrow",
+                "ten years",
+                "earthquake",
+                "fifty years",
+                "his",
+                "archivist",
+                "Earthquake",
+                "Really Big",
+                "Kathryn Shulz",
+                "Last year",
+                "writer",
+                "Rothstein",
+                "he",
+                "9.3",
+                "US"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/how-to-think-about-the-biggest-earthquake-ever",
             "guid": "603687f83825040046cb116790bcbd7b",
             "isoDate": "2016-03-04T10:41:11.000Z",
@@ -1703,6 +2488,19 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/why-you-should-own-your-cable-box/media.mp3"
             },
+            "entities": [
+                "Federal Communications Commission",
+                "Food Network",
+                "Time Warner Cable",
+                "2016",
+                "year",
+                "now",
+                "Notice of Proposed Rulemaking",
+                "Comcast",
+                "$230",
+                "February 18",
+                "first"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/why-you-should-own-your-cable-box",
             "guid": "4c40301ce7e59305d113421e4f7ed155",
             "isoDate": "2016-02-26T01:40:52.000Z",
@@ -1724,6 +2522,17 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/apple-vs-the-fbi/media.mp3"
             },
+            "entities": [
+                "San Bernardino",
+                "Apple",
+                "United States",
+                "Earlier this week",
+                "one",
+                "the future",
+                "judge",
+                "California",
+                "FBI"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/apple-vs-the-fbi",
             "guid": "6d8be76cd94ada476a61ecce5a97b3a6",
             "isoDate": "2016-02-18T23:47:00.000Z",
@@ -1745,6 +2554,20 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/video-games-are-missing-black-voices-literally/media.mp3"
             },
+            "entities": [
+                "actor",
+                "journalist",
+                "actress",
+                "Shonte Daniels",
+                "This week",
+                "4",
+                "Kotaku",
+                "Nadine Ross",
+                "voice actor",
+                "writer",
+                "Evan Narcisse",
+                "Dave Fennoy"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/video-games-are-missing-black-voices-literally",
             "guid": "4027854c540688fa34a9f730ef40f2c2",
             "isoDate": "2016-02-12T05:51:01.000Z",
@@ -1766,6 +2589,22 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/the-hyperloop/media.mp3"
             },
+            "entities": [
+                "22",
+                "June",
+                "last weekend",
+                "Texas A&M University",
+                "Concord",
+                "SpaceX",
+                "180",
+                "35 minutes",
+                "San Francisco",
+                "700",
+                "fifth",
+                "Los Angeles",
+                "Elon Musk",
+                "first"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/the-hyperloop",
             "guid": "562dd2dfb5d59da7aebda18783084482",
             "isoDate": "2016-02-05T19:19:46.000Z",
@@ -1787,6 +2626,14 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/kickstarter---failure-to-launch/media.mp3"
             },
+            "entities": [
+                "A year later",
+                "Zano",
+                "creator",
+                "13,000",
+                "one",
+                "£2.3 million"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/kickstarter---failure-to-launch",
             "guid": "00224add33c0f8fa001708d9be86d842",
             "isoDate": "2016-01-29T10:41:37.000Z",
@@ -1808,6 +2655,14 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/a-practical-guide-to-sleep-hacking-your-room/media.mp3"
             },
+            "entities": [
+                "she",
+                "managing editor",
+                "hacker",
+                "her",
+                "William",
+                "Adrianne Jeffries"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/a-practical-guide-to-sleep-hacking-your-room",
             "guid": "525dec3f008dcb98f962a30b3070c326",
             "isoDate": "2016-01-22T07:18:27.000Z",
@@ -1829,6 +2684,17 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/free-basics/media.mp3"
             },
+            "entities": [
+                "<a href=\"http://recode.net/2015/12/21/facebook-accidentally-asks-u-s-users-to-support-free-basics-in-india/\" rel=\"nofollow\" target=\"_blank\">",
+                "First",
+                "Facebook",
+                "Internet.org",
+                "the past month",
+                "US",
+                "first",
+                "Free Basics",
+                "India"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/free-basics",
             "guid": "b6b06adc970a98fe4e89bda2c336b00c",
             "isoDate": "2016-01-15T18:04:27.000Z",
@@ -1850,6 +2716,21 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/the-community-owned-isps-building-an-alternative-to-big-telecom-in-new-york-city/media.mp3"
             },
+            "entities": [
+                "This week",
+                "weeks",
+                "2012",
+                "Red Hook Wifi",
+                "Brooklyn",
+                "two",
+                "New York City",
+                "Time Warner Cable",
+                "currently",
+                "500",
+                "NYC Mesh",
+                "Hurricane",
+                "day"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/the-community-owned-isps-building-an-alternative-to-big-telecom-in-new-york-city",
             "guid": "3e6dac9763678c61ebc6bef503fd1d98",
             "isoDate": "2016-01-08T16:30:48.000Z",
@@ -1871,6 +2752,16 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/2015---the-year-in-science-fiction/media.mp3"
             },
+            "entities": [
+                "Claire Evans",
+                "Mad Max",
+                "2015",
+                "year",
+                "Brian Merchant",
+                "Ex Machina",
+                "the year",
+                "the future"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/2015---the-year-in-science-fiction",
             "guid": "d771ad91b727ae0e39baaf1e03405e81",
             "isoDate": "2015-12-30T21:57:15.000Z",
@@ -1892,6 +2783,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/transhumanists-in-their-own-words/media.mp3"
             },
+            "entities": ["the", "the 21st century", "last 10 years"],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/transhumanists-in-their-own-words",
             "guid": "17fd57605358d6af37b081ad307c00f5",
             "isoDate": "2015-12-25T00:52:12.000Z",
@@ -1913,6 +2805,21 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/everything-you-wanted-to-know-about-the-new-york-city-subway/media.mp3"
             },
+            "entities": [
+                "student",
+                "5 million",
+                "Max Diamond",
+                "him",
+                "460",
+                "New York City",
+                "City College of New York",
+                "her",
+                "DJ Hammers YouTube",
+                "fire",
+                "day",
+                "he",
+                "1,500"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/everything-you-wanted-to-know-about-the-new-york-city-subway",
             "guid": "60528b76fabffdf494de7ce1541e368f",
             "isoDate": "2015-12-17T23:41:23.000Z",
@@ -1934,6 +2841,14 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/cryptoparty-in-harlem/media.mp3"
             },
+            "entities": [
+                "New York City",
+                "Harlem",
+                "New York City Police Department",
+                "recently",
+                "Motherboard",
+                "<a href=\"http://www.theverge.com/2014/12/10/7341077/nypd-harlem-crews-social-media-rikers-prison\" rel=\"nofollow\" target=\"_blank\">"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/cryptoparty-in-harlem",
             "guid": "b9d4d3d7606575668e6c34c53b3f4482",
             "isoDate": "2015-12-10T23:29:59.000Z",
@@ -1955,6 +2870,14 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/nasas-long-lost-lunar-rover/media.mp3"
             },
+            "entities": [
+                "this week",
+                "Earlier this fall",
+                "NASA",
+                "the 1960s",
+                "time",
+                "Alabama"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/nasas-long-lost-lunar-rover",
             "guid": "adb81de67dc98b85be726cb441545d30",
             "isoDate": "2015-12-04T15:32:58.000Z",
@@ -1976,6 +2899,19 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/esports-adderall-and-nootropics/media.mp3"
             },
+            "entities": [
+                "journalist",
+                "editor",
+                "managing editor",
+                "week",
+                "drugs",
+                "Emanuel Maiberg",
+                "Rod Breslau",
+                "Steve Cronin",
+                "1:12",
+                "Weekend",
+                "Adrianne Jeffries"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/esports-adderall-and-nootropics",
             "guid": "5ddfb67c42096da1804d542148665c2d",
             "isoDate": "2015-11-28T17:32:14.000Z",
@@ -1997,6 +2933,24 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/when-big-guns-go-down/media.mp3"
             },
+            "entities": [
+                "editor",
+                "Afghanistan",
+                "Brian Anderson",
+                "$40 billion",
+                "Earlier this week",
+                "one",
+                "Damien Spleeters",
+                "reporter",
+                "Defense Logistics Agency",
+                "soldier",
+                "Pentagon",
+                "DLA",
+                "60",
+                "Iraq",
+                "he",
+                "a year"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/when-big-guns-go-down",
             "guid": "74c12edf933eff529290f399e07cb312",
             "isoDate": "2015-11-20T20:16:56.000Z",
@@ -2018,6 +2972,13 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/why-fallout-4-is-a-niche-video-game/media.mp3"
             },
+            "entities": [
+                "Hollywood",
+                "4",
+                "Bethesda Softworks",
+                "disaster",
+                "Boston"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/why-fallout-4-is-a-niche-video-game",
             "guid": "475070210eb7e9110b85ed3002ce07f3",
             "isoDate": "2015-11-13T15:12:22.000Z",
@@ -2039,6 +3000,18 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/why-putting-your-water-damaged-phone-in-rice-is-dumb-and-doesnt-work/media.mp3"
             },
+            "entities": [
+                "Dennison",
+                "Trent Dennison",
+                "United States",
+                "the last year",
+                "One",
+                "one",
+                "nurse",
+                "he",
+                "A few days later",
+                "Rice"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/why-putting-your-water-damaged-phone-in-rice-is-dumb-and-doesnt-work",
             "guid": "5e014ab9551254632239bd3f5e907d8f",
             "isoDate": "2015-11-09T02:11:52.000Z",
@@ -2060,6 +3033,17 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/mr.-robot/media.mp3"
             },
+            "entities": [
+                "USA",
+                "couple years",
+                "hacker",
+                "Now",
+                "now",
+                "one",
+                "Black Mirror",
+                "Robot",
+                "first"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/mr.-robot",
             "guid": "428bee1c70cb2a18a9be0546f619770d",
             "isoDate": "2015-10-30T04:03:42.000Z",
@@ -2081,6 +3065,18 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/the-culture-where-the-dead-walk-among-the-living/media.mp3"
             },
+            "entities": [
+                "This week",
+                "Naomi Bishop",
+                "recently",
+                "Jason Koebler",
+                "Tana Toraja",
+                "writer",
+                "Halloween",
+                "Kaleigh Rogers",
+                "years",
+                "Indonesia"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/the-culture-where-the-dead-walk-among-the-living",
             "guid": "2686eb1550242945f60bd76e1e510184",
             "isoDate": "2015-10-23T19:07:58.000Z",
@@ -2102,6 +3098,17 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/why-does-facebook-suggest-you-friend-your-tinder-matches/media.mp3"
             },
+            "entities": [
+                "Kari Paul",
+                "editor",
+                "her",
+                "Democratic",
+                "Short Circuit",
+                "Nicholas Deleon",
+                "Lorenzo Franceschi-Bicchierai",
+                "http://motherboard.vice.com/read/uber-left-hundreds-of-drivers-licenses-and-social-security-numbers-exposed",
+                "Facebook"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/why-does-facebook-suggest-you-friend-your-tinder-matches",
             "guid": "f2f6142209fd80bb17782d51575ec5a1",
             "isoDate": "2015-10-16T15:20:35.000Z",
@@ -2123,6 +3130,22 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/motherboard-discusses-the-martian-and-why-we-killed-comments/media.mp3"
             },
+            "entities": [
+                "editor",
+                "Drew Goddard",
+                "Martian",
+                "the first 15 minutes",
+                "Twitter",
+                "Two",
+                "two",
+                "his",
+                "this week",
+                "Ridley Scott",
+                "Motherboard",
+                "the future",
+                "Derek Mead",
+                "Alex Pasternack"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/motherboard-discusses-the-martian-and-why-we-killed-comments",
             "guid": "2a5552e3461154302942bbfb971d2c54",
             "isoDate": "2015-10-06T21:28:38.000Z",
@@ -2144,6 +3167,16 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/vint-cerf-peeple-and-elementary-school-sci-fi/media.mp3"
             },
+            "entities": [
+                "Google",
+                "she",
+                "seven years old",
+                "evangelist",
+                "this week",
+                "Vint Cerf",
+                "one",
+                "Peeple"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/vint-cerf-peeple-and-elementary-school-sci-fi",
             "guid": "b847cb6d20674ff9f7f447b4f9e7d674",
             "isoDate": "2015-10-02T13:54:07.000Z",
@@ -2165,6 +3198,19 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/yeast-that-make-thc-climate-divestment-and-cliff-diving/media.mp3"
             },
+            "entities": [
+                "this week",
+                "drugs",
+                "Brian Merchant",
+                "producer",
+                "Italy",
+                "Radio Motherboard",
+                "the future",
+                "Jaimie Sanchez",
+                "Editor",
+                "first",
+                "DC"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/yeast-that-make-thc-climate-divestment-and-cliff-diving",
             "guid": "7b09a7554142aa0a8e04cedd236fdf47",
             "isoDate": "2015-09-25T15:52:09.000Z",
@@ -2186,6 +3232,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/forever-war-superbugs-and-an-ultrasound-that-controls-your-brain/media.mp3"
             },
+            "entities": ["This week", "future", "Quebec", "war"],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/forever-war-superbugs-and-an-ultrasound-that-controls-your-brain",
             "guid": "3dc0ec2e139b37d629249e8b1d46ad16",
             "isoDate": "2015-09-17T22:20:20.000Z",
@@ -2207,6 +3254,14 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/iphones-free-money-and-hacking-team/media.mp3"
             },
+            "entities": [
+                "This week",
+                "@motherboard",
+                "Hacking Team",
+                "the last few months",
+                "roller",
+                "editor@motherboard.tv"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/iphones-free-money-and-hacking-team",
             "guid": "226fb716201eaa95dd0173a7cdeda943",
             "isoDate": "2015-09-10T22:53:31.000Z",
@@ -2228,6 +3283,16 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/are-you-a-jerk-if-you-vacation-in-cuba/media.mp3"
             },
+            "entities": [
+                "starvation",
+                "Cuba",
+                "the last 60 years",
+                "cheapair.com",
+                "American",
+                "the last couple weeks",
+                "one",
+                "Havana"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/are-you-a-jerk-if-you-vacation-in-cuba",
             "guid": "c0a79aae4564224fbb856e7e08b6241b",
             "isoDate": "2015-09-04T14:57:22.000Z",
@@ -2249,6 +3314,18 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/the-pokemon-world-championships/media.mp3"
             },
+            "entities": [
+                "World Championships",
+                "a decade",
+                "2015",
+                "one",
+                "now",
+                "800",
+                "Pokemon",
+                "Pokemon World Championships",
+                "the last few years",
+                "Boston"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/the-pokemon-world-championships",
             "guid": "1a4c96a5e5fb7d739892a097d45254de",
             "isoDate": "2015-08-28T15:03:13.000Z",
@@ -2270,6 +3347,15 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/are-uber-drivers-employees/media.mp3"
             },
+            "entities": [
+                "hours",
+                "Uber",
+                "boss",
+                "driver",
+                "independent",
+                "California",
+                "Wal-Mart"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/are-uber-drivers-employees",
             "guid": "ea139997fed2860c7270071674830104",
             "isoDate": "2015-08-25T15:15:30.000Z",
@@ -2291,6 +3377,22 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/the-would-be-astronaut/media.mp3"
             },
+            "entities": [
+                "NASA",
+                "past",
+                "him",
+                "Brian Shiro",
+                "astronaut",
+                "Brian",
+                "http://motherboard.vice.com/read/the-giant-endangered-cosmic-ear-inside-americas-cell-phone-black-hole",
+                "third",
+                "a few weeks ago",
+                "writer",
+                "He",
+                "he",
+                "Sarah Scoles",
+                "first"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/the-would-be-astronaut",
             "guid": "52db077b91b45b618b1b661e1c53bc8b",
             "isoDate": "2015-08-18T19:23:08.000Z",
@@ -2312,6 +3414,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/twilight-of-the-bomb/media.mp3"
             },
+            "entities": ["his", "one", "Manhattan", "crater", "first"],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/twilight-of-the-bomb",
             "guid": "993cdfaa6d7b8abe0c19a66d3f449a48",
             "isoDate": "2015-08-07T22:02:34.000Z",
@@ -2333,6 +3436,19 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/sleepaway-camp-for-a-38-year-old-computer/media.mp3"
             },
+            "entities": [
+                "38-year-old",
+                "Kansas City",
+                "70-or-so",
+                "recently",
+                "Rockhurst University",
+                "40th",
+                "70",
+                "six days",
+                "July",
+                "every",
+                "1977"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/sleepaway-camp-for-a-38-year-old-computer",
             "guid": "ad503c955ec8211e6859fc9c0527eba9",
             "isoDate": "2015-07-30T23:02:34.000Z",
@@ -2354,6 +3470,15 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/meet-motherboard/media.mp3"
             },
+            "entities": [
+                "Editor-in-Chief",
+                "This week",
+                "9-8",
+                "the last six months",
+                "time",
+                "New York Magazine",
+                "Derek Mead"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/meet-motherboard",
             "guid": "1ebd0e4eb96e0ca9ade05bbd1d76d419",
             "isoDate": "2015-07-24T14:18:37.000Z",
@@ -2375,6 +3500,15 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/what-have-we-learned-from-the-ebola-outbreak/media.mp3"
             },
+            "entities": [
+                "This week",
+                "disease",
+                "now",
+                "<a href=\"http://www.bloomberg.com/news/articles/2014-10-21/ebola-survivors-become-caregivers-testing-their-immunity\" rel=\"nofollow\" target=\"_blank\">",
+                "a year",
+                "Ebola",
+                "Kayla Ruble"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/what-have-we-learned-from-the-ebola-outbreak",
             "guid": "fbfcffc42055377acc36c0da8fb3da2f",
             "isoDate": "2015-07-17T14:41:15.000Z",
@@ -2396,6 +3530,13 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/gawker-vs-hulk-hogan/media.mp3"
             },
+            "entities": [
+                "Hulk Hogan",
+                "now",
+                "First",
+                "Gawker",
+                "October 2012"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/gawker-vs-hulk-hogan",
             "guid": "f2352ad2d294adde19d66fe509e55cca",
             "isoDate": "2015-07-10T13:30:37.000Z",
@@ -2417,6 +3558,26 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/america-votes/media.mp3"
             },
+            "entities": [
+                "Mitt Romney",
+                "American",
+                "Harper Reed",
+                "Hillary Clinton",
+                "Obama",
+                "Director",
+                "Dylan Richard",
+                "the",
+                "Bernie Sanders",
+                "President",
+                "his",
+                "Reed",
+                "this week",
+                "Reddit",
+                "last four years",
+                "Marco Rubio",
+                "He",
+                "CTO"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/america-votes",
             "guid": "624f2d9dd14b2037eb6256ac4e70ba6e",
             "isoDate": "2015-07-03T13:38:19.000Z",
@@ -2438,6 +3599,18 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/what-will-world-war-iii-look-like/media.mp3"
             },
+            "entities": [
+                "the past",
+                "Singer",
+                "United States",
+                "China",
+                "one",
+                "Peter W. Singer",
+                "war",
+                "the future",
+                "layer",
+                "August"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/what-will-world-war-iii-look-like",
             "guid": "cbd399fb6c8acda65576dacd8a2d0cd8",
             "isoDate": "2015-06-26T15:19:29.000Z",
@@ -2459,6 +3632,20 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/smartphones-make-dating-terrible-feat.-aziz-ansari/media.mp3"
             },
+            "entities": [
+                "Aziz Ansari",
+                "sociologist",
+                "This week",
+                "Modern Romance",
+                "his",
+                "Reddit",
+                "Aziz",
+                "Comedian",
+                "two",
+                "Facebook and Twitter",
+                "he",
+                "Eric Klinenberg"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/smartphones-make-dating-terrible-feat.-aziz-ansari",
             "guid": "c1a66bcff4f6724bba86f8d3b062efd5",
             "isoDate": "2015-06-19T14:29:17.000Z",
@@ -2480,6 +3667,18 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/this-is-your-brain-on-technology/media.mp3"
             },
+            "entities": [
+                "She",
+                "she",
+                "This week",
+                "her",
+                "Web",
+                "one",
+                "London",
+                "Nathalie Nahai",
+                "psychologist",
+                "Later this month"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/this-is-your-brain-on-technology",
             "guid": "0964eedda2e3f1f72ae29ccf0cc62589",
             "isoDate": "2015-06-12T14:46:36.000Z",
@@ -2501,6 +3700,20 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/mad-max-ex-machina-and-tomorrowlandmotherboards-summer-sci-fi-bonanza-extravaganza/media.mp3"
             },
+            "entities": [
+                "June",
+                "Mad Max",
+                "future",
+                "one",
+                "Tomorrowland",
+                "the future",
+                "present",
+                "three",
+                "summer",
+                "https://casper.com/?utm_source=vice&amp;utm_medium=podcast&amp;utm_campaign=motherboard&amp;cvosrc=podcast.podcast.motherboard",
+                "nine hour",
+                "$50"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/mad-max-ex-machina-and-tomorrowlandmotherboards-summer-sci-fi-bonanza-extravaganza",
             "guid": "b56cd26811eeb5b4ef0cbec754b62d8a",
             "isoDate": "2015-06-04T21:26:56.000Z",
@@ -2522,6 +3735,19 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/elon-musks-plan-for-humanity/media.mp3"
             },
+            "entities": [
+                "Earth",
+                "his",
+                "https://casper.com/?utm_source=vice&utm_medium=podcast&utm_campaign=motherboard&cvosrc=podcast.podcast.motherboard",
+                "Musk",
+                "author",
+                "Ashlee Vance",
+                "one",
+                "SpaceX",
+                "Tesla",
+                "Elon Musk",
+                "$50"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/elon-musks-plan-for-humanity",
             "guid": "f89790c668c0443207ebf1346f584055",
             "isoDate": "2015-05-28T22:37:19.000Z",
@@ -2543,6 +3769,15 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/the-history-of-bitcoin/media.mp3"
             },
+            "entities": [
+                "Courtney Marie Warner",
+                "his",
+                "her",
+                "New York Times",
+                "Bitcoin",
+                "reporter",
+                "Nathaniel Popper"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/the-history-of-bitcoin",
             "guid": "43efa39c5280bb889cc575beaa3415ad",
             "isoDate": "2015-05-22T13:35:04.000Z",
@@ -2564,6 +3799,20 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/see-click-kill/media.mp3"
             },
+            "entities": [
+                "a week",
+                "pilot",
+                "director",
+                "Americans",
+                "days",
+                "Ethan Hawke",
+                "Hawke",
+                "Andrew Niccol",
+                "seven days",
+                "12-hour",
+                "Ann Hatheway",
+                "first"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/see-click-kill",
             "guid": "bcd769f99c9a456a33892cd99d31ad8b",
             "isoDate": "2015-05-15T13:39:24.000Z",
@@ -2585,6 +3834,17 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/are-we-living-in-a-simulation/media.mp3"
             },
+            "entities": [
+                "Nick Bostrom",
+                "Department of Energy",
+                "philosopher",
+                "researcher",
+                "past",
+                "Motherboard",
+                "Oxford University",
+                "Craig Hogan",
+                "$50"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/are-we-living-in-a-simulation",
             "guid": "946331a555a1f6b1c9f7fdedae3675ba",
             "isoDate": "2015-05-08T13:42:49.000Z",
@@ -2606,6 +3866,14 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/embedding-with-the-internets-worst-trolls/media.mp3"
             },
+            "entities": [
+                "Humboldt State University",
+                "Whitney Phillips",
+                "researcher",
+                "recently",
+                "author",
+                "years"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/embedding-with-the-internets-worst-trolls",
             "guid": "a611b3b39a3b5dfc4bf5f8cb2374b072",
             "isoDate": "2015-04-30T19:08:23.000Z",
@@ -2627,6 +3895,18 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/the-human-head-transplant/media.mp3"
             },
+            "entities": [
+                "Val",
+                "2017",
+                "his",
+                "Motherboard",
+                "surgeon",
+                "Sergio Canavero",
+                "Cookie Clicker",
+                "Valery Spiridonov",
+                "first",
+                "Arthur Caplan"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/the-human-head-transplant",
             "guid": "5fa2c41b9cb453e68e36ff744be74ba5",
             "isoDate": "2015-04-23T16:06:58.000Z",
@@ -2648,6 +3928,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/goodbye-meatbags/media.mp3"
             },
+            "entities": ["candidate", "first", "president"],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/goodbye-meatbags",
             "guid": "fd1a1105e47add01763540b3c1e8f255",
             "isoDate": "2015-04-16T19:10:24.000Z",
@@ -2669,6 +3950,12 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/everything-you-need-to-know-about-the-silk-road-trial/media.mp3"
             },
+            "entities": [
+                "Kari Paul",
+                "two weeks",
+                "every day of the week",
+                "Silk Road"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/everything-you-need-to-know-about-the-silk-road-trial",
             "guid": "http://radiomotherboard.com/?p=27",
             "isoDate": "2015-03-07T21:55:04.000Z",
@@ -2690,6 +3977,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/copyright-law-is-a-beautiful-trainwreck/media.mp3"
             },
+            "entities": ["This week", "Radio Motherboard"],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/copyright-law-is-a-beautiful-trainwreck",
             "guid": "http://radiomotherboard.com/?p=25",
             "isoDate": "2015-03-07T21:50:22.000Z",
@@ -2711,6 +3999,17 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/what-would-a-serial-like-murder-investigation-look-like-today/media.mp3"
             },
+            "entities": [
+                "murder",
+                "Adnan Syed",
+                "his",
+                "student",
+                "Sarah Koenig",
+                "Hae Min Lee",
+                "first",
+                "1999",
+                "minute"
+            ],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/what-would-a-serial-like-murder-investigation-look-like-today",
             "guid": "http://radiomotherboard.com/?p=23",
             "isoDate": "2014-12-24T15:38:44.000Z",
@@ -2732,6 +4031,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/a-conversation-with-laura-poitras-director-of-citizenfour/media.mp3"
             },
+            "entities": ["the past", "she", "Laura Poitras", "her", "director"],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/a-conversation-with-laura-poitras-director-of-citizenfour",
             "guid": "http://radiomotherboard.com/?p=20",
             "isoDate": "2014-12-12T20:14:07.000Z",
@@ -2753,6 +4053,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/radiomotherboardpodcast/everything-you-ever-wanted-to-know-about-interstellar/media.mp3"
             },
+            "entities": ["future", "one"],
             "link": "https://play.acast.com/s/radiomotherboardpodcast/everything-you-ever-wanted-to-know-about-interstellar",
             "guid": "http://radiomotherboard.com/?p=7",
             "isoDate": "2014-12-07T08:00:02.000Z",

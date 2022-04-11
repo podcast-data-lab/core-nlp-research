@@ -13,9 +13,8 @@ jobs:
       - id: release
         uses: rymndhng/release-on-push-action@master
         with:
-          bump_version_scheme: minor
+          bump_version_scheme: major
           tag_prefix: v
-
       - name: Check Output Parameters
         run: |
           echo "Got tag name ${{ steps.release.outputs.tag_name }}"
@@ -24,7 +23,6 @@ jobs:
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           automatic_release_tag: "latest"
-          prerelease: true
           title: "Generate Assets"
           files: |
             podcasts-data-with-ner

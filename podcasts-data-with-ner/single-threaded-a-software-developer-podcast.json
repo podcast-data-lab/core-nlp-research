@@ -43,6 +43,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/429f1e8c/podcast/play/50099196/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-4%2F631793db-a2c3-d973-9f67-478244097d76.mp3"
             },
+            "entities": [
+                "Rachel Nabors",
+                "@rachelnabors",
+                "https://anchor.fm/single-threaded/support"
+            ],
             "dc:creator": "Jenn Creighton",
             "link": "https://anchor.fm/single-threaded/episodes/Rachel-Nabors-on-Planning-and-Preparing-for-Your-Next-Role-e1gndhs",
             "guid": "e9f1a5b1-4c05-473e-826f-665a04064d7a",
@@ -67,6 +72,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/429f1e8c/podcast/play/49737087/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-28%2Fae71d4c1-1cd6-9d4f-3330-cb58736057cf.mp3"
             },
+            "entities": [
+                "@kyleshevlin",
+                "https://anchor.fm/single-threaded/support",
+                "Kyle Shevlin"
+            ],
             "dc:creator": "Jenn Creighton",
             "link": "https://anchor.fm/single-threaded/episodes/Kyle-Shevlin-on-Healthy-Boundaries-at-Work-e1gcbtv",
             "guid": "78b9d59c-7fb2-47c3-bfce-2b12de0cb320",
@@ -89,6 +99,14 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/429f1e8c/podcast/play/49038465/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-14%2F6bb16516-fe7b-f144-09bd-858a9d6b28b4.mp3"
             },
+            "entities": [
+                "manager",
+                "Netflix Studio",
+                "her",
+                "https://anchor.fm/single-threaded/support",
+                "Dana Jones",
+                "Manager"
+            ],
             "dc:creator": "Jenn Creighton",
             "link": "https://anchor.fm/single-threaded/episodes/Dana-Jones-on-How-Managers-Help-Reports-Grow-e1fn1m1",
             "guid": "2f490027-1c6b-4e7a-b5d0-0c0220b819c0",
@@ -113,6 +131,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/429f1e8c/podcast/play/48690480/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-7%2F80a7a52d-c183-ef6b-021b-71abb6b472ea.mp3"
             },
+            "entities": [
+                "Helen Hou-Sandi",
+                "https://anchor.fm/single-threaded/support",
+                "@helenhousandi"
+            ],
             "dc:creator": "Jenn Creighton",
             "link": "https://anchor.fm/single-threaded/episodes/Helen-Hou-Sandi-on-the-Real-Value-of-Contributing-to-Open-Source-e1fcdrg",
             "guid": "d68d432a-b20c-4046-8998-dde44a210bb3",
@@ -137,6 +160,17 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/429f1e8c/podcast/play/47527621/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-11%2F1d73376e-84a6-45bf-c4e9-d3ea70cb591e.mp3"
             },
+            "entities": [
+                "manager",
+                "Rebecca Murphey",
+                "<a href=\"https://trib.tv/2020/01/03/managing-a-core-service-so-people-dont-hate-it/\" target=\"_blank\">",
+                "https://anchor.fm/single-threaded/support",
+                "Developer",
+                "developer",
+                "https://dev.to/gurlcode/single-threaded-podcast-rebecca-murphey-on-developer-productivity-2m43",
+                "Core Server So People Don't Hate It",
+                "@rmurphey"
+            ],
             "dc:creator": "Jenn Creighton",
             "link": "https://anchor.fm/single-threaded/episodes/Rebecca-Murphey-on-Developer-Productivity-e1e8u85",
             "guid": "dd084823-3329-45ff-9f5a-3929bef1157a",
@@ -161,6 +195,15 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/429f1e8c/podcast/play/47178337/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-4%2Fb9b86ac6-b708-3ca4-1f74-8416c011ff31.mp3"
             },
+            "entities": [
+                "6:30pm EST",
+                "Prince",
+                "his",
+                "@maxcell",
+                "https://anchor.fm/single-threaded/support",
+                "Wilson",
+                "Tuesdays"
+            ],
             "dc:creator": "Jenn Creighton",
             "link": "https://anchor.fm/single-threaded/episodes/Prince-Wilson-on-Learning-through-Live-Coding-e1du951",
             "guid": "70efd076-3e9f-44a8-8e80-4dd76c2b62b2",
@@ -185,6 +228,15 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/429f1e8c/podcast/play/47171966/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-4%2Fa1256fb5-1f13-b39e-5dca-e160b421c382.mp3"
             },
+            "entities": [
+                "Netflix",
+                "https://dev.to/gurlcode/laurie-barth-on-seeking-out-new-challenges-2jgh",
+                "her",
+                "@laurieontech",
+                "https://anchor.fm/single-threaded/support",
+                "software engineer",
+                "Laurie Barth"
+            ],
             "dc:creator": "Jenn Creighton",
             "link": "https://anchor.fm/single-threaded/episodes/Laurie-Barth-on-Seeking-Out-New-Challenges-e1du2tu",
             "guid": "3c31ee8d-293b-48f5-9373-54b0c1f0412a",
@@ -209,6 +261,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/429f1e8c/podcast/play/31888417/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-21%2F48cb1685-2b8d-a792-488d-ad64cabaae13.mp3"
             },
+            "entities": [
+                "Principal engineer",
+                "her",
+                "https://anchor.fm/single-threaded/support",
+                "https://www.youtube.com/watch?v=a9H7SGuRrC8",
+                "Duretti Hirpa"
+            ],
             "dc:creator": "Jenn Creighton",
             "link": "https://anchor.fm/single-threaded/episodes/Duretti-Hirpa-on-Making-Good-Trouble-evblj1",
             "guid": "06108bf9-8d85-4dac-91b8-091c8f09fa70",
@@ -233,6 +292,11 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/429f1e8c/podcast/play/31373923/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-14%2Fdce5005b-c302-fa53-c809-95c22096ac96.mp3"
             },
+            "entities": [
+                "manager",
+                "https://anchor.fm/single-threaded/support",
+                "Jeff Lembeck"
+            ],
             "dc:creator": "Jenn Creighton",
             "link": "https://anchor.fm/single-threaded/episodes/Jeff-Lembeck-on-Hero-Culture-eurv53",
             "guid": "48539694-d90e-47e9-8ec1-3f990a07f23c",
@@ -257,6 +321,12 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/429f1e8c/podcast/play/30399475/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-31%2F170897905-44100-2-04f1e83b7601c.m4a"
             },
+            "entities": [
+                "https://anchor.fm/single-threaded/support",
+                "software engineer",
+                "@carolstran",
+                "Carolyn Stransky"
+            ],
             "dc:creator": "Jenn Creighton",
             "link": "https://anchor.fm/single-threaded/episodes/Carolyn-Stransky-on-Crying-at-Work-etu7hj",
             "guid": "3b8f8ccf-65ee-4c17-b83d-a0f949418a10",
@@ -281,6 +351,13 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/429f1e8c/podcast/play/29797907/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-24%2F168420657-44100-2-9034d73d1d26c.m4a"
             },
+            "entities": [
+                "@sugarpirate_",
+                "manager",
+                "her",
+                "https://anchor.fm/single-threaded/support",
+                "Lauren Tan"
+            ],
             "dc:creator": "Jenn Creighton",
             "link": "https://anchor.fm/single-threaded/episodes/Lauren-Tan-on-Manager-vs--Individual-Contributor-etbs2j",
             "guid": "6f0e53e1-8893-4f33-99c6-89d1324ed7b2",
@@ -305,6 +382,18 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/429f1e8c/podcast/play/29189928/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-17%2F5c852e7d-77ba-3d3a-0a94-7e7fad6389e1.mp3"
             },
+            "entities": [
+                "1",
+                "https://frontendmasters.com/courses/typescript-v2/",
+                "https://effectivetypescript.com/",
+                "https://anchor.fm/single-threaded/support",
+                "https://www.executeprogram.com/courses/typescript",
+                "Frontend Masters",
+                "Sara Vieira",
+                "@NikkitaFTW",
+                "Linkin Park",
+                "Mike North"
+            ],
             "dc:creator": "Jenn Creighton",
             "link": "https://anchor.fm/single-threaded/episodes/Sara-Vieira-on-TypeScript--The-WordPress-Problem-espab8",
             "guid": "f02a8b06-4ec8-4053-8678-b6a9fa9f02e6",
@@ -329,6 +418,13 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/429f1e8c/podcast/play/27691698/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-2%2Ff355c2f0-aad0-fa93-409f-55300db6c14c.mp3"
             },
+            "entities": [
+                "https://dev.to/gurlcode/single-threaded-podcast-faduma-mohammed-on-code-reviews-compliments-562f",
+                "Faduma Mohammed",
+                "Github",
+                "https://anchor.fm/single-threaded/support",
+                "@FadumaFaralacag"
+            ],
             "dc:creator": "Jenn Creighton",
             "link": "https://anchor.fm/single-threaded/episodes/Faduma-Mohammed-on-Code-Reviews--Compliments-erbj7i",
             "guid": "7c2fc743-90db-4098-ab30-b4be9d80fc66",
@@ -353,6 +449,20 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/429f1e8c/podcast/play/27273722/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-23%2Fca1bafa9-8a2e-7bc3-5457-32091f3dd122.mp3"
             },
+            "entities": [
+                "2019",
+                "@codermeow",
+                "@gurlcode",
+                "https://www.crystalmartin.co/",
+                "Her",
+                "https://dev.to/gurlcode/single-threaded-podcast-crystal-martin-on-the-value-of-i-don-t-know-4mki",
+                "https://www.youtube.com/watch?v=el9fhSbby5E",
+                "https://anchor.fm/single-threaded/support",
+                "Jenn",
+                "Hawaii",
+                "Martin",
+                "https://twitter.com/codermeow"
+            ],
             "dc:creator": "Jenn Creighton",
             "link": "https://anchor.fm/single-threaded/episodes/Crystal-Martin-on-the-Value-of-I-Dont-Know-equr1q",
             "guid": "b58bdf12-01e7-4355-be14-bb957875c963",
@@ -377,6 +487,17 @@
                 "type": "audio/mpeg",
                 "url": "https://anchor.fm/s/429f1e8c/podcast/play/26793143/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-16%2Fadf7c646-95a0-5364-cff7-008c4f4d1924.mp3"
             },
+            "entities": [
+                "https://dev.to/gurlcode/single-threaded-podcast-erin-fox-on-interviewing-4f4l",
+                "Erin Fox",
+                "@gurlcode",
+                "Erin",
+                "@erinfoox",
+                "one",
+                "https://anchor.fm/single-threaded/support",
+                "Jenn",
+                "developer"
+            ],
             "dc:creator": "Jenn Creighton",
             "link": "https://anchor.fm/single-threaded/episodes/Erin-Fox-on-Interviewing-eqg5nn",
             "guid": "a893d78f-de56-47fc-9e48-f27d46876e6a",
@@ -400,6 +521,11 @@
                 "type": "audio/x-m4a",
                 "url": "https://anchor.fm/s/429f1e8c/podcast/play/24744894/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-4%2F142754675-44100-2-062b95eb75fa9.m4a"
             },
+            "entities": [
+                "February 2021",
+                "https://anchor.fm/single-threaded/support",
+                "first"
+            ],
             "dc:creator": "Jenn Creighton",
             "link": "https://anchor.fm/single-threaded/episodes/Teaser-01-eohlfu",
             "guid": "43488ca9-d5ea-4492-87df-523e7ad8a141",

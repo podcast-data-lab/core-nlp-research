@@ -64,6 +64,14 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/643c46b5/d2538016.mp3"
             },
+            "entities": [
+                "current",
+                "Christian",
+                "Twitter",
+                "Kareem Manuel",
+                "CEO",
+                "Andy"
+            ],
             "author": "Andy Mineo & Delgis Mustafa",
             "link": "https://share.transistor.fm/s/643c46b5",
             "guid": "9d6b8225-054d-4a51-9c37-1845f72ce46c",
@@ -96,6 +104,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/2f0fb39b/98ce5d95.mp3"
             },
+            "entities": ["http://andymineo.work", "today"],
             "content:encodedSnippet": "Listen to Another Me, and stream Work in Progress today. Visit http://andymineo.work today.",
             "guid": "feb0a698-980d-469e-af79-a44402c1833d",
             "isoDate": "2019-10-03T22:00:00.000Z",
@@ -124,6 +133,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/028206ea/925129da.mp3"
             },
+            "entities": ["http://andymineo.work", "today"],
             "content:encodedSnippet": "Listen to Family Photo, and stream Work in Progress today. Visit http://andymineo.work today.",
             "guid": "ec0d88ff-af3b-40f0-9781-2d633004bd0c",
             "isoDate": "2019-09-26T22:00:00.000Z",
@@ -152,6 +162,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/258fcecc/81709b6b.mp3"
             },
+            "entities": ["http://andymineo.work", "today"],
             "content:encodedSnippet": "Listen to So Far Gone, and stream Work in Progress today. Visit http://andymineo.work today.",
             "guid": "de183493-fcef-471a-a2af-5754e7343e26",
             "isoDate": "2019-09-19T22:00:00.000Z",
@@ -180,6 +191,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/b887b170/e133f223.mp3"
             },
+            "entities": ["http://andymineo.work", "today", "Ain't Done"],
             "content:encodedSnippet": "Listen to I Ain't Done, and stream Work in Progress today. Visit http://andymineo.work today.",
             "guid": "aa560aa2-1b56-493d-8731-7fbdd02c2b4c",
             "isoDate": "2019-09-12T22:00:00.000Z",
@@ -208,6 +220,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/859e65f9/9d272adb.mp3"
             },
+            "entities": ["http://andymineo.work", "Til Death", "today"],
             "content:encodedSnippet": "Listen to Til Death, and stream Work in Progress today. Visit http://andymineo.work today.",
             "guid": "b32da6ea-ab8a-4571-886b-841fc6913c5f",
             "isoDate": "2019-09-04T16:00:00.000Z",
@@ -236,6 +249,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/9e108f3e/ea836d38.mp3"
             },
+            "entities": ["http://andymineo.work", "Today", "today"],
             "content:encodedSnippet": "Listen to OT OD today, and stream Work in Progress Today! Visit http://andymineo.work today.",
             "guid": "7759a63a-31b7-45e9-9e80-35d241172d18",
             "isoDate": "2019-08-26T22:00:00.000Z",
@@ -264,6 +278,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/69e4d050/7011226a.mp3"
             },
+            "entities": ["http://andymineo.work", "today", "1988"],
             "content:encodedSnippet": "Listen to 1988, and stream Work in Progress today. Visit http://andymineo.work today.",
             "guid": "7d7d2874-78f4-4e5b-8cff-e5102ceeace5",
             "isoDate": "2019-07-13T03:00:00.000Z",
@@ -292,6 +307,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/46e635f3/6c8ab264.mp3"
             },
+            "entities": ["http://andymineo.work", "today", "Need You"],
             "content:encodedSnippet": "Listen to I Don't Need You today, and stream Work in Progress today. Visit http://andymineo.work today.",
             "guid": "07c94675-d91e-4086-89be-4d36387bc284",
             "isoDate": "2019-06-28T03:45:00.000Z",
@@ -320,6 +336,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/cd3503e5/28bd9f4c.mp3"
             },
+            "entities": ["http://andymineo.work", "today"],
             "content:encodedSnippet": "Listen to Anything But Country, and stream Work in Progress today. Visit http://andymineo.work today.",
             "guid": "881fecf9-a3e1-421e-8ffa-f472ea69cf65",
             "isoDate": "2019-05-31T04:00:00.000Z",
@@ -348,6 +365,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.transistor.fm/67838f86/3ed0196e.mp3"
             },
+            "entities": ["Keepin", "http://andymineo.work", "today"],
             "content:encodedSnippet": "Listen to Keepin it Movin today. Visit http://andymineo.work.",
             "guid": "c2ac6902-3fd5-469b-aa46-f63f056916f3",
             "isoDate": "2019-05-10T02:45:00.000Z",

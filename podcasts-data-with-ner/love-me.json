@@ -28,6 +28,19 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme-53B76lJW-20220119.mp3"
             },
+            "entities": [
+                "Sorry About The Kid",
+                "Alex",
+                "his",
+                "Alex McKinnon",
+                "one",
+                "now",
+                "Mira Burt-Wintonick",
+                "about the day",
+                "four-part",
+                "30 years later",
+                "therapist"
+            ],
             "guid": "loveme-bd8033d6-44ce-4817-b2b2-ebc165cf7d2d",
             "isoDate": "2022-01-19T18:50:00.000Z",
             "title": "Love Me Introduces: Sorry About The Kid",
@@ -47,6 +60,14 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme-sxmndB31-20200624.mp3"
             },
+            "entities": [
+                "his",
+                "Goldstein",
+                "CBC",
+                "11 years",
+                "CBC Radio",
+                "Jonathan Goldstein"
+            ],
             "guid": "loveme-b6d25705-6373-4ffa-a629-8e53b0afa9ba",
             "isoDate": "2020-06-24T04:10:00.000Z",
             "title": "Love Me Presents: WireTap",
@@ -66,6 +87,14 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme-9CDgACcy-20200401.mp3"
             },
+            "entities": [
+                "She",
+                "her",
+                "Bethany Denton",
+                "producer",
+                "Mormon",
+                "KCRW"
+            ],
             "guid": "loveme-6d60e6f5-d3e4-40d7-93b2-8259f56eaecf",
             "isoDate": "2020-04-01T04:10:00.000Z",
             "title": "Introducing Here Be Monsters",
@@ -85,6 +114,21 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme-OtoUs0XO-20200304.mp3"
             },
+            "entities": [
+                "Thomas",
+                "Lisa Grushcow",
+                "Lu",
+                "Grushcow",
+                "Rabbi",
+                "three",
+                "rabbi",
+                "she",
+                "her",
+                "Harry Potter",
+                "Tranna",
+                "Judaism",
+                "progressive"
+            ],
             "guid": "loveme-4b35ad4e-95fb-4af2-8dfd-10f3954b80ad",
             "isoDate": "2020-03-04T05:10:00.000Z",
             "title": "Update + Introducing Chosen Family",
@@ -104,6 +148,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme-LrBKjlA5-20190618.mp3"
             },
+            "entities": ["One", "one", "writer", "second"],
             "guid": "loveme-d397f402-82fd-45ce-9cc3-afd857ee76f5",
             "isoDate": "2019-06-18T16:00:00.000Z",
             "title": "Personal Best is Back!",
@@ -124,6 +169,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme-y3BZVlAP-20181218.mp3?ttag=season:3"
             },
+            "entities": ["Polaroids", "Lu"],
             "guid": "loveme-f68cd774-d282-4cb2-ba6d-525febafe67a",
             "isoDate": "2019-01-08T17:00:00.000Z",
             "title": "Outside Looking In",
@@ -144,6 +190,14 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme-nRWvVG1G-20181218.mp3?ttag=season:3"
             },
+            "entities": [
+                "his",
+                "future",
+                "one-of-a-kind",
+                "Kiribati",
+                "first",
+                "president"
+            ],
             "guid": "loveme-dc05aa57-8561-4ee3-9c55-37f8b645310b",
             "isoDate": "2019-01-01T17:00:00.000Z",
             "title": "Capsized",
@@ -164,6 +218,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme-LevLy0JG-20181218.mp3?ttag=season:3"
             },
+            "entities": ["Groundhog Day", "her", "Lu"],
             "guid": "loveme-a495c8a1-5072-48af-a168-6406bb32a632",
             "isoDate": "2018-12-24T17:00:00.000Z",
             "title": "Ritual",
@@ -184,6 +239,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme-jjeUuiQk-20181217.mp3?ttag=season:3"
             },
+            "entities": ["Phil Smith", "his", "one"],
             "guid": "loveme-6eba0247-0b4c-49fd-879f-97c7c96f8fe9",
             "isoDate": "2018-12-18T17:00:00.000Z",
             "title": "The Cat and the Whippet",
@@ -204,6 +260,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme-65AaCRu1-20181210.mp3?ttag=season:3"
             },
+            "entities": ["sailor", "a decade", "her", "U.S. Navy", "he"],
             "guid": "loveme-cb31bb8e-f2ac-4f7d-9b3d-5a5d67a3d67f",
             "isoDate": "2018-12-11T17:00:00.000Z",
             "title": "The Detonator",
@@ -224,6 +281,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme-eGFEBKJh-20181203.mp3?ttag=season:3"
             },
+            "entities": ["she", "her", "two", "years", "Alzheimer's"],
             "guid": "loveme-15279020-c42e-4b67-a2e9-5cd5db8bbbbe",
             "isoDate": "2018-12-04T16:59:00.000Z",
             "title": "Take Me Home",
@@ -244,6 +302,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme-8jYJYHKP-20181127.mp3?ttag=season:3"
             },
+            "entities": ["his", "her", "one", "accidents", "him", "he"],
             "guid": "loveme-6b5e79a2-cbf3-4fa6-a364-ff7f0637de1e",
             "isoDate": "2018-11-27T17:00:00.000Z",
             "title": "Telling You Stories",
@@ -264,6 +323,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme-SmOnW5Wh-20181120.mp3?ttag=season:3"
             },
+            "entities": ["suicide", "present"],
             "guid": "loveme-813ece10-7e69-47d2-b978-9bb1c974fd0f",
             "isoDate": "2018-11-20T17:00:00.000Z",
             "title": "What Can You Hear?",
@@ -284,6 +344,18 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme-ojYjSXWo-20181113.mp3?ttag=season:3"
             },
+            "entities": [
+                "she",
+                "three days",
+                "his",
+                "her",
+                "Her",
+                "the first year",
+                "Laughter",
+                "Sara",
+                "first",
+                "second"
+            ],
             "guid": "loveme-a7f23bc5-4663-45ce-abfa-c7dbf780116c",
             "isoDate": "2018-11-13T17:00:00.000Z",
             "title": "In The Distance",
@@ -303,6 +375,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme-pKciGJZO-20181005.mp3"
             },
+            "entities": ["Shadows", "she", "artist"],
             "guid": "loveme-54bccc56-b7bc-4ba6-91d4-7b929cb03f96",
             "isoDate": "2018-10-05T16:00:00.000Z",
             "title": "Introducing The Shadows",
@@ -323,6 +396,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme-h2p2sH14-20180820.mp3?ttag=season:3"
             },
+            "entities": ["Mansoor Adayfi", "he", "Guantanamo Bay"],
             "guid": "loveme-070d4404-16ea-41c1-89c5-d88b23bda113",
             "isoDate": "2018-08-20T16:00:00.000Z",
             "title": "Special Episode: To My Heart",
@@ -343,6 +417,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme-BtZ9PRYI-20180807.mp3?ttag=season:2"
             },
+            "entities": ["Tracy"],
             "guid": "loveme-b94921b6-1f80-4e6b-862a-60247beb8d56",
             "isoDate": "2018-08-07T16:00:00.000Z",
             "title": "Remember Tracy? + Introducing Personal Best",
@@ -362,6 +437,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme_20170919_27590.mp3"
             },
+            "entities": ["her", "Michelle Parise", "Sept. 19"],
             "guid": "https://podcast-a.akamaihd.net/mp3/podcasts/loveme_20170919_27590.mp3",
             "isoDate": "2017-09-19T16:00:00.000Z",
             "title": "Alone: A Love Story - Preview",
@@ -382,6 +458,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme_20170828_86812.mp3?ttag=season:2"
             },
+            "entities": ["her", "artist", "Lu", "Tracy"],
             "guid": "https://podcast-a.akamaihd.net/mp3/podcasts/loveme_20170828_86812.mp3",
             "isoDate": "2017-08-28T16:00:00.000Z",
             "title": "I'm On Your Scent",
@@ -402,6 +479,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme_20170821_77203.mp3?ttag=season:2"
             },
+            "entities": ["Icelandic", "her", "Host Lu", "guard"],
             "guid": "https://podcast-a.akamaihd.net/mp3/podcasts/loveme_20170821_77203.mp3",
             "isoDate": "2017-08-21T16:00:00.000Z",
             "title": "The Way We Were",
@@ -422,6 +500,14 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme_20170814_49990.mp3?ttag=season:2"
             },
+            "entities": [
+                "Beverly Hills",
+                "she",
+                "90210",
+                "her",
+                "four",
+                "Luke Perry"
+            ],
             "guid": "https://podcast-a.akamaihd.net/mp3/podcasts/loveme_20170814_49990.mp3",
             "isoDate": "2017-08-14T16:00:00.000Z",
             "title": "Undercover",
@@ -442,6 +528,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme_20170807_12111.mp3?ttag=season:2"
             },
+            "entities": ["he"],
             "guid": "https://podcast-a.akamaihd.net/mp3/podcasts/loveme_20170807_12111.mp3",
             "isoDate": "2017-08-07T16:00:00.000Z",
             "title": "The Island and The Sea",
@@ -462,6 +549,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme_20170731_64454.mp3?ttag=season:2"
             },
+            "entities": ["Tim Kreider", "Seth Morris"],
             "guid": "https://podcast-a.akamaihd.net/mp3/podcasts/loveme_20170731_64454.mp3",
             "isoDate": "2017-07-31T16:00:00.000Z",
             "title": "Old Wounds",
@@ -482,6 +570,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme_20170724_71837.mp3?ttag=season:2"
             },
+            "entities": ["his"],
             "guid": "https://podcast-a.akamaihd.net/mp3/podcasts/loveme_20170724_71837.mp3",
             "isoDate": "2017-07-24T16:00:00.000Z",
             "title": "The Return",
@@ -502,6 +591,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme_20170717_57276.mp3?ttag=season:2"
             },
+            "entities": [],
             "guid": "https://podcast-a.akamaihd.net/mp3/podcasts/loveme_20170717_57276.mp3",
             "isoDate": "2017-07-17T16:00:00.000Z",
             "title": "Howl",
@@ -522,6 +612,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme_20170710_72562.mp3?ttag=season:2"
             },
+            "entities": ["Mo", "Tamim"],
             "guid": "https://podcast-a.akamaihd.net/mp3/podcasts/loveme_20170710_72562.mp3",
             "isoDate": "2017-07-10T16:00:00.000Z",
             "title": "The Other Side",
@@ -542,6 +633,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme_20170627_98609.mp3?ttag=season:2"
             },
+            "entities": ["2", "July 10"],
             "guid": "https://podcast-a.akamaihd.net/mp3/podcasts/loveme_20170627_98609.mp3",
             "isoDate": "2017-06-27T16:00:00.000Z",
             "title": "Season 2 Preview",
@@ -561,6 +653,17 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme_20170412_18584.mp3"
             },
+            "entities": [
+                "1",
+                "she",
+                "Noël Wells",
+                "Stitcher",
+                "Romeo",
+                "Juliet",
+                "he",
+                "Mira",
+                "Paul Rust"
+            ],
             "guid": "https://podcast-a.akamaihd.net/mp3/podcasts/loveme_20170412_18584.mp3",
             "isoDate": "2017-04-12T16:00:00.000Z",
             "title": "Love Me presents Pen Pals: Romeo and Juliet ",
@@ -581,6 +684,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme_20161214_12515.mp3?ttag=season:2"
             },
+            "entities": ["2", "CBC", "second"],
             "guid": "https://podcast-a.akamaihd.net/mp3/podcasts/loveme_20161214_12515.mp3",
             "isoDate": "2016-12-14T17:00:00.000Z",
             "title": "Season 2 Update + SKS",
@@ -601,6 +705,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme_20160725_49275.mp3?ttag=season:1"
             },
+            "entities": ["11", "her", "night", "nurse"],
             "guid": "https://podcast-a.akamaihd.net/mp3/podcasts/loveme_20160725_49275.mp3",
             "isoDate": "2016-07-25T16:00:00.000Z",
             "title": "Episode 8: I Solemnly Swear",
@@ -621,6 +726,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme_20160718_14954.mp3?ttag=season:1"
             },
+            "entities": ["she", "her", "once"],
             "guid": "https://podcast-a.akamaihd.net/mp3/podcasts/loveme_20160718_14954.mp3",
             "isoDate": "2016-07-18T16:00:00.000Z",
             "title": "Episode 7: Make Believe",
@@ -641,6 +747,16 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme_20160711_18488.mp3?ttag=season:1"
             },
+            "entities": [
+                "she",
+                "his",
+                "Donna",
+                "her",
+                "breast cancer",
+                "priest",
+                "61",
+                "him"
+            ],
             "guid": "https://podcast-a.akamaihd.net/mp3/podcasts/loveme_20160711_18488.mp3",
             "isoDate": "2016-07-11T16:00:00.000Z",
             "title": "Episode 6: Lost and Found",
@@ -661,6 +777,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme_20160704_46963.mp3?ttag=season:1"
             },
+            "entities": ["his", "one", "Three"],
             "guid": "https://podcast-a.akamaihd.net/mp3/podcasts/loveme_20160704_46963.mp3",
             "isoDate": "2016-07-04T16:00:00.000Z",
             "title": "Episode 5: Family Portrait",
@@ -681,6 +798,12 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme_20160701_85152.mp3?ttag=season:1"
             },
+            "entities": [
+                "Cristal Duhaime",
+                "host",
+                "Mira Burt-Wintonick",
+                "Lu Olkowski"
+            ],
             "guid": "https://podcast-a.akamaihd.net/mp3/podcasts/loveme_20160701_85152.mp3",
             "isoDate": "2016-07-01T16:00:00.000Z",
             "title": "Bonus: Bath Mat Guy",
@@ -701,6 +824,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme_20160627_69033.mp3?ttag=season:1"
             },
+            "entities": ["Brian", "she", "Vanessa", "her", "Kinshasa"],
             "guid": "https://podcast-a.akamaihd.net/mp3/podcasts/loveme_20160627_69033.mp3",
             "isoDate": "2016-06-27T16:00:00.000Z",
             "title": "Episode 4: Falling",
@@ -721,6 +845,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme_20160620_89207.mp3?ttag=season:1"
             },
+            "entities": ["his", "suicide", "Pasha Malla"],
             "guid": "https://podcast-a.akamaihd.net/mp3/podcasts/loveme_20160620_89207.mp3",
             "isoDate": "2016-06-20T16:00:00.000Z",
             "title": "Episode 3: Dear Dad",
@@ -741,6 +866,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme_20160613_94589.mp3?ttag=season:1"
             },
+            "entities": ["she", "3", "her", "one", "Two", "1970s", "Marsha"],
             "guid": "https://podcast-a.akamaihd.net/mp3/podcasts/loveme_20160613_94589.mp3",
             "isoDate": "2016-06-13T15:59:00.000Z",
             "title": "Episode 2: Shame",
@@ -761,6 +887,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme_20160613_81000.mp3?ttag=season:1"
             },
+            "entities": ["Google Translate", "Haiti", "Two"],
             "guid": "https://podcast-a.akamaihd.net/mp3/podcasts/loveme_20160613_81000.mp3",
             "isoDate": "2016-06-13T15:58:00.000Z",
             "title": "Episode 1: At A Loss For Words",
@@ -780,6 +907,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_LOVEME_P/media/loveme_20160606_38114.mp3"
             },
+            "entities": ["June 13", "CBC"],
             "guid": "https://podcast-a.akamaihd.net/mp3/podcasts/loveme_20160606_38114.mp3",
             "isoDate": "2016-06-06T16:00:00.000Z",
             "title": "Preview Episode",

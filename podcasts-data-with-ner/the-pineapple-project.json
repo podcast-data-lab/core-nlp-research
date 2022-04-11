@@ -59,6 +59,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/847707.mp3"
             },
+            "entities": ["her"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/holidays/13423972",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/holidays/13423972",
             "isoDate": "2021-07-04T15:00:01.000Z",
@@ -83,6 +84,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/845038.mp3"
             },
+            "entities": [],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/pets/13419880",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/pets/13419880",
             "isoDate": "2021-06-27T15:00:01.000Z",
@@ -107,6 +109,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/890266.mp3"
             },
+            "entities": [],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/2021-06-18/fitness/13398732",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/2021-06-18/fitness/13398732",
             "isoDate": "2021-06-20T15:00:01.000Z",
@@ -131,6 +134,15 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/839665.mp3"
             },
+            "entities": [
+                "$40,000",
+                "his",
+                "third",
+                "Ravi",
+                "dealer",
+                "Australia",
+                "the minute"
+            ],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/cars/13384768",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/cars/13384768",
             "isoDate": "2021-06-13T15:00:01.000Z",
@@ -155,6 +167,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/836927.mp3"
             },
+            "entities": ["$25", "three"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/food/13374236",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/food/13374236",
             "isoDate": "2021-06-06T15:00:01.000Z",
@@ -179,6 +192,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/834037.mp3"
             },
+            "entities": ["Australians", "24", "27", "Every year"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/fashion/13362418",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/fashion/13362418",
             "isoDate": "2021-05-30T15:00:01.000Z",
@@ -203,6 +217,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/831308.mp3"
             },
+            "entities": ["right now", "model", "last year", "64"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/phones-v1/13354298",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/phones-v1/13354298",
             "isoDate": "2021-05-23T15:00:01.000Z",
@@ -226,6 +241,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/858209.mp3"
             },
+            "entities": ["Today", "now"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/2021-05-14/break-free/13344716",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/2021-05-14/break-free/13344716",
             "isoDate": "2021-05-16T15:00:01.000Z",
@@ -249,6 +265,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/827524.mp3"
             },
+            "entities": ["host", "pineapple@abc.net.au", "weekly"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/tell-us-ways-youve-saved-and-blown-cash/13198320",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/tell-us-ways-youve-saved-and-blown-cash/13198320",
             "isoDate": "2021-02-25T15:00:00.000Z",
@@ -271,6 +288,13 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749093.mp3"
             },
+            "entities": [
+                "Michelle Lim",
+                "comedian",
+                "Australians",
+                "Kirsty Webeck",
+                "Vicky Jacobs"
+            ],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/a-little-less-lonely/12397528",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/a-little-less-lonely/12397528",
             "isoDate": "2020-07-11T15:30:52.000Z",
@@ -293,6 +317,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749094.mp3"
             },
+            "entities": ["Jan"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/the-life-changing-benefits-of-hobbies/12397466",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/the-life-changing-benefits-of-hobbies/12397466",
             "isoDate": "2020-06-27T15:30:52.000Z",
@@ -315,6 +340,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749095.mp3"
             },
+            "entities": ["her", "Jan Fran"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/i-screen-you-screen-we-all-screen/12340294",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/i-screen-you-screen-we-all-screen/12340294",
             "isoDate": "2020-06-13T16:00:31.000Z",
@@ -338,6 +364,16 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/751351.mp3"
             },
+            "entities": [
+                "social psychologist",
+                "Hugh Mackay",
+                "Australians",
+                "three years",
+                "her",
+                "Jan",
+                "Ned Flanders",
+                "Jan Fran"
+            ],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/howdy-neighbour/12295654",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/howdy-neighbour/12295654",
             "isoDate": "2020-05-30T16:00:00.000Z",
@@ -360,6 +396,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749097.mp3"
             },
+            "entities": ["Jan", "one", "three-ply"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/the-holy-grail-of-connection/12253742",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/the-holy-grail-of-connection/12253742",
             "isoDate": "2020-05-16T16:00:00.000Z",
@@ -382,6 +419,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749098.mp3"
             },
+            "entities": ["her", "Jan", "Now", "now"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/the-c-word/12229266",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/the-c-word/12229266",
             "isoDate": "2020-05-09T16:00:27.000Z",
@@ -404,6 +442,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749099.mp3"
             },
+            "entities": ["she", "Ursula Sanson-Daly", "her", "Jan"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/lets-talk-about-death-baby/11959104",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/lets-talk-about-death-baby/11959104",
             "isoDate": "2020-03-31T15:00:00.000Z",
@@ -427,6 +466,15 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/936697.mp3"
             },
+            "entities": [
+                "Butcher",
+                "Leanne",
+                "comedian",
+                "actor",
+                "TED Talker Michelle Knox",
+                "her",
+                "Steven Oliver"
+            ],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/2020-02-26/death-in-the-workplace/11959086",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/2020-02-26/death-in-the-workplace/11959086",
             "isoDate": "2020-03-24T15:00:00.000Z",
@@ -449,6 +497,16 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749101.mp3"
             },
+            "entities": [
+                "journalist",
+                "Grindr",
+                "Tumbler",
+                "Claire Reilly",
+                "now",
+                "Twitter",
+                "Insty",
+                "Facebook"
+            ],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/social-media-your-life-and-death-in-likes/11959062",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/social-media-your-life-and-death-in-likes/11959062",
             "isoDate": "2020-03-17T15:00:00.000Z",
@@ -471,6 +529,14 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749102.mp3"
             },
+            "entities": [
+                "her",
+                "97-year-old",
+                "one",
+                "Jacinta",
+                "Peter Saul",
+                "he"
+            ],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/tough-decisions-in-the-icu/11959034",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/tough-decisions-in-the-icu/11959034",
             "isoDate": "2020-03-10T15:00:00.000Z",
@@ -493,6 +559,16 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749103.mp3"
             },
+            "entities": [
+                "her",
+                "executor",
+                "Jan",
+                "one",
+                "Andrew Simpson",
+                "Lawyer",
+                "guide",
+                "lawyer"
+            ],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/will-power-does-it-count-if-you-write-it-on-a-post-it/11959008",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/will-power-does-it-count-if-you-write-it-on-a-post-it/11959008",
             "isoDate": "2020-03-03T15:00:00.000Z",
@@ -515,6 +591,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749104.mp3"
             },
+            "entities": ["pineapple@abc.net.au"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/tell-us-get-something-off-your-chest/12010236",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/tell-us-get-something-off-your-chest/12010236",
             "isoDate": "2020-02-29T15:00:00.000Z",
@@ -537,6 +614,15 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749105.mp3"
             },
+            "entities": [
+                "Kate",
+                "her",
+                "one",
+                "now",
+                "Jan Fran",
+                "forties",
+                "Donna Lee Powell"
+            ],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/dead-men-tell-no-tales-about-their-assets/11958964",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/dead-men-tell-no-tales-about-their-assets/11958964",
             "isoDate": "2020-02-25T15:00:00.000Z",
@@ -559,6 +645,17 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749106.mp3"
             },
+            "entities": [
+                "she",
+                "Saimi Jeong",
+                "several years",
+                "her",
+                "once",
+                "one",
+                "Carly",
+                "Jan Fran",
+                "funeral director"
+            ],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/funeral-planning-for-amateurs/11954224",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/funeral-planning-for-amateurs/11954224",
             "isoDate": "2020-02-18T15:00:00.000Z",
@@ -581,6 +678,17 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749107.mp3"
             },
+            "entities": [
+                "she",
+                "Jodie Leditschke",
+                "Emma Gray",
+                "her",
+                "registrar",
+                "Victorian Coroner's Office",
+                "Amanda Ianna",
+                "one day",
+                "first"
+            ],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/theres-a-body-what-next/11924078",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/theres-a-body-what-next/11924078",
             "isoDate": "2020-02-11T15:00:00.000Z",
@@ -603,6 +711,12 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749108.mp3"
             },
+            "entities": [
+                "February 12",
+                "tomorrow",
+                "The Pineapple Project",
+                "first"
+            ],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/introducing-the-pineapple-project-death/11924034",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/introducing-the-pineapple-project-death/11924034",
             "isoDate": "2020-02-04T15:00:00.000Z",
@@ -625,6 +739,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749109.mp3"
             },
+            "entities": ["Jan", "January 2020", "one", "day"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/jan-fran-leads-us-towards-a-new-horizon/11708276",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/jan-fran-leads-us-towards-a-new-horizon/11708276",
             "isoDate": "2019-11-17T01:00:00.000Z",
@@ -647,6 +762,15 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749110.mp3"
             },
+            "entities": [
+                "Claire",
+                "Wade",
+                "Kelly Bainbridge",
+                "her",
+                "third",
+                "today",
+                "Claire Hooper"
+            ],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/take-that-kitchen-claires-pain-point/11493188",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/take-that-kitchen-claires-pain-point/11493188",
             "isoDate": "2019-11-02T14:00:00.000Z",
@@ -669,6 +793,14 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749111.mp3"
             },
+            "entities": [
+                "Peter Walsh",
+                "Anita Birges",
+                "Claire Hooper",
+                "one day",
+                "Carly",
+                "years"
+            ],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/goodbye-secret-garage-shame/11493174",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/goodbye-secret-garage-shame/11493174",
             "isoDate": "2019-10-26T14:00:00.000Z",
@@ -692,6 +824,14 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/899429.mp3"
             },
+            "entities": [
+                "Peter Walsh",
+                "Anita Birges",
+                "Claire Hooper",
+                "one day",
+                "Carly",
+                "years"
+            ],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/2019-10-26/goodbye-secret-garage-shame/11493174",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/2019-10-26/goodbye-secret-garage-shame/11493174",
             "isoDate": "2019-10-26T14:00:00.000Z",
@@ -715,6 +855,14 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749112.mp3"
             },
+            "entities": [
+                "she",
+                "Carol Martyn",
+                "her",
+                "Kariyn",
+                "one",
+                "Claire Hooper"
+            ],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/how-to-organise-your-paperwork/11493160",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/how-to-organise-your-paperwork/11493160",
             "isoDate": "2019-10-19T14:00:00.000Z",
@@ -738,6 +886,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/804126.mp3"
             },
+            "entities": ["She", "his", "four", "one", "Susanne Thiebe"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/the-bathroom-and-the-laundry-deserve-a-rub-down/11492582",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/the-bathroom-and-the-laundry-deserve-a-rub-down/11492582",
             "isoDate": "2019-10-12T14:00:00.000Z",
@@ -760,6 +909,17 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749128.mp3"
             },
+            "entities": [
+                "Deb",
+                "Peter Walsh",
+                "Claire",
+                "Karl",
+                "Now",
+                "one",
+                "Claire Hooper",
+                "three",
+                "Helen Stanley"
+            ],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/put-the-living-back-into-your-living-room/11492540",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/put-the-living-back-into-your-living-room/11492540",
             "isoDate": "2019-10-05T15:00:00.000Z",
@@ -782,6 +942,15 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749129.mp3"
             },
+            "entities": [
+                "Gary",
+                "Claire",
+                "Peter Walsh",
+                "Lissanne Oliver",
+                "Claire Hooper",
+                "Karen",
+                "two"
+            ],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/messy-bedroom-messy-head/11492478",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/messy-bedroom-messy-head/11492478",
             "isoDate": "2019-09-28T15:00:00.000Z",
@@ -804,6 +973,15 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749130.mp3"
             },
+            "entities": [
+                "Peter Walsh",
+                "she",
+                "researcher",
+                "Oprah",
+                "Claire Hooper",
+                "Libby Sander",
+                "he"
+            ],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/does-my-stuff-own-me/11492394",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/does-my-stuff-own-me/11492394",
             "isoDate": "2019-09-21T15:00:00.000Z",
@@ -826,6 +1004,12 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749131.mp3"
             },
+            "entities": [
+                "September 15",
+                "every week from",
+                "Claire Hooper",
+                "ABC Listen"
+            ],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/introducing-the-pineapple-project-tidy/11492228",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/introducing-the-pineapple-project-tidy/11492228",
             "isoDate": "2019-09-14T15:00:00.000Z",
@@ -849,6 +1033,15 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/804097.mp3"
             },
+            "entities": [
+                "she",
+                "Pineapple HQ",
+                "once",
+                "Now",
+                "one",
+                "Yumi Stynes",
+                "first"
+            ],
             "link": "https://www.abc.net.au/radio/programs/the-pineapple-project/presents-ladies-we-need-to-talk/11054942",
             "guid": "https://www.abc.net.au/radio/programs/the-pineapple-project/presents-ladies-we-need-to-talk/11054942",
             "isoDate": "2019-05-06T03:00:00.000Z",
@@ -872,6 +1065,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/804095.mp3"
             },
+            "entities": ["Claire Hooper"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/dear-job-its-not-me-its-you/10893152",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/dear-job-its-not-me-its-you/10893152",
             "isoDate": "2019-03-30T14:00:50.000Z",
@@ -895,6 +1089,14 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/804089.mp3"
             },
+            "entities": [
+                "boss",
+                "million",
+                "Claire Hooper",
+                "Kate Jenkins",
+                "Australia",
+                "harassment"
+            ],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/umm-is-this-sexual-harassment/10893146",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/umm-is-this-sexual-harassment/10893146",
             "isoDate": "2019-03-16T14:00:00.000Z",
@@ -917,6 +1119,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749136.mp3"
             },
+            "entities": ["boss", "one", "Claire Hooper", "first"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/horrible-bosses/10871074",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/horrible-bosses/10871074",
             "isoDate": "2019-03-09T14:00:00.000Z",
@@ -940,6 +1143,12 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/853182.mp3"
             },
+            "entities": [
+                "Professor",
+                "Gordon Parker",
+                "Claire Hooper",
+                "Australia"
+            ],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/2019-03-01/wait-am-i-burning-out/10860890",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/2019-03-01/wait-am-i-burning-out/10860890",
             "isoDate": "2019-03-02T14:00:00.000Z",
@@ -963,6 +1172,12 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/804041.mp3"
             },
+            "entities": [
+                "journalist",
+                "Leigh Sales",
+                "Claire Hooper",
+                "Tina Fey"
+            ],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/uh-oh-its-impostor-syndrome/10832894",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/uh-oh-its-impostor-syndrome/10832894",
             "isoDate": "2019-02-23T14:00:00.000Z",
@@ -986,6 +1201,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/945463.mp3"
             },
+            "entities": ["boss", "Claire Hooper"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/2019-02-14/do-not-do-this-in-a-job-interview/10810824",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/2019-02-14/do-not-do-this-in-a-job-interview/10810824",
             "isoDate": "2019-02-16T14:00:00.000Z",
@@ -1008,6 +1224,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749139.mp3"
             },
+            "entities": ["boss", "Claire Hooper"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/do-not-do-this-in-a-job-interview/10810824",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/do-not-do-this-in-a-job-interview/10810824",
             "isoDate": "2019-02-16T14:00:00.000Z",
@@ -1030,6 +1247,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749140.mp3"
             },
+            "entities": ["Claire Hooper"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/network-like-a-mofo/10786432",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/network-like-a-mofo/10786432",
             "isoDate": "2019-02-09T15:00:00.000Z",
@@ -1053,6 +1271,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/803999.mp3"
             },
+            "entities": ["Claire Hooper", "LYFE"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/juicy-slice-make-meetings-great-again/10763422",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/juicy-slice-make-meetings-great-again/10763422",
             "isoDate": "2019-02-02T15:00:00.000Z",
@@ -1075,6 +1294,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749142.mp3"
             },
+            "entities": ["Claire Hooper", "the hours", "day"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/work-habits-of-the-kick-arse/10745680",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/work-habits-of-the-kick-arse/10745680",
             "isoDate": "2019-01-26T15:00:00.000Z",
@@ -1097,6 +1317,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749143.mp3"
             },
+            "entities": ["she", "one", "Claire Hooper", "first"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/make-work-your-favourite/10716886",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/make-work-your-favourite/10716886",
             "isoDate": "2019-01-19T14:30:00.000Z",
@@ -1119,6 +1340,14 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749144.mp3"
             },
+            "entities": [
+                "she",
+                "boss",
+                "January 20",
+                "every week from",
+                "now",
+                "Claire Hooper"
+            ],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/introducing-the-pineapple-project-work/10705498",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/introducing-the-pineapple-project-work/10705498",
             "isoDate": "2019-01-12T14:30:00.000Z",
@@ -1142,6 +1371,16 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/830714.mp3"
             },
+            "entities": [
+                "she",
+                "Disney",
+                "her",
+                "Tokyo",
+                "one",
+                "The Pineapple Project",
+                "Claire Hooper",
+                "Host"
+            ],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/2018-11-13/surprise-your-pineapple-pledge-results/10491664",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/2018-11-13/surprise-your-pineapple-pledge-results/10491664",
             "isoDate": "2018-11-13T14:00:39.000Z",
@@ -1164,6 +1403,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749146.mp3"
             },
+            "entities": ["Claire Hooper"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/teaching-kids-about-money/9652914",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/teaching-kids-about-money/9652914",
             "isoDate": "2018-04-14T15:30:00.000Z",
@@ -1186,6 +1426,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749113.mp3"
             },
+            "entities": ["Claire Hooper"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/become-a-super-woman/9623670",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/become-a-super-woman/9623670",
             "isoDate": "2018-04-07T15:30:00.000Z",
@@ -1208,6 +1449,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749114.mp3"
             },
+            "entities": ["ASX", "Claire Hooper", "DOW Jones", "guide"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/juicy-slice-investing-101/9576772",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/juicy-slice-investing-101/9576772",
             "isoDate": "2018-04-04T20:00:00.000Z",
@@ -1231,6 +1473,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/896160.mp3"
             },
+            "entities": ["ASX", "Claire Hooper", "DOW Jones", "guide"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/2018-04-05/juicy-slice-investing-101/9576772",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/2018-04-05/juicy-slice-investing-101/9576772",
             "isoDate": "2018-04-04T20:00:00.000Z",
@@ -1253,6 +1496,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749115.mp3"
             },
+            "entities": [],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/how-to-plan-a-wedding-without-going-broke/9600806",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/how-to-plan-a-wedding-without-going-broke/9600806",
             "isoDate": "2018-03-31T15:00:00.000Z",
@@ -1276,6 +1520,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/853626.mp3"
             },
+            "entities": [],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/2018-03-25/you-need-an-emergency-fund/9360520",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/2018-03-25/you-need-an-emergency-fund/9360520",
             "isoDate": "2018-03-24T14:30:00.000Z",
@@ -1299,6 +1544,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/949766.mp3"
             },
+            "entities": ["she"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/2018-03-18/do-you-really-need-to-buy-it-and-your-side-hustles/9550362",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/2018-03-18/do-you-really-need-to-buy-it-and-your-side-hustles/9550362",
             "isoDate": "2018-03-17T14:30:00.000Z",
@@ -1321,6 +1567,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749117.mp3"
             },
+            "entities": ["she"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/do-you-really-need-to-buy-it-and-your-side-hustles/9550362",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/do-you-really-need-to-buy-it-and-your-side-hustles/9550362",
             "isoDate": "2018-03-17T14:30:00.000Z",
@@ -1344,6 +1591,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/839396.mp3"
             },
+            "entities": ["Australian", "Claire Hooper", "day"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/9489824",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/9489824",
             "isoDate": "2018-03-10T19:00:00.000Z",
@@ -1366,6 +1614,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749119.mp3"
             },
+            "entities": ["her", "Claire Hooper"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/demolish-your-debt/9489818",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/demolish-your-debt/9489818",
             "isoDate": "2018-03-03T14:30:00.000Z",
@@ -1388,6 +1637,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749120.mp3"
             },
+            "entities": ["future", "one", "Australia", "two"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/love-and-money/9473572",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/love-and-money/9473572",
             "isoDate": "2018-02-24T15:00:00.000Z",
@@ -1410,6 +1660,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749121.mp3"
             },
+            "entities": ["she", "boss", "her", "Claire Hooper", "CEO", "guide"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/side-hustles-and-pay-rises-how-to-earn-more/9449826",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/side-hustles-and-pay-rises-how-to-earn-more/9449826",
             "isoDate": "2018-02-17T14:30:00.000Z",
@@ -1433,6 +1684,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/949764.mp3"
             },
+            "entities": ["101", "Australian", "now", "one", "Claire Hooper"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/2018-02-15/juicy-slice:-how-to-automate-your-money/9449712",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/2018-02-15/juicy-slice:-how-to-automate-your-money/9449712",
             "isoDate": "2018-02-14T23:00:00.000Z",
@@ -1455,6 +1707,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749122.mp3"
             },
+            "entities": ["101", "Australian", "now", "one", "Claire Hooper"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/juicy-slice:-how-to-automate-your-money/9449712",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/juicy-slice:-how-to-automate-your-money/9449712",
             "isoDate": "2018-02-14T23:00:00.000Z",
@@ -1478,6 +1731,14 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/949765.mp3"
             },
+            "entities": [
+                "this week",
+                "daily",
+                "Claire Hooper",
+                "barista",
+                "7th",
+                "first"
+            ],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/2018-02-11/the-life-changing-magic-of-a-budget/9382882",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/2018-02-11/the-life-changing-magic-of-a-budget/9382882",
             "isoDate": "2018-02-10T14:00:00.000Z",
@@ -1500,6 +1761,14 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749123.mp3"
             },
+            "entities": [
+                "this week",
+                "daily",
+                "Claire Hooper",
+                "barista",
+                "7th",
+                "first"
+            ],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/the-life-changing-magic-of-a-budget/9382882",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/the-life-changing-magic-of-a-budget/9382882",
             "isoDate": "2018-02-10T14:00:00.000Z",
@@ -1523,6 +1792,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/803766.mp3"
             },
+            "entities": ["Australia"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/bonus-it%E2%80%99s-a-pledge-a-palooza/9415338",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/bonus-it%E2%80%99s-a-pledge-a-palooza/9415338",
             "isoDate": "2018-02-09T05:00:00.000Z",
@@ -1546,6 +1816,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/836569.mp3"
             },
+            "entities": ["Claire", "her", "Oprah"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/the-psychology-of-money/9377868",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/the-psychology-of-money/9377868",
             "isoDate": "2018-02-03T14:00:00.000Z",
@@ -1568,6 +1839,7 @@
                 "type": "audio/mpeg",
                 "url": "https://media.whooshkaa.com/show/13352/episode/749126.mp3"
             },
+            "entities": ["she", "boss", "Claire Hooper"],
             "link": "http://www.abc.net.au/radio/programs/the-pineapple-project/introducing-the-pineapple-project-podcast/9356530",
             "guid": "http://www.abc.net.au/radio/programs/the-pineapple-project/introducing-the-pineapple-project-podcast/9356530",
             "isoDate": "2018-01-24T23:00:00.000Z",

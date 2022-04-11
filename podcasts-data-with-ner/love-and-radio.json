@@ -47,6 +47,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM5961201122.mp3"
             },
+            "entities": ["Nordic", "now", "secretshotline.org"],
             "content:encodedSnippet": "The new Secrets Hotline podcast has arrived! Subscribe now at secretshotline.org! Also, Luminary is now available in the Nordic world, hurrah! \nAlso, a special preview of our latest ep! \nAlso, we love everyone! You're next!",
             "guid": "e272d344-2b57-11eb-8f6a-2fc47b151340",
             "isoDate": "2020-11-20T17:40:13.000Z",
@@ -68,6 +69,14 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM1725211578.mp3"
             },
+            "entities": [
+                "-929-SECRETS",
+                "929-732-7387",
+                "1",
+                "this fall",
+                "secretshotline.org",
+                "first"
+            ],
             "content:encodedSnippet": "We're launching our very first spinoff! The Secrets Hotline is coming to you this fall. Leave your own at 1-929-SECRETS (929-732-7387) or secretshotline.org.",
             "guid": "648b07a4-7daa-11ea-9725-0fb07198d339",
             "isoDate": "2020-04-13T17:10:00.000Z",
@@ -90,6 +99,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM5121964317.mp3"
             },
+            "entities": ["mo", "Breyer P-Orridge", "artist", "2013"],
             "content:encodedSnippet": "Genesis Breyer P-Orridge is the founding fa/mo/ther of Industrial music, a performance artist, and a very, very, very devoted husband. Originally broadcast 2013.",
             "guid": "40b21e66-67c1-11ea-b45d-4be25d4555bd",
             "isoDate": "2020-03-16T19:46:19.000Z",
@@ -111,6 +121,15 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM8629969516.mp3"
             },
+            "entities": [
+                "Copenhagen",
+                "Oslo",
+                "Bristol",
+                "Berlin",
+                "January 2020",
+                "London",
+                "Stockholm"
+            ],
             "content:encodedSnippet": "L+R is coming to London, Bristol, Berlin, Copenhagen, Stockholm, and Oslo in January 2020.",
             "guid": "5b0f536e-2018-11ea-bfbc-4749e4d8c027",
             "isoDate": "2019-12-16T15:48:00.000Z",
@@ -135,6 +154,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM3508708114.mp3"
             },
+            "entities": ["lawyer", "Vanessa Place"],
             "content:encodedSnippet": "There are few lawyer/performance artists in the world but, for Vanessa Place, practicing both is a logical marriage. Each relies on the sculpting of language, whether representing indigent sex offenders, or reciting relentless, uncomfortable work to a mortified audience.",
             "guid": "bb3a5358-fc2a-11ea-a48f-27f416d5ff48",
             "isoDate": "2019-11-07T08:05:00.000Z",
@@ -159,6 +179,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM7034494806.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "A good boy always cleans up the mess.",
             "guid": "c042b98a-fc2f-11ea-b4a7-07c9f624c2ed",
             "isoDate": "2019-10-24T07:05:00.000Z",
@@ -183,6 +204,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM3727131741.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "The animal world is a special world.",
             "guid": "dd5c381c-fd14-11ea-bf3d-2bb8597bd3b5",
             "isoDate": "2019-10-12T07:05:00.000Z",
@@ -206,6 +228,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM8106607676.mp3"
             },
+            "entities": ["researcher", "Edward Taub", "1981", "Alex Pacheco"],
             "content:encodedSnippet": "In 1981, Alex Pacheco went undercover at the laboratory of Dr. Edward Taub, a neuroplasticity researcher conducting experiments on macaque monkeys.",
             "guid": "df12d2ca-fd13-11ea-b5c6-db7751aac01c",
             "isoDate": "2019-09-26T07:05:00.000Z",
@@ -230,6 +253,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM9420353575.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "The age-old question of nature versus nurture.",
             "guid": "7a474456-fd14-11ea-a422-13e2a1e4142f",
             "isoDate": "2019-08-15T07:05:00.000Z",
@@ -254,6 +278,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM4802862109.mp3"
             },
+            "entities": ["one-off", "Australia"],
             "content:encodedSnippet": "A rowdy breakfast radio show in Australia is turned upside down when a one-off prank call turns into a real life, on-air soap opera.",
             "guid": "175f6e7a-0b22-11ea-8347-970757d9d9a1",
             "isoDate": "2019-06-29T13:00:00.000Z",
@@ -278,6 +303,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM9450083491.mp3"
             },
+            "entities": ["future", "+1", "LuminaryPodcasts.com", "55403#"],
             "content:encodedSnippet": "Our listeners divulge their deepest and darkest secrets. To leave your own secrets for a future show, call +1 (641) 715-3900, then dial 55403#.\nThis show has moved to Luminary! For more info, go to LuminaryPodcasts.com.",
             "guid": "563ee628-83b6-11e9-a46c-bf553723dd2d",
             "isoDate": "2019-06-01T08:00:00.000Z",
@@ -303,6 +329,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM1050011435.mp3?updated=1555989644"
             },
+            "entities": [],
             "content:encodedSnippet": "Mistress Velvet specializes in the subjugation of white men.",
             "guid": "fd37aaae-6558-11e9-a7cf-2b2a3b6aef37",
             "isoDate": "2019-04-23T07:00:00.000Z",
@@ -324,6 +351,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM2930659318.mp3?updated=1555206920"
             },
+            "entities": [],
             "content:encodedSnippet": "We're joining Luminary Audio! Visit luminary.link/love to listen to more L+R.",
             "guid": "c24b72ae-5d56-11e9-993e-fff175481c50",
             "isoDate": "2019-04-12T19:10:00.000Z",
@@ -346,6 +374,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM6584958647.mp3"
             },
+            "entities": ["Sunday", "Melvin Dummar", "2011"],
             "content:encodedSnippet": "Melvin Dummar, who was featured on our podcast in 2011, died on Sunday.",
             "guid": "http://loveandradio.prx.org/?p=637",
             "isoDate": "2018-12-13T21:32:00.000Z",
@@ -368,6 +397,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM6558827135.mp3"
             },
+            "entities": ["Virginia", "Richmond"],
             "content:encodedSnippet": "Richmond, Virginia: Sic Itur Ad Astra.",
             "guid": "http://loveandradio.prx.org/?p=630",
             "isoDate": "2018-11-21T13:22:00.000Z",
@@ -390,6 +420,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM8684677710.mp3"
             },
+            "entities": ["Cynthia", "her", "Max"],
             "content:encodedSnippet": "Cynthia discovers her boyfriend Max\u2019s journal. Hilarity ensues.",
             "guid": "http://loveandradio.prx.org/?p=627",
             "isoDate": "2018-10-28T18:33:00.000Z",
@@ -412,6 +443,14 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM2280224408.mp3"
             },
+            "entities": [
+                "Maja Ratkje",
+                "Stephen Vitiello",
+                "future",
+                "+1",
+                "55403#",
+                "Chipmunk Party"
+            ],
             "content:encodedSnippet": "Our listeners divulge their deepest and darkest secrets. Sound design by Stephen Vitiello. Final song: Chipmunk Party by Maja Ratkje. To leave your own secrets on a future secrets show, call +1 (641) 715-3900, then dial 55403#.",
             "guid": "http://loveandradio.prx.org/?p=617",
             "isoDate": "2018-10-13T19:53:00.000Z",
@@ -434,6 +473,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM6535806500.mp3?updated=1573749349"
             },
+            "entities": ["Mike Norton", "Noam Osband", "Colin Self"],
             "content:encodedSnippet": "Mike Norton has a change of heart. Produced by Noam Osband. Final song: Emblem by Colin Self.",
             "guid": "http://loveandradio.prx.org/?p=610",
             "isoDate": "2018-10-01T18:34:00.000Z",
@@ -456,6 +496,17 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM9834507804.mp3"
             },
+            "entities": [
+                "nine",
+                "She",
+                "she",
+                "Charlev",
+                "Oliver Coates",
+                "Colombian",
+                "ELN",
+                "Laura Ulloa",
+                "leftist"
+            ],
             "content:encodedSnippet": "At the age of nine, Laura Ulloa was kidnapped for a short time by the Colombian leftist guerrilla group ELN. She figured that would be the last time she\u2019d ever be kidnapped. Final song: Charlev by Oliver Coates.",
             "guid": "http://loveandradio.prx.org/?p=604",
             "isoDate": "2018-09-21T19:05:00.000Z",
@@ -478,6 +529,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM9192515272.mp3"
             },
+            "entities": ["Evan"],
             "content:encodedSnippet": "Evan has a secret.",
             "guid": "http://loveandradio.prx.org/?p=597",
             "isoDate": "2018-08-23T15:55:00.000Z",
@@ -500,6 +552,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM6286187816.mp3"
             },
+            "entities": ["Welsh", "three", "he"],
             "content:encodedSnippet": "The Exotic Adrian Street grew up in a three generation family of Welsh coal miners, but he wasn\u2019t destined to be in the dark.",
             "guid": "http://loveandradio.prx.org/?p=592",
             "isoDate": "2018-08-13T03:50:00.000Z",
@@ -522,6 +575,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM5914669207.mp3"
             },
+            "entities": ["Paulette Cooper", "one", "1968", "first"],
             "content:encodedSnippet": "In 1968, Paulette Cooper was one of the first journalists to investigate a then-little-known religious group.",
             "guid": "http://loveandradio.prx.org/?p=585",
             "isoDate": "2018-07-25T05:05:00.000Z",
@@ -544,6 +598,13 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM6131503616.mp3"
             },
+            "entities": [
+                "Ronald McDonald",
+                "singer",
+                "one",
+                "America",
+                "Rob Navarro"
+            ],
             "content:encodedSnippet": "Rob Navarro: gospel singer, the voice of Spanish-language Ronald McDonald, and one of the most successful gay pornographers in America.",
             "guid": "http://loveandradio.prx.org/?p=580",
             "isoDate": "2018-06-29T17:48:00.000Z",
@@ -566,6 +627,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM5908335829.mp3"
             },
+            "entities": ["Diane Benscoter"],
             "content:encodedSnippet": "As a young woman, Diane Benscoter had a burning idealism, and a desire for purpose.",
             "guid": "http://loveandradio.prx.org/?p=572",
             "isoDate": "2018-06-23T08:53:00.000Z",
@@ -588,6 +650,14 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM9839152025.mp3"
             },
+            "entities": [
+                "she",
+                "her",
+                "1991",
+                "Pam Reynolds",
+                "Freedom on Sacred Bones Records",
+                "surgery"
+            ],
             "content:encodedSnippet": "In 1991, Pam Reynolds underwent surgery to remove a large aneurism from her brain stem. Doctors cooled her body to less than half of normal temperature and temporarily stopped her heart during the procedure. This is what she experienced. Final song: Believe by Amen Dunes, from the album Freedom on Sacred Bones Records.",
             "guid": "http://loveandradio.prx.org/?p=565",
             "isoDate": "2018-06-08T21:35:00.000Z",
@@ -610,6 +680,16 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM1291925076.mp3"
             },
+            "entities": [
+                "Lucrecia Dalt",
+                "teacher",
+                "Daniel Estrin",
+                "119-year-old",
+                "Bob Padgett",
+                "Texas",
+                "he",
+                "Plano"
+            ],
             "content:encodedSnippet": "Bob Padgett, a violin teacher from Plano, Texas, believes he\u2019s found the answer to a 119-year-old mystery. Produced by Daniel Estrin. Final song: Atmospheres Touch by Lucrecia Dalt.",
             "guid": "http://loveandradio.prx.org/?p=556",
             "isoDate": "2018-05-17T16:11:00.000Z",
@@ -632,6 +712,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM6377295244.mp3"
             },
+            "entities": ["MAY 17 MAY 17 MAY 17 MAY 17 MAY 17"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=552",
             "isoDate": "2018-05-04T02:53:29.000Z",
@@ -654,6 +735,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM7444416917.mp3"
             },
+            "entities": ["2014", "Olympic Team", "Tom Justice", "he", "US"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=544",
             "isoDate": "2018-04-25T16:59:46.000Z",
@@ -676,6 +758,19 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM4317920756.mp3"
             },
+            "entities": [
+                "creator",
+                "performer",
+                "Skid Row",
+                "Tim Robbins",
+                "Richard Haxton",
+                "Clyde Casey",
+                "Los Angeles",
+                "Lonnie Johnson",
+                "the 1980s",
+                "Another Planet",
+                "Flame Simon"
+            ],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=539",
             "isoDate": "2018-03-16T04:00:23.000Z",
@@ -698,6 +793,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM1944977898.mp3"
             },
+            "entities": ["journalist", "she", "2015", "now", "Norah Vincent"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=535",
             "isoDate": "2018-02-23T01:35:37.000Z",
@@ -720,6 +816,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM2445898326.mp3"
             },
+            "entities": ["Mohamed El Abed", "Radiotopia", "Martin Johnson"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=528",
             "isoDate": "2018-01-19T17:45:50.000Z",
@@ -742,6 +839,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM8342100026.mp3"
             },
+            "entities": ["+1 641 715 3900", "55403#"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=523",
             "isoDate": "2017-12-21T14:40:37.000Z",
@@ -764,6 +862,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM5124506878.mp3"
             },
+            "entities": ["Marvin Heemeyer", "he"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=513",
             "isoDate": "2017-12-12T03:46:13.000Z",
@@ -786,6 +885,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM8233895624.mp3"
             },
+            "entities": ["2008", "Alvin", "Kim Wild", "Mike Merrill"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=506",
             "isoDate": "2017-11-22T21:06:12.000Z",
@@ -808,6 +908,17 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM1825125588.mp3"
             },
+            "entities": [
+                "Albert Woodfox",
+                "23 hours",
+                "each day",
+                "Helado Negro",
+                "American",
+                "6",
+                "9",
+                "nearly 44 years",
+                "Amnesty International UK"
+            ],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=501",
             "isoDate": "2017-11-06T23:09:08.000Z",
@@ -830,6 +941,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM7396127975.mp3"
             },
+            "entities": ["Merle Bardenoir", "one", "collector"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=494",
             "isoDate": "2017-10-24T06:16:17.000Z",
@@ -852,6 +964,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM2129705224.mp3"
             },
+            "entities": ["Meags", "Les Breastfeeders"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=488",
             "isoDate": "2017-10-13T17:09:07.000Z",
@@ -874,6 +987,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM7068810286.mp3"
             },
+            "entities": ["Alex", "his", "Indian", "he"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=482",
             "isoDate": "2017-09-28T05:04:10.000Z",
@@ -896,6 +1010,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM9869419270.mp3"
             },
+            "entities": ["she", "Prince", "Barbara", "Rama"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=471",
             "isoDate": "2017-08-25T03:35:28.000Z",
@@ -918,6 +1033,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM6989971469.mp3"
             },
+            "entities": ["the 1960s", "R. Stevie Moore", "years"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=465",
             "isoDate": "2017-07-24T22:07:42.000Z",
@@ -940,6 +1056,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM2856218377.mp3"
             },
+            "entities": ["Sarz", "2003", "Kaitlyn Aurelia Smith"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=459",
             "isoDate": "2017-07-06T13:27:55.000Z",
@@ -962,6 +1079,14 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM4977904781.mp3"
             },
+            "entities": [
+                "NEXT MONTH",
+                "Doug Williams",
+                "Ana Adlerstein",
+                "war",
+                "decades",
+                "Jacob McCleland"
+            ],
             "content:encodedSnippet": "A preview of our next season, coming at you NEXT MONTH! Doug Williams has been waging a war for decades against the polygraph machine (aka the lie detector). Produced by Jacob McCleland and Ana Adlerstein.",
             "guid": "http://loveandradio.prx.org/?p=453",
             "isoDate": "2017-06-15T22:31:00.000Z",
@@ -985,6 +1110,13 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM5230258153.mp3"
             },
+            "entities": [
+                "George Langford",
+                "George",
+                "+1",
+                "55403#",
+                "georgelangford.com"
+            ],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=434",
             "isoDate": "2017-04-06T14:58:53.000Z",
@@ -1008,6 +1140,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM9775977795.mp3"
             },
+            "entities": ["the past", "Gomez", "Carlos", "WITSEC"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=421",
             "isoDate": "2017-03-24T21:12:41.000Z",
@@ -1030,6 +1163,18 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM5239583636.mp3"
             },
+            "entities": [
+                "Rocío Gómez",
+                "Colombia",
+                "she",
+                "her",
+                "drug trafficker",
+                "past",
+                "Rodrigo",
+                "Carlos",
+                "Rocío",
+                "Miami"
+            ],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=416",
             "isoDate": "2017-03-10T15:37:19.000Z",
@@ -1052,6 +1197,17 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM3451591408.mp3"
             },
+            "entities": [
+                "Rocío Gómez",
+                "Colombia",
+                "She",
+                "she",
+                "her",
+                "La Retirada",
+                "drugs",
+                "One",
+                "Rosio"
+            ],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=407",
             "isoDate": "2017-03-03T05:13:49.000Z",
@@ -1074,6 +1230,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM6816729829.mp3"
             },
+            "entities": ["she", "Carey"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=403",
             "isoDate": "2017-02-27T07:10:34.000Z",
@@ -1096,6 +1253,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM5440643311.mp3"
             },
+            "entities": ["Daryl Davis", "him"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=398",
             "isoDate": "2017-02-11T19:09:22.000Z",
@@ -1118,6 +1276,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM4582803551.mp3"
             },
+            "entities": ["Steel Reserve", "Tim"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=392",
             "isoDate": "2017-01-28T13:57:16.000Z",
@@ -1140,6 +1299,15 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM5431800313.mp3"
             },
+            "entities": [
+                "American",
+                "Larry Garrett",
+                "2001",
+                "Three decades ago",
+                "Iraq",
+                "he",
+                "him"
+            ],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=386",
             "isoDate": "2017-01-14T02:25:41.000Z",
@@ -1162,6 +1330,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM2644898295.mp3"
             },
+            "entities": ["Mike", "his", "John Fecile"],
             "content:encodedSnippet": "When Mike comes home, his family is faced with a new reality and an impossible choice. Produced by John Fecile.",
             "guid": "http://loveandradio.prx.org/?p=373",
             "isoDate": "2016-12-26T20:33:00.000Z",
@@ -1185,6 +1354,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM7457627364.mp3"
             },
+            "entities": ["Adam Zaretsky", "DNA"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=365",
             "isoDate": "2016-12-02T23:31:56.000Z",
@@ -1207,6 +1377,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM3412670070.mp3"
             },
+            "entities": ["his", "Norway", "NRK", "Sindre Leganger"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=361",
             "isoDate": "2016-11-17T16:23:45.000Z",
@@ -1229,6 +1400,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM3242899821.mp3"
             },
+            "entities": ["she", "Area", "Julie", "Bay"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=357",
             "isoDate": "2016-10-28T05:33:23.000Z",
@@ -1252,6 +1424,16 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM8544532112.mp3"
             },
+            "entities": [
+                "conservative",
+                "his",
+                "United States",
+                "one",
+                "Reagan",
+                "he",
+                "the 1980s",
+                "Glenn Loury"
+            ],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=349",
             "isoDate": "2016-10-13T11:42:35.000Z",
@@ -1274,6 +1456,14 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM4676097703.mp3"
             },
+            "entities": [
+                "Detroit",
+                "One day",
+                "Russian",
+                "her",
+                "Davecat",
+                "Sidore"
+            ],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=345",
             "isoDate": "2016-09-29T08:30:06.000Z",
@@ -1296,6 +1486,16 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM4015902979.mp3"
             },
+            "entities": [
+                "she",
+                "her",
+                "Ana",
+                "one",
+                "Jerome",
+                "California",
+                "Oakland",
+                "he"
+            ],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=332",
             "isoDate": "2016-08-27T15:13:47.000Z",
@@ -1318,6 +1518,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM8227701788.mp3"
             },
+            "entities": ["One day", "torture", "063"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=326",
             "isoDate": "2016-07-22T19:53:43.000Z",
@@ -1341,6 +1542,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM5981561343.mp3"
             },
+            "entities": ["Scott Carrier"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=320",
             "isoDate": "2016-06-24T01:53:34.000Z",
@@ -1363,6 +1565,20 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM8443675699.mp3"
             },
+            "entities": [
+                "creator",
+                "performer",
+                "Producer",
+                "David Weinberg",
+                "Skid Row",
+                "Tim Robbins",
+                "Clyde Casey",
+                "Los Angeles",
+                "Lonnie Johnson",
+                "the 1980s",
+                "Another Planet",
+                "Flame Simon"
+            ],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=317",
             "isoDate": "2016-05-27T16:02:49.000Z",
@@ -1386,6 +1602,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM5562534752.mp3"
             },
+            "entities": ["his", "Melvin Dummar", "he"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=308",
             "isoDate": "2016-04-20T22:48:35.000Z",
@@ -1409,6 +1626,15 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM8951484739.mp3"
             },
+            "entities": [
+                "she",
+                "3",
+                "her",
+                "Marlo Mack",
+                "princess",
+                "Marlo",
+                "he"
+            ],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=296",
             "isoDate": "2016-02-25T21:01:59.000Z",
@@ -1432,6 +1658,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM6040290386.mp3"
             },
+            "entities": ["David"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=280",
             "isoDate": "2015-11-17T02:00:50.000Z",
@@ -1455,6 +1682,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM1978366656.mp3"
             },
+            "entities": ["New Mexico", "Timothy Wyllie"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=273",
             "isoDate": "2015-10-22T17:39:17.000Z",
@@ -1478,6 +1706,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM5294035960.mp3"
             },
+            "entities": ["America"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=263",
             "isoDate": "2015-09-24T18:23:58.000Z",
@@ -1501,6 +1730,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM3040876807.mp3"
             },
+            "entities": ["Sam Najjair", "now", "four years ago", "he"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=256",
             "isoDate": "2015-08-26T16:41:53.000Z",
@@ -1524,6 +1754,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM5707225903.mp3"
             },
+            "entities": ["1938", "Rachel Prince"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=251",
             "isoDate": "2015-07-29T00:55:50.000Z",
@@ -1547,6 +1778,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM5872370935.mp3"
             },
+            "entities": ["Zoe Nightingale", "the last few years"],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=245",
             "isoDate": "2015-06-25T03:52:33.000Z",
@@ -1570,6 +1802,17 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM1932689860.mp3"
             },
+            "entities": [
+                "Paul Wood",
+                "New Zealand",
+                "Prison",
+                "murder",
+                "his",
+                "18",
+                "now",
+                "Paremoremo Prison",
+                "Auckland"
+            ],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=239",
             "isoDate": "2015-05-23T14:33:54.000Z",
@@ -1593,6 +1836,14 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM4479871386.mp3"
             },
+            "entities": [
+                "journalist",
+                "she",
+                "Vincent",
+                "now",
+                "Virgina Woolf",
+                "Norah Vincent"
+            ],
             "content:encodedSnippet": "",
             "guid": "http://loveandradio.prx.org/?p=233",
             "isoDate": "2015-05-13T02:45:05.000Z",
@@ -1616,6 +1867,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM2204073867.mp3"
             },
+            "entities": ["Ceara Lynch", "ten year"],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/197558732",
             "isoDate": "2015-03-27T14:02:14.000Z",
@@ -1639,6 +1891,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM2161798265.mp3"
             },
+            "entities": ["one-sided", "Diane"],
             "content:encodedSnippet": "Diane's new neighbors across the way never shut their curtains, and that was the beginning of an intimate, but very one-sided relationship.",
             "guid": "tag:soundcloud,2010:tracks/194123200",
             "isoDate": "2015-03-06T18:16:00.000Z",
@@ -1662,6 +1915,16 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM6369224201.mp3"
             },
+            "entities": [
+                "she",
+                "her",
+                "Ana",
+                "one",
+                "Jerome",
+                "California",
+                "Oakland",
+                "he"
+            ],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/182205898",
             "isoDate": "2014-12-19T18:45:50.000Z",
@@ -1685,6 +1948,15 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM7699361812.mp3"
             },
+            "entities": [
+                "Chisinau",
+                "illusionist",
+                "her",
+                "Ukraine",
+                "Soviet",
+                "Republic of Moldova",
+                "Norwegian"
+            ],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/178533120",
             "isoDate": "2014-11-25T05:36:40.000Z",
@@ -1708,6 +1980,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM7294844026.mp3"
             },
+            "entities": ["Jews"],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/169273014",
             "isoDate": "2014-09-25T05:33:55.000Z",
@@ -1731,6 +2004,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM4809868210.mp3"
             },
+            "entities": ["Olympic Team", "Tom Justice", "he", "US"],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/164077345",
             "isoDate": "2014-08-21T05:11:05.000Z",
@@ -1754,6 +2028,13 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM6800241221.mp3"
             },
+            "entities": [
+                "12",
+                "Charles Farrell",
+                "middle class",
+                "he",
+                "Boston"
+            ],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/160842944",
             "isoDate": "2014-07-29T19:39:14.000Z",
@@ -1777,6 +2058,20 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM4048001029.mp3?updated=1573755207"
             },
+            "entities": [
+                "1987",
+                "Iron Curtain",
+                "His",
+                "Cold",
+                "the last years",
+                "West",
+                "about 50 hours",
+                "War",
+                "German",
+                "two week",
+                "Cessna",
+                "Moscow"
+            ],
             "content:encodedSnippet": "In 1987, during the last years of the Cold War, a West German teenager with only about 50 hours of flying experience rented a Cessna and departed on a two week trip. His goal was to fly over the Iron Curtain and land in Moscow.",
             "guid": "tag:soundcloud,2010:tracks/154078323",
             "isoDate": "2014-06-12T18:57:38.000Z",
@@ -1800,6 +2095,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM1426318545.mp3"
             },
+            "entities": ["Taylor"],
             "content:encodedSnippet": "We think of certain events as profoundly life-altering. Getting married or emigrating to a new country, say. But you can always get divorced, and you can almost always move back. Taylor is weighing a life decision from which there would be no turning back.",
             "guid": "tag:soundcloud,2010:tracks/149322864",
             "isoDate": "2014-05-13T14:01:00.000Z",
@@ -1823,6 +2119,19 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM8902047856.mp3"
             },
+            "entities": [
+                "creator",
+                "performer",
+                "Skid Row",
+                "Tim Robbins",
+                "Richard Haxton",
+                "Clyde Casey",
+                "Los Angeles",
+                "Lonnie Johnson",
+                "the 1980s",
+                "Another Planet",
+                "Flame Simon"
+            ],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/143740810",
             "isoDate": "2014-04-08T18:58:55.000Z",
@@ -1846,6 +2155,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM1771114649.mp3"
             },
+            "entities": ["his", "Daryl Davis"],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/137089846",
             "isoDate": "2014-02-27T21:01:27.000Z",
@@ -1869,6 +2179,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM4310570807.mp3"
             },
+            "entities": ["Julia", "she", "One", "night", "A couple months ago"],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/130716292",
             "isoDate": "2014-01-21T23:31:43.000Z",
@@ -1892,6 +2203,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM4857983289.mp3"
             },
+            "entities": ["mo", "Breyer P-Orridge", "artist"],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/124185440",
             "isoDate": "2013-12-10T18:23:03.000Z",
@@ -1915,6 +2227,17 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM2090256141.mp3"
             },
+            "entities": [
+                "Ellen",
+                "she",
+                "her",
+                "artist",
+                "$30,000",
+                "one",
+                "Ellen →",
+                "a couple hours",
+                "Jack"
+            ],
             "content:encodedSnippet": "Hey kids, this interview isn\u2019t for you. You should skip this one. Ellen was struggling for money, working as a Subway \u201csandwich artist\u201d (yes, that\u2019s a real thing). So she decided to find a new job, and settled on one that allowed her to make over $30,000 for just a couple hours of work each \u2026 Continue reading Jack and Ellen →",
             "guid": "tag:soundcloud,2010:tracks/80233342",
             "isoDate": "2013-02-21T18:04:00.000Z",
@@ -1938,6 +2261,14 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM7712098573.mp3"
             },
+            "entities": [
+                "his",
+                "artist",
+                "Missouri",
+                "the Year",
+                "Ballwin",
+                "Lewis Greenberg"
+            ],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/72167248",
             "isoDate": "2012-12-22T05:10:47.000Z",
@@ -1961,6 +2292,14 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM7524902374.mp3"
             },
+            "entities": [
+                "Andre Taylor",
+                "3 years",
+                "Daniel",
+                "Babylonian",
+                "he",
+                "Andre"
+            ],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/53407139",
             "isoDate": "2012-07-19T17:26:22.000Z",
@@ -1984,6 +2323,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM5895728204.mp3"
             },
+            "entities": ["Karl Rove", "him", "Jason Leopold"],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/47311396",
             "isoDate": "2012-05-23T13:58:30.000Z",
@@ -2007,6 +2347,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM6909665707.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/34029390",
             "isoDate": "2011-11-04T23:01:37.000Z",
@@ -2030,6 +2371,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM1768081841.mp3"
             },
+            "entities": ["his", "Melvin Dummar", "he", "Utah", "late night"],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/34029214",
             "isoDate": "2011-05-26T22:59:07.000Z",
@@ -2053,6 +2395,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM2661479692.mp3"
             },
+            "entities": ["Jay Thunderbolt"],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/34028947",
             "isoDate": "2011-04-11T22:55:39.000Z",
@@ -2076,6 +2419,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM4234894128.mp3"
             },
+            "entities": ["his", "Adam Warner", "he"],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/34028312",
             "isoDate": "2010-12-21T23:47:47.000Z",
@@ -2099,6 +2443,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM9714287202.mp3"
             },
+            "entities": ["she", "model", "Amy"],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/34027982",
             "isoDate": "2010-11-09T23:43:10.000Z",
@@ -2122,6 +2467,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM9341361359.mp3"
             },
+            "entities": ["her", "scientist", "Jill Bolte Taylor", "stroke"],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/34027497",
             "isoDate": "2008-10-14T22:37:40.000Z",
@@ -2145,6 +2491,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM6997386488.mp3"
             },
+            "entities": ["previously", "her", "bachelorette", "Sara Juli"],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/34026898",
             "isoDate": "2008-06-05T22:30:31.000Z",
@@ -2168,6 +2515,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM4059355471.mp3"
             },
+            "entities": ["21st century"],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/34026691",
             "isoDate": "2008-04-16T22:27:35.000Z",
@@ -2191,6 +2539,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM4373439113.mp3"
             },
+            "entities": ["Inc.", "Chicago", "Tim Reifsteck"],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/34027201",
             "isoDate": "2008-03-27T22:33:51.000Z",
@@ -2214,6 +2563,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM2847802919.mp3"
             },
+            "entities": ["she", "her", "Sara Juli"],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/34026256",
             "isoDate": "2008-02-14T23:22:26.000Z",
@@ -2237,6 +2587,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM5300971783.mp3"
             },
+            "entities": ["Nate Hill", "Takeshi Yamada", "two", "Dan Deacon"],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/34025698",
             "isoDate": "2007-11-29T23:16:03.000Z",
@@ -2260,6 +2611,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM7286077382.mp3"
             },
+            "entities": ["reporter", "Memphis", "Sean Cole"],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/34025440",
             "isoDate": "2007-11-15T23:12:46.000Z",
@@ -2283,6 +2635,14 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM1436763061.mp3"
             },
+            "entities": [
+                "Adam",
+                "Penelope Spheeris",
+                "1981",
+                "martial artist",
+                "violence",
+                "Nick Salvatore"
+            ],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/34024864",
             "isoDate": "2007-11-07T23:06:25.000Z",
@@ -2306,6 +2666,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM2512839156.mp3"
             },
+            "entities": ["UK", "Zach Slow", "rapper"],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/34024254",
             "isoDate": "2007-10-03T21:59:38.000Z",
@@ -2329,6 +2690,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM4714066723.mp3"
             },
+            "entities": ["accident"],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/34023835",
             "isoDate": "2007-07-12T21:54:48.000Z",
@@ -2352,6 +2714,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM7669006530.mp3"
             },
+            "entities": ["her", "Adrianne", "Adam Conover"],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/34023498",
             "isoDate": "2007-06-21T21:50:54.000Z",
@@ -2375,6 +2738,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM4246515589.mp3"
             },
+            "entities": ["her", "Brendan Sullivan", "Jason", "him"],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/34023167",
             "isoDate": "2007-05-07T21:47:09.000Z",
@@ -2398,6 +2762,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM4452755523.mp3"
             },
+            "entities": ["Matt", "his", "Nick"],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/34022778",
             "isoDate": "2007-01-01T22:42:44.000Z",
@@ -2421,6 +2786,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM5219073558.mp3"
             },
+            "entities": ["Clay Pigeon"],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/34022389",
             "isoDate": "2006-10-30T22:38:01.000Z",
@@ -2444,6 +2810,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM5237679752.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/34022084",
             "isoDate": "2006-08-24T21:33:56.000Z",
@@ -2467,6 +2834,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM6706406629.mp3"
             },
+            "entities": ["Post-Secret", "Babar"],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/34021597",
             "isoDate": "2006-08-04T21:28:26.000Z",
@@ -2490,6 +2858,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM7467031809.mp3"
             },
+            "entities": ["21st"],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/34020727",
             "isoDate": "2006-04-21T21:18:52.000Z",
@@ -2513,6 +2882,16 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM5578562364.mp3"
             },
+            "entities": [
+                "his",
+                "Adrianne",
+                "one",
+                "First",
+                "Lance Anderson",
+                "Paul",
+                "first",
+                "Harlyn Aizley"
+            ],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/34019856",
             "isoDate": "2006-03-02T22:09:47.000Z",
@@ -2536,6 +2915,19 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM5884549587.mp3"
             },
+            "entities": [
+                "principal",
+                "Ben Popik",
+                "English",
+                "his",
+                "Adrianne",
+                "Adam Allington",
+                "producer",
+                "Tim Hortons",
+                "Yr",
+                "Olde",
+                "Julian James"
+            ],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/34018745",
             "isoDate": "2005-12-11T21:57:41.000Z",
@@ -2559,6 +2951,15 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM9392832498.mp3"
             },
+            "entities": [
+                "Signal",
+                "Aaron Henkin",
+                "Missouri",
+                "Christian",
+                "OKCupid.com",
+                "Eric Herot",
+                "he"
+            ],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/34017482",
             "isoDate": "2005-11-20T21:43:19.000Z",
@@ -2582,6 +2983,12 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM8790976308.mp3"
             },
+            "entities": [
+                "eight-year-old",
+                "1952",
+                "Michael Kraskin",
+                "Hans Anderson"
+            ],
             "content:encodedSnippet": "",
             "guid": "tag:soundcloud,2010:tracks/34016761",
             "isoDate": "2005-10-30T21:34:42.000Z",
@@ -2605,6 +3012,7 @@
                 "type": "audio/mpeg",
                 "url": "https://traffic.megaphone.fm/LM8054069532.mp3"
             },
+            "entities": [],
             "content:encodedSnippet": "Stories about guns and the people who come in contact with them.",
             "guid": "tag:soundcloud,2010:tracks/34016184",
             "isoDate": "2005-10-18T16:00:00.000Z",

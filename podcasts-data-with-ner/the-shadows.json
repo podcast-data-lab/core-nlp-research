@@ -29,6 +29,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_THESHADOWS_P/media/theshadows-lvL6JcCe-20180924.mp3?ttag=episode:1"
             },
+            "entities": ["Kahlil Gibran"],
             "guid": "theshadows-8e916deb-352c-4d2e-9c96-b8750e01d963",
             "isoDate": "2018-09-24T15:59:00.000Z",
             "title": "Episode 1: Romantic",
@@ -49,6 +50,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_THESHADOWS_P/media/theshadows-1IuI90th-20180924.mp3?ttag=episode:2"
             },
+            "entities": ["Rumi"],
             "guid": "theshadows-cfe0be74-c273-49be-9d76-e72892de4fc1",
             "isoDate": "2018-09-24T15:58:00.000Z",
             "title": "Episode 2: Realist",
@@ -69,6 +71,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_THESHADOWS_P/media/theshadows-8C1Jy0ij-20180924.mp3?ttag=episode:3"
             },
+            "entities": ["every day", "night"],
             "guid": "theshadows-95ae79c7-a6c8-42c3-a7bd-895c157deac6",
             "isoDate": "2018-09-24T15:57:00.000Z",
             "title": "Episode 3: Sweater",
@@ -89,6 +92,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_THESHADOWS_P/media/theshadows-KkP5bVy1-20180924.mp3?ttag=episode:4"
             },
+            "entities": ["Esther Perel", "Captivity"],
             "guid": "theshadows-2730f556-6406-4d86-9772-51f924033698",
             "isoDate": "2018-09-24T15:56:00.000Z",
             "title": "Episode 4: Decision",
@@ -109,6 +113,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_THESHADOWS_P/media/theshadows-CmG3eJjl-20180924.mp3?ttag=episode:5"
             },
+            "entities": ["Tom", "Bramasole Diner"],
             "guid": "theshadows-259a1b18-bf4b-4085-9482-7fe2a6a40b36",
             "isoDate": "2018-09-24T15:55:00.000Z",
             "title": "Episode 5: An Argument That Should Be Simple.",
@@ -129,6 +134,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_THESHADOWS_P/media/theshadows-po8XzLmZ-20180924.mp3?ttag=episode:6"
             },
+            "entities": ["Adam Phillips"],
             "guid": "theshadows-582166e7-939c-411c-9c0e-bc5c1f4261a6",
             "isoDate": "2018-09-24T15:54:00.000Z",
             "title": "Episode 6: End",

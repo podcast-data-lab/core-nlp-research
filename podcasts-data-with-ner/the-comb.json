@@ -45,6 +45,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0c03gxq.mp3"
             },
+            "entities": [
+                "her",
+                "thecomb@bbc.com",
+                "Kaz Lucas",
+                "Lucy",
+                "Kenyan",
+                "Kenya",
+                "two",
+                "FGM"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0c03j37",
             "guid": "urn:bbc:podcast:p0c03j37",
             "isoDate": "2022-04-07T23:10:00.000Z",
@@ -66,6 +76,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bys10g.mp3"
             },
+            "entities": [
+                "Superman",
+                "Covid",
+                "Ami Dokli",
+                "She",
+                "his",
+                "Two years",
+                "thecomb@bbc.com",
+                "Takunda",
+                "Ghana",
+                "Ami"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bys45b",
             "guid": "urn:bbc:podcast:p0bys45b",
             "isoDate": "2022-03-31T23:05:00.000Z",
@@ -87,6 +109,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bxfvhg.mp3"
             },
+            "entities": [
+                "Stella Nyanzi",
+                "her",
+                "thecomb@bbc.com",
+                "Uganda",
+                "Naminata Diabate"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bxfvyv",
             "guid": "urn:bbc:podcast:p0bxfvyv",
             "isoDate": "2022-03-25T00:05:00.000Z",
@@ -108,6 +137,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bwfrts.mp3"
             },
+            "entities": ["Nairobi", "26 March"],
             "link": "http://www.bbc.co.uk/programmes/p0bwfsdn",
             "guid": "urn:bbc:podcast:p0bwfsdn",
             "isoDate": "2022-03-19T20:51:00.000Z",
@@ -129,6 +159,19 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bsftqq.mp3"
             },
+            "entities": [
+                "Colombe",
+                "Busayo",
+                "she",
+                "Rwandan",
+                "China",
+                "thecomb@bbc.com",
+                "Tuvie",
+                "Nigerian",
+                "Nigeria",
+                "Seven years later",
+                "first"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bsfwc5",
             "guid": "urn:bbc:podcast:p0bsfwc5",
             "isoDate": "2022-03-04T00:05:00.000Z",
@@ -150,6 +193,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0br4ffc.mp3"
             },
+            "entities": [
+                "She",
+                "she",
+                "her",
+                "thecomb@bbc.com",
+                "Fikile Ntshangase",
+                "one",
+                "227",
+                "2020"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0br4g05",
             "guid": "urn:bbc:podcast:p0br4g05",
             "isoDate": "2022-02-25T00:17:00.000Z",
@@ -171,6 +224,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bprzmr.mp3"
             },
+            "entities": [
+                "activist",
+                "Liberia",
+                "his",
+                "thecomb@bbc.com",
+                "227",
+                "18",
+                "Africa",
+                "Alfred Brownell",
+                "2020",
+                "lawyer"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bpv151",
             "guid": "urn:bbc:podcast:p0bpv151",
             "isoDate": "2022-02-18T00:05:00.000Z",
@@ -192,6 +257,19 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bng54m.mp3"
             },
+            "entities": [
+                "Malawi",
+                "Europe",
+                "thecomb@bbc.com",
+                "daily",
+                "fire",
+                "Harvey Kwiyani",
+                "Christianity",
+                "Switzerland",
+                "he",
+                "He",
+                "African"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bnjp69",
             "guid": "urn:bbc:podcast:p0bnjp69",
             "isoDate": "2022-02-11T00:05:00.000Z",
@@ -213,6 +291,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bm2gyz.mp3"
             },
+            "entities": [
+                "His",
+                "thecomb@bbc.com",
+                "Africa",
+                "one",
+                "Kenny Chikonka",
+                "nearly 30 years ago"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bm2nst",
             "guid": "urn:bbc:podcast:p0bm2nst",
             "isoDate": "2022-02-04T00:02:00.000Z",
@@ -234,6 +320,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bkt50h.mp3"
             },
+            "entities": [
+                "she",
+                "intern",
+                "Her",
+                "thecomb@bbc.com",
+                "Sofia Rajab",
+                "Lupita",
+                "Kenya",
+                "harassment",
+                "two",
+                "He"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0bkt5y6",
             "guid": "urn:bbc:podcast:p0bkt5y6",
             "isoDate": "2022-01-28T00:10:00.000Z",
@@ -255,6 +353,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bh76f1.mp3"
             },
+            "entities": ["Comb", "28 January 2022"],
             "link": "http://www.bbc.co.uk/programmes/p0bh7fx7",
             "guid": "urn:bbc:podcast:p0bh7fx7",
             "isoDate": "2022-01-14T10:26:00.000Z",
@@ -276,6 +375,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0b2ft2x.mp3"
             },
+            "entities": [
+                "Vivienne",
+                "fraud",
+                "thecomb@bbc.com",
+                "Africa",
+                "Daniel"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0b2g9c8",
             "guid": "urn:bbc:podcast:p0b2g9c8",
             "isoDate": "2021-11-05T14:48:00.000Z",
@@ -297,6 +403,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0b0yyjz.mp3"
             },
+            "entities": [
+                "Karnie Sharp",
+                "South Africans of",
+                "thecomb@bbc.com",
+                "Indian",
+                "South Africa",
+                "first",
+                "years",
+                "African"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0b0z062",
             "guid": "urn:bbc:podcast:p0b0z062",
             "isoDate": "2021-10-29T00:00:00.000Z",
@@ -318,6 +434,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09zj7gj.mp3"
             },
+            "entities": [
+                "EndSARS",
+                "Olivia",
+                "Tolu",
+                "thecomb@bbc.com",
+                "now",
+                "One year",
+                "Benjamin",
+                "Nigerians"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09zkbll",
             "guid": "urn:bbc:podcast:p09zkbll",
             "isoDate": "2021-10-21T23:05:00.000Z",
@@ -339,6 +465,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09yq9lz.mp3"
             },
+            "entities": ["thecomb@bbc.com", "Naivasha", "Lake"],
             "link": "http://www.bbc.co.uk/programmes/p09yqw5b",
             "guid": "urn:bbc:podcast:p09yqw5b",
             "isoDate": "2021-10-14T23:05:00.000Z",
@@ -360,6 +487,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09y0vg9.mp3"
             },
+            "entities": [
+                "his",
+                "Malawi",
+                "vendor",
+                "thecomb@bbc.com",
+                "Mayeso Gwanda",
+                "he",
+                "Union",
+                "African"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09y0y8n",
             "guid": "urn:bbc:podcast:p09y0y8n",
             "isoDate": "2021-10-08T00:00:00.000Z",
@@ -381,6 +518,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09xdtqb.mp3"
             },
+            "entities": ["thecomb@bbc.com", "2020", "first"],
             "link": "http://www.bbc.co.uk/programmes/p09xdv1w",
             "guid": "urn:bbc:podcast:p09xdv1w",
             "isoDate": "2021-09-30T23:00:00.000Z",
@@ -402,6 +540,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09wsnb5.mp3"
             },
+            "entities": [
+                "she",
+                "his",
+                "Agu Raphael Chibuke",
+                "thecomb@bbc.com",
+                "Kananelo",
+                "now",
+                "South Africa",
+                "Nigeria",
+                "a year",
+                "He"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09wsp1h",
             "guid": "urn:bbc:podcast:p09wsp1h",
             "isoDate": "2021-09-23T23:05:00.000Z",
@@ -423,6 +573,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09w6k92.mp3"
             },
+            "entities": [
+                "She",
+                "her",
+                "26 years",
+                "thecomb@bbc.com",
+                "Baby John Musamba"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09w6l5l",
             "guid": "urn:bbc:podcast:p09w6l5l",
             "isoDate": "2021-09-16T23:05:00.000Z",
@@ -444,6 +601,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09vkvsh.mp3"
             },
+            "entities": [
+                "Cameroon",
+                "his",
+                "Derick Ngoga",
+                "thecomb@bbc.com",
+                "Now",
+                "Uganda",
+                "he",
+                "five",
+                "Phiona"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09vkvxl",
             "guid": "urn:bbc:podcast:p09vkvxl",
             "isoDate": "2021-09-09T23:05:00.000Z",
@@ -465,6 +633,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09txgpl.mp3"
             },
+            "entities": [],
             "link": "http://www.bbc.co.uk/programmes/p09txhxy",
             "guid": "urn:bbc:podcast:p09txhxy",
             "isoDate": "2021-09-02T23:05:00.000Z",
@@ -486,6 +655,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09tbdbp.mp3"
             },
+            "entities": [
+                "Elizabeth",
+                "her",
+                "thecomb@bbc.com",
+                "Africa",
+                "dementia",
+                "illness"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09tbfkc",
             "guid": "urn:bbc:podcast:p09tbfkc",
             "isoDate": "2021-08-26T23:10:00.000Z",
@@ -507,6 +684,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09spgk8.mp3"
             },
+            "entities": [
+                "activist",
+                "This week",
+                "thecomb@bbc.com",
+                "mobile",
+                "Nigeria",
+                "Kenya",
+                "two"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09spk5p",
             "guid": "urn:bbc:podcast:p09spk5p",
             "isoDate": "2021-08-19T23:01:00.000Z",
@@ -528,6 +714,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09s2vwg.mp3"
             },
+            "entities": [
+                "Ziyanda",
+                "her",
+                "thecomb@bbc.com",
+                "South Africa",
+                "South African",
+                "Sam"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09s2wgf",
             "guid": "urn:bbc:podcast:p09s2wgf",
             "isoDate": "2021-08-12T23:01:00.000Z",
@@ -549,6 +743,23 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09rgl1d.mp3"
             },
+            "entities": [
+                "Ehi Ekhator",
+                "one",
+                "Wanjiku",
+                "Nigerian",
+                "African",
+                "Ciku",
+                "Kikuyu",
+                "She",
+                "English",
+                "his",
+                "her",
+                "thecomb@bbc.com",
+                "Carrie",
+                "he",
+                "Ciku Kimeria"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09rh7pv",
             "guid": "urn:bbc:podcast:p09rh7pv",
             "isoDate": "2021-08-05T23:05:00.000Z",
@@ -570,6 +781,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09qt314.mp3"
             },
+            "entities": [
+                "the past",
+                "175 years",
+                "his",
+                "thecomb@bbc.com",
+                "Tunisians",
+                "Hamden Atig Dali"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09qty5d",
             "guid": "urn:bbc:podcast:p09qty5d",
             "isoDate": "2021-07-29T23:15:00.000Z",
@@ -591,6 +810,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09q5n0l.mp3"
             },
+            "entities": [
+                "Douglas",
+                "thecomb@bbc.com",
+                "South Africa",
+                "Kenya",
+                "two"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09q5zp3",
             "guid": "urn:bbc:podcast:p09q5zp3",
             "isoDate": "2021-07-22T23:05:00.000Z",
@@ -612,6 +838,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09pk2nx.mp3"
             },
+            "entities": ["thecomb@bbc.com", "Egypt", "Nigeria", "Two"],
             "link": "http://www.bbc.co.uk/programmes/p09pk7h5",
             "guid": "urn:bbc:podcast:p09pk7h5",
             "isoDate": "2021-07-15T23:05:00.000Z",
@@ -633,6 +860,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09ntz4y.mp3"
             },
+            "entities": ["thecomb@bbc.com", "Uganda", "Kenya", "two"],
             "link": "http://www.bbc.co.uk/programmes/p09nv2y2",
             "guid": "urn:bbc:podcast:p09nv2y2",
             "isoDate": "2021-07-08T23:05:00.000Z",
@@ -654,6 +882,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09n7zb9.mp3"
             },
+            "entities": ["Africa", "Kim Chakanetsa", "every week"],
             "link": "http://www.bbc.co.uk/programmes/p09n80c1",
             "guid": "urn:bbc:podcast:p09n80c1",
             "isoDate": "2021-07-02T18:59:00.000Z",
@@ -675,6 +904,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09gwdy5.mp3"
             },
+            "entities": [
+                "English",
+                "French",
+                "thecomb@bbc.com",
+                "Africa",
+                "2000",
+                "Africans",
+                "Three"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09gwgc0",
             "guid": "urn:bbc:podcast:p09gwgc0",
             "isoDate": "2021-05-06T23:05:00.000Z",
@@ -696,6 +934,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09g6cf7.mp3"
             },
+            "entities": ["Morocco", "thecomb@bbc.com", "rapper", "illustrator"],
             "link": "http://www.bbc.co.uk/programmes/p09g6dd5",
             "guid": "urn:bbc:podcast:p09g6dd5",
             "isoDate": "2021-04-28T23:05:00.000Z",
@@ -717,6 +956,20 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09fhtvw.mp3"
             },
+            "entities": [
+                "Sierra Leoneans",
+                "she",
+                "She",
+                "floods",
+                "Years later",
+                "attacks",
+                "thecomb@bbc.com",
+                "genocide",
+                "Rebecca Esliker",
+                "war",
+                "Sierra Leone",
+                "Victoria Uwonkunda"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09fhwpb",
             "guid": "urn:bbc:podcast:p09fhwpb",
             "isoDate": "2021-04-22T23:10:00.000Z",
@@ -738,6 +991,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09dt49b.mp3"
             },
+            "entities": ["Africa", "Kim Chakanetsa", "every week"],
             "link": "http://www.bbc.co.uk/programmes/p09dt4qh",
             "guid": "urn:bbc:podcast:p09dt4qh",
             "isoDate": "2021-04-15T23:05:00.000Z",
@@ -759,6 +1013,15 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09d7kjf.mp3"
             },
+            "entities": [
+                "she",
+                "her",
+                "Her",
+                "thecomb@bbc.com",
+                "now",
+                "Uganda",
+                "first"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09d7lns",
             "guid": "urn:bbc:podcast:p09d7lns",
             "isoDate": "2021-04-09T23:05:00.000Z",
@@ -780,6 +1043,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09d45gj.mp3"
             },
+            "entities": ["thecomb@bbc.com", "Uganda"],
             "link": "http://www.bbc.co.uk/programmes/p09d46s7",
             "guid": "urn:bbc:podcast:p09d46s7",
             "isoDate": "2021-04-08T23:05:00.000Z",
@@ -801,6 +1065,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09ck35x.mp3"
             },
+            "entities": [
+                "Ndeye",
+                "Yayi",
+                "her",
+                "Senegal",
+                "once",
+                "Europe",
+                "thecomb@bbc.com",
+                "he"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09ck44y",
             "guid": "urn:bbc:podcast:p09ck44y",
             "isoDate": "2021-04-01T23:05:00.000Z",
@@ -822,6 +1096,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09bvq7r.mp3"
             },
+            "entities": ["thecomb@bbc.com", "Anneline", "Perpetua", "two"],
             "link": "http://www.bbc.co.uk/programmes/p09bvqyc",
             "guid": "urn:bbc:podcast:p09bvqyc",
             "isoDate": "2021-03-26T00:05:00.000Z",
@@ -843,6 +1118,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09b5349.mp3"
             },
+            "entities": [
+                "Mohamed Bouazizi",
+                "Mohamed",
+                "Tunisian",
+                "a decade",
+                "Sahar",
+                "26-year-old",
+                "now",
+                "fire",
+                "he"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p09b54c7",
             "guid": "urn:bbc:podcast:p09b54c7",
             "isoDate": "2021-03-19T00:09:00.000Z",
@@ -864,6 +1150,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p099ffm8.mp3"
             },
+            "entities": [
+                "epilepsy",
+                "his",
+                "thecomb@bbc.com",
+                "Lawrence",
+                "epileptic seizure",
+                "he",
+                "first",
+                "eight"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p099fhrq",
             "guid": "urn:bbc:podcast:p099fhrq",
             "isoDate": "2021-03-12T00:05:00.000Z",
@@ -885,6 +1181,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p098r5m1.mp3"
             },
+            "entities": [
+                "More",
+                "Nubian",
+                "thecomb@bbc.com",
+                "Huduma Namba",
+                "ID",
+                "Kenya",
+                "Kenyan",
+                "African"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p098r6fw",
             "guid": "urn:bbc:podcast:p098r6fw",
             "isoDate": "2021-03-05T00:05:00.000Z",
@@ -906,6 +1212,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09828sb.mp3"
             },
+            "entities": [
+                "her",
+                "Nomsa",
+                "thecomb@bbc.com",
+                "Africa",
+                "South Africa",
+                "seven years",
+                "A second",
+                "Sandrisha"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0982p0n",
             "guid": "urn:bbc:podcast:p0982p0n",
             "isoDate": "2021-02-25T22:10:00.000Z",
@@ -927,6 +1243,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p097dl5v.mp3"
             },
+            "entities": ["thecomb@bbc.com", "Tigray", "war"],
             "link": "http://www.bbc.co.uk/programmes/p097dp35",
             "guid": "urn:bbc:podcast:p097dp35",
             "isoDate": "2021-02-19T00:05:00.000Z",
@@ -948,6 +1265,20 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p096qr9n.mp3"
             },
+            "entities": [
+                "His",
+                "his",
+                "Damilola",
+                "thecomb@bbc.com",
+                "now",
+                "Tanzania",
+                "Muti",
+                "Sierra Leone",
+                "Damilola Oduolowu",
+                "he",
+                "30",
+                "thirty"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p096qss6",
             "guid": "urn:bbc:podcast:p096qss6",
             "isoDate": "2021-02-12T00:05:00.000Z",
@@ -969,6 +1300,18 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09639j0.mp3"
             },
+            "entities": [
+                "she",
+                "Angola",
+                "her",
+                "four",
+                "past",
+                "future",
+                "thecomb@bbc.com",
+                "Marcia",
+                "Facebook",
+                "16 years later"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p0963b7s",
             "guid": "urn:bbc:podcast:p0963b7s",
             "isoDate": "2021-02-05T00:05:00.000Z",
@@ -990,6 +1333,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p095dz66.mp3"
             },
+            "entities": [
+                "future",
+                "thecomb@bbc.com",
+                "Africa",
+                "Uganda",
+                "Adenike",
+                "Nigeria"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p095f76y",
             "guid": "urn:bbc:podcast:p095f76y",
             "isoDate": "2021-01-29T00:05:00.000Z",
@@ -1011,6 +1362,20 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p094qy64.mp3"
             },
+            "entities": [
+                "11",
+                "she",
+                "Arif",
+                "his",
+                "her",
+                "UK",
+                "thecomb@bbc.com",
+                "Africa",
+                "Hannah",
+                "Uganda",
+                "Nigeria",
+                "he"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p094qzq8",
             "guid": "urn:bbc:podcast:p094qzq8",
             "isoDate": "2021-01-22T00:05:00.000Z",
@@ -1032,6 +1397,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0940zm4.mp3"
             },
+            "entities": [
+                "thecomb@bbc.com",
+                "South Africa",
+                "Ghana",
+                "Nigeria",
+                "three"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p094110s",
             "guid": "urn:bbc:podcast:p094110s",
             "isoDate": "2021-01-15T00:05:00.000Z",
@@ -1053,6 +1425,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p093j328.mp3"
             },
+            "entities": [
+                "her",
+                "thecomb@bbc.com",
+                "one",
+                "Every year",
+                "Kenyan",
+                "Kenya"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p093j3xv",
             "guid": "urn:bbc:podcast:p093j3xv",
             "isoDate": "2021-01-08T21:30:00.000Z",
@@ -1074,6 +1454,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p092b3rr.mp3"
             },
+            "entities": ["Africa", "Kim Chakanetsa", "every week"],
             "link": "http://www.bbc.co.uk/programmes/p092b4d6",
             "guid": "urn:bbc:podcast:p092b4d6",
             "isoDate": "2020-12-23T16:59:00.000Z",
@@ -1095,6 +1476,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08wvl9f.mp3"
             },
+            "entities": [
+                "American",
+                "Botswana",
+                "now",
+                "Africans",
+                "Democratic Republic of the Congo",
+                "2020",
+                "Kenya",
+                "Three",
+                "US"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08wvm14",
             "guid": "urn:bbc:podcast:p08wvm14",
             "isoDate": "2020-10-30T00:05:00.000Z",
@@ -1116,6 +1508,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08w1sjp.mp3"
             },
+            "entities": ["Two", "African"],
             "link": "http://www.bbc.co.uk/programmes/p08w22t5",
             "guid": "urn:bbc:podcast:p08w22t5",
             "isoDate": "2020-10-22T23:05:00.000Z",
@@ -1137,6 +1530,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08vdd2q.mp3"
             },
+            "entities": ["drugs", "Cape Town", "two", "first", "violence"],
             "link": "http://www.bbc.co.uk/programmes/p08vdf3n",
             "guid": "urn:bbc:podcast:p08vdf3n",
             "isoDate": "2020-10-15T23:05:00.000Z",
@@ -1158,6 +1552,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08tqy7z.mp3"
             },
+            "entities": [
+                "Sudan",
+                "genocide",
+                "crimes against humanity",
+                "Darfur",
+                "Omar al-Bashir",
+                "he",
+                "president",
+                "war crimes"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08tr51s",
             "guid": "urn:bbc:podcast:p08tr51s",
             "isoDate": "2020-10-08T23:05:00.000Z",
@@ -1179,6 +1583,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08t2qdd.mp3"
             },
+            "entities": [
+                "https://www.facebook.com/groups/bbcthecomb",
+                "Africa",
+                "Africans",
+                "Facebook",
+                "African"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08t2vmt",
             "guid": "urn:bbc:podcast:p08t2vmt",
             "isoDate": "2020-10-01T23:05:00.000Z",
@@ -1200,6 +1611,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08sfxbn.mp3"
             },
+            "entities": ["UK", "Fifty years ago", "US", "Chagossian"],
             "link": "http://www.bbc.co.uk/programmes/p08sfyf2",
             "guid": "urn:bbc:podcast:p08sfyf2",
             "isoDate": "2020-09-24T23:05:00.000Z",
@@ -1221,6 +1633,14 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08rssk0.mp3"
             },
+            "entities": [
+                "thecomb@bbc.com",
+                "lady",
+                "Murder",
+                "Lipolelo Thabane",
+                "Lesotho",
+                "first"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08rswhb",
             "guid": "urn:bbc:podcast:p08rswhb",
             "isoDate": "2020-09-17T23:05:00.000Z",
@@ -1242,6 +1662,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08r33cx.mp3"
             },
+            "entities": ["thecomb@bbc.com", "Nigeria"],
             "link": "http://www.bbc.co.uk/programmes/p08r3458",
             "guid": "urn:bbc:podcast:p08r3458",
             "isoDate": "2020-09-10T23:05:00.000Z",
@@ -1263,6 +1684,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08qfmr8.mp3"
             },
+            "entities": ["thecomb@bbc.com"],
             "link": "http://www.bbc.co.uk/programmes/p08qfn11",
             "guid": "urn:bbc:podcast:p08qfn11",
             "isoDate": "2020-09-03T23:05:00.000Z",
@@ -1284,6 +1706,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08psld9.mp3"
             },
+            "entities": ["thecomb@bbc.com"],
             "link": "http://www.bbc.co.uk/programmes/p08psmq0",
             "guid": "urn:bbc:podcast:p08psmq0",
             "isoDate": "2020-08-27T23:05:00.000Z",
@@ -1305,6 +1728,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08p7n1d.mp3"
             },
+            "entities": ["thecomb@bbc.com"],
             "link": "http://www.bbc.co.uk/programmes/p08p7ngc",
             "guid": "urn:bbc:podcast:p08p7ngc",
             "isoDate": "2020-08-21T09:20:00.000Z",
@@ -1326,6 +1750,12 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08njndz.mp3"
             },
+            "entities": [
+                "thecomb@bbc.com",
+                "Facebook",
+                "violence",
+                "Oversight Board"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08njnrn",
             "guid": "urn:bbc:podcast:p08njnrn",
             "isoDate": "2020-08-13T23:05:00.000Z",
@@ -1347,6 +1777,16 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08n042n.mp3"
             },
+            "entities": [
+                "Nana",
+                "Europe",
+                "thecomb@bbc.com",
+                "Now",
+                "Africa",
+                "Ghana",
+                "Adjoa",
+                "Germany"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08n04dp",
             "guid": "urn:bbc:podcast:p08n04dp",
             "isoDate": "2020-08-07T08:37:00.000Z",
@@ -1368,6 +1808,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08m9503.mp3"
             },
+            "entities": ["Gambia", "thecomb@bbc.com", "one"],
             "link": "http://www.bbc.co.uk/programmes/p08m961z",
             "guid": "urn:bbc:podcast:p08m961z",
             "isoDate": "2020-07-30T23:05:00.000Z",
@@ -1389,6 +1830,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08lmh3l.mp3"
             },
+            "entities": ["Kenyans", "less than five minutes"],
             "link": "http://www.bbc.co.uk/programmes/p08lmhky",
             "guid": "urn:bbc:podcast:p08lmhky",
             "isoDate": "2020-07-23T23:05:00.000Z",
@@ -1410,6 +1852,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08l0jsw.mp3"
             },
+            "entities": ["thecomb@bbc.com"],
             "link": "http://www.bbc.co.uk/programmes/p08l0lz6",
             "guid": "urn:bbc:podcast:p08l0lz6",
             "isoDate": "2020-07-16T23:05:00.000Z",
@@ -1431,6 +1874,17 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08kbm25.mp3"
             },
+            "entities": [
+                "She",
+                "disease",
+                "Sally",
+                "DNA",
+                "thecomb@bbc.com",
+                "Africans",
+                "Nigeria",
+                "African",
+                "illness"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08kbmg9",
             "guid": "urn:bbc:podcast:p08kbmg9",
             "isoDate": "2020-07-09T23:05:00.000Z",
@@ -1452,6 +1906,7 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08jphn2.mp3"
             },
+            "entities": ["thecomb@bbc.com", "first"],
             "link": "http://www.bbc.co.uk/programmes/p08jpjh4",
             "guid": "urn:bbc:podcast:p08jpjh4",
             "isoDate": "2020-07-02T23:05:00.000Z",
@@ -1473,6 +1928,13 @@
                 "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08hf7mp.mp3"
             },
+            "entities": [
+                "3 July 2020",
+                "Africa",
+                "one",
+                "Kim Chakanetsa",
+                "every week"
+            ],
             "link": "http://www.bbc.co.uk/programmes/p08hfbqz",
             "guid": "urn:bbc:podcast:p08hfbqz",
             "isoDate": "2020-06-19T09:43:00.000Z",

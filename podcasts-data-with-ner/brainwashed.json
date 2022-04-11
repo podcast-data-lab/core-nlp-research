@@ -44,6 +44,14 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_BRAINWASHED_P/media/brainwashed-b6Dde6ix-20211102.mp3"
             },
+            "entities": [
+                "journalist",
+                "Canadian",
+                "neo-Nazi",
+                "host",
+                "Ryan Thorpe",
+                "Michelle Shephard"
+            ],
             "guid": "brainwashed-fdd1e9d6-25d0-4886-b9f9-26b9244ce060",
             "isoDate": "2021-11-02T14:37:00.000Z",
             "title": "Introducing: White Hot Hate",
@@ -63,6 +71,17 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_BRAINWASHED_P/media/brainwashed-m0S0wxgx-20210908.mp3"
             },
+            "entities": [
+                "Ling",
+                "conspiracy",
+                "the 1920s",
+                "Donald Trump",
+                "right-wing",
+                "today",
+                "Justin Ling",
+                "Host",
+                "Rush Limbaugh"
+            ],
             "guid": "brainwashed-5b758d81-60ed-478f-aada-d18dd9c1fc1c",
             "isoDate": "2021-09-08T04:10:00.000Z",
             "title": "Introducing: The Flamethrowers",
@@ -82,6 +101,15 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_BRAINWASHED_P/media/brainwashed-KhKsmVBA-20201028.mp3"
             },
+            "entities": [
+                "MKULTRA",
+                "CIA-funded",
+                "Ewen Cameron",
+                "Ben Brock Johnson",
+                "Host",
+                "Amory Sivertson",
+                "Michelle Shephard"
+            ],
             "guid": "brainwashed-3c81090c-a390-4dc3-8728-4f85ca07415f",
             "isoDate": "2020-10-28T04:10:00.000Z",
             "title": "Bonus: BRAINWASHED / MADNESS",
@@ -102,6 +130,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_BRAINWASHED_P/media/brainwashed-d8q8BTxu-20201020.mp3?ttag=episode:6"
             },
+            "entities": ["11", "MKULTRA", "conspiracy", "CIA", "Pizzagate"],
             "guid": "brainwashed-17a193f0-8231-433d-bf4c-8c5ee469e1cf",
             "isoDate": "2020-10-20T04:10:00.000Z",
             "title": "Episode 6: NEVER TOO LATE TO SAY SORRY",
@@ -122,6 +151,19 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_BRAINWASHED_P/media/brainwashed-ZSyD0Bo3-20201013.mp3?ttag=episode:5"
             },
+            "entities": [
+                "MKULTRA",
+                "American",
+                "once",
+                "Sept. 11, 2001",
+                "attacks",
+                "America",
+                "the 1960s",
+                "Latin",
+                "CIA",
+                "Base",
+                "Guantanamo Bay Naval"
+            ],
             "guid": "brainwashed-a53946c4-b674-499d-af86-1cbec33d53ae",
             "isoDate": "2020-10-13T04:10:00.000Z",
             "title": "Episode 5: WE TORTURED SOME FOLKS",
@@ -142,6 +184,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_BRAINWASHED_P/media/brainwashed-VdIi0zGh-20201006.mp3?ttag=episode:4"
             },
+            "entities": ["nine", "Herculean", "one", "CIA", "Cameron"],
             "guid": "brainwashed-3442a21f-b9ef-4ab4-931a-6e5c91414680",
             "isoDate": "2020-10-06T04:10:00.000Z",
             "title": "Episode 4: SUING THE CIA",
@@ -162,6 +205,16 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_BRAINWASHED_P/media/brainwashed-xMtsYYay-20200930.mp3?ttag=episode:3"
             },
+            "entities": [
+                "Manchurian Candidate",
+                "Communist",
+                "MKULTRA",
+                "conspiracy",
+                "Stephen Kinzer",
+                "John Marks",
+                "author",
+                "CIA"
+            ],
             "guid": "brainwashed-395e960d-dc00-48e8-ab5a-4856ea11a347",
             "isoDate": "2020-09-30T04:10:00.000Z",
             "title": "Episode 3: EXPOSING MKULTRA",
@@ -182,6 +235,17 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_BRAINWASHED_P/media/brainwashed-khvKX5p0-20200922.mp3?ttag=episode:2"
             },
+            "entities": [
+                "psychiatrist",
+                "his",
+                "American",
+                "once",
+                "Canadian",
+                "director",
+                "Ewen Cameron",
+                "World",
+                "he"
+            ],
             "guid": "brainwashed-1f182deb-c31b-4891-8448-05e273ee8a06",
             "isoDate": "2020-09-23T04:09:00.000Z",
             "title": "Episode 2: PSYCHIC DRIVING",
@@ -202,6 +266,7 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_BRAINWASHED_P/media/brainwashed-XVqA9oEo-20200922.mp3?ttag=episode:1"
             },
+            "entities": ["drugs", "Allan Memorial Institute", "Montreal"],
             "guid": "brainwashed-8e903c70-a737-4bc9-afd1-a852d0a053b7",
             "isoDate": "2020-09-23T04:08:00.000Z",
             "title": "Episode 1: RAVENSCRAG",
@@ -221,6 +286,14 @@
                 "type": "audio/mpeg",
                 "url": "https://cbc.mc.tritondigital.com/CBC_BRAINWASHED_P/media/brainwashed-LSbc94O8-20200902.mp3"
             },
+            "entities": [
+                "MKULTRA",
+                "Orwellian",
+                "Cold",
+                "War",
+                "CIA",
+                "guinea"
+            ],
             "guid": "brainwashed-4d081470-7f4e-47f7-acda-bf40572541bf",
             "isoDate": "2020-09-02T04:10:00.000Z",
             "title": "Trailer: Brainwashed",

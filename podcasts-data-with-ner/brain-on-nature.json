@@ -49,6 +49,14 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/brain-on-nature/presenting-outthere-deerhunter/media.mp3"
             },
+            "entities": [
+                "Indie",
+                "his",
+                "producer",
+                "Sam Anderson",
+                "first",
+                "Sam"
+            ],
             "link": "https://shows.acast.com/brain-on-nature/episodes/presenting-outthere-deerhunter",
             "guid": "dad96c09-0075-4024-bd7b-095fdd29f653",
             "isoDate": "2020-06-03T18:00:00.000Z",
@@ -71,6 +79,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/brain-on-nature/specialannouncement/media.mp3"
             },
+            "entities": ["one", "a second"],
             "link": "https://shows.acast.com/brain-on-nature/episodes/specialannouncement",
             "guid": "da216f21-482f-4e30-9a33-7cd243010fd8",
             "isoDate": "2020-05-28T00:00:00.000Z",
@@ -94,6 +103,17 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/brain-on-nature/presentinghumanature/media.mp3"
             },
+            "entities": [
+                "overnight",
+                "late November",
+                "Canyon",
+                "HumaNature",
+                "Bryce",
+                "two",
+                "Wyoming Public Media",
+                "first",
+                "Utah"
+            ],
             "link": "https://shows.acast.com/brain-on-nature/episodes/presentinghumanature",
             "guid": "c45a7a29-8ddd-4501-9756-abfa8d4f963f",
             "isoDate": "2019-11-27T17:00:00.000Z",
@@ -117,6 +137,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/brain-on-nature/backonthebike/media.mp3"
             },
+            "entities": ["specialist", "He", "he"],
             "link": "https://shows.acast.com/brain-on-nature/episodes/backonthebike",
             "guid": "a85b8067-415d-4d93-a363-6570de4fd550",
             "isoDate": "2019-10-21T17:00:00.000Z",
@@ -140,6 +161,16 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/brain-on-nature/theressciencetothis/media.mp3"
             },
+            "entities": [
+                "doctor",
+                "Olivia Rosenman",
+                "Sarah Allely",
+                "Ariana Martinez",
+                "now",
+                "producer",
+                "accident",
+                "Writer"
+            ],
             "link": "https://shows.acast.com/brain-on-nature/episodes/theressciencetothis",
             "guid": "2e93ce72-9486-42ef-aef6-ae2f19aac758",
             "isoDate": "2019-10-09T04:35:00.000Z",
@@ -163,6 +194,14 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/brain-on-nature/invisibleinjury/media.mp3"
             },
+            "entities": [
+                "Olivia Rosenman",
+                "Cait Ward",
+                "Sarah Allely",
+                "Ariana Martinez",
+                "producer",
+                "Writer"
+            ],
             "link": "https://shows.acast.com/brain-on-nature/episodes/invisibleinjury",
             "guid": "9b033ff3-061e-4157-8e97-d1fbf7addb50",
             "isoDate": "2019-10-03T18:00:00.000Z",
@@ -186,6 +225,14 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/brain-on-nature/ifsymptomspersist-accept/media.mp3"
             },
+            "entities": [
+                "Olivia Rosenman",
+                "<a href=\"https://brainonnature.com/2019/09/09/episode-3-if-symptoms-persist-accept/\" target=\"_blank\" rel=\"noreferrer\">https://brainonnature.com/2019/09/09/episode-3-if-symptoms-persist-accept/",
+                "Sarah Allely",
+                "Ariana Martinez",
+                "producer",
+                "Writer"
+            ],
             "link": "https://shows.acast.com/brain-on-nature/episodes/ifsymptomspersist-accept",
             "guid": "d7b28d9d-f10c-4405-b0f5-71dab4bb4996",
             "isoDate": "2019-09-30T18:00:00.000Z",
@@ -209,6 +256,21 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/brain-on-nature/thewaitingroom/media.mp3"
             },
+            "entities": [
+                "late nights",
+                "two",
+                "accident",
+                "journalist",
+                "five years old",
+                "his",
+                "Olivia Rosenman",
+                "Sarah Allely",
+                "Ariana Martinez",
+                "producer",
+                "Australia",
+                "<a href=\"https://brainonnature.com/2019/09/09/episode-2-the-waiting-room/\" target=\"_blank\" rel=\"noreferrer\">https://brainonnature.com/2019/09/09/episode-2-the-waiting-room/",
+                "Writer"
+            ],
             "link": "https://shows.acast.com/brain-on-nature/episodes/thewaitingroom",
             "guid": "04b722f1-65a0-469c-ad86-a6fb37b861cf",
             "isoDate": "2019-09-26T09:00:00.000Z",
@@ -232,6 +294,14 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/brain-on-nature/theaccident/media.mp3"
             },
+            "entities": [
+                "Olivia Rosenman",
+                "<a href=\"https://brainonnature.com/2019/09/05/the-accident-episode-1/\" rel=\"noopener noreferrer\" target=\"_blank\">https://brainonnature.com/2019/09/05/the-accident-episode-1/",
+                "Sarah Allely",
+                "Ariana Martinez",
+                "producer",
+                "Writer"
+            ],
             "link": "https://shows.acast.com/brain-on-nature/episodes/theaccident",
             "guid": "19ea184b-6675-4c13-aeb2-7f13aadae297",
             "isoDate": "2019-09-23T18:00:00.000Z",
@@ -254,6 +324,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/brain-on-nature/thememusic-leafnotreebyjonathanzenti/media.mp3"
             },
+            "entities": ["Jonthan Zenti"],
             "link": "https://shows.acast.com/brain-on-nature/episodes/thememusic-leafnotreebyjonathanzenti",
             "guid": "88826b53-7d99-4dc1-884a-a6e1f0fbf3b8",
             "isoDate": "2019-09-09T05:41:00.000Z",

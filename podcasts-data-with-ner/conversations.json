@@ -46,6 +46,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202204/aaj-2022-04-08.mp3"
             },
+            "entities": ["author"],
             "link": "http://www.abc.net.au/radio/programs/conversations/jeffrey-masson-pets-grief-lost-companions/13823688",
             "guid": "http://www.abc.net.au/radio/programs/conversations/jeffrey-masson-pets-grief-lost-companions/13823688",
             "isoDate": "2022-04-08T00:00:00.000Z",
@@ -65,6 +66,13 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202204/aaj-2022-04-07.mp3"
             },
+            "entities": [
+                "she",
+                "broadcaster",
+                "her",
+                "suicide",
+                "Indira Naidoo"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/indira-naidoo-journalism-grief-loss-healing/13821970",
             "guid": "http://www.abc.net.au/radio/programs/conversations/indira-naidoo-journalism-grief-loss-healing/13821970",
             "isoDate": "2022-04-07T00:00:00.000Z",
@@ -84,6 +92,13 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202204/aaj-2022-04-06.mp3"
             },
+            "entities": [
+                "she",
+                "Novelist",
+                "Kate Grenville",
+                "Elizabeth Macarthur",
+                "illness"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/kate-grenville-elizabeth-macarthur-john-macarthur-merinos-colony/13819874",
             "guid": "http://www.abc.net.au/radio/programs/conversations/kate-grenville-elizabeth-macarthur-john-macarthur-merinos-colony/13819874",
             "isoDate": "2022-04-06T00:00:00.000Z",
@@ -103,6 +118,13 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202204/aaj-2022-04-05.mp3"
             },
+            "entities": [
+                "Laurie Bateman",
+                "Kamilaroi",
+                "Guinness World Record-holding",
+                "sheep shearer",
+                "18-month"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/laurie-bateman-shearer-turned-cop/13818186",
             "guid": "http://www.abc.net.au/radio/programs/conversations/laurie-bateman-shearer-turned-cop/13818186",
             "isoDate": "2022-04-05T00:00:00.000Z",
@@ -122,6 +144,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202204/aaj-2022-04-04.mp3"
             },
+            "entities": ["comedian", "Nanette", "Douglas", "her", "Australian"],
             "link": "http://www.abc.net.au/radio/programs/conversations/hannah-gadsby-comedy-nanette-douglas-dog-autism/13816518",
             "guid": "http://www.abc.net.au/radio/programs/conversations/hannah-gadsby-comedy-nanette-douglas-dog-autism/13816518",
             "isoDate": "2022-04-04T00:00:00.000Z",
@@ -141,6 +164,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202204/aaj-2022-04-01.mp3"
             },
+            "entities": ["she", "the years", "her", "Sian Prior", "50"],
             "link": "http://www.abc.net.au/radio/programs/conversations/sian-prior-childless-childlessness-solo-living-sadness-freedom/13813608",
             "guid": "http://www.abc.net.au/radio/programs/conversations/sian-prior-childless-childlessness-solo-living-sadness-freedom/13813608",
             "isoDate": "2022-04-01T00:00:00.000Z",
@@ -160,6 +184,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202203/aaj-2022-03-31.mp3"
             },
+            "entities": ["English", "Cornish", "his", "author", "Patrick Gale"],
             "link": "http://www.abc.net.au/radio/programs/conversations/patrick-gale-author-historical-fiction-family-secrets-bullying/13811654",
             "guid": "http://www.abc.net.au/radio/programs/conversations/patrick-gale-author-historical-fiction-family-secrets-bullying/13811654",
             "isoDate": "2022-03-31T00:00:00.000Z",
@@ -179,6 +204,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202203/aaj-2022-03-30.mp3"
             },
+            "entities": [
+                "his",
+                "Houdini",
+                "Arthur",
+                "the 1970s",
+                "Australia",
+                "him",
+                "44-gallon"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/arthur-coghlan-magic-magic-shows-magician-escapes-mind-boggling/13809598",
             "guid": "http://www.abc.net.au/radio/programs/conversations/arthur-coghlan-magic-magic-shows-magician-escapes-mind-boggling/13809598",
             "isoDate": "2022-03-30T00:00:00.000Z",
@@ -198,6 +232,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202203/aaj-2022-03-29.mp3"
             },
+            "entities": [
+                "each year",
+                "Baltimore",
+                "his",
+                "million",
+                "J.C Faulk",
+                "He",
+                "him"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/j.c.faulk-black-lives-matter-baltimore-food-program-racism/13807694",
             "guid": "http://www.abc.net.au/radio/programs/conversations/j.c.faulk-black-lives-matter-baltimore-food-program-racism/13807694",
             "isoDate": "2022-03-29T00:00:00.000Z",
@@ -217,6 +260,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202203/aaj-2022-03-28.mp3"
             },
+            "entities": ["his", "Australian", "him", "Kerby Brown"],
             "link": "http://www.abc.net.au/radio/programs/conversations/kerby-brown-big-slab-surfer-facing-monsters-mutant-waves-courage/13805954",
             "guid": "http://www.abc.net.au/radio/programs/conversations/kerby-brown-big-slab-surfer-facing-monsters-mutant-waves-courage/13805954",
             "isoDate": "2022-03-28T00:00:00.000Z",
@@ -236,6 +280,13 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202203/aaj-2022-03-25.mp3"
             },
+            "entities": [
+                "his",
+                "Sargasso Sea",
+                "Author",
+                "Patrik Svensson",
+                "him"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/patrik-svensson-mystery-eels-father-sweden-sargasso-sea/13803190",
             "guid": "http://www.abc.net.au/radio/programs/conversations/patrik-svensson-mystery-eels-father-sweden-sargasso-sea/13803190",
             "isoDate": "2022-03-25T00:00:00.000Z",
@@ -255,6 +306,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202203/aaj-2022-03-24.mp3"
             },
+            "entities": [
+                "communist",
+                "she",
+                "She",
+                "Hungary",
+                "poker player",
+                "Bo Remenyi",
+                "Australia"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/bo-remenyi-cardiology-remote-communities-n.t-high-stakes-poker/13801012",
             "guid": "http://www.abc.net.au/radio/programs/conversations/bo-remenyi-cardiology-remote-communities-n.t-high-stakes-poker/13801012",
             "isoDate": "2022-03-24T00:00:00.000Z",
@@ -274,6 +334,17 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202203/aaj-2022-03-23.mp3"
             },
+            "entities": [
+                "War crimes",
+                "investigator",
+                "his",
+                "International Criminal Court",
+                "Brendan Rook",
+                "Libyan",
+                "dictator",
+                "Muammar Gaddafi",
+                "years"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/brendan-rook-war-crimes-investigator-who-betrayed-anne-frank/13799130",
             "guid": "http://www.abc.net.au/radio/programs/conversations/brendan-rook-war-crimes-investigator-who-betrayed-anne-frank/13799130",
             "isoDate": "2022-03-23T00:00:00.000Z",
@@ -293,6 +364,13 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202203/aaj-2022-03-22.mp3"
             },
+            "entities": [
+                "Helen Fitzgerald",
+                "her",
+                "social worker",
+                "Scotland",
+                "writer"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/helen-fitzgerald-glasgow-slums-jail-barlinnie-crime-justice-book/13797474",
             "guid": "http://www.abc.net.au/radio/programs/conversations/helen-fitzgerald-glasgow-slums-jail-barlinnie-crime-justice-book/13797474",
             "isoDate": "2022-03-22T00:00:00.000Z",
@@ -312,6 +390,16 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202203/aaj-2022-03-21.mp3"
             },
+            "entities": [
+                "she",
+                "White",
+                "Zen Buddhism",
+                "Chinese-Australian",
+                "her",
+                "artist",
+                "Lindy Lee",
+                "Australia"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/lindy-lee-artist-sculptor-white-australia-policy-zen-buddhism/13795890",
             "guid": "http://www.abc.net.au/radio/programs/conversations/lindy-lee-artist-sculptor-white-australia-policy-zen-buddhism/13795890",
             "isoDate": "2022-03-21T00:00:00.000Z",
@@ -331,6 +419,14 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202203/aaj-2022-03-18.mp3"
             },
+            "entities": [
+                "Derek Pugh",
+                "36,000",
+                "historian",
+                "Northern Territory",
+                "Australia",
+                "19th century"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/overland-telegraph-line-nt-charles-todd-derek-pugh/13793392",
             "guid": "http://www.abc.net.au/radio/programs/conversations/overland-telegraph-line-nt-charles-todd-derek-pugh/13793392",
             "isoDate": "2022-03-18T00:00:00.000Z",
@@ -350,6 +446,16 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202203/aaj-2022-03-17.mp3"
             },
+            "entities": [
+                "New Zealand",
+                "leader",
+                "cult",
+                "Serafina Tane",
+                "South Island",
+                "Jesus Christ",
+                "charismatic",
+                "Douglas Metcalfe"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/serafina-tane-cult-nz-south-island-camp-david-cycling-recovery/13791514",
             "guid": "http://www.abc.net.au/radio/programs/conversations/serafina-tane-cult-nz-south-island-camp-david-cycling-recovery/13791514",
             "isoDate": "2022-03-17T00:00:00.000Z",
@@ -369,6 +475,12 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202203/aaj-2022-03-16.mp3"
             },
+            "entities": [
+                "his",
+                "65,000 years",
+                "Duane Hamacher",
+                "Indigenous Astronomy"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/duane-hamacher-indigenous-elders-astronomy-first-astronomers/13789670",
             "guid": "http://www.abc.net.au/radio/programs/conversations/duane-hamacher-indigenous-elders-astronomy-first-astronomers/13789670",
             "isoDate": "2022-03-16T00:00:00.000Z",
@@ -388,6 +500,13 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202203/aaj-2022-03-15.mp3"
             },
+            "entities": [
+                "his",
+                "Paul Williams",
+                "Mark Trevorrow",
+                "Anthony Newley",
+                "Bob Downe"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/mark-trevorrow-songs-antony-newley-cilla-black-paul-williams/13787830",
             "guid": "http://www.abc.net.au/radio/programs/conversations/mark-trevorrow-songs-antony-newley-cilla-black-paul-williams/13787830",
             "isoDate": "2022-03-15T00:00:00.000Z",
@@ -407,6 +526,14 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202203/aaj-2022-03-14.mp3"
             },
+            "entities": [
+                "his",
+                "Ireland",
+                "Northern",
+                "Dara",
+                "seventeen years",
+                "first"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/dara-mcanulty-naturalist-ireland-wild-creatures-landscape-rpt/13786078",
             "guid": "http://www.abc.net.au/radio/programs/conversations/dara-mcanulty-naturalist-ireland-wild-creatures-landscape-rpt/13786078",
             "isoDate": "2022-03-14T00:00:00.000Z",
@@ -426,6 +553,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202203/aaj-2022-03-11.mp3"
             },
+            "entities": ["his", "Kim Crotty", "two", "He"],
             "link": "http://www.abc.net.au/radio/programs/conversations/kim-crotty-marijuana-playwright-prison-stories-sons/13783218",
             "guid": "http://www.abc.net.au/radio/programs/conversations/kim-crotty-marijuana-playwright-prison-stories-sons/13783218",
             "isoDate": "2022-03-11T00:00:00.000Z",
@@ -445,6 +573,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202203/aaj-2022-03-10.mp3"
             },
+            "entities": [
+                "boxer",
+                "his",
+                "Mixed",
+                "Martial artist",
+                "Mexican-American",
+                "him",
+                "US"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/diego-garijo-dos-pistolas-lola-pistola-guanajuato-mma-fighting/13781154",
             "guid": "http://www.abc.net.au/radio/programs/conversations/diego-garijo-dos-pistolas-lola-pistola-guanajuato-mma-fighting/13781154",
             "isoDate": "2022-03-10T00:00:00.000Z",
@@ -464,6 +601,16 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202203/aaj-2022-03-09.mp3"
             },
+            "entities": [
+                "she",
+                "her",
+                "the 1930s",
+                "90",
+                "37,000",
+                "Australia",
+                "Elizabeth Chong",
+                "Victoria Market"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/elizabeth-chong-queen-chinese-cooking-dim-sim/13778902",
             "guid": "http://www.abc.net.au/radio/programs/conversations/elizabeth-chong-queen-chinese-cooking-dim-sim/13778902",
             "isoDate": "2022-03-09T00:00:00.000Z",
@@ -483,6 +630,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202203/aaj-2022-03-08.mp3"
             },
+            "entities": ["she", "her", "Musician", "Eliza Hull", "years"],
             "link": "http://www.abc.net.au/radio/programs/conversations/eliza-hull-disability-music-parenthood-disability-activism/13777006",
             "guid": "http://www.abc.net.au/radio/programs/conversations/eliza-hull-disability-music-parenthood-disability-activism/13777006",
             "isoDate": "2022-03-08T00:00:00.000Z",
@@ -502,6 +650,19 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202203/aaj-2022-03-07.mp3"
             },
+            "entities": [
+                "She",
+                "she",
+                "One",
+                "America",
+                "Revolutionary",
+                "now",
+                "War",
+                "1716",
+                "Sally Snowman",
+                "two",
+                "first"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/sally-snowman-boston-light-lighthouse-keeper-united-states/13775190",
             "guid": "http://www.abc.net.au/radio/programs/conversations/sally-snowman-boston-light-lighthouse-keeper-united-states/13775190",
             "isoDate": "2022-03-07T00:00:00.000Z",
@@ -521,6 +682,17 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202203/aaj-2022-03-04-presents-dig-the-ring-in.mp3"
             },
+            "entities": [
+                "2019",
+                "Australian",
+                "past",
+                "one",
+                "Now",
+                "Richard Fidler",
+                "Hoysted",
+                "Australia",
+                "first"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/presents-dig-the-ring-in/13780332",
             "guid": "http://www.abc.net.au/radio/programs/conversations/presents-dig-the-ring-in/13780332",
             "isoDate": "2022-03-04T06:00:27.000Z",
@@ -540,6 +712,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202203/aaj-2022-03-04.mp3"
             },
+            "entities": ["Autism", "her", "Jodi Rodgers", "sexologist"],
             "link": "http://www.abc.net.au/radio/programs/conversations/jodi-rodgers-love-on-the-spectrum-autism-dating-love-aspergers/13771928",
             "guid": "http://www.abc.net.au/radio/programs/conversations/jodi-rodgers-love-on-the-spectrum-autism-dating-love-aspergers/13771928",
             "isoDate": "2022-03-04T00:00:00.000Z",
@@ -559,6 +732,17 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202203/aaj-2022-03-03.mp3"
             },
+            "entities": [
+                "Manchuria",
+                "Communist",
+                "3",
+                "Ben Macintyre",
+                "the 1930s",
+                "Soviet",
+                "Hitler",
+                "housewife",
+                "Sonya"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/ben-mcintyre-agent-sonya-1930s-soviet-spy/13770208",
             "guid": "http://www.abc.net.au/radio/programs/conversations/ben-mcintyre-agent-sonya-1930s-soviet-spy/13770208",
             "isoDate": "2022-03-03T00:00:00.000Z",
@@ -578,6 +762,17 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202203/aaj-2022-03-02.mp3"
             },
+            "entities": [
+                "She",
+                "Iggy Pop",
+                "1973",
+                "her",
+                "drugs",
+                "Tana Douglas",
+                "first",
+                "Elton John",
+                "DC"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/tana-douglas-first-woman-roadie-rock-n-roll-acdc-elton-john/13767884",
             "guid": "http://www.abc.net.au/radio/programs/conversations/tana-douglas-first-woman-roadie-rock-n-roll-acdc-elton-john/13767884",
             "isoDate": "2022-03-02T00:00:00.000Z",
@@ -597,6 +792,17 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202203/aaj-2022-03-01.mp3"
             },
+            "entities": [
+                "She",
+                "Iggy Pop",
+                "1973",
+                "her",
+                "drugs",
+                "Tana Douglas",
+                "first",
+                "Elton John",
+                "DC"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/tana-douglas-rock-music-rock-n-roll-roadie/13766024",
             "guid": "http://www.abc.net.au/radio/programs/conversations/tana-douglas-rock-music-rock-n-roll-roadie/13766024",
             "isoDate": "2022-03-01T00:00:00.000Z",
@@ -616,6 +822,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202202/aaj-2022-02-28.mp3"
             },
+            "entities": ["David Sinclair", "disease", "Biologist"],
             "link": "http://www.abc.net.au/radio/programs/conversations/david-sinclair-aging-biology-living-to-120/13764754",
             "guid": "http://www.abc.net.au/radio/programs/conversations/david-sinclair-aging-biology-living-to-120/13764754",
             "isoDate": "2022-02-28T00:00:00.000Z",
@@ -635,6 +842,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202202/aaj-2022-02-25.mp3"
             },
+            "entities": ["his", "her", "Claudia Chan Shaw", "three"],
             "link": "http://www.abc.net.au/radio/programs/conversations/claudia-chan-shaw-fashion-shanghai-collecting-family/13761640",
             "guid": "http://www.abc.net.au/radio/programs/conversations/claudia-chan-shaw-fashion-shanghai-collecting-family/13761640",
             "isoDate": "2022-02-25T00:00:00.000Z",
@@ -654,6 +862,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202202/aaj-2022-02-24.mp3"
             },
+            "entities": ["doctor", "Warren Ward", "Psychiatrist", "him", "he"],
             "link": "http://www.abc.net.au/radio/programs/conversations/warren-ward-eating-disorders-love-lives-philosophers/13759796",
             "guid": "http://www.abc.net.au/radio/programs/conversations/warren-ward-eating-disorders-love-lives-philosophers/13759796",
             "isoDate": "2022-02-24T00:00:00.000Z",
@@ -673,6 +882,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202202/aaj-2022-02-23.mp3"
             },
+            "entities": ["she", "her", "Naomi Mourra", "Jehovah", "21"],
             "link": "http://www.abc.net.au/radio/programs/conversations/naomi-mourra-leaving-jehovahs-witness-faith-sexuality-culture/13757856",
             "guid": "http://www.abc.net.au/radio/programs/conversations/naomi-mourra-leaving-jehovahs-witness-faith-sexuality-culture/13757856",
             "isoDate": "2022-02-23T00:00:00.000Z",
@@ -692,6 +902,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202202/aaj-2022-02-22.mp3"
             },
+            "entities": ["Afghanistan", "her", "Australia", "Durkhanai Ayubi"],
             "link": "http://www.abc.net.au/radio/programs/conversations/durkhanai-ayubi-afghanistan-afghani-food-culture-and-history/13756116",
             "guid": "http://www.abc.net.au/radio/programs/conversations/durkhanai-ayubi-afghanistan-afghani-food-culture-and-history/13756116",
             "isoDate": "2022-02-22T00:00:00.000Z",
@@ -711,6 +922,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202202/aaj-2022-02-21.mp3"
             },
+            "entities": ["she", "her", "Iain McCalman", "Delia Akeley"],
             "link": "http://www.abc.net.au/radio/programs/conversations/delia-akeley-monkey-vervet-iain-mccalman-safari-teddy-roosevelt/13754254",
             "guid": "http://www.abc.net.au/radio/programs/conversations/delia-akeley-monkey-vervet-iain-mccalman-safari-teddy-roosevelt/13754254",
             "isoDate": "2022-02-21T00:00:00.000Z",
@@ -730,6 +942,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202202/aaj-2022-02-18.mp3"
             },
+            "entities": ["70", "Freediver Amber Bourke"],
             "link": "http://www.abc.net.au/radio/programs/conversations/amber-bourke-freediving-ocean-meditation-breathing-deep-diving/13751574",
             "guid": "http://www.abc.net.au/radio/programs/conversations/amber-bourke-freediving-ocean-meditation-breathing-deep-diving/13751574",
             "isoDate": "2022-02-18T00:00:00.000Z",
@@ -749,6 +962,13 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202202/aaj-2022-02-17.mp3"
             },
+            "entities": [
+                "communist",
+                "Stephen Walker",
+                "Soviet R-7",
+                "two",
+                "first"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/stephen-walker-yuri-gagarin-cold-war-cosmonaut-space-russia/13749952",
             "guid": "http://www.abc.net.au/radio/programs/conversations/stephen-walker-yuri-gagarin-cold-war-cosmonaut-space-russia/13749952",
             "isoDate": "2022-02-17T00:00:00.000Z",
@@ -768,6 +988,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202202/aaj-2022-02-16.mp3"
             },
+            "entities": ["Joni Hall", "trainer", "Neil McDonald"],
             "link": "http://www.abc.net.au/radio/programs/conversations/neil-mcdonald-joni-hall-working-dogs-muster-dogs/13748094",
             "guid": "http://www.abc.net.au/radio/programs/conversations/neil-mcdonald-joni-hall-working-dogs-muster-dogs/13748094",
             "isoDate": "2022-02-16T00:00:00.000Z",
@@ -787,6 +1008,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202202/aaj-2022-02-15.mp3"
             },
+            "entities": ["his", "Oils", "now", "Peter Garrett", "Midnight"],
             "link": "http://www.abc.net.au/radio/programs/conversations/peter-garrett-midnight-oil-australian-music-environment-politics/13746318",
             "guid": "http://www.abc.net.au/radio/programs/conversations/peter-garrett-midnight-oil-australian-music-environment-politics/13746318",
             "isoDate": "2022-02-15T00:00:00.000Z",
@@ -806,6 +1028,14 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202202/aaj-2022-02-14.mp3"
             },
+            "entities": [
+                "sailor",
+                "Jeremy Austin",
+                "his",
+                "14-year",
+                "one",
+                "Australia"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/jeremy-austin-dna-hmas-sydney-sinking-remains-christmas-island/13744678",
             "guid": "http://www.abc.net.au/radio/programs/conversations/jeremy-austin-dna-hmas-sydney-sinking-remains-christmas-island/13744678",
             "isoDate": "2022-02-14T00:00:00.000Z",
@@ -825,6 +1055,16 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202202/aaj-2022-02-11.mp3"
             },
+            "entities": [
+                "his",
+                "Gavin Pretor-Pinney",
+                "Morning",
+                "England",
+                "Gulf of Carpentaria",
+                "Glory",
+                "Australia",
+                "him"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/gavin-prator-pinney-clouds-cloudscapes-cumulus-morning-glory-sky/13742036",
             "guid": "http://www.abc.net.au/radio/programs/conversations/gavin-prator-pinney-clouds-cloudscapes-cumulus-morning-glory-sky/13742036",
             "isoDate": "2022-02-11T00:00:00.000Z",
@@ -844,6 +1084,19 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202202/aaj-2022-02-10.mp3"
             },
+            "entities": [
+                "Kate Forsyth",
+                "She",
+                "Charlotte",
+                "her",
+                "author",
+                "now",
+                "London",
+                "Belinda Murrell",
+                "Australia",
+                "1826",
+                "first"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/kate-forysth-charlotte-waring-atkinson-belinda-murrell/13740430",
             "guid": "http://www.abc.net.au/radio/programs/conversations/kate-forysth-charlotte-waring-atkinson-belinda-murrell/13740430",
             "isoDate": "2022-02-10T00:00:00.000Z",
@@ -863,6 +1116,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202202/aaj-2022-02-09.mp3"
             },
+            "entities": ["1964", "her", "Mimi Wellisch", "Danish"],
             "link": "http://www.abc.net.au/radio/programs/conversations/mimi-wellisch-viggo-knackstredt-love-story-copenhagen/13738268",
             "guid": "http://www.abc.net.au/radio/programs/conversations/mimi-wellisch-viggo-knackstredt-love-story-copenhagen/13738268",
             "isoDate": "2022-02-09T00:00:00.000Z",
@@ -882,6 +1136,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202202/aaj-2022-02-08.mp3"
             },
+            "entities": [
+                "his",
+                "Adrian",
+                "62 years",
+                "Damian Callinan",
+                "1946",
+                "Kathleen",
+                "accident"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/damian-callinan-parents-true-love-romance-diaries-accident/13736684",
             "guid": "http://www.abc.net.au/radio/programs/conversations/damian-callinan-parents-true-love-romance-diaries-accident/13736684",
             "isoDate": "2022-02-08T00:00:00.000Z",
@@ -901,6 +1164,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202202/aaj-2022-02-07.mp3"
             },
+            "entities": ["John Colapinto", "his", "Bette Midler", "he", "him"],
             "link": "http://www.abc.net.au/radio/programs/conversations/john-colapinto-human-voice-vocal-cords-larynx-speech-song/13735102",
             "guid": "http://www.abc.net.au/radio/programs/conversations/john-colapinto-human-voice-vocal-cords-larynx-speech-song/13735102",
             "isoDate": "2022-02-07T00:00:00.000Z",
@@ -920,6 +1184,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202202/aaj-2022-02-04.mp3"
             },
+            "entities": [
+                "1",
+                "Richmond Football Club",
+                "Ash Barty",
+                "her",
+                "Ben",
+                "He",
+                "Steph Gilmore"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/ash-barty-sports-mentor-ben-crowe-psychology/13732544",
             "guid": "http://www.abc.net.au/radio/programs/conversations/ash-barty-sports-mentor-ben-crowe-psychology/13732544",
             "isoDate": "2022-02-04T00:00:00.000Z",
@@ -939,6 +1212,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202202/aaj-2022-02-03.mp3"
             },
+            "entities": ["she", "her", "Lisa Leong"],
             "link": "http://www.abc.net.au/radio/programs/conversations/lisa-leong-radio-working-life-career-broadcasting-motherhood/13731108",
             "guid": "http://www.abc.net.au/radio/programs/conversations/lisa-leong-radio-working-life-career-broadcasting-motherhood/13731108",
             "isoDate": "2022-02-03T00:00:00.000Z",
@@ -958,6 +1232,12 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202202/aaj-2022-02-02.mp3"
             },
+            "entities": [
+                "Katherine Moseby",
+                "2 million",
+                "Ecologist",
+                "Australia"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/katherine-moseby-science-arid-recovery-bilbies-natural-selection/13729324",
             "guid": "http://www.abc.net.au/radio/programs/conversations/katherine-moseby-science-arid-recovery-bilbies-natural-selection/13729324",
             "isoDate": "2022-02-02T00:00:00.000Z",
@@ -977,6 +1257,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202202/aaj-2022-02-01.mp3"
             },
+            "entities": [
+                "Mark May",
+                "35 years",
+                "his",
+                "Tom Patterson",
+                "He",
+                "the 1980s",
+                "Writer"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/tom-patterson-mark-may-missing-hermit-wild-rivers/13728172",
             "guid": "http://www.abc.net.au/radio/programs/conversations/tom-patterson-mark-may-missing-hermit-wild-rivers/13728172",
             "isoDate": "2022-02-01T00:00:00.000Z",
@@ -996,6 +1285,13 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202201/aaj-2022-01-31.mp3"
             },
+            "entities": [
+                "Phillip Deery",
+                "ASIO",
+                "Adelaide",
+                "Historian",
+                "Anne Neill"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/phillip-deery-asio-cold-war-australian-communist-party-mup/13726668",
             "guid": "http://www.abc.net.au/radio/programs/conversations/phillip-deery-asio-cold-war-australian-communist-party-mup/13726668",
             "isoDate": "2022-01-31T00:00:00.000Z",
@@ -1015,6 +1311,18 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202201/aaj-2022-01-28.mp3"
             },
+            "entities": [
+                "his",
+                "student",
+                "nearly two decades",
+                "Andrew",
+                "now",
+                "Africa",
+                "Andrew Browning",
+                "He",
+                "first",
+                "Ethiopia"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/andrew-browning-doctor-africa-women-poverty-obstetrics-fistula/13724202",
             "guid": "http://www.abc.net.au/radio/programs/conversations/andrew-browning-doctor-africa-women-poverty-obstetrics-fistula/13724202",
             "isoDate": "2022-01-28T00:00:00.000Z",
@@ -1034,6 +1342,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202201/aaj-2022-01-27.mp3"
             },
+            "entities": ["she", "Today", "Samantha Nixon", "day"],
             "link": "http://www.abc.net.au/radio/programs/conversations/dr-samantha-nixon-spider-venom-scientist-funnel-web-tarantula/13722766",
             "guid": "http://www.abc.net.au/radio/programs/conversations/dr-samantha-nixon-spider-venom-scientist-funnel-web-tarantula/13722766",
             "isoDate": "2022-01-27T00:00:00.000Z",
@@ -1053,6 +1362,14 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202201/aaj-2022-01-25.mp3"
             },
+            "entities": [
+                "Hollywood",
+                "She",
+                "her",
+                "16 years",
+                "Ky Furneaux",
+                "stunt performer"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/ky-furneaux-hollywood-stunt-performer-survivalist-naked-afraid/13727946",
             "guid": "http://www.abc.net.au/radio/programs/conversations/ky-furneaux-hollywood-stunt-performer-survivalist-naked-afraid/13727946",
             "isoDate": "2022-01-25T00:00:00.000Z",
@@ -1072,6 +1389,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202201/aaj-2022-01-24.mp3"
             },
+            "entities": ["Justin Carter", "his", "Neville", "Chris", "he"],
             "link": "http://www.abc.net.au/radio/programs/conversations/motorbike-odyssey-family-strzelecki-track-outback-heat-history/13708484",
             "guid": "http://www.abc.net.au/radio/programs/conversations/motorbike-odyssey-family-strzelecki-track-outback-heat-history/13708484",
             "isoDate": "2022-01-24T00:00:00.000Z",
@@ -1091,6 +1409,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202201/aaj-2022-01-21.mp3"
             },
+            "entities": ["she", "Wendy Sharpe", "her", "Bessie", "Jewish"],
             "link": "http://www.abc.net.au/radio/programs/conversations/wendy-sharpe-artist-east-timor-war-art-jewish-family-story/13706222",
             "guid": "http://www.abc.net.au/radio/programs/conversations/wendy-sharpe-artist-east-timor-war-art-jewish-family-story/13706222",
             "isoDate": "2022-01-21T00:00:00.000Z",
@@ -1110,6 +1429,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202201/aaj-2022-01-20.mp3"
             },
+            "entities": [
+                "she",
+                "her",
+                "tattoo artist",
+                "suicide",
+                "stripper",
+                "drug dealing",
+                "Ally Colquitt"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/ally-colquitt-tattoo-drugs-addiction-arrest-jail-redemption/13704746",
             "guid": "http://www.abc.net.au/radio/programs/conversations/ally-colquitt-tattoo-drugs-addiction-arrest-jail-redemption/13704746",
             "isoDate": "2022-01-20T00:00:00.000Z",
@@ -1129,6 +1457,12 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202201/aaj-2022-01-19.mp3"
             },
+            "entities": [
+                "Australian",
+                "Joyce Morgan",
+                "Elizabeth Von Arnim",
+                "Victorian London"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/countess-of-kirribilli-elizabeth-von-arnim-joyce-morgan/13703596",
             "guid": "http://www.abc.net.au/radio/programs/conversations/countess-of-kirribilli-elizabeth-von-arnim-joyce-morgan/13703596",
             "isoDate": "2022-01-19T00:00:00.000Z",
@@ -1148,6 +1482,13 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202201/aaj-2022-01-18.mp3"
             },
+            "entities": [
+                "Torres",
+                "Strait",
+                "40 years",
+                "Trevor Lambkin",
+                "he"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/trevor-lambkin-butterflies-torres-strait-ian-knight/13702338",
             "guid": "http://www.abc.net.au/radio/programs/conversations/trevor-lambkin-butterflies-torres-strait-ian-knight/13702338",
             "isoDate": "2022-01-18T00:00:00.000Z",
@@ -1167,6 +1508,12 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202201/aaj-2022-01-17.mp3"
             },
+            "entities": [
+                "his",
+                "Nobel Peace Prize",
+                "Australian",
+                "businessman"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/steve-killelea-global-peace-index-peace-in-the-time-of-chaos/13701036",
             "guid": "http://www.abc.net.au/radio/programs/conversations/steve-killelea-global-peace-index-peace-in-the-time-of-chaos/13701036",
             "isoDate": "2022-01-17T00:00:00.000Z",
@@ -1186,6 +1533,18 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202112/aaj-2021-12-17.mp3"
             },
+            "entities": [
+                "performer",
+                "his",
+                "recent years",
+                "author",
+                "Flacco",
+                "Paul",
+                "musician",
+                "he",
+                "He",
+                "Sydney"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/bellringing-and-listening-to-the-dying-paul-livingston-flacco/13672558",
             "guid": "http://www.abc.net.au/radio/programs/conversations/bellringing-and-listening-to-the-dying-paul-livingston-flacco/13672558",
             "isoDate": "2021-12-17T00:00:00.000Z",
@@ -1205,6 +1564,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202112/aaj-2021-12-16.mp3"
             },
+            "entities": ["Christian", "Wright", "Yolŋu"],
             "link": "http://www.abc.net.au/radio/programs/conversations/christian-wright-male-midwife-babies-birthing-yol%C5%8Bu-arnhem-land/13670788",
             "guid": "http://www.abc.net.au/radio/programs/conversations/christian-wright-male-midwife-babies-birthing-yol%C5%8Bu-arnhem-land/13670788",
             "isoDate": "2021-12-16T00:00:00.000Z",
@@ -1224,6 +1584,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202112/aaj-2021-12-15.mp3"
             },
+            "entities": [
+                "she",
+                "her",
+                "Mandy",
+                "four",
+                "2013",
+                "suicide",
+                "sepsis"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/mandy-mccracken-storyteller-life-after-quadruple-amputation/13668656",
             "guid": "http://www.abc.net.au/radio/programs/conversations/mandy-mccracken-storyteller-life-after-quadruple-amputation/13668656",
             "isoDate": "2021-12-15T00:00:00.000Z",
@@ -1243,6 +1612,16 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202112/aaj-2021-12-14.mp3"
             },
+            "entities": [
+                "Brisbane",
+                "his",
+                "Cold",
+                "her",
+                "Sue-Ellen Kusher",
+                "War",
+                "suburbia",
+                "three"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/sue-ellen-kusher-secret-agents-in-the-suburbs/13666862",
             "guid": "http://www.abc.net.au/radio/programs/conversations/sue-ellen-kusher-secret-agents-in-the-suburbs/13666862",
             "isoDate": "2021-12-14T00:00:00.000Z",
@@ -1262,6 +1641,17 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202112/aaj-2021-12-13.mp3"
             },
+            "entities": [
+                "she",
+                "ABC",
+                "his",
+                "presenter",
+                "Charlie",
+                "ATSI",
+                "Gurindji",
+                "he",
+                "violence"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/charlie-king-jack-and-ruby-parents-stolen-generation/13664684",
             "guid": "http://www.abc.net.au/radio/programs/conversations/charlie-king-jack-and-ruby-parents-stolen-generation/13664684",
             "isoDate": "2021-12-13T00:00:00.000Z",
@@ -1281,6 +1671,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202112/aaj-2021-12-10.mp3"
             },
+            "entities": ["five"],
             "link": "http://www.abc.net.au/radio/programs/conversations/the-animal-that-walked-into-my-life-rpt/13661856",
             "guid": "http://www.abc.net.au/radio/programs/conversations/the-animal-that-walked-into-my-life-rpt/13661856",
             "isoDate": "2021-12-10T00:00:00.000Z",
@@ -1300,6 +1691,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202112/aaj-2021-12-09.mp3"
             },
+            "entities": ["Santa", "his", "William"],
             "link": "http://www.abc.net.au/radio/programs/conversations/william-mcinnes-actor-christmas/13659954",
             "guid": "http://www.abc.net.au/radio/programs/conversations/william-mcinnes-actor-christmas/13659954",
             "isoDate": "2021-12-09T00:00:00.000Z",
@@ -1319,6 +1711,13 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202112/aaj-2021-12-08.mp3"
             },
+            "entities": [
+                "Ann Patchett",
+                "American",
+                "her",
+                "novelist",
+                "a year"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/ann-patchett-novelist-three-fathers-life-story/13657894",
             "guid": "http://www.abc.net.au/radio/programs/conversations/ann-patchett-novelist-three-fathers-life-story/13657894",
             "isoDate": "2021-12-08T00:00:00.000Z",
@@ -1338,6 +1737,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202112/aaj-2021-12-07-bonus.mp3"
             },
+            "entities": ["his", "Jamie Teh", "100,000", "he"],
             "link": "http://www.abc.net.au/radio/programs/conversations/jamie-teh-blind-nvda-screen-reader/13663528",
             "guid": "http://www.abc.net.au/radio/programs/conversations/jamie-teh-blind-nvda-screen-reader/13663528",
             "isoDate": "2021-12-07T04:00:00.000Z",
@@ -1357,6 +1757,13 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202112/aaj-2021-12-07.mp3"
             },
+            "entities": [
+                "Jamie",
+                "his",
+                "a few years",
+                "100,000",
+                "Michael Curran"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/michael-curran-blind-person-free-software-for-the-blind/13656040",
             "guid": "http://www.abc.net.au/radio/programs/conversations/michael-curran-blind-person-free-software-for-the-blind/13656040",
             "isoDate": "2021-12-07T00:00:00.000Z",
@@ -1376,6 +1783,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202112/aaj-2021-12-06.mp3"
             },
+            "entities": ["actor", "his", "Australian", "writer", "he"],
             "link": "http://www.abc.net.au/radio/programs/conversations/adam-zwar-twelve-summers-cricket/13654272",
             "guid": "http://www.abc.net.au/radio/programs/conversations/adam-zwar-twelve-summers-cricket/13654272",
             "isoDate": "2021-12-06T00:00:00.000Z",
@@ -1395,6 +1803,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202112/aaj-2021-12-03.mp3"
             },
+            "entities": ["100", "she", "her", "one", "Rima"],
             "link": "http://www.abc.net.au/radio/programs/conversations/rima-hadchiti-performing-arts-short-stature-rpt/13651258",
             "guid": "http://www.abc.net.au/radio/programs/conversations/rima-hadchiti-performing-arts-short-stature-rpt/13651258",
             "isoDate": "2021-12-03T00:00:00.000Z",
@@ -1414,6 +1823,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202112/aaj-2021-12-02.mp3"
             },
+            "entities": ["Australian", "republican", "Dennis Altman", "he"],
             "link": "http://www.abc.net.au/radio/programs/conversations/dennis-altman-republican-constitutional-monarchy-populism/13649150",
             "guid": "http://www.abc.net.au/radio/programs/conversations/dennis-altman-republican-constitutional-monarchy-populism/13649150",
             "isoDate": "2021-12-02T00:00:00.000Z",
@@ -1433,6 +1843,12 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202112/aaj-2021-12-01.mp3"
             },
+            "entities": [
+                "Gustav Weindorfer",
+                "Kate Cowle",
+                "Tasmania",
+                "Kate Legge"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/kate-legge-cradle-mountain-tasmania/13647062",
             "guid": "http://www.abc.net.au/radio/programs/conversations/kate-legge-cradle-mountain-tasmania/13647062",
             "isoDate": "2021-12-01T00:00:00.000Z",
@@ -1452,6 +1868,17 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202111/aaj-2021-11-30.mp3"
             },
+            "entities": [
+                "Middle East",
+                "she",
+                "her",
+                "founder",
+                "correspondent",
+                "domestic violence",
+                "Jess Hill",
+                "writer",
+                "illness"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/jess-hill-domestic-violence-metoo-women-men-power-relationships/13645086",
             "guid": "http://www.abc.net.au/radio/programs/conversations/jess-hill-domestic-violence-metoo-women-men-power-relationships/13645086",
             "isoDate": "2021-11-30T00:00:00.000Z",
@@ -1471,6 +1898,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202111/aaj-2021-11-29.mp3"
             },
+            "entities": ["Novelist", "his", "John Grisham", "he", "lawyer"],
             "link": "http://www.abc.net.au/radio/programs/conversations/john-grisham-novelist-best-sellers-legal-system-innocence/13643196",
             "guid": "http://www.abc.net.au/radio/programs/conversations/john-grisham-novelist-best-sellers-legal-system-innocence/13643196",
             "isoDate": "2021-11-29T00:00:00.000Z",
@@ -1490,6 +1918,19 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202111/aaj-2021-11-26.mp3"
             },
+            "entities": [
+                "New Zealand",
+                "Abbas",
+                "Abbas Nazari",
+                "7 year old",
+                "Indian",
+                "Ocean",
+                "MV",
+                "Tampa",
+                "Australia",
+                "scholar",
+                "he"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/abbas-nazari-asylum-seeker-afghanistan-the-tampa-new-zealand/13639812",
             "guid": "http://www.abc.net.au/radio/programs/conversations/abbas-nazari-asylum-seeker-afghanistan-the-tampa-new-zealand/13639812",
             "isoDate": "2021-11-26T00:00:00.000Z",
@@ -1509,6 +1950,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202111/aaj-2021-11-25.mp3"
             },
+            "entities": ["Darambal", "her", "Roma", "guard", "Queensland"],
             "link": "http://www.abc.net.au/radio/programs/conversations/roxanne-mcdonald-actor-indigenous-roma/13637892",
             "guid": "http://www.abc.net.au/radio/programs/conversations/roxanne-mcdonald-actor-indigenous-roma/13637892",
             "isoDate": "2021-11-25T00:00:00.000Z",
@@ -1528,6 +1970,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202111/aaj-2021-11-24.mp3"
             },
+            "entities": ["2008", "his", "Ken", "Australia", "Ken Henry", "him"],
             "link": "http://www.abc.net.au/radio/programs/conversations/ken-henry-economist-in-chief-treasury-nab/13635994",
             "guid": "http://www.abc.net.au/radio/programs/conversations/ken-henry-economist-in-chief-treasury-nab/13635994",
             "isoDate": "2021-11-24T00:00:00.000Z",
@@ -1547,6 +1990,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202111/aaj-2021-11-23.mp3"
             },
+            "entities": ["English", "Kate Burridge", "Linguist", "Old"],
             "link": "http://www.abc.net.au/radio/programs/conversations/kate-burridge-old-english-linguist-language-australian-english/13634228",
             "guid": "http://www.abc.net.au/radio/programs/conversations/kate-burridge-old-english-linguist-language-australian-english/13634228",
             "isoDate": "2021-11-23T00:00:00.000Z",
@@ -1566,6 +2010,16 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202111/aaj-2021-11-22.mp3"
             },
+            "entities": [
+                "Brutus",
+                "his",
+                "Harry Bowman",
+                "Adelaide",
+                "the day",
+                "River",
+                "three decades",
+                "he"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/harry-bowman-brutus-northern-territory-crocodiles-nt/13632200",
             "guid": "http://www.abc.net.au/radio/programs/conversations/harry-bowman-brutus-northern-territory-crocodiles-nt/13632200",
             "isoDate": "2021-11-22T00:00:00.000Z",
@@ -1585,6 +2039,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202111/aaj-2021-11-19.mp3"
             },
+            "entities": [
+                "she",
+                "World Champion",
+                "shark attack",
+                "her",
+                "Mick Fanning",
+                "Elizabeth Osborne",
+                "five"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/elizabeth-osborne-single-mum-mick-fanning-shark-attack-surfing/13629428",
             "guid": "http://www.abc.net.au/radio/programs/conversations/elizabeth-osborne-single-mum-mick-fanning-shark-attack-surfing/13629428",
             "isoDate": "2021-11-19T00:00:00.000Z",
@@ -1604,6 +2067,14 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202111/aaj-2021-11-18.mp3"
             },
+            "entities": [
+                "manager",
+                "Sixties",
+                "assistant",
+                "London",
+                "Joanne Petersen",
+                "Bahamas"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/joanne-petersen-the-beatles-brian-epstein/13627622",
             "guid": "http://www.abc.net.au/radio/programs/conversations/joanne-petersen-the-beatles-brian-epstein/13627622",
             "isoDate": "2021-11-18T00:00:00.000Z",
@@ -1623,6 +2094,14 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202111/aaj-2021-11-17.mp3"
             },
+            "entities": [
+                "Nadia Wheatley",
+                "her",
+                "Nina Watkin",
+                "writer",
+                "Charmian Clift",
+                "two"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/nadia-wheatley-charmian-clift-nin-watkin-life-stories/13625638",
             "guid": "http://www.abc.net.au/radio/programs/conversations/nadia-wheatley-charmian-clift-nin-watkin-life-stories/13625638",
             "isoDate": "2021-11-17T00:00:00.000Z",
@@ -1642,6 +2121,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202111/aaj-2021-11-16.mp3"
             },
+            "entities": ["Charlotte", "Rett Syndrome", "Samantha Wheeler"],
             "link": "http://www.abc.net.au/radio/programs/conversations/samantha-wheeler-charlotte-rett-syndrome-locked-in-carer/13623818",
             "guid": "http://www.abc.net.au/radio/programs/conversations/samantha-wheeler-charlotte-rett-syndrome-locked-in-carer/13623818",
             "isoDate": "2021-11-16T00:00:00.000Z",
@@ -1661,6 +2141,14 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202111/aaj-2021-11-15.mp3"
             },
+            "entities": [
+                "journalist",
+                "she",
+                "broadcaster",
+                "her",
+                "writer",
+                "Wendy"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/wendy-harmer-cleft-palate-childhood-comedy-trailblazer/13622184",
             "guid": "http://www.abc.net.au/radio/programs/conversations/wendy-harmer-cleft-palate-childhood-comedy-trailblazer/13622184",
             "isoDate": "2021-11-15T00:00:00.000Z",
@@ -1680,6 +2168,13 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202111/aaj-2021-11-12.mp3"
             },
+            "entities": [
+                "Catherine Crock",
+                "leukemia",
+                "she",
+                "her",
+                "years later"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/catherine-crock-hush-music-as-medicine-hush-foundation/13619262",
             "guid": "http://www.abc.net.au/radio/programs/conversations/catherine-crock-hush-music-as-medicine-hush-foundation/13619262",
             "isoDate": "2021-11-12T00:00:00.000Z",
@@ -1699,6 +2194,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202111/aaj-2021-11-11.mp3"
             },
+            "entities": [
+                "2019",
+                "one",
+                "Summer",
+                "fire",
+                "Bronwyn Adcock",
+                "Australia",
+                "Currowan"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/bronwyn-adcock-currowan-fire-climate-change-black-summer-2019/13617482",
             "guid": "http://www.abc.net.au/radio/programs/conversations/bronwyn-adcock-currowan-fire-climate-change-black-summer-2019/13617482",
             "isoDate": "2021-11-11T00:00:00.000Z",
@@ -1718,6 +2222,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202111/aaj-2021-11-10.mp3"
             },
+            "entities": ["Meryl Broughton", "her"],
             "link": "http://www.abc.net.au/radio/programs/conversations/meryl-broughton-autopsies-mortuary-cause-of-death/13615658",
             "guid": "http://www.abc.net.au/radio/programs/conversations/meryl-broughton-autopsies-mortuary-cause-of-death/13615658",
             "isoDate": "2021-11-10T00:00:00.000Z",
@@ -1737,6 +2242,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202111/aaj-2021-11-09.mp3"
             },
+            "entities": ["his", "Robert Pekin", "suicide", "he"],
             "link": "http://www.abc.net.au/radio/programs/conversations/robert-pekin-from-failed-farm-to-food-connect-brisbane/13613986",
             "guid": "http://www.abc.net.au/radio/programs/conversations/robert-pekin-from-failed-farm-to-food-connect-brisbane/13613986",
             "isoDate": "2021-11-09T00:00:00.000Z",
@@ -1756,6 +2262,14 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202111/aaj-2021-11-08.mp3"
             },
+            "entities": [
+                "actor",
+                "Brendan Cowell",
+                "his",
+                "playwright",
+                "Actor",
+                "writer"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/brendan-cowell-child-star-child-actor-boyhood-the-shire-suburbia/13612530",
             "guid": "http://www.abc.net.au/radio/programs/conversations/brendan-cowell-child-star-child-actor-boyhood-the-shire-suburbia/13612530",
             "isoDate": "2021-11-08T00:00:00.000Z",
@@ -1775,6 +2289,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202111/aaj-2021-11-05.mp3"
             },
+            "entities": ["critic", "Federico Fellini", "25,000", "he"],
             "link": "http://www.abc.net.au/radio/programs/conversations/david-stratton-film-critic-movies/13610030",
             "guid": "http://www.abc.net.au/radio/programs/conversations/david-stratton-film-critic-movies/13610030",
             "isoDate": "2021-11-05T00:00:00.000Z",
@@ -1794,6 +2309,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202111/aaj-2021-11-04.mp3"
             },
+            "entities": ["Andrew Wear", "Australia"],
             "link": "http://www.abc.net.au/radio/programs/conversations/andrew-wear-australia-in-a-post-covid-world/13608330",
             "guid": "http://www.abc.net.au/radio/programs/conversations/andrew-wear-australia-in-a-post-covid-world/13608330",
             "isoDate": "2021-11-04T00:00:00.000Z",
@@ -1813,6 +2329,13 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202111/aaj-2021-11-03.mp3"
             },
+            "entities": [
+                "his",
+                "David Heilpern",
+                "sexual assault",
+                "magistrate",
+                "21 years"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/david-heilpern-magistrate-drug-driving-laws-ptsd-justice-system/13606370",
             "guid": "http://www.abc.net.au/radio/programs/conversations/david-heilpern-magistrate-drug-driving-laws-ptsd-justice-system/13606370",
             "isoDate": "2021-11-03T00:00:00.000Z",
@@ -1832,6 +2355,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202111/aaj-2021-11-02.mp3"
             },
+            "entities": [
+                "doctor",
+                "Prussians",
+                "Europe",
+                "South",
+                "Hannah Kent",
+                "1838",
+                "Australia"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/hannah-kent-prussian-migrants-south-australia-hahndorf/13604480",
             "guid": "http://www.abc.net.au/radio/programs/conversations/hannah-kent-prussian-migrants-south-australia-hahndorf/13604480",
             "isoDate": "2021-11-02T00:00:00.000Z",
@@ -1851,6 +2383,14 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202111/aaj-2021-11-01.mp3"
             },
+            "entities": [
+                "she",
+                "Megan Phelps-Roper",
+                "Westboro Baptist Church",
+                "her",
+                "once",
+                "2012"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/megan-phelps-roper-leaving-westboro-baptist-church/13602836",
             "guid": "http://www.abc.net.au/radio/programs/conversations/megan-phelps-roper-leaving-westboro-baptist-church/13602836",
             "isoDate": "2021-11-01T00:00:00.000Z",
@@ -1870,6 +2410,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202110/aaj-2021-10-29v2.mp3"
             },
+            "entities": ["Deirdre O'Connell", "Australia"],
             "link": "http://www.abc.net.au/radio/programs/conversations/dierdre-o-connell-harlem-jazz-age-white-australia/13599858",
             "guid": "http://www.abc.net.au/radio/programs/conversations/dierdre-o-connell-harlem-jazz-age-white-australia/13599858",
             "isoDate": "2021-10-29T00:00:00.000Z",
@@ -1889,6 +2430,13 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202110/aaj-2021-10-28.mp3"
             },
+            "entities": [
+                "She",
+                "she",
+                "Allison Davies",
+                "her",
+                "music therapist"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/allison-davies-autism-music-therapy-sing-to-babies/13597960",
             "guid": "http://www.abc.net.au/radio/programs/conversations/allison-davies-autism-music-therapy-sing-to-babies/13597960",
             "isoDate": "2021-10-28T00:00:00.000Z",
@@ -1908,6 +2456,12 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202110/aaj-2021-10-27.mp3"
             },
+            "entities": [
+                "Kylie Stevenson",
+                "Larrimah",
+                "Paddy Moriarty",
+                "Northern Territory"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/larrimah-kylie-stevenson-paddy-moriarty-caroline-graham-nt/13595730",
             "guid": "http://www.abc.net.au/radio/programs/conversations/larrimah-kylie-stevenson-paddy-moriarty-caroline-graham-nt/13595730",
             "isoDate": "2021-10-27T00:00:00.000Z",
@@ -1927,6 +2481,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202110/aaj-2021-10-26.mp3"
             },
+            "entities": [
+                "1942",
+                "attack",
+                "Harbour",
+                "Allied",
+                "Imperial Japanese Navy",
+                "three",
+                "Sydney"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/midget-subs-attack-sydney-ww2-rpt/13593674",
             "guid": "http://www.abc.net.au/radio/programs/conversations/midget-subs-attack-sydney-ww2-rpt/13593674",
             "isoDate": "2021-10-26T00:00:00.000Z",
@@ -1946,6 +2509,14 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202110/aaj-2021-10-25.mp3"
             },
+            "entities": [
+                "his",
+                "7 year old",
+                "He",
+                "first",
+                "Melbourne",
+                "John Long"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/john-long-palaeontology-fish-fossils-devonian/13591848",
             "guid": "http://www.abc.net.au/radio/programs/conversations/john-long-palaeontology-fish-fossils-devonian/13591848",
             "isoDate": "2021-10-25T00:00:00.000Z",
@@ -1965,6 +2536,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202110/aaj-2021-10-22.mp3"
             },
+            "entities": ["John Shobbrook", "the 1970s", "Far North Queensland"],
             "link": "http://www.abc.net.au/radio/programs/conversations/john-shobbrook-heroin-police-corruption-operation-jungle/13589004",
             "guid": "http://www.abc.net.au/radio/programs/conversations/john-shobbrook-heroin-police-corruption-operation-jungle/13589004",
             "isoDate": "2021-10-22T00:00:00.000Z",
@@ -1984,6 +2556,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202110/aaj-2021-10-21.mp3"
             },
+            "entities": [
+                "Roland de Chazal",
+                "Rhodesia",
+                "his",
+                "81-year-old",
+                "Magnetic Island",
+                "Queen Mother",
+                "he"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/roland-de-chazal-magnetic-island-postie-rhodesia/13586998",
             "guid": "http://www.abc.net.au/radio/programs/conversations/roland-de-chazal-magnetic-island-postie-rhodesia/13586998",
             "isoDate": "2021-10-21T00:00:00.000Z",
@@ -2003,6 +2584,13 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202110/aaj-2021-10-20.mp3"
             },
+            "entities": [
+                "Judy",
+                "Harrison",
+                "her",
+                "politician",
+                "Tim Fischer"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/judy-brewer-tim-fischer-farming-national-party-autism-care-farms/13584664",
             "guid": "http://www.abc.net.au/radio/programs/conversations/judy-brewer-tim-fischer-farming-national-party-autism-care-farms/13584664",
             "isoDate": "2021-10-20T00:00:00.000Z",
@@ -2022,6 +2610,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202110/aaj-2021-10-19.mp3"
             },
+            "entities": ["his", "superstar", "Dave Grohl", "he"],
             "link": "http://www.abc.net.au/radio/programs/conversations/dave-grohl-nirvana-foo-fighters-love-music-rock/13582414",
             "guid": "http://www.abc.net.au/radio/programs/conversations/dave-grohl-nirvana-foo-fighters-love-music-rock/13582414",
             "isoDate": "2021-10-19T00:00:00.000Z",
@@ -2041,6 +2630,12 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202110/aaj-2021-10-18.mp3"
             },
+            "entities": [
+                "Josef Stalin",
+                "Republic of Georgia",
+                "French",
+                "John Baker"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/john-baker-stalin-france-republic-of-georgia/13580540",
             "guid": "http://www.abc.net.au/radio/programs/conversations/john-baker-stalin-france-republic-of-georgia/13580540",
             "isoDate": "2021-10-18T00:00:00.000Z",
@@ -2060,6 +2655,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202110/aaj-2021-10-15.mp3"
             },
+            "entities": ["his", "Once", "he", "Ed"],
             "link": "http://www.abc.net.au/radio/programs/conversations/ed-ayres-whole-notes-life-lessons-through-music/13577722",
             "guid": "http://www.abc.net.au/radio/programs/conversations/ed-ayres-whole-notes-life-lessons-through-music/13577722",
             "isoDate": "2021-10-15T00:00:00.000Z",
@@ -2079,6 +2675,13 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202110/aaj-2021-10-14.mp3"
             },
+            "entities": [
+                "her",
+                "Monica McInerney",
+                "Australian",
+                "South",
+                "Clare"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/monica-mcinerney-railway-children-stationmaster-clare-writer/13575866",
             "guid": "http://www.abc.net.au/radio/programs/conversations/monica-mcinerney-railway-children-stationmaster-clare-writer/13575866",
             "isoDate": "2021-10-14T00:00:00.000Z",
@@ -2098,6 +2701,13 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202110/aaj-2021-10-13.mp3"
             },
+            "entities": [
+                "his",
+                "Yiayia",
+                "Australia",
+                "Greek",
+                "landscape architect"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/costa-georgiadis-gardening-heart-and-soil/13573436",
             "guid": "http://www.abc.net.au/radio/programs/conversations/costa-georgiadis-gardening-heart-and-soil/13573436",
             "isoDate": "2021-10-13T00:00:00.000Z",
@@ -2117,6 +2727,14 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202110/aaj-2021-10-12.mp3"
             },
+            "entities": [
+                "Otto Von Wachter",
+                "Philippe Sands",
+                "Rome",
+                "Nazi",
+                "war",
+                "him"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/phillipe-sands-the-ratline/13571238",
             "guid": "http://www.abc.net.au/radio/programs/conversations/phillipe-sands-the-ratline/13571238",
             "isoDate": "2021-10-12T00:00:00.000Z",
@@ -2136,6 +2754,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202110/aaj-2021-10-11.mp3"
             },
+            "entities": [
+                "Designer",
+                "she",
+                "Jenny Kee",
+                "her",
+                "Linda Jackson",
+                "Australian",
+                "suicide"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/jenny-kee-linda-jackson-step-into-paradise-fashion-art-australia/13569794",
             "guid": "http://www.abc.net.au/radio/programs/conversations/jenny-kee-linda-jackson-step-into-paradise-fashion-art-australia/13569794",
             "isoDate": "2021-10-11T00:00:00.000Z",
@@ -2155,6 +2782,14 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202110/aaj-2021-10-08.mp3"
             },
+            "entities": [
+                "his",
+                "presenter",
+                "17",
+                "serial killer",
+                "ABC Sports",
+                "a year"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/paul-kennedy-funkytown-seaford-victoria/13567706",
             "guid": "http://www.abc.net.au/radio/programs/conversations/paul-kennedy-funkytown-seaford-victoria/13567706",
             "isoDate": "2021-10-08T00:00:00.000Z",
@@ -2174,6 +2809,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202110/aaj-2021-10-07.mp3"
             },
+            "entities": ["her", "one", "Tanya Loos"],
             "link": "http://www.abc.net.au/radio/programs/conversations/tanya-loos-powerful-owls-wombat-forest-victoria/13565762",
             "guid": "http://www.abc.net.au/radio/programs/conversations/tanya-loos-powerful-owls-wombat-forest-victoria/13565762",
             "isoDate": "2021-10-07T00:00:00.000Z",
@@ -2193,6 +2829,14 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202110/aaj-2021-10-06.mp3"
             },
+            "entities": [
+                "Papua New Guinea",
+                "1994",
+                "singer-songwriter",
+                "a second",
+                "PNG",
+                "Ngaiire"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/ngaiire-3-papua-new-guinea-singer-songwriter/13563848",
             "guid": "http://www.abc.net.au/radio/programs/conversations/ngaiire-3-papua-new-guinea-singer-songwriter/13563848",
             "isoDate": "2021-10-06T01:00:00.000Z",
@@ -2212,6 +2856,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202110/aaj-2021-10-05.mp3"
             },
+            "entities": ["Zen", "her", "Ruth Ozeki", "priest", "writer", "he"],
             "link": "http://www.abc.net.au/radio/programs/conversations/ruth-ozeki-hearing-voices-novel-animism-consumerism/13562046",
             "guid": "http://www.abc.net.au/radio/programs/conversations/ruth-ozeki-hearing-voices-novel-animism-consumerism/13562046",
             "isoDate": "2021-10-05T01:00:00.000Z",
@@ -2231,6 +2876,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202110/aaj-2021-10-04.mp3"
             },
+            "entities": ["David Hepworth"],
             "link": "http://www.abc.net.au/radio/programs/conversations/david-hepworth-rock-stars-music-industry-rock-music/13560452",
             "guid": "http://www.abc.net.au/radio/programs/conversations/david-hepworth-rock-stars-music-industry-rock-music/13560452",
             "isoDate": "2021-10-04T01:00:00.000Z",
@@ -2250,6 +2896,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202110/aaj-2021-10-01.mp3"
             },
+            "entities": ["Afghanistan", "Isaac Adams", "he", "him"],
             "link": "http://www.abc.net.au/radio/programs/conversations/isaac-adams-soldiers-ptsd-army-veterans-mental-health-horses/13557532",
             "guid": "http://www.abc.net.au/radio/programs/conversations/isaac-adams-soldiers-ptsd-army-veterans-mental-health-horses/13557532",
             "isoDate": "2021-10-01T01:00:00.000Z",
@@ -2269,6 +2916,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202109/aaj-2021-09-30.mp3"
             },
+            "entities": [
+                "actress",
+                "she",
+                "Lynn Rainbow",
+                "philanthropist",
+                "one",
+                "the 1970s",
+                "Australia"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/lynn-rainbow-number-96-philanthropy-actors-tapestry-prison/13555738",
             "guid": "http://www.abc.net.au/radio/programs/conversations/lynn-rainbow-number-96-philanthropy-actors-tapestry-prison/13555738",
             "isoDate": "2021-09-30T01:00:00.000Z",
@@ -2288,6 +2944,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202109/aaj-2021-09-29.mp3"
             },
+            "entities": ["dealer", "the 1980s", "Neddy Smith"],
             "link": "http://www.abc.net.au/radio/programs/conversations/neddy-smith-police-corruption-nsw-1980s/13553878",
             "guid": "http://www.abc.net.au/radio/programs/conversations/neddy-smith-police-corruption-nsw-1980s/13553878",
             "isoDate": "2021-09-29T01:00:00.000Z",
@@ -2307,6 +2964,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202109/aaj-2021-09-28.mp3"
             },
+            "entities": ["New Zealand", "Miriam Lancewood", "her"],
             "link": "http://www.abc.net.au/radio/programs/conversations/conversations-miriam-lancewood-rpt/13552088",
             "guid": "http://www.abc.net.au/radio/programs/conversations/conversations-miriam-lancewood-rpt/13552088",
             "isoDate": "2021-09-28T01:00:00.000Z",
@@ -2326,6 +2984,14 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202109/aaj-2021-09-27.mp3"
             },
+            "entities": [
+                "She",
+                "one",
+                "Oxford High School",
+                "Miriam",
+                "charismatic",
+                "Jewish"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/miriam-margolyes-life-story-thespian-comedy-writing/13550464",
             "guid": "http://www.abc.net.au/radio/programs/conversations/miriam-margolyes-life-story-thespian-comedy-writing/13550464",
             "isoDate": "2021-09-27T01:00:00.000Z",
@@ -2345,6 +3011,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202109/aaj-2021-09-24.mp3"
             },
+            "entities": [],
             "link": "http://www.abc.net.au/radio/programs/conversations/colin-hay-men-at-work-fame-music-songwriting/13547510",
             "guid": "http://www.abc.net.au/radio/programs/conversations/colin-hay-men-at-work-fame-music-songwriting/13547510",
             "isoDate": "2021-09-24T01:00:00.000Z",
@@ -2364,6 +3031,13 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202109/aaj-2021-09-23.mp3"
             },
+            "entities": [
+                "his",
+                "Oklahoma",
+                "Singer-songwriter",
+                "preacher",
+                "Jimmy Webb"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/conversations-jimmy-webb-2021/13545364",
             "guid": "http://www.abc.net.au/radio/programs/conversations/conversations-jimmy-webb-2021/13545364",
             "isoDate": "2021-09-23T01:00:00.000Z",
@@ -2383,6 +3057,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202109/aaj-2021-09-22.mp3"
             },
+            "entities": ["she", "13", "Joan Marie Larkin"],
             "link": "http://www.abc.net.au/radio/programs/conversations/joan-jett-punk-music/13546934",
             "guid": "http://www.abc.net.au/radio/programs/conversations/joan-jett-punk-music/13546934",
             "isoDate": "2021-09-22T01:00:00.000Z",
@@ -2402,6 +3077,16 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202109/aaj-2021-09-21.mp3"
             },
+            "entities": [
+                "his",
+                "South",
+                "Glasgow",
+                "James Swan",
+                "Australia",
+                "he",
+                "Jimmy Barnes",
+                "Jimmy"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/jimmy-barnes-childhood-scotland-addiction-recovery/13542206",
             "guid": "http://www.abc.net.au/radio/programs/conversations/jimmy-barnes-childhood-scotland-addiction-recovery/13542206",
             "isoDate": "2021-09-21T01:00:00.000Z",
@@ -2421,6 +3106,17 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202109/aaj-2021-09-20.mp3"
             },
+            "entities": [
+                "she",
+                "her",
+                "singer",
+                "16",
+                "the 1970s",
+                "CEO",
+                "Fifa",
+                "AC/DC",
+                "Bon Scott"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/fifa-riccobono-australian-music-alberts-acdc-vanda-and-young2021/13540190",
             "guid": "http://www.abc.net.au/radio/programs/conversations/fifa-riccobono-australian-music-alberts-acdc-vanda-and-young2021/13540190",
             "isoDate": "2021-09-20T01:00:00.000Z",
@@ -2440,6 +3136,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202109/aaj-2021-09-17.mp3"
             },
+            "entities": ["curator", "Australian", "Imelda Miller"],
             "link": "http://www.abc.net.au/radio/programs/conversations/imelda-miller-blackbirding-south-sea-islander/13537104",
             "guid": "http://www.abc.net.au/radio/programs/conversations/imelda-miller-blackbirding-south-sea-islander/13537104",
             "isoDate": "2021-09-17T01:00:00.000Z",
@@ -2459,6 +3156,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202109/aaj-2021-09-16.mp3"
             },
+            "entities": ["Paul Davies", "Physicist"],
             "link": "http://www.abc.net.au/radio/programs/conversations/paul-davies-the-universe-mysteries-of-the-cosmos/13535374",
             "guid": "http://www.abc.net.au/radio/programs/conversations/paul-davies-the-universe-mysteries-of-the-cosmos/13535374",
             "isoDate": "2021-09-16T01:00:00.000Z",
@@ -2478,6 +3176,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202109/aaj-2021-09-15.mp3"
             },
+            "entities": ["two year", "Gary Nunn", "his", "Journalist", "he"],
             "link": "http://www.abc.net.au/radio/programs/conversations/gary-nunn-the-psychic-tests/13532924",
             "guid": "http://www.abc.net.au/radio/programs/conversations/gary-nunn-the-psychic-tests/13532924",
             "isoDate": "2021-09-15T01:00:00.000Z",
@@ -2497,6 +3196,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202109/aaj-2021-09-14.mp3"
             },
+            "entities": ["her", "Kate Leaver", "Shih Tzu Bertie", "days"],
             "link": "http://www.abc.net.au/radio/programs/conversations/kate-leaver-good-dog/13531090",
             "guid": "http://www.abc.net.au/radio/programs/conversations/kate-leaver-good-dog/13531090",
             "isoDate": "2021-09-14T01:00:00.000Z",
@@ -2516,6 +3216,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202109/aaj-2021-09-13.mp3"
             },
+            "entities": ["Tobacco", "Philip Morris"],
             "link": "http://www.abc.net.au/radio/programs/conversations/john-safran-philip-morris-puff-piece-heatstick/13534586",
             "guid": "http://www.abc.net.au/radio/programs/conversations/john-safran-philip-morris-puff-piece-heatstick/13534586",
             "isoDate": "2021-09-13T01:00:00.000Z",
@@ -2535,6 +3236,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202109/aaj-2021-09-10.mp3"
             },
+            "entities": ["She", "she", "her", "today", "time", "psychologist"],
             "link": "http://www.abc.net.au/radio/programs/conversations/dr-nicole-highet-perinatal-depression-cope/13527238",
             "guid": "http://www.abc.net.au/radio/programs/conversations/dr-nicole-highet-perinatal-depression-cope/13527238",
             "isoDate": "2021-09-10T01:00:00.000Z",
@@ -2554,6 +3256,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202109/aaj-2021-09-09.mp3"
             },
+            "entities": ["she", "her", "scientist", "Meg Lowman", "8th"],
             "link": "http://www.abc.net.au/radio/programs/conversations/meg-lowman-forest-canopy-arbornaut-8th-continent/13525260",
             "guid": "http://www.abc.net.au/radio/programs/conversations/meg-lowman-forest-canopy-arbornaut-8th-continent/13525260",
             "isoDate": "2021-09-09T01:00:00.000Z",
@@ -2573,6 +3276,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202109/aaj-2021-09-08.mp3"
             },
+            "entities": [
+                "she",
+                "her",
+                "Mandy",
+                "four",
+                "2013",
+                "suicide",
+                "sepsis"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/mandy-mccracken-quadruple-amputee-sepsis/13523050",
             "guid": "http://www.abc.net.au/radio/programs/conversations/mandy-mccracken-quadruple-amputee-sepsis/13523050",
             "isoDate": "2021-09-08T01:00:00.000Z",
@@ -2592,6 +3304,13 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202109/aaj-2021-09-07.mp3"
             },
+            "entities": [
+                "she",
+                "her",
+                "Her",
+                "Joshua Tree National Park",
+                "Claire Nelson"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/claire-nelson-joshua-tree-hiking-danger-missing-stranded/13526504",
             "guid": "http://www.abc.net.au/radio/programs/conversations/claire-nelson-joshua-tree-hiking-danger-missing-stranded/13526504",
             "isoDate": "2021-09-07T01:00:00.000Z",
@@ -2611,6 +3330,13 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202109/aaj-2021-09-06.mp3"
             },
+            "entities": [
+                "Prime Minister",
+                "John Howard",
+                "Australian",
+                "September 11th, 2001",
+                "Washington"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/john-howard-9-11-washington-witness-up-close-america/13520490",
             "guid": "http://www.abc.net.au/radio/programs/conversations/john-howard-9-11-washington-witness-up-close-america/13520490",
             "isoDate": "2021-09-06T01:00:00.000Z",
@@ -2630,6 +3356,16 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202109/aaj-2021-09-03.mp3"
             },
+            "entities": [
+                "she",
+                "Marija",
+                "her",
+                "Valley",
+                "Debra Gavranich",
+                "Cassowary",
+                "Far North Queensland",
+                "Croatian"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/debra-gavranich-maria-proxy-bride-croatia-to-cassowary-valley/13517812",
             "guid": "http://www.abc.net.au/radio/programs/conversations/debra-gavranich-maria-proxy-bride-croatia-to-cassowary-valley/13517812",
             "isoDate": "2021-09-03T01:00:00.000Z",
@@ -2649,6 +3385,17 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202109/aaj-2021-09-02.mp3"
             },
+            "entities": [
+                "Afghanistan",
+                "Company",
+                "his",
+                "East India Company",
+                "Englishman",
+                "spying",
+                "1827",
+                "he",
+                "him"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/dr-edmund-richardson-charles-masson-afghanistan-alexandria/13516030",
             "guid": "http://www.abc.net.au/radio/programs/conversations/dr-edmund-richardson-charles-masson-afghanistan-alexandria/13516030",
             "isoDate": "2021-09-02T01:00:00.000Z",
@@ -2668,6 +3415,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202109/aaj-2021-09-01.mp3"
             },
+            "entities": [
+                "Alma",
+                "Tony Birch",
+                "5 years old",
+                "his",
+                "fever",
+                "he",
+                "Writer"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/tony-birch-childhood-op-shops-pine-cones-blankets-rosanna/13514282",
             "guid": "http://www.abc.net.au/radio/programs/conversations/tony-birch-childhood-op-shops-pine-cones-blankets-rosanna/13514282",
             "isoDate": "2021-09-01T01:00:00.000Z",
@@ -2687,6 +3443,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202108/aaj-2021-08-31.mp3"
             },
+            "entities": ["she", "her", "farmer", "Hayley"],
             "link": "http://www.abc.net.au/radio/programs/conversations/hayley-katzen/13513010",
             "guid": "http://www.abc.net.au/radio/programs/conversations/hayley-katzen/13513010",
             "isoDate": "2021-08-31T01:00:00.000Z",
@@ -2706,6 +3463,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202108/aaj-2021-08-30.mp3"
             },
+            "entities": ["Professor", "Pankaj Sah", "special interest"],
             "link": "http://www.abc.net.au/radio/programs/conversations/professor-pankaj-sah-ptsd-the-brain-fear-extinction/13511234",
             "guid": "http://www.abc.net.au/radio/programs/conversations/professor-pankaj-sah-ptsd-the-brain-fear-extinction/13511234",
             "isoDate": "2021-08-30T01:00:00.000Z",
@@ -2725,6 +3483,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202108/aaj-2021-08-27.mp3"
             },
+            "entities": ["she", "her", "Poland", "Krystyna", "he"],
             "link": "http://www.abc.net.au/radio/programs/conversations/krystyna-duszniak/13508150",
             "guid": "http://www.abc.net.au/radio/programs/conversations/krystyna-duszniak/13508150",
             "isoDate": "2021-08-27T01:00:00.000Z",
@@ -2744,6 +3503,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202108/aaj-2021-08-26.mp3"
             },
+            "entities": ["her", "One"],
             "link": "http://www.abc.net.au/radio/programs/conversations/judith-heumann-disability-rights-crip-camp-rolling-warrior/13506354",
             "guid": "http://www.abc.net.au/radio/programs/conversations/judith-heumann-disability-rights-crip-camp-rolling-warrior/13506354",
             "isoDate": "2021-08-26T01:00:00.000Z",
@@ -2763,6 +3523,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202108/aaj-2021-08-25.mp3"
             },
+            "entities": ["his", "Bill Crews", "Reverend", "he"],
             "link": "http://www.abc.net.au/radio/programs/conversations/bill-crews-refugee-camp-france-lessons-humanity-tolerance/13504216",
             "guid": "http://www.abc.net.au/radio/programs/conversations/bill-crews-refugee-camp-france-lessons-humanity-tolerance/13504216",
             "isoDate": "2021-08-25T01:00:00.000Z",
@@ -2782,6 +3543,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202108/aaj-2021-08-24.mp3"
             },
+            "entities": [],
             "link": "http://www.abc.net.au/radio/programs/conversations/simon-winchester/13504214",
             "guid": "http://www.abc.net.au/radio/programs/conversations/simon-winchester/13504214",
             "isoDate": "2021-08-24T01:00:00.000Z",
@@ -2801,6 +3563,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202108/aaj-2021-08-23.mp3"
             },
+            "entities": ["she", "Edith Widder", "Marine biologist", "two"],
             "link": "http://www.abc.net.au/radio/programs/conversations/edith-widder-oceans-bioluminescence-submersibles-giant-squid/13502994",
             "guid": "http://www.abc.net.au/radio/programs/conversations/edith-widder-oceans-bioluminescence-submersibles-giant-squid/13502994",
             "isoDate": "2021-08-23T01:00:00.000Z",
@@ -2820,6 +3583,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202108/aaj-2021-08-20.mp3?=v3"
             },
+            "entities": ["she", "Catherine Raven", "Montana", "Biologist"],
             "link": "http://www.abc.net.au/radio/programs/conversations/catherine-raven-montana-wildness-biologist-v3/13509850",
             "guid": "http://www.abc.net.au/radio/programs/conversations/catherine-raven-montana-wildness-biologist-v3/13509850",
             "isoDate": "2021-08-20T01:00:00.000Z",
@@ -2839,6 +3603,14 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202108/aaj-2021-08-19.mp3"
             },
+            "entities": [
+                "David McAllister",
+                "his",
+                "Perth",
+                "one",
+                "the 1970s",
+                "him"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/david-mcallister-australian-ballet-retirement/13501116",
             "guid": "http://www.abc.net.au/radio/programs/conversations/david-mcallister-australian-ballet-retirement/13501116",
             "isoDate": "2021-08-19T01:00:00.000Z",
@@ -2858,6 +3630,14 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202108/aaj-2021-08-18.mp3"
             },
+            "entities": [
+                "Australian Special Forces",
+                "Afghanistan",
+                "his",
+                "Journalist",
+                "Mark Willacy",
+                "war crimes"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/mark-willacy-australian-forces-in-afghanistan-sas-war-crimes/13493508",
             "guid": "http://www.abc.net.au/radio/programs/conversations/mark-willacy-australian-forces-in-afghanistan-sas-war-crimes/13493508",
             "isoDate": "2021-08-18T01:00:00.000Z",
@@ -2877,6 +3657,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202108/aaj-2021-08-17.mp3"
             },
+            "entities": ["Anna"],
             "link": "http://www.abc.net.au/radio/programs/conversations/anna-sale-death-sex-money-race-metoo-hard-things/13491770",
             "guid": "http://www.abc.net.au/radio/programs/conversations/anna-sale-death-sex-money-race-metoo-hard-things/13491770",
             "isoDate": "2021-08-17T01:00:00.000Z",
@@ -2896,6 +3677,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202108/aaj-2021-08-16.mp3"
             },
+            "entities": ["China", "Linda Jaivin", "thousands of years"],
             "link": "http://www.abc.net.au/radio/programs/conversations/linda-jaivin-history-of-china-power-politics-diplomacy/13489600",
             "guid": "http://www.abc.net.au/radio/programs/conversations/linda-jaivin-history-of-china-power-politics-diplomacy/13489600",
             "isoDate": "2021-08-16T01:00:00.000Z",
@@ -2915,6 +3697,14 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202108/aaj-2021-08-13.mp3"
             },
+            "entities": [
+                "Amani Haydar",
+                "Domestic violence",
+                "she",
+                "her",
+                "2015",
+                "domestic violence"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/amani-haydar-the-mother-wound-domestic-violence/13490880",
             "guid": "http://www.abc.net.au/radio/programs/conversations/amani-haydar-the-mother-wound-domestic-violence/13490880",
             "isoDate": "2021-08-13T01:00:00.000Z",
@@ -2934,6 +3724,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202108/aaj-2021-08-12.mp3"
             },
+            "entities": ["his", "Merlin Sheldrake", "Biologist"],
             "link": "http://www.abc.net.au/radio/programs/conversations/merlin-sheldrake-the-world-of-fungi-wood-wide-web/13490878",
             "guid": "http://www.abc.net.au/radio/programs/conversations/merlin-sheldrake-the-world-of-fungi-wood-wide-web/13490878",
             "isoDate": "2021-08-12T01:00:00.000Z",
@@ -2953,6 +3744,19 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202108/aaj-2021-08-11.mp3"
             },
+            "entities": [
+                "New Zealand",
+                "she",
+                "current",
+                "student",
+                "Molly",
+                "Fairtrade",
+                "White House",
+                "Canberra",
+                "CEO",
+                "Australia",
+                "Quaker"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/modern-slavery-fairtrade-ceo-molly-harriss-olson-sustainability/13484256",
             "guid": "http://www.abc.net.au/radio/programs/conversations/modern-slavery-fairtrade-ceo-molly-harriss-olson-sustainability/13484256",
             "isoDate": "2021-08-11T01:00:00.000Z",
@@ -2972,6 +3776,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202108/aaj-2021-08-10.mp3"
             },
+            "entities": [
+                "1976",
+                "Roger Pulvers",
+                "Japan",
+                "Poland",
+                "Soviet",
+                "he",
+                "Union"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/roger-pulvers-2021/13482486",
             "guid": "http://www.abc.net.au/radio/programs/conversations/roger-pulvers-2021/13482486",
             "isoDate": "2021-08-10T01:00:00.000Z",
@@ -2991,6 +3804,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202108/aaj-2021-08-09.mp3?=v2"
             },
+            "entities": ["Christine Ball", "surgery"],
             "link": "http://www.abc.net.au/radio/programs/conversations/christine-ball-doctor-joseph-clover-chloroformist/13480718",
             "guid": "http://www.abc.net.au/radio/programs/conversations/christine-ball-doctor-joseph-clover-chloroformist/13480718",
             "isoDate": "2021-08-09T01:00:00.000Z",
@@ -3010,6 +3824,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202108/aaj-2021-08-06-lawrence.mp3"
             },
+            "entities": ["his", "superstar", "coach", "1956"],
             "link": "http://www.abc.net.au/radio/programs/conversations/laurie-lawrence-olympics-swimming-coaching-life-story-v2/13478040",
             "guid": "http://www.abc.net.au/radio/programs/conversations/laurie-lawrence-olympics-swimming-coaching-life-story-v2/13478040",
             "isoDate": "2021-08-06T01:00:00.000Z",
@@ -3029,6 +3844,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202108/aaj-2021-08-05.mp3"
             },
+            "entities": [
+                "11",
+                "she",
+                "World Champion",
+                "her",
+                "Australian",
+                "Olympic",
+                "Anna"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/anna-meares-cycling-olympics-world-records-retirement/13476428",
             "guid": "http://www.abc.net.au/radio/programs/conversations/anna-meares-cycling-olympics-world-records-retirement/13476428",
             "isoDate": "2021-08-05T01:00:00.000Z",
@@ -3048,6 +3872,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202108/aaj-2021-08-04.mp3"
             },
+            "entities": ["Steven Bradbury", "skater", "he", "20"],
             "link": "http://www.abc.net.au/radio/programs/conversations/steven-bradbury-skating-winter-olympics-gold-medal-unexpected/13474532",
             "guid": "http://www.abc.net.au/radio/programs/conversations/steven-bradbury-skating-winter-olympics-gold-medal-unexpected/13474532",
             "isoDate": "2021-08-04T01:00:00.000Z",
@@ -3067,6 +3892,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202108/aaj-2021-08-03.mp3"
             },
+            "entities": ["100", "10 seconds", "Australia", "first"],
             "link": "http://www.abc.net.au/radio/programs/conversations/patrick-johnson-sprinter-australian-record-holder-100m/13472664",
             "guid": "http://www.abc.net.au/radio/programs/conversations/patrick-johnson-sprinter-australian-record-holder-100m/13472664",
             "isoDate": "2021-08-03T01:00:00.000Z",
@@ -3086,6 +3912,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202108/aaj-2021-08-02.mp3"
             },
+            "entities": [
+                "Boston Marathon",
+                "her",
+                "Christie",
+                "seventh",
+                "2013",
+                "suicide",
+                "Tokyo Paralympics"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/christie-dawes-paralympian-wheelchair-athlete/13470994",
             "guid": "http://www.abc.net.au/radio/programs/conversations/christie-dawes-paralympian-wheelchair-athlete/13470994",
             "isoDate": "2021-08-02T01:00:00.000Z",
@@ -3105,6 +3940,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202107/aaj-2021-07-30.mp3"
             },
+            "entities": ["doctor", "Glasgow", "Australia", "Norman Swirsky"],
             "link": "http://www.abc.net.au/radio/programs/conversations/norman-swan-life-story-glasgow-medicine-acting-pandemic/13468348",
             "guid": "http://www.abc.net.au/radio/programs/conversations/norman-swan-life-story-glasgow-medicine-acting-pandemic/13468348",
             "isoDate": "2021-07-30T01:00:00.000Z",
@@ -3124,6 +3960,16 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202107/aaj-2021-07-29.mp3"
             },
+            "entities": [
+                "his",
+                "drugs",
+                "daily",
+                "war",
+                "writer",
+                "three",
+                "he",
+                "Michael Pollan"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/michael-pollan-psychoactive-plants-caffeine-opium-drugs/13466634",
             "guid": "http://www.abc.net.au/radio/programs/conversations/michael-pollan-psychoactive-plants-caffeine-opium-drugs/13466634",
             "isoDate": "2021-07-29T01:00:00.000Z",
@@ -3143,6 +3989,19 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202107/aaj-2021-07-28.mp3"
             },
+            "entities": [
+                "Chief Justice",
+                "Papua New Guinea",
+                "Buri Kidu",
+                "Brisbane",
+                "her",
+                "Her",
+                "Buri",
+                "the 1960s",
+                "Carol",
+                "lawyer",
+                "first"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/dame-carol-kidu-papua-new-guinea-love-politics-and-family/13464536",
             "guid": "http://www.abc.net.au/radio/programs/conversations/dame-carol-kidu-papua-new-guinea-love-politics-and-family/13464536",
             "isoDate": "2021-07-28T01:00:00.000Z",
@@ -3162,6 +4021,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202107/aaj-2021-07-27.mp3"
             },
+            "entities": ["Tim Dean", "Philosopher"],
             "link": "http://www.abc.net.au/radio/programs/conversations/tim-dean-philosopher-human-morality-modern-world/13462694",
             "guid": "http://www.abc.net.au/radio/programs/conversations/tim-dean-philosopher-human-morality-modern-world/13462694",
             "isoDate": "2021-07-27T01:00:00.000Z",
@@ -3181,6 +4041,13 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202107/aaj-2021-07-26.mp3"
             },
+            "entities": [
+                "archaeologist",
+                "Jamie Fraser",
+                "2600 year old",
+                "Egyptian",
+                "he"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/jamie-fraser-archaeology-ct-scanning-mummies-rpt/13460930",
             "guid": "http://www.abc.net.au/radio/programs/conversations/jamie-fraser-archaeology-ct-scanning-mummies-rpt/13460930",
             "isoDate": "2021-07-26T01:00:00.000Z",
@@ -3200,6 +4067,16 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202107/aaj-2021-07-23.mp3"
             },
+            "entities": [
+                "She",
+                "student doctor",
+                "Ireland",
+                "obstetrician",
+                "1960s",
+                "Caroline",
+                "first",
+                "fifty years"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/caroline-de-costa-obstetrician-women-babies-birth-control/13448842",
             "guid": "http://www.abc.net.au/radio/programs/conversations/caroline-de-costa-obstetrician-women-babies-birth-control/13448842",
             "isoDate": "2021-07-23T01:00:00.000Z",
@@ -3219,6 +4096,14 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202107/aaj-2021-07-22.mp3"
             },
+            "entities": [
+                "Gordon Parker",
+                "Black Dog Institute",
+                "founder",
+                "the past few years",
+                "he",
+                "illness"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/gordon-parker-depression-bipolar-mood-disorders-burnout/13447340",
             "guid": "http://www.abc.net.au/radio/programs/conversations/gordon-parker-depression-bipolar-mood-disorders-burnout/13447340",
             "isoDate": "2021-07-22T01:00:00.000Z",
@@ -3238,6 +4123,16 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202107/aaj-2021-07-21.mp3"
             },
+            "entities": [
+                "his",
+                "Himalayas",
+                "Scotland",
+                "Andrew Greig",
+                "Orkney",
+                "Islands",
+                "him",
+                "Loch of the Green Corrie"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/andrew-greig-orkneys-himalayas-golf-green-loch-of-the-corrie/13445410",
             "guid": "http://www.abc.net.au/radio/programs/conversations/andrew-greig-orkneys-himalayas-golf-green-loch-of-the-corrie/13445410",
             "isoDate": "2021-07-21T01:00:00.000Z",
@@ -3257,6 +4152,19 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202107/aaj-2021-07-20.mp3"
             },
+            "entities": [
+                "Middle East",
+                "1975",
+                "ABC",
+                "46 years later",
+                "Japan",
+                "Nyngan",
+                "Ukraine",
+                "correspondent",
+                "Philip",
+                "He",
+                "Washington"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/philip-williams-abc-foreign-correspondent-beslan-ukraine-japan/13443722",
             "guid": "http://www.abc.net.au/radio/programs/conversations/philip-williams-abc-foreign-correspondent-beslan-ukraine-japan/13443722",
             "isoDate": "2021-07-20T01:00:00.000Z",
@@ -3276,6 +4184,17 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202107/aaj-2021-07-19.mp3"
             },
+            "entities": [
+                "she",
+                "teacher",
+                "her",
+                "Australian",
+                "Anne",
+                "ten",
+                "Arab",
+                "Muslim",
+                "first"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/dr-anne-aly-parliament-power-injustice-culture-women/13442138",
             "guid": "http://www.abc.net.au/radio/programs/conversations/dr-anne-aly-parliament-power-injustice-culture-women/13442138",
             "isoDate": "2021-07-19T01:00:00.000Z",
@@ -3295,6 +4214,14 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202107/aaj-2021-07-16.mp3"
             },
+            "entities": [
+                "Darwin",
+                "Torres",
+                "Strait Islander Drag Queens",
+                "one",
+                "Ben Graetz",
+                "Australia"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/ben-graetz-darwin-drag-queen-miss-ellaneous/13439562",
             "guid": "http://www.abc.net.au/radio/programs/conversations/ben-graetz-darwin-drag-queen-miss-ellaneous/13439562",
             "isoDate": "2021-07-16T01:00:00.000Z",
@@ -3314,6 +4241,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202107/aaj-2021-07-14.mp3"
             },
+            "entities": [
+                "She",
+                "First Nations",
+                "UN",
+                "Australia",
+                "Megan Davis",
+                "Queensland Rail",
+                "lawyer"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/megan-davis-life-story-uluru-statement-from-the-heart/13435942",
             "guid": "http://www.abc.net.au/radio/programs/conversations/megan-davis-life-story-uluru-statement-from-the-heart/13435942",
             "isoDate": "2021-07-14T01:00:00.000Z",
@@ -3333,6 +4269,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202107/aaj-2021-07-12.mp3"
             },
+            "entities": ["George Megalogenis", "Morrison"],
             "link": "http://www.abc.net.au/radio/programs/conversations/post-covid-australia-george-megalogenis/13432662",
             "guid": "http://www.abc.net.au/radio/programs/conversations/post-covid-australia-george-megalogenis/13432662",
             "isoDate": "2021-07-12T01:00:00.000Z",
@@ -3352,6 +4289,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202107/aaj-2021-07-09.mp3"
             },
+            "entities": ["owner", "she", "Valley", "Swan", "Cheryl", "Wadjuk"],
             "link": "http://www.abc.net.au/radio/programs/conversations/cheryl-kickett-tucker-basketball-indigenous-kids-wellbeing/13430056",
             "guid": "http://www.abc.net.au/radio/programs/conversations/cheryl-kickett-tucker-basketball-indigenous-kids-wellbeing/13430056",
             "isoDate": "2021-07-09T01:00:00.000Z",
@@ -3371,6 +4309,16 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202107/aaj-2021-07-08.mp3"
             },
+            "entities": [
+                "Mick",
+                "his",
+                "Gangulu",
+                "Royal Commission",
+                "Protection and Detention of Children",
+                "suicide",
+                "ATSI",
+                "Northern Territory"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/mick-gooda-and-human-rights/13428084",
             "guid": "http://www.abc.net.au/radio/programs/conversations/mick-gooda-and-human-rights/13428084",
             "isoDate": "2021-07-08T01:00:00.000Z",
@@ -3390,6 +4338,16 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202107/aaj-2021-07-07.mp3"
             },
+            "entities": [
+                "Val",
+                "her",
+                "Valerie",
+                "one",
+                "ATSI",
+                "Aboriginal",
+                "Aunty Kath",
+                "Oodgeroo Noonuccal"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/making-of-valerie-cooms-quandamooka-country-to-canberra/13426132",
             "guid": "http://www.abc.net.au/radio/programs/conversations/making-of-valerie-cooms-quandamooka-country-to-canberra/13426132",
             "isoDate": "2021-07-07T01:00:00.000Z",
@@ -3409,6 +4367,20 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202107/aaj-2021-07-06.mp3"
             },
+            "entities": [
+                "Vic",
+                "his",
+                "Aboriginal",
+                "the 1950s",
+                "Australia",
+                "decades later",
+                "La Perouse",
+                "He",
+                "him",
+                "Sydney",
+                "first",
+                "Luke Peacock"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/vic-simms-luke-peacock-the-loner/13424306",
             "guid": "http://www.abc.net.au/radio/programs/conversations/vic-simms-luke-peacock-the-loner/13424306",
             "isoDate": "2021-07-06T01:00:00.000Z",
@@ -3428,6 +4400,18 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202107/aaj-2021-07-05.mp3"
             },
+            "entities": [
+                "she",
+                "ABC",
+                "his",
+                "presenter",
+                "her",
+                "Charlie",
+                "ATSI",
+                "Gurindji",
+                "he",
+                "violence"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/charlie-king-my-mothers-real-story/13422636",
             "guid": "http://www.abc.net.au/radio/programs/conversations/charlie-king-my-mothers-real-story/13422636",
             "isoDate": "2021-07-05T01:00:00.000Z",
@@ -3447,6 +4431,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202107/aaj-2021-07-02.mp3"
             },
+            "entities": [
+                "murder",
+                "his",
+                "Tarang Chawla",
+                "Niki",
+                "Melbourne",
+                "India",
+                "violence"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/tarang-chawla-family-story-migration-murder-domestic-violence/13420090",
             "guid": "http://www.abc.net.au/radio/programs/conversations/tarang-chawla-family-story-migration-murder-domestic-violence/13420090",
             "isoDate": "2021-07-02T01:00:00.000Z",
@@ -3466,6 +4459,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202107/aaj-2021-07-01.mp3"
             },
+            "entities": [
+                "1",
+                "Richmond Football Club",
+                "Ash Barty",
+                "her",
+                "Ben",
+                "He",
+                "Steph Gilmore"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/ash-barty-sports-mentor-ben-crowe/13418314",
             "guid": "http://www.abc.net.au/radio/programs/conversations/ash-barty-sports-mentor-ben-crowe/13418314",
             "isoDate": "2021-07-01T01:00:00.000Z",
@@ -3485,6 +4487,16 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202106/aaj-2021-06-30.mp3"
             },
+            "entities": [
+                "Jen Cloher",
+                "Vika",
+                "Vic Simms",
+                "Rob Hirst",
+                "William Barton",
+                "Linda Bull",
+                "Elena Kats-Chernin",
+                "years"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/musical-origin-stories-collection-australian-musicians/13409702",
             "guid": "http://www.abc.net.au/radio/programs/conversations/musical-origin-stories-collection-australian-musicians/13409702",
             "isoDate": "2021-06-30T01:00:00.000Z",
@@ -3504,6 +4516,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202106/aaj-2021-06-29.mp3"
             },
+            "entities": ["Chris Gibson", "past", "future", "him"],
             "link": "http://www.abc.net.au/radio/programs/conversations/guitar-timber-sources-chris-gibson/13407846",
             "guid": "http://www.abc.net.au/radio/programs/conversations/guitar-timber-sources-chris-gibson/13407846",
             "isoDate": "2021-06-29T01:00:00.000Z",
@@ -3523,6 +4536,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202106/aaj-2021-06-28.mp3"
             },
+            "entities": ["she", "her", "Betty Klimenko", "Westfield"],
             "link": "http://www.abc.net.au/radio/programs/conversations/betty-klimenko-from-heiress-to-motorsports/13404726",
             "guid": "http://www.abc.net.au/radio/programs/conversations/betty-klimenko-from-heiress-to-motorsports/13404726",
             "isoDate": "2021-06-28T01:00:00.000Z",
@@ -3542,6 +4556,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202106/aaj-2021-06-25.mp3"
             },
+            "entities": ["Dimity", "his", "Ianto Ware", "Adelaide", "feminist"],
             "link": "http://www.abc.net.au/radio/programs/conversations/ianto-ware-lesbian-mother-gay-parents-single-parent-only-child/13400320",
             "guid": "http://www.abc.net.au/radio/programs/conversations/ianto-ware-lesbian-mother-gay-parents-single-parent-only-child/13400320",
             "isoDate": "2021-06-25T01:00:00.000Z",
@@ -3561,6 +4576,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202106/aaj-2021-06-24.mp3"
             },
+            "entities": ["Ben", "Glasgow", "musician", "he", "years later"],
             "link": "http://www.abc.net.au/radio/programs/conversations/ben-g-homelessness-glasgow-big-issue/13396760",
             "guid": "http://www.abc.net.au/radio/programs/conversations/ben-g-homelessness-glasgow-big-issue/13396760",
             "isoDate": "2021-06-24T01:00:00.000Z",
@@ -3580,6 +4596,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202106/aaj-2021-06-23.mp3"
             },
+            "entities": ["she", "Kyle", "55-year old", "her", "author"],
             "link": "http://www.abc.net.au/radio/programs/conversations/kyle-mewburn-transition-transwoman-growing-up-transgender/13393152",
             "guid": "http://www.abc.net.au/radio/programs/conversations/kyle-mewburn-transition-transwoman-growing-up-transgender/13393152",
             "isoDate": "2021-06-23T01:00:00.000Z",
@@ -3599,6 +4616,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202106/aaj-2021-06-22.mp3"
             },
+            "entities": ["she", "Lynne Kelly"],
             "link": "http://www.abc.net.au/radio/programs/conversations/lynne-kelly-building-memory-palaces-and-becoming-memory-champion/13389624",
             "guid": "http://www.abc.net.au/radio/programs/conversations/lynne-kelly-building-memory-palaces-and-becoming-memory-champion/13389624",
             "isoDate": "2021-06-22T01:00:00.000Z",
@@ -3618,6 +4636,17 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202106/aaj-2021-06-21.mp3"
             },
+            "entities": [
+                "Julie",
+                "her",
+                "Her",
+                "Kate Grenville",
+                "River",
+                "Northern Territory",
+                "Darug",
+                "Hawkesbury",
+                "years"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/julie-janson-hawkesbury-darug-benevolence/13387536",
             "guid": "http://www.abc.net.au/radio/programs/conversations/julie-janson-hawkesbury-darug-benevolence/13387536",
             "isoDate": "2021-06-21T01:00:00.000Z",
@@ -3637,6 +4666,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202106/aaj-2021-06-18.mp3"
             },
+            "entities": ["Autism", "her", "Jodi Rodgers", "sexologist"],
             "link": "http://www.abc.net.au/radio/programs/conversations/jodi-rodgers-love-on-the-spectrum-autism-dating-love/13385200",
             "guid": "http://www.abc.net.au/radio/programs/conversations/jodi-rodgers-love-on-the-spectrum-autism-dating-love/13385200",
             "isoDate": "2021-06-18T01:00:00.000Z",
@@ -3656,6 +4686,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202106/aaj-2021-06-17.mp3"
             },
+            "entities": ["Russian", "Alexandra Seddon", "her", "suicide"],
             "link": "http://www.abc.net.au/radio/programs/conversations/alexandra-sedden-russian-aristocracy-bolshevik-revolution-wombat/13382894",
             "guid": "http://www.abc.net.au/radio/programs/conversations/alexandra-sedden-russian-aristocracy-bolshevik-revolution-wombat/13382894",
             "isoDate": "2021-06-17T01:00:00.000Z",
@@ -3675,6 +4706,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202106/aaj-2021-06-16.mp3"
             },
+            "entities": ["his", "Steve Biddulph", "psychologist", "he"],
             "link": "http://www.abc.net.au/radio/programs/conversations/steve-bidduph-raising-boys-aspergers-diagnosis-later-in-life/13380918",
             "guid": "http://www.abc.net.au/radio/programs/conversations/steve-bidduph-raising-boys-aspergers-diagnosis-later-in-life/13380918",
             "isoDate": "2021-06-16T01:00:00.000Z",
@@ -3694,6 +4726,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202106/aaj-2021-06-15.mp3"
             },
+            "entities": ["Sky Fosbrooke", "Physiotherapist", "South Santo"],
             "link": "http://www.abc.net.au/radio/programs/conversations/sky-fosbrooke-vanuatu-health-volunteer/13379074",
             "guid": "http://www.abc.net.au/radio/programs/conversations/sky-fosbrooke-vanuatu-health-volunteer/13379074",
             "isoDate": "2021-06-15T01:00:00.000Z",
@@ -3713,6 +4746,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202106/aaj-2021-06-14.mp3"
             },
+            "entities": ["screenwriter", "ABC", "her"],
             "link": "http://www.abc.net.au/radio/programs/conversations/kristen-dunphy-wakefield-tv-mental-health-psychiatric-hospitals/13377418",
             "guid": "http://www.abc.net.au/radio/programs/conversations/kristen-dunphy-wakefield-tv-mental-health-psychiatric-hospitals/13377418",
             "isoDate": "2021-06-14T01:00:00.000Z",
@@ -3732,6 +4766,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202106/aaj-2021-06-11.mp3"
             },
+            "entities": ["her", "Carolinda Witt"],
             "link": "http://www.abc.net.au/radio/programs/conversations/double-agent-celery-mi5-british-spy-carolinda-witt/13374692",
             "guid": "http://www.abc.net.au/radio/programs/conversations/double-agent-celery-mi5-british-spy-carolinda-witt/13374692",
             "isoDate": "2021-06-11T01:00:00.000Z",
@@ -3750,6 +4785,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202106/aaj-2021-06-10.mp3"
             },
+            "entities": ["her", "Australian", "the Year", "Michelle Lee"],
             "link": "http://www.abc.net.au/radio/programs/conversations/michelle-lee-atlantic-ocean-solo-row-australian-adventurer/13372992",
             "guid": "http://www.abc.net.au/radio/programs/conversations/michelle-lee-atlantic-ocean-solo-row-australian-adventurer/13372992",
             "isoDate": "2021-06-10T01:00:00.000Z",
@@ -3769,6 +4805,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202106/aaj-2021-06-09-judith-anderson.mp3"
             },
+            "entities": ["Warwick", "Judith", "her", "Queensland"],
             "link": "http://www.abc.net.au/radio/programs/conversations/judith-anderson-warwick-bakers/13380254",
             "guid": "http://www.abc.net.au/radio/programs/conversations/judith-anderson-warwick-bakers/13380254",
             "isoDate": "2021-06-09T01:00:00.000Z",
@@ -3788,6 +4825,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202106/aaj-2021-06-09-bruce-munday.mp3"
             },
+            "entities": ["Bruce", "teacher"],
             "link": "http://www.abc.net.au/radio/programs/conversations/bruce-munday-drystone-walls/13380268",
             "guid": "http://www.abc.net.au/radio/programs/conversations/bruce-munday-drystone-walls/13380268",
             "isoDate": "2021-06-09T01:00:00.000Z",
@@ -3807,6 +4845,14 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202106/aaj-2021-06-08.mp3"
             },
+            "entities": [
+                "her",
+                "South",
+                "Kristin Weidenbach",
+                "Moonta",
+                "Methodist-run",
+                "Australia"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/kirstin-weidenbach-moonta-electricity-powerhouse-south-australia/13369072",
             "guid": "http://www.abc.net.au/radio/programs/conversations/kirstin-weidenbach-moonta-electricity-powerhouse-south-australia/13369072",
             "isoDate": "2021-06-08T01:00:00.000Z",
@@ -3826,6 +4872,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202106/aaj-2021-06-07.mp3"
             },
+            "entities": [
+                "70 years",
+                "1964",
+                "Bob",
+                "Australian",
+                "London",
+                "he",
+                "Sydney"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/bob-rogers-and-the-beatles-radio-broadcasting-veteran/13367468",
             "guid": "http://www.abc.net.au/radio/programs/conversations/bob-rogers-and-the-beatles-radio-broadcasting-veteran/13367468",
             "isoDate": "2021-06-07T01:00:00.000Z",
@@ -3845,6 +4900,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202106/aaj-2021-06-04.mp3"
             },
+            "entities": ["Hugh Mackay", "his", "He"],
             "link": "http://www.abc.net.au/radio/programs/conversations/hugh-mackay-kindess-revolution-hope-trust-community/13364820",
             "guid": "http://www.abc.net.au/radio/programs/conversations/hugh-mackay-kindess-revolution-hope-trust-community/13364820",
             "isoDate": "2021-06-04T01:00:00.000Z",
@@ -3864,6 +4920,12 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202106/aaj-2021-06-03.mp3"
             },
+            "entities": [
+                "Susan Orlean",
+                "fire",
+                "Los Angeles Central Library",
+                "Writer"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/susan-orlean-los-angeles-library-history-fire/13362774",
             "guid": "http://www.abc.net.au/radio/programs/conversations/susan-orlean-los-angeles-library-history-fire/13362774",
             "isoDate": "2021-06-03T01:00:00.000Z",
@@ -3883,6 +4945,14 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202106/aaj-2021-06-02.mp3"
             },
+            "entities": [
+                "his",
+                "preacher",
+                "Pentecostal",
+                "Anthony Venn-Brown",
+                "he",
+                "He"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/anthony-venn-brown-gay-conversion-therapy-exorcisms-megachurches/13360908",
             "guid": "http://www.abc.net.au/radio/programs/conversations/anthony-venn-brown-gay-conversion-therapy-exorcisms-megachurches/13360908",
             "isoDate": "2021-06-02T01:00:00.000Z",
@@ -3902,6 +4972,14 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202106/aaj-2021-06-01.mp3"
             },
+            "entities": [
+                "Broome",
+                "her",
+                "Indigenous",
+                "Anne Poelina",
+                "diver",
+                "Timorese"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/anne-poelina-broome-pearl-divers-indigenous-culture/13359118",
             "guid": "http://www.abc.net.au/radio/programs/conversations/anne-poelina-broome-pearl-divers-indigenous-culture/13359118",
             "isoDate": "2021-06-01T01:00:00.000Z",
@@ -3921,6 +4999,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202105/aaj-2021-05-31.mp3"
             },
+            "entities": ["his", "China", "Jason Yat-sen Li", "war", "him"],
             "link": "http://www.abc.net.au/radio/programs/conversations/jason-yat-sen-li-china-childhood-five-personalities-of-china/13357566",
             "guid": "http://www.abc.net.au/radio/programs/conversations/jason-yat-sen-li-china-childhood-five-personalities-of-china/13357566",
             "isoDate": "2021-05-31T01:00:00.000Z",
@@ -3940,6 +5019,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202105/aaj-2021-05-28.mp3"
             },
+            "entities": ["English", "teacher", "his", "Brendan James Murray"],
             "link": "http://www.abc.net.au/radio/programs/conversations/brendan-james-murray-english-teacher-staffroom-classroom/13354750",
             "guid": "http://www.abc.net.au/radio/programs/conversations/brendan-james-murray-english-teacher-staffroom-classroom/13354750",
             "isoDate": "2021-05-28T01:00:00.000Z",
@@ -3959,6 +5039,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202105/aaj-2021-05-27.mp3"
             },
+            "entities": ["Donna Duggan", "Tanzanian", "accident"],
             "link": "http://www.abc.net.au/radio/programs/conversations/donna-duggan-tanzania-tourism-safari-plane-crash-rpt/13353020",
             "guid": "http://www.abc.net.au/radio/programs/conversations/donna-duggan-tanzania-tourism-safari-plane-crash-rpt/13353020",
             "isoDate": "2021-05-27T01:00:00.000Z",
@@ -3978,6 +5059,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202105/aaj-2021-05-26.mp3"
             },
+            "entities": ["Lou", "Louise Pryke", "day", "Al Capone"],
             "link": "http://www.abc.net.au/radio/programs/conversations/turtles-a-cultural-history-louise-pryke/13351224",
             "guid": "http://www.abc.net.au/radio/programs/conversations/turtles-a-cultural-history-louise-pryke/13351224",
             "isoDate": "2021-05-26T01:00:00.000Z",
@@ -3997,6 +5079,20 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202105/aaj-2021-05-25.mp3"
             },
+            "entities": [
+                "his",
+                "His",
+                "Houdini",
+                "Arthur",
+                "Magic Castle",
+                "Australia",
+                "magician",
+                "him",
+                "he",
+                "44-gallon",
+                "1970s",
+                "89 years"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/arthur-coghlan-escapologist-australian-houdini-magician/13349608",
             "guid": "http://www.abc.net.au/radio/programs/conversations/arthur-coghlan-escapologist-australian-houdini-magician/13349608",
             "isoDate": "2021-05-25T01:00:00.000Z",
@@ -4016,6 +5112,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202105/aaj-2021-05-24.mp3"
             },
+            "entities": ["tuberculosis", "Christiaan"],
             "link": "http://www.abc.net.au/radio/programs/conversations/christiaan-van-vuuren-tuberculosis-isolation-ward-comedy/13348008",
             "guid": "http://www.abc.net.au/radio/programs/conversations/christiaan-van-vuuren-tuberculosis-isolation-ward-comedy/13348008",
             "isoDate": "2021-05-24T01:00:00.000Z",
@@ -4035,6 +5132,14 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202105/aaj-2021-05-21.mp3"
             },
+            "entities": [
+                "Kathryn Heyman",
+                "Darwin",
+                "her",
+                "deckhand",
+                "Timor Sea",
+                "Sexual assault"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/kathryn-heyman-fury-fishing-and-reinvention/13345434",
             "guid": "http://www.abc.net.au/radio/programs/conversations/kathryn-heyman-fury-fishing-and-reinvention/13345434",
             "isoDate": "2021-05-21T01:00:00.000Z",
@@ -4054,6 +5159,18 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202105/aaj-2021-05-20.mp3"
             },
+            "entities": [
+                "performer",
+                "his",
+                "recent years",
+                "author",
+                "Flacco",
+                "Paul",
+                "musician",
+                "he",
+                "He",
+                "Sydney"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/bellringing-and-listening-to-the-dying-paul-livingston-flacco/13343880",
             "guid": "http://www.abc.net.au/radio/programs/conversations/bellringing-and-listening-to-the-dying-paul-livingston-flacco/13343880",
             "isoDate": "2021-05-20T01:00:00.000Z",
@@ -4073,6 +5190,16 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202105/aaj-2021-05-19.mp3"
             },
+            "entities": [
+                "she",
+                "her",
+                "Europe",
+                "Australian",
+                "Jessica",
+                "conductor",
+                "BBC Proms",
+                "Canberra Symphony Orchestra"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/jessica-cottis-conductor-synaesthesia-organ-musician/13341882",
             "guid": "http://www.abc.net.au/radio/programs/conversations/jessica-cottis-conductor-synaesthesia-organ-musician/13341882",
             "isoDate": "2021-05-19T01:00:00.000Z",
@@ -4092,6 +5219,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202105/aaj-2021-05-18.mp3"
             },
+            "entities": ["Nikki Stamp", "surgeon"],
             "link": "http://www.abc.net.au/radio/programs/conversations/nikki-stamp-heart-health-broken-hearted-syndrome-rpt/13339956",
             "guid": "http://www.abc.net.au/radio/programs/conversations/nikki-stamp-heart-health-broken-hearted-syndrome-rpt/13339956",
             "isoDate": "2021-05-18T01:00:00.000Z",
@@ -4111,6 +5239,16 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202105/aaj-2021-05-17a.mp3?=v2"
             },
+            "entities": [
+                "British",
+                "One",
+                "now",
+                "today",
+                "First",
+                "Australia",
+                "Henry",
+                "violence"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/henry-reynolds-truth-telling-australian-history-sovereignty-v2/13347736",
             "guid": "http://www.abc.net.au/radio/programs/conversations/henry-reynolds-truth-telling-australian-history-sovereignty-v2/13347736",
             "isoDate": "2021-05-17T01:00:00.000Z",
@@ -4130,6 +5268,16 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202105/aaj-2021-05-14.mp3"
             },
+            "entities": [
+                "she",
+                "his",
+                "Andrew Bryant",
+                "her",
+                "Susan",
+                "Days",
+                "suicide",
+                "he"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/doctor-suicide-susan-bryant-andrew-bryant/13335414",
             "guid": "http://www.abc.net.au/radio/programs/conversations/doctor-suicide-susan-bryant-andrew-bryant/13335414",
             "isoDate": "2021-05-14T01:00:00.000Z",
@@ -4149,6 +5297,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202105/aaj-2021-05-13.mp3"
             },
+            "entities": [
+                "New York",
+                "Torres",
+                "Strait Islander",
+                "Indigenous",
+                "Allen Murphy",
+                "he",
+                "drummer"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/allen-murphy-village-people-oenpelli-yothu-yindi-drumming-n.t/13332972",
             "guid": "http://www.abc.net.au/radio/programs/conversations/allen-murphy-village-people-oenpelli-yothu-yindi-drumming-n.t/13332972",
             "isoDate": "2021-05-13T01:00:00.000Z",
@@ -4168,6 +5325,21 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202105/aaj-2021-05-12.mp3"
             },
+            "entities": [
+                "Professor",
+                "25 years",
+                "Italian",
+                "Christian Science",
+                "Europe",
+                "Dale Kent",
+                "University of California",
+                "She",
+                "she",
+                "her",
+                "Dale",
+                "Australia",
+                "US"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/dale-kent-florence-historian/13331038",
             "guid": "http://www.abc.net.au/radio/programs/conversations/dale-kent-florence-historian/13331038",
             "isoDate": "2021-05-12T01:00:00.000Z",
@@ -4187,6 +5359,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202105/aaj-2021-05-11.mp3"
             },
+            "entities": ["Dennis Van Someren", "Dennis", "he"],
             "link": "http://www.abc.net.au/radio/programs/conversations/dennis-van-someren-family-jail-sentence-volunteer-prison-visits/13329462",
             "guid": "http://www.abc.net.au/radio/programs/conversations/dennis-van-someren-family-jail-sentence-volunteer-prison-visits/13329462",
             "isoDate": "2021-05-11T01:00:00.000Z",
@@ -4206,6 +5379,12 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202105/aaj-2021-05-10.mp3"
             },
+            "entities": [
+                "Australia",
+                "James Hardy Vaux",
+                "first",
+                "Kel Richards"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/australian-dictionary-convict-james-vaux-flash-language/13328936",
             "guid": "http://www.abc.net.au/radio/programs/conversations/australian-dictionary-convict-james-vaux-flash-language/13328936",
             "isoDate": "2021-05-10T01:00:00.000Z",
@@ -4225,6 +5404,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202105/aaj-2021-05-07.mp3"
             },
+            "entities": ["Margie", "seven"],
             "link": "http://www.abc.net.au/radio/programs/conversations/margie-bale-camel-vet-rpt/13325238",
             "guid": "http://www.abc.net.au/radio/programs/conversations/margie-bale-camel-vet-rpt/13325238",
             "isoDate": "2021-05-07T01:00:00.000Z",
@@ -4244,6 +5424,13 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202105/aaj-2021-05-06.mp3"
             },
+            "entities": [
+                "she",
+                "A year later",
+                "foster parent",
+                "her",
+                "Sarah Sentilles"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/sarah-sentilles-stranger-care-coco-love-and-letting-go/13323376",
             "guid": "http://www.abc.net.au/radio/programs/conversations/sarah-sentilles-stranger-care-coco-love-and-letting-go/13323376",
             "isoDate": "2021-05-06T01:00:00.000Z",
@@ -4263,6 +5450,16 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202105/aaj-2021-05-05.mp3"
             },
+            "entities": [
+                "his",
+                "Queanbeyan",
+                "Enron",
+                "London",
+                "Glenn",
+                "He",
+                "Bowls Club",
+                "him"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/glenn-jarvis-enron-london-queanbeyan-life-with-schizophrenia/13321538",
             "guid": "http://www.abc.net.au/radio/programs/conversations/glenn-jarvis-enron-london-queanbeyan-life-with-schizophrenia/13321538",
             "isoDate": "2021-05-05T01:00:00.000Z",
@@ -4282,6 +5479,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202105/aaj-2021-05-04.mp3"
             },
+            "entities": ["her", "Kitty"],
             "link": "http://www.abc.net.au/radio/programs/conversations/kitty-flanagan-comedy-writing-interesting-jobs-life-in-comedy/13319986",
             "guid": "http://www.abc.net.au/radio/programs/conversations/kitty-flanagan-comedy-writing-interesting-jobs-life-in-comedy/13319986",
             "isoDate": "2021-05-04T01:00:00.000Z",
@@ -4301,6 +5499,17 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202105/aaj-2021-05-03.mp3"
             },
+            "entities": [
+                "she",
+                "her",
+                "Krissy",
+                "Lotty",
+                "past",
+                "Egypt",
+                "Krissy Kneen",
+                "Slovenia",
+                "Australia"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/krissy-kneen-grandmother-aleksandrinke/13318496",
             "guid": "http://www.abc.net.au/radio/programs/conversations/krissy-kneen-grandmother-aleksandrinke/13318496",
             "isoDate": "2021-05-03T01:00:00.000Z",
@@ -4320,6 +5529,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202104/aaj-2021-04-30.mp3"
             },
+            "entities": ["she", "Sarah", "her", "twenty-seven"],
             "link": "http://www.abc.net.au/radio/programs/conversations/sarah-dingle-sperm-donor-global-fertility-industry/13316010",
             "guid": "http://www.abc.net.au/radio/programs/conversations/sarah-dingle-sperm-donor-global-fertility-industry/13316010",
             "isoDate": "2021-04-30T01:00:00.000Z",
@@ -4339,6 +5549,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202104/aaj-2021-04-29.mp3"
             },
+            "entities": ["Physician scientist Professor", "John", "John Rasko"],
             "link": "http://www.abc.net.au/radio/programs/conversations/stem-cell-science-hype-and-hope-john-rasko/13314458",
             "guid": "http://www.abc.net.au/radio/programs/conversations/stem-cell-science-hype-and-hope-john-rasko/13314458",
             "isoDate": "2021-04-29T01:00:00.000Z",
@@ -4358,6 +5569,16 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202104/aaj-2021-04-28.mp3"
             },
+            "entities": [
+                "she",
+                "singer",
+                "student",
+                "Berlin",
+                "one",
+                "Australia",
+                "Decades later",
+                "Gisela Kaplan"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/gisela-kaplan-berlin-starvation-opera-australian-native-birds/13312640",
             "guid": "http://www.abc.net.au/radio/programs/conversations/gisela-kaplan-berlin-starvation-opera-australian-native-birds/13312640",
             "isoDate": "2021-04-28T01:00:00.000Z",
@@ -4377,6 +5598,14 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202104/aaj-2021-04-27.mp3"
             },
+            "entities": [
+                "she",
+                "Polish",
+                "his",
+                "Lublin",
+                "Betty O'Neill",
+                "Decades later"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/betty-oneill-father-poland-bigamy-holocaust-concentration-camp/13310736",
             "guid": "http://www.abc.net.au/radio/programs/conversations/betty-oneill-father-poland-bigamy-holocaust-concentration-camp/13310736",
             "isoDate": "2021-04-27T01:00:00.000Z",
@@ -4396,6 +5625,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202104/aaj-2021-04-26.mp3"
             },
+            "entities": ["Ypres", "war", "Historian", "Paul Ham"],
             "link": "http://www.abc.net.au/radio/programs/conversations/battle-of-passchendaele-paul-ham/13309084",
             "guid": "http://www.abc.net.au/radio/programs/conversations/battle-of-passchendaele-paul-ham/13309084",
             "isoDate": "2021-04-26T01:00:00.000Z",
@@ -4415,6 +5645,13 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202104/aaj-2021-04-23.mp3"
             },
+            "entities": [
+                "disasters",
+                "Japan",
+                "2011",
+                "Richard Lloyd Parry",
+                "earthquake"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/japan-tsunami-ghosts-richard-lloyd-parry/13306574",
             "guid": "http://www.abc.net.au/radio/programs/conversations/japan-tsunami-ghosts-richard-lloyd-parry/13306574",
             "isoDate": "2021-04-23T01:00:00.000Z",
@@ -4434,6 +5671,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202104/aaj-2021-04-22.mp3"
             },
+            "entities": [
+                "she",
+                "Ronnie",
+                "her",
+                "police officer",
+                "the ten years",
+                "Aboriginal",
+                "violence"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/veronica-ronnie-gorrie-frmr-aboriginal-police-officer-survivor/13304782",
             "guid": "http://www.abc.net.au/radio/programs/conversations/veronica-ronnie-gorrie-frmr-aboriginal-police-officer-survivor/13304782",
             "isoDate": "2021-04-22T01:00:00.000Z",
@@ -4453,6 +5699,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202104/aaj-2021-04-21.mp3"
             },
+            "entities": ["her", "Her", "Helen"],
             "link": "http://www.abc.net.au/radio/programs/conversations/helen-zaltzmann-the-allusionist-on-language/13302990",
             "guid": "http://www.abc.net.au/radio/programs/conversations/helen-zaltzmann-the-allusionist-on-language/13302990",
             "isoDate": "2021-04-21T01:00:00.000Z",
@@ -4472,6 +5719,13 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202104/aaj-2021-04-20.mp3"
             },
+            "entities": [
+                "his",
+                "taxidermist",
+                "Jared",
+                "Northern Territory",
+                "he"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/northern-territory-taxidemrist-jared-archibald/13301320",
             "guid": "http://www.abc.net.au/radio/programs/conversations/northern-territory-taxidemrist-jared-archibald/13301320",
             "isoDate": "2021-04-20T01:00:00.000Z",
@@ -4491,6 +5745,17 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202104/aaj-2021-04-19.mp3"
             },
+            "entities": [
+                "New York",
+                "she",
+                "Shelter Island",
+                "her",
+                "Australian",
+                "Now",
+                "writer",
+                "Lily Brett",
+                "Lily"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/lily-brett-from-shelter-island/13299772",
             "guid": "http://www.abc.net.au/radio/programs/conversations/lily-brett-from-shelter-island/13299772",
             "isoDate": "2021-04-19T01:00:00.000Z",
@@ -4510,6 +5775,16 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202104/aaj-2021-04-16.mp3"
             },
+            "entities": [
+                "Italian",
+                "singer",
+                "her",
+                "Young Talent Time",
+                "Pina",
+                "Australia",
+                "Arena",
+                "years"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/tina-arena-young-talent-time-reinvention-singing-music/13296794",
             "guid": "http://www.abc.net.au/radio/programs/conversations/tina-arena-young-talent-time-reinvention-singing-music/13296794",
             "isoDate": "2021-04-16T01:00:00.000Z",
@@ -4529,6 +5804,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202104/aaj-2021-04-15.mp3"
             },
+            "entities": ["she", "Ruth Coker Burks", "Hot Springs", "Arkansas"],
             "link": "http://www.abc.net.au/radio/programs/conversations/ruth-coker-burks-aids-aids-crisis-caring-for-aids-patients/13294378",
             "guid": "http://www.abc.net.au/radio/programs/conversations/ruth-coker-burks-aids-aids-crisis-caring-for-aids-patients/13294378",
             "isoDate": "2021-04-15T01:00:00.000Z",
@@ -4548,6 +5824,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202104/aaj-2021-04-14.mp3"
             },
+            "entities": ["Stefan Eberhard", "his", "ecologist"],
             "link": "http://www.abc.net.au/radio/programs/conversations/stefan-eberhard-caves-underground-chambers-dolines-nullabor/13292466",
             "guid": "http://www.abc.net.au/radio/programs/conversations/stefan-eberhard-caves-underground-chambers-dolines-nullabor/13292466",
             "isoDate": "2021-04-14T01:00:00.000Z",
@@ -4567,6 +5844,18 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202104/aaj-2021-04-13.mp3"
             },
+            "entities": [
+                "actor",
+                "she",
+                "Judith",
+                "Desley Deacon",
+                "cult",
+                "her",
+                "Rebecca",
+                "Hitchcock",
+                "Biographer",
+                "South-Australian"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/judith-anderson-mrs-danvers-rebecca-star-trek-vulcan-priestess/13291044",
             "guid": "http://www.abc.net.au/radio/programs/conversations/judith-anderson-mrs-danvers-rebecca-star-trek-vulcan-priestess/13291044",
             "isoDate": "2021-04-13T01:00:00.000Z",
@@ -4586,6 +5875,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202104/aaj-2021-04-12.mp3"
             },
+            "entities": [
+                "Brad McKay",
+                "his",
+                "Keto",
+                "Instagram",
+                "2020",
+                "Brad",
+                "Sydney"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/dr-brad-mckay-fake-medicine-anti-wellness-keto-diet-pill-scam/13289820",
             "guid": "http://www.abc.net.au/radio/programs/conversations/dr-brad-mckay-fake-medicine-anti-wellness-keto-diet-pill-scam/13289820",
             "isoDate": "2021-04-12T01:00:00.000Z",
@@ -4605,6 +5903,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202104/aaj-2021-04-09.mp3"
             },
+            "entities": ["her", "Lydia Pearson"],
             "link": "http://www.abc.net.au/radio/programs/conversations/lydia-pearson-easton-pearson-fashion-textiles-history/13287912",
             "guid": "http://www.abc.net.au/radio/programs/conversations/lydia-pearson-easton-pearson-fashion-textiles-history/13287912",
             "isoDate": "2021-04-09T01:00:00.000Z",
@@ -4624,6 +5923,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202104/aaj-2021-04-08.mp3"
             },
+            "entities": ["Judith", "50"],
             "link": "http://www.abc.net.au/radio/programs/conversations/judith-lucy-grief-menopause-suddenly-single-resilience-community/13287144",
             "guid": "http://www.abc.net.au/radio/programs/conversations/judith-lucy-grief-menopause-suddenly-single-resilience-community/13287144",
             "isoDate": "2021-04-08T00:00:00.000Z",
@@ -4643,6 +5943,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202104/aaj-2021-04-07.mp3"
             },
+            "entities": ["Icelandic", "his", "Japan", "Dan Richards"],
             "link": "http://www.abc.net.au/radio/programs/conversations/dan-richards-outposts-and-extreme-landscapes/13284810",
             "guid": "http://www.abc.net.au/radio/programs/conversations/dan-richards-outposts-and-extreme-landscapes/13284810",
             "isoDate": "2021-04-07T00:00:00.000Z",
@@ -4662,6 +5963,16 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202104/aaj-2021-04-06.mp3"
             },
+            "entities": [
+                "Toowoomba",
+                "his",
+                "17",
+                "accidents",
+                "Lech Blaine",
+                "three",
+                "two",
+                "he"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/lech-blaine-car-crash-teenagers-driving-danger-trauma-recovery/13282792",
             "guid": "http://www.abc.net.au/radio/programs/conversations/lech-blaine-car-crash-teenagers-driving-danger-trauma-recovery/13282792",
             "isoDate": "2021-04-06T00:00:00.000Z",
@@ -4681,6 +5992,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202104/aaj-2021-04-05.mp3"
             },
+            "entities": ["his", "Andrew Darby", "he"],
             "link": "http://www.abc.net.au/radio/programs/conversations/andrew-darby-secret-life-of-the-grey-plover/13280804",
             "guid": "http://www.abc.net.au/radio/programs/conversations/andrew-darby-secret-life-of-the-grey-plover/13280804",
             "isoDate": "2021-04-05T00:00:00.000Z",
@@ -4700,6 +6012,7 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202104/aaj-2021-04-02.mp3"
             },
+            "entities": ["she", "host", "Patrice Newell", "farmer", "model"],
             "link": "http://www.abc.net.au/radio/programs/conversations/conversations/13277894",
             "guid": "http://www.abc.net.au/radio/programs/conversations/conversations/13277894",
             "isoDate": "2021-04-02T00:00:00.000Z",
@@ -4719,6 +6032,14 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202104/aaj-2021-04-01.mp3"
             },
+            "entities": [
+                "Gold Coast",
+                "her",
+                "Screenwriter",
+                "daily",
+                "Samantha Strauss",
+                "last years"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/samantha-strauss-dance-academy-nembutal-the-right-to-die-the-end/13275912",
             "guid": "http://www.abc.net.au/radio/programs/conversations/samantha-strauss-dance-academy-nembutal-the-right-to-die-the-end/13275912",
             "isoDate": "2021-04-01T00:00:00.000Z",
@@ -4738,6 +6059,16 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202103/aaj-2021-03-31.mp3"
             },
+            "entities": [
+                "gymnast",
+                "she",
+                "her",
+                "nineteen",
+                "Kirsty Everett",
+                "leukaemia",
+                "Kirsty",
+                "Olympic"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/kirstye-everett-surviving-childhood-cancer-twice/13272624",
             "guid": "http://www.abc.net.au/radio/programs/conversations/kirstye-everett-surviving-childhood-cancer-twice/13272624",
             "isoDate": "2021-03-31T00:00:00.000Z",
@@ -4757,6 +6088,15 @@
                 "type": "audio/mp3",
                 "url": "http://mpegmedia.abc.net.au/radio/local_brisbane/audio/202103/aaj-2021-03-30.mp3"
             },
+            "entities": [
+                "Gogol",
+                "Tolstoy",
+                "Russian",
+                "George Saunders",
+                "Writer",
+                "Chekhov",
+                "Turgenev"
+            ],
             "link": "http://www.abc.net.au/radio/programs/conversations/george-saunders-russian-short-stories-life-lessons/13270368",
             "guid": "http://www.abc.net.au/radio/programs/conversations/george-saunders-russian-short-stories-life-lessons/13270368",
             "isoDate": "2021-03-30T00:00:00.000Z",

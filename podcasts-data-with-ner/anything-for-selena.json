@@ -64,6 +64,21 @@
                 "type": "audio/mpeg",
                 "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR6711643833.mp3"
             },
+            "entities": [
+                "Futuro Studios",
+                "Tupac",
+                "Chalino Sanchez",
+                "of Corridos",
+                "Chalino Sánchez",
+                "Today",
+                "his",
+                "King",
+                "every night",
+                "8-episode",
+                "\u201c",
+                "first",
+                "Frank Sinatra"
+            ],
             "content:encodedSnippet": "Imagine if Frank Sinatra went on stage every night with a gun in his waistband, or if Tupac got into a shootout onstage at a rodeo. Well, Chalino Sanchez did just that.\n\r\n\r\nToday, we're sharing an episode of a brand new podcast from our friends at Futuro Studios, \"Ídolo: The Ballad of Chalino Sánchez.\" The 8-episode series examines the extraordinary life of the \u201cKing of Corridos\u201d and an attempt to unravel the mystery of his death. \n\r\n\r\nThis is the first episode, \"Death Note.\"",
             "guid": "f1f08ee5-0ba2-4a60-8182-f968f2261ec4",
             "categories": ["Arts", "Crime & Justice", "Life", "Investigations"],
@@ -92,6 +107,16 @@
                 "type": "audio/mpeg",
                 "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4597153445.mp3"
             },
+            "entities": [
+                "her",
+                "Chris",
+                "one",
+                "Selena",
+                "California",
+                "Maria",
+                "Joshua Tree",
+                "Chris Perez"
+            ],
             "content:encodedSnippet": "Maria heads to Joshua Tree, California for an intimate interview with Selena's widower, Chris Perez. Chris shares a side of Selena we rarely get to see, and Maria learns about how romantic love was one of the ways Selena charted her own path.",
             "guid": "5e0fa4be-e969-477d-a7b1-7c169578c5b1",
             "categories": ["Arts", "Music"],
@@ -120,6 +145,14 @@
                 "type": "audio/mpeg",
                 "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR2718189831.mp3"
             },
+            "entities": [
+                "Antonia Cereijido",
+                "Maria Garcia",
+                "Kristin Torres",
+                "host",
+                "Selena",
+                "WBUR Cityspace"
+            ],
             "content:encodedSnippet": "In this intimate Q&A, host Maria Garcia and producers Antonia Cereijido and Kristin Torres take listeners behind the scenes for a look at the making of Anything for Selena. This episode was recorded live during a virtual event with WBUR Cityspace.",
             "guid": "5c662d9c-43fa-498d-9b66-995589984a34",
             "categories": ["Arts", "Music"],
@@ -148,6 +181,7 @@
                 "type": "audio/mpeg",
                 "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR1334659067.mp3"
             },
+            "entities": ["Selena", "Maria", "La Reina"],
             "content:encodedSnippet": "En el final de la serie Anything for Selena, Maria reflexiona sobre lo que su año de análisis del legado de Selena revela sobre la humanidad de La Reina.",
             "guid": "b0c52a52-8650-4b8b-8cea-caa87b5cbcfe",
             "categories": ["Arts", "Music"],
@@ -176,6 +210,7 @@
                 "type": "audio/mpeg",
                 "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR7057436387.mp3"
             },
+            "entities": ["her", "Selena", "Maria", "La Reina"],
             "content:encodedSnippet": "In the series finale of Anything for Selena, Maria reflects on what her year-long examination into Selena\u2019s legacy reveals about La Reina\u2019s humanity.",
             "guid": "d5e232bc-50e0-426c-88b7-58f062ba61d3",
             "categories": ["Arts", "Music"],
@@ -204,6 +239,7 @@
                 "type": "audio/mpeg",
                 "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4483217904.mp3"
             },
+            "entities": ["Netflix", "Selena", "Maria"],
             "content:encodedSnippet": "Tras el debut de la serie Selena en Netflix, algunos fans señalaron que la cantante había sido \"blanqueada\" en ese show. En este episodio, Maria analiza por qué la tez morena de Selena es parte crucial del legado de la reina del tex-mex y reflexiona sobre cómo su exploración de la raza de Selena la condujo a revelaciones acerca de su propia identidad.",
             "guid": "d14c7b3a-84d6-4e63-aec2-47b88b102661",
             "categories": ["Arts", "Music"],
@@ -232,6 +268,7 @@
                 "type": "audio/mpeg",
                 "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR7165850426.mp3"
             },
+            "entities": ["Netflix", "her", "Selena", "Maria"],
             "content:encodedSnippet": "After the premiere of Selena: The Series on Netflix, some fans claimed Selena had been \"whitewashed\" in the show.  In this episode, Maria analyzes why Selena's brownness is an essential part of her legacy and reflects on how the exploration of Selena's race led Maria to revelations about her own identity.",
             "guid": "fa8de7f7-693d-4454-94a8-d0aa069976fd",
             "categories": ["Arts", "Music"],
@@ -260,6 +297,7 @@
                 "type": "audio/mpeg",
                 "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9725789900.mp3"
             },
+            "entities": ["Instagram", "Selena", "Maria"],
             "content:encodedSnippet": "Un cuarto de siglo después de su muerte, Selena está arrasando en internet. En línea, la imagen y la música de Selena han adquirido nueva vida en redes sociales y plataformas que eran inimaginables cuando ella aún vivía. Sus seguidores de todas las edades han recurrido a Instagram, TikTok y YouTube para restaurar y presentar de nuevas formas la memoria de Selena. En este episodio, Maria explora cómo la internet se ha convertido en un lugar en el que los fans honran y recuerdan a Selena, y sobrellevan juntos el vacío que dejó.",
             "guid": "ed8049e5-b33c-4bba-bf05-917fdd3ddb98",
             "categories": ["Arts", "Music"],
@@ -288,6 +326,18 @@
                 "type": "audio/mpeg",
                 "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9545083114.mp3"
             },
+            "entities": [
+                "A",
+                "she",
+                "century",
+                "her",
+                "Youtube",
+                "Instagram",
+                "Selena",
+                "TikTok",
+                "Maria",
+                "quarter"
+            ],
             "content:encodedSnippet": "A quarter century after her death, Selena is breaking the internet. Online, Selena\u2019s image and music have taken on new life on social media and platforms that weren\u2019t even imaginable when she was still alive. Selena devotees of all ages have turned to Instagram, TikTok and Youtube to restore and remix Selena\u2019s memory. In this episode, Maria explores how the internet has become a place where fans celebrate and remember Selena, as well as grapple with the void she left behind.",
             "guid": "6ba5d653-f29c-4620-9c58-e9d8a9680f7f",
             "categories": ["Arts", "Music"],
@@ -316,6 +366,7 @@
                 "type": "audio/mpeg",
                 "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR1886653903.mp3"
             },
+            "entities": ["Maria"],
             "content:encodedSnippet": "Puede ser que Selena haya hecho una carrera cantando temas en español, pero no se crió hablando español en casa. Aprendió castellano a la vista del público, y los errores que cometió se convirtieron en algunos de sus momentos más famosos y entrañables. En este episodio, Maria explora por qué el spanglish de Selena parecía tan revolucionario para su época y, a la misma vez, tan familiar para sus fans, quienes también padecían con el idioma de sus padres o antepasados. Esta exploración nos lleva a un lugar inesperado.",
             "guid": "1e309ded-8adf-4133-92ac-8890c460224e",
             "categories": ["Arts", "Music"],
@@ -344,6 +395,17 @@
                 "type": "audio/mpeg",
                 "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR2569071854.mp3"
             },
+            "entities": [
+                "she",
+                "She",
+                "Selena Quintanilla",
+                "her",
+                "revolutionary",
+                "Spanish",
+                "Selena",
+                "Maria",
+                "Spanglish"
+            ],
             "content:encodedSnippet": "Selena Quintanilla may have built her career singing Spanish songs, but she didn\u2019t grow up speaking Spanish at home. She learned Spanish in the public eye, and her mistakes became some of her most famous and endearing moments. In this episode, Maria explores why Selena\u2019s Spanglish seemed so revolutionary for its time, and yet so familiar to many fans who also struggled with the language of their heritage. The exploration takes us to an unexpected place.",
             "guid": "d69823d0-0e1b-4ef4-857d-7da58b246b21",
             "categories": ["Arts", "Music"],
@@ -372,6 +434,15 @@
                 "type": "audio/mpeg",
                 "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR3565324049.mp3"
             },
+            "entities": [
+                "DJ",
+                "Texas",
+                "fue",
+                "1990",
+                "Sin",
+                "Estados Unidos",
+                "Incluso el New York Times"
+            ],
             "content:encodedSnippet": "Selena es usualmente descrita como la \"reina de la música tejana\". En la década de 1990, fue ella quien elevó este género del pueblo a niveles internacionales. Las ceremonias de premiación de la música tejana eran eventos glamorosos y los DJ de estaciones de radio dedicadas al género eran vistos como estrellas de rock en Texas y el resto del sudoeste de Estados Unidos. Incluso el New York Times lo catalogó \"el género latino de más rápido crecimiento del país\". Pero cuando Selena falleció, la música tejana pasó de la gloria a la decadencia. Sin embargo, la historia de su declive no es tan sencilla. Maria descubre que es una historia de inmigración, de dinero y de cómo dos grupos usualmente ignorados fueron enfrentados entre sí.",
             "guid": "6aca3472-a05d-4092-8eb8-36317768ee92",
             "categories": ["Arts", "Music"],
@@ -400,6 +471,20 @@
                 "type": "audio/mpeg",
                 "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR6985582793.mp3"
             },
+            "entities": [
+                "she",
+                "Tejano",
+                "Southwest",
+                "5",
+                "New York Times",
+                "Queen",
+                "Texas",
+                "Latino",
+                "Selena",
+                "Maria",
+                "two",
+                "the 1990s"
+            ],
             "content:encodedSnippet": "Episode 5. Selena is often called the \"Queen of Tejano music.\" In the 1990s, she brought this underdog genre to international heights. Tejano award shows were glitzy affairs and Tejano radio DJs were like rock stars in Texas and the Southwest. Even the New York Times called it the fastest-growing Latino genre in the country. But when Selena died, Tejano went from boom to bust. The story of Tejano's decline isn't so simple, though. Maria discovers that it's a story of immigration, money and how two often-ignored groups were pitted against each other.",
             "guid": "ca82b6c6-da16-4327-88c2-4fb2979a1a6d",
             "categories": ["Arts", "Music"],
@@ -428,6 +513,16 @@
                 "type": "audio/mpeg",
                 "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR1259253685.mp3"
             },
+            "entities": [
+                "En los noventa",
+                "Jen Selter",
+                "Mix-A-Lot",
+                "queen",
+                "Selena",
+                "JLO",
+                "Kim Kardashian",
+                "Ella"
+            ],
             "content:encodedSnippet": "En los noventa, \"Baby Got Back (I Like Big Butts)\" de Sir Mix-A-Lot debutó en la radio. Hoy, la obsesión con los traseros grandes se mantiene sólida gracias a ídolos como Cardi B y Beyoncé. También ha impregnado la cultura blanca con Kim Kardashian y \"belfie queen\" Jen Selter. María comparte su teoría sobre cómo los traseros pasaron de tabú a obsesión, y cómo involucra a Selena y JLO. Ella descubre que la política de los traseros es a fin de cuentas sobre raza, y nos conduce a una conversación postergada sobre la anti-negritud en la cultura latina.",
             "guid": "a7b6c763-4adf-4981-84d5-8c6af52490c8",
             "categories": ["Arts", "Music"],
@@ -456,6 +551,20 @@
                 "type": "audio/mpeg",
                 "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4911266661.mp3"
             },
+            "entities": [
+                "Jennifer Lopez",
+                "She",
+                "Today",
+                "Jen Selter",
+                "Cardi",
+                "queen",
+                "Beyonce",
+                "Latinx",
+                "Selena",
+                "Nearly 30 years ago",
+                "Maria",
+                "Kim Kardashian"
+            ],
             "content:encodedSnippet": "Nearly 30 years ago, Sir-Mix-A-Lot\u2019s \u201cBaby Got Back (I Like Big Butts)\u201d hit the airwaves to the delight and shock of listeners. Today, the obsession with big butts is still strong with idols like Cardi B and Beyonce. It has also permeated white culture, with Kim Kardashian \u201cbreaking the internet\u201d and butt selfie queen Jen Selter. Maria has a theory about how big butts went from taboo to obsession--and it involves Selena and Jennifer Lopez. She uncovers that booty politics is ultimately about race and brings us to a long overdue conversation about anti-blackness within the Latinx community.",
             "guid": "865275c0-c76e-4005-ad65-42bd9b39d14c",
             "categories": ["Arts", "Music"],
@@ -484,6 +593,7 @@
                 "type": "audio/mpeg",
                 "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9407001545.mp3"
             },
+            "entities": ["Selena", "Latinos"],
             "content:encodedSnippet": "En el transcurso de su vida, Selena se convirtió en un símbolo de esperanza. Se transformó en el modelo a seguir de cómo alcanzar la aceptación dentro del sueño americano para todos los Latinos. Pero la manifestación de una guerra cultural oculta luego de su muerte nos revela otra historia. En este episodio Maria le sigue la pista a las razones por las cuales Selena se convirtió en símbolo de solidaridad y resistencia mientras conversa con Curly Velasquez de Pero Like.",
             "guid": "0a7fb37f-783b-4829-9e16-c0b17f6ce590",
             "categories": ["Arts", "Music"],
@@ -512,6 +622,18 @@
                 "type": "audio/mpeg",
                 "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9778542368.mp3"
             },
+            "entities": [
+                "She",
+                "murder",
+                "her",
+                "American",
+                "war",
+                "Selena",
+                "model",
+                "Latinos",
+                "Maria",
+                "the 25 years"
+            ],
             "content:encodedSnippet": "In her life, Selena was a symbol of hope.  She became a role model for how Latinos could achieve the American dream and find acceptance. But a forgotten culture war following her death painted a different picture. In the 25 years since her murder, Selena\u2019s image has taken on new meaning. In this episode, Maria traces how Selena became a symbol for solidarity and resistance.",
             "guid": "ecd4ff28-0ce2-4127-ab2a-2c755b4b3ee5",
             "categories": ["Arts", "Music"],
@@ -540,6 +662,12 @@
                 "type": "audio/mpeg",
                 "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR5236689470.mp3"
             },
+            "entities": [
+                "de Selena",
+                "Yesika Salgado",
+                "María",
+                "Abraham Quintanilla"
+            ],
             "content:encodedSnippet": "María sabe que para entender verdaderamente a Selena no solo como un ícono, sino también como persona, necesita ir a Corpus Christi. Su búsqueda la lleva hasta Abraham Quintanilla, el padre de Selena. En este episodio, María repasa el legado complicado de Abraham y conversa con la autora Yesika Salgado, con quien reflexiona sobre la relación padre e hija en las familias latinas.",
             "guid": "665190f1-cdc0-4c28-91c8-ecf656117c58",
             "categories": ["Arts", "Music"],
@@ -568,6 +696,16 @@
                 "type": "audio/mpeg",
                 "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR8722982531.mp3"
             },
+            "entities": [
+                "she",
+                "his",
+                "Selena Quintanilla",
+                "her",
+                "Latinx",
+                "Selena",
+                "Maria",
+                "Abraham Quintanilla"
+            ],
             "content:encodedSnippet": "Maria knows that to truly understand Selena as a person and not just an icon, she needs to go to Corpus Christi. Maria\u2019s quest takes her to Abraham Quintanilla, Selena Quintanilla\u2019s notoriously guarded father. Maria confronts his complicated legacy and reflects on fatherhood in Latinx cultures.",
             "guid": "f97a8e3b-b1bf-44cd-a19d-406cad140329",
             "categories": ["Arts", "Music"],
@@ -596,6 +734,13 @@
                 "type": "audio/mpeg",
                 "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR8711233522.mp3"
             },
+            "entities": [
+                "México",
+                "Selena",
+                "Estados Unidos",
+                "María Hinojosa",
+                "María García"
+            ],
             "content:encodedSnippet": "Durante su niñez, mientras crecía en una ciudad en la frontera entre Estados Unidos y México, María García se sintió dividida entre dos identidades: la mexicana y la estadounidense. Pero algo cambió su vida. Descubrió a Selena, quien le enseñó que no tenía que elegir entre ser una u otra persona. En el episodio de estreno de \u201cAnything for Selena\u201d, la conductora María García recibe a una invitada muy especial: María Hinojosa, y explora cómo Selena la ayudó a encontrar su propio lugar en el mundo.",
             "guid": "a316d190-5f54-4636-b175-01f6e9a4b6e9",
             "categories": ["Arts", "Music"],
@@ -624,6 +769,21 @@
                 "type": "audio/mpeg",
                 "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR5015104368.mp3"
             },
+            "entities": [
+                "Mexican",
+                "American",
+                "Selena Quintanilla",
+                "Maria Garcia",
+                "two",
+                "She",
+                "she",
+                "her",
+                "host",
+                "Selena",
+                "US-Mexico",
+                "Mexican-American",
+                "Maria"
+            ],
             "content:encodedSnippet": "Growing up along the US-Mexico border, Maria Garcia felt torn between her two identities as Mexican and American. But then, something changed her life. She discovered Selena Quintanilla\u2014 the Mexican-American pop icon who proved she didn\u2019t have to choose. In the premiere episode of \u201cAnything for Selena,\u201d host Maria Garcia explores how Selena helped Maria find her own place in the world.",
             "guid": "db0d9a0c-6e83-4126-b5c4-f8f3f9e3ce68",
             "categories": ["Arts", "Music"],
@@ -651,6 +811,18 @@
                 "type": "audio/mpeg",
                 "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4689796143.mp3"
             },
+            "entities": [
+                "Twenty five years later",
+                "U.S.-Mexico",
+                "9 years old",
+                "Maria Garcia",
+                "America",
+                "January 2021",
+                "now",
+                "Selena",
+                "First",
+                "Maria"
+            ],
             "content:encodedSnippet": "Maria Garcia was 9 years old and living on the U.S.-Mexico border when Selena was murdered. Twenty five years later, Maria is on a quest to understand what it means to love, mourn and celebrate Selena. In this intimate, sometimes wrenching, cathartic journey, Maria explores what Selena\u2019s legacy shows us about belonging in America -- and Maria\u2019s own place in the world. \n\r\n\r\nFirst episode coming in January 2021. Subscribe now so you don't miss it!",
             "guid": "a409f92c-5bf7-4824-b043-b6a723cd9f22",
             "categories": ["Arts", "Music"],

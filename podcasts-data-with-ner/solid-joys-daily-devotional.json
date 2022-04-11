@@ -63,6 +63,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8802560/14474538.mp3"
             },
+            "entities": [],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8802559/talk-to-god-not-just-about-him",
             "guid": "desiringgod.org-resource-10097/2022",
@@ -88,6 +89,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8792287/14474523.mp3"
             },
+            "entities": ["Calvary", "Jesus", "Satan", "Christ"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8792286/make-satan-know-his-defeat",
             "guid": "desiringgod.org-resource-10101/2022",
@@ -113,6 +115,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8783450/14425475.mp3"
             },
+            "entities": [],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8783449/what-it-means-to-pray-for-your-enemy",
             "guid": "desiringgod.org-resource-10136/2022",
@@ -138,6 +141,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8774104/14425443.mp3"
             },
+            "entities": ["his", "Jesus", "King", "he"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8774103/two-ways-to-remember-jesus",
             "guid": "desiringgod.org-resource-10130/2022",
@@ -163,6 +167,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8763974/14425429.mp3"
             },
+            "entities": ["Christ"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8763973/the-books-at-the-judgment",
             "guid": "desiringgod.org-resource-10098/2022",
@@ -188,6 +193,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8754476/14425396.mp3"
             },
+            "entities": ["he"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8754475/god-strengthens-us-through-others",
             "guid": "desiringgod.org-resource-10114/2022",
@@ -213,6 +219,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8744818/14425357.mp3"
             },
+            "entities": [],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8744817/how-to-respond-when-you-falter",
             "guid": "desiringgod.org-resource-10132/2022",
@@ -238,6 +245,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8735260/14425323.mp3"
             },
+            "entities": ["8:28", "Romans", "Mount Everest"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8735259/better-than-everest",
             "guid": "desiringgod.org-resource-10344/2022",
@@ -263,6 +271,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8726580/14425288.mp3"
             },
+            "entities": [],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8726579/two-of-our-deepest-needs",
             "guid": "desiringgod.org-resource-10113/2022",
@@ -288,6 +297,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8717331/14376478.mp3"
             },
+            "entities": ["one"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8717330/what-binds-the-hands-of-love",
             "guid": "desiringgod.org-resource-10119/2022",
@@ -313,6 +323,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8708056/14376469.mp3"
             },
+            "entities": ["him"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/11203489/if-he-calls-he-keeps",
             "guid": "desiringgod.org-resource-10374/2022",
@@ -338,6 +349,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8698667/14376460.mp3"
             },
+            "entities": ["Christ"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/11199091/as-sure-as-gods-love-for-his-son",
             "guid": "desiringgod.org-resource-10340/2022",
@@ -363,6 +375,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8688827/14376447.mp3"
             },
+            "entities": [],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/14381099/when-everyone-deserts-you",
             "guid": "desiringgod.org-resource-10339/2022",
@@ -388,6 +401,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8678582/14376435.mp3"
             },
+            "entities": ["one"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/14379882/10-results-of-the-resurrection",
             "guid": "desiringgod.org-resource-10405/2022",
@@ -413,6 +427,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8668370/14376431.mp3"
             },
+            "entities": ["Christianity"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/11187502/how-to-delight-in-gods-word",
             "guid": "desiringgod.org-resource-10125/2022",
@@ -438,6 +453,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8659521/14376416.mp3"
             },
+            "entities": ["his", "Jesus"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8659520/forever-satisfied",
             "guid": "desiringgod.org-resource-10404/2022",
@@ -463,6 +479,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8650762/14309328.mp3"
             },
+            "entities": [],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8650761/ministry-and-the-fear-of-man",
             "guid": "desiringgod.org-resource-10112/2022",
@@ -488,6 +505,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8641234/14309214.mp3"
             },
+            "entities": [],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8641233/ignorance-guarantees-ungodliness",
             "guid": "desiringgod.org-resource-10336/2022",
@@ -513,6 +531,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8631270/14309119.mp3"
             },
+            "entities": [],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/11176244/satans-candy-store",
             "guid": "desiringgod.org-resource-10335/2022",
@@ -538,6 +557,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8621376/14309103.mp3"
             },
+            "entities": ["future"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/11172614/gods-best-promise",
             "guid": "desiringgod.org-resource-10398/2022",
@@ -563,6 +583,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8611039/14308982.mp3"
             },
+            "entities": ["Christ"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8611038/jesus-died-for-this-moment",
             "guid": "desiringgod.org-resource-10509/2022",
@@ -588,6 +609,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8603636/14304796.mp3"
             },
+            "entities": ["Christ"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8603635/a-six-point-summary-of-the-gospel",
             "guid": "desiringgod.org-resource-10334/2022",
@@ -613,6 +635,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8594568/14304782.mp3"
             },
+            "entities": ["his", "Jesus"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8594567/why-we-must-hold-fast-our-hope",
             "guid": "desiringgod.org-resource-10111/2022",
@@ -638,6 +661,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8582987/14304774.mp3"
             },
+            "entities": ["his", "future", "Christ"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/11160815/prayers-exclamation-point",
             "guid": "desiringgod.org-resource-10304/2022",
@@ -663,6 +687,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8571570/14271429.mp3"
             },
+            "entities": ["the future", "he", "He"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8571569/jesus-will-finish-the-mission",
             "guid": "desiringgod.org-resource-10506/2022",
@@ -688,6 +713,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8562490/14271358.mp3"
             },
+            "entities": ["he", "him"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8562489/subversive-for-the-savior",
             "guid": "desiringgod.org-resource-10284/2022",
@@ -713,6 +739,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8550870/14271340.mp3"
             },
+            "entities": ["he", "him", "He"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8550869/the-triumph-is-sure",
             "guid": "desiringgod.org-resource-10096/2022",
@@ -738,6 +765,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8537008/14271112.mp3"
             },
+            "entities": ["the future", "Christ"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/11150488/jesus-is-gods-amen",
             "guid": "desiringgod.org-resource-10505/2022",
@@ -763,6 +791,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8527373/14242846.mp3"
             },
+            "entities": ["he"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8527372/when-the-potter-is-for-us",
             "guid": "desiringgod.org-resource-10267/2022",
@@ -788,6 +817,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8518365/14242836.mp3"
             },
+            "entities": [],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8518364/two-infinitely-strong-and-tender-truths",
             "guid": "desiringgod.org-resource-10264/2022",
@@ -813,6 +843,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8509231/14242826.mp3"
             },
+            "entities": [],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8509230/let-us-adore-the-lamb",
             "guid": "desiringgod.org-resource-10263/2022",
@@ -838,6 +869,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8500110/14159869.mp3"
             },
+            "entities": [],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8500109/god-cares-for-you",
             "guid": "desiringgod.org-resource-10225/2022",
@@ -863,6 +895,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8490655/14159859.mp3"
             },
+            "entities": [],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8490654/open-the-windows-of-your-heart",
             "guid": "desiringgod.org-resource-10198/2022",
@@ -888,6 +921,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8480984/14159849.mp3"
             },
+            "entities": ["night", "day"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8480983/how-can-i-be-filled-with-the-spirit",
             "guid": "desiringgod.org-resource-10122/2022",
@@ -913,6 +947,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8470572/14159842.mp3"
             },
+            "entities": ["He"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8470571/god-regards-the-lowly",
             "guid": "desiringgod.org-resource-10185/2022",
@@ -938,6 +973,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8461199/14159838.mp3"
             },
+            "entities": ["His", "Jesus"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8461198/look-to-jesus-for-your-joy",
             "guid": "desiringgod.org-resource-10183/2022",
@@ -963,6 +999,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8451214/14159830.mp3"
             },
+            "entities": ["his", "him"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8451213/god-rejoices-to-do-you-good",
             "guid": "desiringgod.org-resource-10177/2022",
@@ -988,6 +1025,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8442611/14159820.mp3"
             },
+            "entities": [],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8442610/god-works-through-good-resolves",
             "guid": "desiringgod.org-resource-10104/2022",
@@ -1013,6 +1051,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8433787/14159776.mp3"
             },
+            "entities": [],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8433786/arm-yourself-with-promises",
             "guid": "desiringgod.org-resource-10164/2022",
@@ -1038,6 +1077,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8423455/14159738.mp3"
             },
+            "entities": ["Pilate", "Jesus"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8423454/where-our-comfort-comes-from",
             "guid": "desiringgod.org-resource-10160/2022",
@@ -1063,6 +1103,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8413412/14092641.mp3"
             },
+            "entities": [],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8413411/finally-and-totally-justified",
             "guid": "desiringgod.org-resource-10099/2022",
@@ -1088,6 +1129,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8402564/14092600.mp3"
             },
+            "entities": ["His", "Paul"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8402563/radical-effects-of-the-resurrection--2",
             "guid": "desiringgod.org-resource-10128/2022",
@@ -1113,6 +1155,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8391806/14092527.mp3"
             },
+            "entities": ["100%", "once", "now", "he", "He"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8391805/when-god-becomes-100-for-us",
             "guid": "desiringgod.org-resource-10118/2022",
@@ -1138,6 +1181,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8382220/14092454.mp3"
             },
+            "entities": ["Jesus"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8382219/you-are-greatly-loved--2",
             "guid": "desiringgod.org-resource-10376/2022",
@@ -1163,6 +1207,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8373314/14092385.mp3"
             },
+            "entities": [],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8373313/god-opens-the-heart",
             "guid": "desiringgod.org-resource-10461/2022",
@@ -1188,6 +1233,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8363834/14092337.mp3"
             },
+            "entities": ["hour", "Christ"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8363833/the-hour-of-unusual-threat",
             "guid": "desiringgod.org-resource-10460/2022",
@@ -1213,6 +1259,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8354359/14092285.mp3"
             },
+            "entities": ["Jesus Christ"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8354358/enjoying-his-fullness",
             "guid": "desiringgod.org-resource-10379/2022",
@@ -1238,6 +1285,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8341788/14092247.mp3"
             },
+            "entities": ["Jesus Christ", "him"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8341787/our-servant-jesus",
             "guid": "desiringgod.org-resource-10347/2022",
@@ -1263,6 +1311,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8334555/14004201.mp3"
             },
+            "entities": ["Jesus", "now", "he", "him"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8329567/amazed-at-the-resurrection",
             "guid": "desiringgod.org-resource-10458/2022",
@@ -1288,6 +1337,7 @@
                 "type": "audio/mpeg",
                 "url": "https://feed.desiringgod.org/link/18331/8334556/14004033.mp3"
             },
+            "entities": ["forty"],
             "dc:creator": "John Piper",
             "link": "https://feed.desiringgod.org/link/18331/8319853/the-kind-of-cold-that-kills",
             "guid": "desiringgod.org-resource-10457/2022",

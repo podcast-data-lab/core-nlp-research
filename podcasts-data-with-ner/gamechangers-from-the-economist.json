@@ -43,6 +43,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/gamechangers/gamechangers-reinventingthewheel/media.mp3"
             },
+            "entities": ["Economist", "Tom Standage", "first", "the 1990s"],
             "link": "https://play.acast.com/s/gamechangers/gamechangers-reinventingthewheel",
             "guid": "9868cfd5-d7de-45e6-aaed-014ca7ca1c66",
             "isoDate": "2021-11-08T16:30:00.000Z",
@@ -65,6 +66,21 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/gamechangers/gamechangers-mobilemoney/media.mp3"
             },
+            "entities": [
+                "<a href=\"https://www.economist.com/finance-and-economics/2010/06/10/out-of-thin-air?utm_campaign=gamechangers&amp;utm_medium=podcast&amp;utm_source=third-party-host&amp;utm_content=show-notes\" rel=\"noopener noreferrer\" target=\"_blank\">",
+                "Africa",
+                "<a href=\"https://www.economist.com/middle-east-and-africa/2020/05/28/the-covid-19-crisis-is-boosting-mobile-money?utm_campaign=gamechangers&amp;utm_medium=podcast&amp;utm_source=third-party-host&amp;utm_content=show-notes\" rel=\"noopener noreferrer\" target=\"_blank\">",
+                "Tom Standage",
+                "Kenya",
+                "Mobile",
+                "Western",
+                "<a href=\"https://www.economist.com/the-economist-explains/2015/03/02/why-does-kenya-lead-the-world-in-mobile-money?utm_campaign=gamechangers&amp;utm_medium=podcast&amp;utm_source=third-party-host&amp;utm_content=show-notes\" rel=\"noopener noreferrer\" target=\"_blank\">",
+                "Economist",
+                "2007",
+                "more than a decade",
+                "first",
+                "<a href=\"https://www.economist.com/special-report/2021/05/06/how-fintech-will-eat-into-banks-business?utm_campaign=gamechangers&amp;utm_medium=podcast&amp;utm_source=third-party-host&amp;utm_content=show-notes\" rel=\"noopener noreferrer\" target=\"_blank\">"
+            ],
             "link": "https://play.acast.com/s/gamechangers/gamechangers-mobilemoney",
             "guid": "f40a12a8-9a1b-43be-8566-a203e3c4acbc",
             "isoDate": "2021-11-02T23:30:11.000Z",
@@ -87,6 +103,14 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/gamechangers/gamechangers-thinkinginsidethebox/media.mp3"
             },
+            "entities": [
+                "Economist",
+                "Tom Standage",
+                "Host",
+                "<a href=\"https://www.economist.com/the-economist-explains/2013/05/21/why-have-containers-boosted-trade-so-much\" rel=\"noopener noreferrer\" target=\"_blank\">",
+                "<a href=\"https://www.economist.com/finance-and-economics/2021/09/12/a-perfect-storm-for-container-shipping\" rel=\"noopener noreferrer\" target=\"_blank\">",
+                "He"
+            ],
             "link": "https://play.acast.com/s/gamechangers/gamechangers-thinkinginsidethebox",
             "guid": "3bc5a659-72d6-4521-8d03-5f363bbaea20",
             "isoDate": "2021-09-13T15:30:00.000Z",
@@ -109,6 +133,11 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/gamechangers/gamechangers-morethanjustagame/media.mp3"
             },
+            "entities": [
+                "<a href=\"https://www.economist.com/business/2021/08/01/will-nvidias-huge-bet-on-artificial-intelligence-chips-pay-off\" rel=\"noopener noreferrer\" target=\"_blank\">",
+                "Tom Standage",
+                "Host"
+            ],
             "link": "https://play.acast.com/s/gamechangers/gamechangers-morethanjustagame",
             "guid": "296c16c1-ce22-4283-8422-3ade6df4ee2d",
             "isoDate": "2021-08-16T15:30:00.000Z",
@@ -131,6 +160,18 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/gamechangers/gamechangers-dontshootthemessenger/media.mp3"
             },
+            "entities": [
+                "Pfizer-BioNTech",
+                "Economist",
+                "a few months",
+                "future",
+                "Moderna",
+                "Tom Standage",
+                "decades",
+                "<a href=\"https://www.economist.com/briefing/2021/03/27/covid-19-vaccines-have-alerted-the-world-to-the-power-of-rna-therapies\" rel=\"noopener noreferrer\" target=\"_blank\">",
+                "Messenger",
+                "www.economist.com/podcastoffer"
+            ],
             "link": "https://play.acast.com/s/gamechangers/gamechangers-dontshootthemessenger",
             "guid": "796f97e7-9a89-40a7-826e-5927b3a30094",
             "isoDate": "2021-07-19T15:32:16.000Z",
@@ -153,6 +194,17 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/gamechangers/gamechangers-thebatterythatpowerstheworld/media.mp3"
             },
+            "entities": [
+                "Economist",
+                "Nobel",
+                "monthly",
+                "Tesla",
+                "Tom Standage",
+                "battery",
+                "<a href=\"https://www.economist.com/graphic-detail/2021/03/31/lithium-battery-costs-have-fallen-by-98-in-three-decades\" rel=\"noopener noreferrer\" target=\"_blank\">",
+                "www.economist.com/podcastoffer",
+                "co-founder"
+            ],
             "link": "https://play.acast.com/s/gamechangers/gamechangers-thebatterythatpowerstheworld",
             "guid": "686561a7-b17e-4695-8c27-3a35914f7251",
             "isoDate": "2021-06-21T15:30:24.000Z",
@@ -175,6 +227,7 @@
                 "type": "audio/mpeg",
                 "url": "https://sphinx.acast.com/gamechangers/gamechangers-trailer/media.mp3"
             },
+            "entities": ["overnight", "six", "one", "monthly", "decades"],
             "link": "https://play.acast.com/s/gamechangers/gamechangers-trailer",
             "guid": "131ad30f-b6b3-4c6e-8a0a-80269c6d0d3b",
             "isoDate": "2021-06-16T23:00:30.000Z",
