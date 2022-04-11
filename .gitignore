@@ -1,0 +1,6 @@
+*.zip
+temp
+*.class
+node_modules
+*.idea
+*.DS_Store

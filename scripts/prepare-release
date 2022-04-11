@@ -1,0 +1,10 @@
+#!/bin/bash
+
+mkdir dist
+mkdir dist/.github
+mkdir dist/.github/workflows
+
+cp .github/workflows/release.yml dist/.github/workflows/release.yml
+cp -r temp/podcast-data-ner-output dist/podcasts-data-with-ner
+cp LICENSE dist/LICENSE
+cp docs/Readme.md dist/Readme.md

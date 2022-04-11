@@ -1,0 +1,29 @@
+#!/bin/bash
+
+# Set up temporary working directory
+rm -rf temp
+mkdir temp
+
+mkdir temp/podcast-data-ner-output
+
+# Get the latest files from podcast data generator
+ORG_NAME=lbugasu
+REPO_NAME=podcast-data-generator
+LATEST_VERSION=$(curl -s https://api.github.com/repos/${ORG_NAME}/${REPO_NAME}/releases/latest | grep "tag_name" | cut -d'v' -f2 | cut -d'"' -f1)
+
+wget -P temp "https://github.com/lbugasu/podcast-data-generator/archive/refs/tags/v${LATEST_VERSION}.zip"
+unzip "temp/v${LATEST_VERSION}.zip" -d temp
+
+# # Download and unzip the latest version of the Stanford CoreNLP
+wget -P temp "https://nlp.stanford.edu/software/stanford-corenlp-latest.zip"
+unzip temp/stanford-corenlp-latest.zip -d temp
+wget "https://search.maven.org/remotecontent?filepath=edu/stanford/nlp/stanford-corenlp/4.4.0/stanford-corenlp-4.4.0-models-english.jar" -O temp/stanford-corenlp-4.4.0/stanford-corenlp-4.4.0-models-english.jar
+
+# org.json jar 
+wget -P temp/stanford-corenlp-4.4.0 "https://repo1.maven.org/maven2/org/json/json/20220320/json-20220320.jar"
+# SimpleJSON
+# wget -P temp/stanford-corenlp-4.4.0 "https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/json-simple/json-simple-1.1.1.jar"
+
+cd temp/stanford-corenlp-4.4.0
+for file in `find . -name "*.jar"`; do export
+CLASSPATH="$CLASSPATH:`realpath $file`"; done

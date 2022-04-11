@@ -1,0 +1,39 @@
+name: build
+on:
+  push:
+    branches:
+      - main
+
+permissions: write-all
+
+jobs:
+  generate-ner:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [14.x]
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2.3.1
+      - name: Use Node v14
+        uses: actions/setup-node@v2
+        with:
+          node-version: "14"
+      - name: Setup
+        run: |
+          chmod +x ./scripts/setup
+          ./scripts/setup
+      - name: generate named entities
+        run: javac nerWork/PodcastNER.java &&  java nerWork.PodcastNER
+      - name: Prepare release
+        run: |
+          chmod +x ./scripts/prepare-release
+          ./scripts/prepare-release
+      - name: 'Deploy 💾'
+        if: steps.verify-changed-files.outputs.files_changed == 'true'
+        uses: s0/git-publish-subdir-action@develop
+        env:
+          REPO: self
+          BRANCH: release
+          FOLDER: dist
+          GITHUB_TOKEN: ${{ secrets.PODCAST_DATA_LAB }}
