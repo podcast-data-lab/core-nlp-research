@@ -27,3 +27,4 @@ wget -P temp/stanford-corenlp-4.4.0 "https://repo1.maven.org/maven2/org/json/jso
 cd temp/stanford-corenlp-4.4.0
 for file in `find . -name "*.jar"`; do export
 CLASSPATH="$CLASSPATH:`realpath $file`"; done
+cd ../..

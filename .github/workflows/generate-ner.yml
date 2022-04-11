@@ -30,7 +30,9 @@ jobs:
           ./scripts/setup
           npm install
       - name: generate named entities
-        run: javac nerWork/PodcastNER.java &&  java nerWork.PodcastNER
+        run: |
+          javac nerWork/PodcastNER.java 
+          java nerWork.PodcastNER
       - name: Prepare release
         run: |
           npm run prettify
